@@ -32,3 +32,12 @@ You are working inside the *Hebrew Bible Learning Site* project.
    `window.__chapterData = <the same JSON>;`
 
 Now generate: [PASTE BOOK/CHAPTER AND HEBREW TEXT HERE]
+
+
+## Semantic tagging layer
+- Add token-level `semantic: []` tags (controlled vocabulary) and verse-level `semantic_summary`.
+- Controlled tags (starter): FLORA, FAUNA, LOVE, MOTION, SPEECH, OATH, TIME, PLACE, WEATHER, FOOD, BODY, PERCEPTION, PRAISE, DAMAGE, AGRICULTURE, MUSIC, SYMBOL.
+
+## Output packaging
+- Provide a ZIP containing `books/<book_slug>/<NN>/data.json` and `data.js`.
+- If adding a new book, also include updated `bible_index.json` and `bible_index.js`.
