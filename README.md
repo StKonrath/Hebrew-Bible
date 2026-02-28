@@ -76,3 +76,91 @@ If validation fails, the script prints the file and the schema error.
 - Protects renderer automation (title, breadcrumbs, SEO)
 
 Always validate before committing new chapters.
+
+
+---
+
+## 🧰 Tools (Scripts)
+
+All automation helpers live in `tools/`. They keep manual work minimal and enforce Spec consistency.
+
+### ⭐ Recommended: `tools/add_chapter_bundle.py`
+**One-command chapter installer.** Use this whenever you have a new chapter `data.json` (from ChatGPT or any pipeline) and want it fully integrated.
+
+It will:
+- normalize the JSON to Spec v1.3 (best-effort)
+- create `books/<book_slug>/<NN or NNN>/`
+- copy a chapter `index.html` renderer template into the folder
+- write `data.json`
+- generate `data.js`
+- update `bible_index.json` / `bible_index.js` (optional)
+- validate against `schema/chapter.schema.json`
+
+Example:
+```bash
+pip install jsonschema
+python3 tools/add_chapter_bundle.py --in /path/to/data.json
+```
+
+Override book/chapter if needed:
+```bash
+python3 tools/add_chapter_bundle.py --book psalms --chapter 140 --in /path/to/data.json
+```
+
+### `tools/validate_chapter.py`
+Validate chapter JSON against the schema.
+
+- Validate one:
+```bash
+python3 tools/validate_chapter.py books/song-of-songs/02/data.json
+```
+- Validate all:
+```bash
+python3 tools/validate_chapter.py --all
+```
+
+### `tools/make_data_js.py`
+Generate `data.js` from `data.json` (file:// friendly wrapper).
+```bash
+python3 tools/make_data_js.py books/song-of-songs/02/data.json
+```
+
+### `tools/update_index.py`
+Add/update a book entry in `bible_index.json` and regenerate `bible_index.js`.
+```bash
+python3 tools/update_index.py psalms "Psalms" 150 --order 19 --testament OT
+```
+
+### `tools/scaffold_book.py`
+Create a book TOC page (`books/<slug>/index.html`) and (optionally) chapter folders.
+```bash
+python3 tools/scaffold_book.py psalms "Psalms" 150
+```
+
+### `tools/add_chapter_from_text.py`
+Create a minimal chapter scaffold from a plain text verse list (Hebrew only). Produces starter `data.json` + `data.js`.
+```bash
+python3 tools/add_chapter_from_text.py input.txt
+```
+
+### `tools/normalize_legacy_chapter.py`
+Convert legacy/ad-hoc chapter JSON into Spec-compatible structure (best-effort). Useful when importing external formats.
+```bash
+python3 tools/normalize_legacy_chapter.py legacy.json --out books/psalms/139/data.json
+```
+
+---
+
+
+### `tools/backfill_semantics.py`
+Backfill required semantic fields for Spec v1.3 so older chapters pass validation (adds `semantic_summary: []` to verses and `semantic: []` to tokens when missing).
+```bash
+python3 tools/backfill_semantics.py books/song-of-songs/01/data.json
+python3 tools/backfill_semantics.py --all
+```
+
+### `tools/backfill_required_fields.py`
+Upgrade older chapter JSONs to meet Spec v1.3 top-level required fields (spec_version, tagset, ref_system, generated_at, etc.).
+```bash
+python3 tools/backfill_required_fields.py --all
+```

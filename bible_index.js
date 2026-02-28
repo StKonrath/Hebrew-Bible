@@ -11,7 +11,7 @@ window.BIBLE_INDEX = {
     {
       "name": "Song of Songs",
       "slug": "song-of-songs",
-      "chapters": 8,
+      "chapters": 5,
       "abbr": "Song"
     }
   ],

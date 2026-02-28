@@ -3,14 +3,10 @@
     "name": "Hebrew Bible Learning Site",
     "version": "1.2"
   },
-  "book": {
-    "name": "Song of Songs",
-    "slug": "song-of-songs"
-  },
+  "book": "Song of Songs",
   "chapter": 4,
   "verses": [
     {
-      "n": 1,
       "he": "הִנָּ֨ךְ יָפָ֤ה רַעְיָתִי֙ הִנָּ֣ךְ יָפָ֔ה עֵינַ֣יִךְ יוֹנִ֔ים מִבַּ֖עַד לְצַמָּתֵ֑ךְ שַׂעְרֵךְ֙ כְּעֵ֣דֶר הָֽעִזִּ֔ים שֶׁגָּלְשׁ֖וּ מֵהַ֥ר גִּלְעָֽד׃",
       "en": "Behold, you are beautiful, my love; behold, you are beautiful—your eyes are doves behind your veil. Your hair is like a flock of goats streaming down from Mount Gilead.",
       "tr": "hinā֨kə yāpā֤h raʿəyātiy֙ hinā֣kə yāpā֔h ʿēyna֣yikə ywōni֔ym miba֖ʿad ləṣamātē֑kə šaʿərēkə֙ kəʿē֣der hāʿizi֔ym šegāləš֖w mēha֥r giləʿād.",
@@ -224,10 +220,10 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "ref": "4:1"
     },
     {
-      "n": 2,
       "he": "שִׁנַּ֨יִךְ֙ כְּעֵ֣דֶר הַקְּצוּב֔וֹת שֶׁעָל֖וּ מִן־הָרַחְצָ֑ה שֶׁכֻּלָּם֙ מַתְאִימ֔וֹת וְשַׁכֻּלָ֖ה אֵ֥ין בָּהֶֽם׃",
       "en": "Your teeth are like a flock of shorn ewes that have come up from washing, all of them matched, and none among them is bereaved.",
       "tr": "šina֨yikə֙ kəʿē֣der haqəṣwb֔wōt šeʿāl֖w min-hāraḥəṣā֑h šekulām֙ matəʾiym֔wōt wəšakulā֖h ʾē֥yn bāhem.",
@@ -381,10 +377,10 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "ref": "4:2"
     },
     {
-      "n": 3,
       "he": "כְּח֤וּט הַשָּׁנִי֙ שִׂפְתֹתַ֔יִךְ וּמִדְבָּרֵ֖יךְ נָאוֶ֑ה כְּפֶ֤לַח הָֽרִמּוֹן֙ רַקָּתֵ֔ךְ מִבַּ֖עַד לְצַמָּתֵֽךְ׃",
       "en": "Your lips are like a scarlet thread, and your speech is lovely. Like a slice of pomegranate is your temple behind your veil.",
       "tr": "kəḥ֤wṭ hašāniy֙ šipətōta֔yikə wmidəbārē֖ykə nāʾwe֑h kəpe֤laḥ hārimwōn֙ raqātē֔kə miba֖ʿad ləṣamātēkə.",
@@ -527,10 +523,10 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "ref": "4:3"
     },
     {
-      "n": 4,
       "he": "כְּמִגְדַּ֤ל דָּוִיד֙ צַוָּארֵ֔ךְ בָּנ֖וּי לְתַלְפִּיּ֑וֹת אֶ֤לֶף הַמָּגֵן֙ תָּל֣וּי עָלָ֔יו כֹּ֖ל שִׁלְטֵ֥י הַגִּבּוֹרִֽים׃",
       "en": "Your neck is like the tower of David, built for armories; a thousand shields hang on it—all the shields of warriors.",
       "tr": "kəmigəda֤l dāwiyd֙ ṣawāʾrē֔kə bān֖wy lətaləpiy֑wōt ʾe֤lep hamāgēn֙ tāl֣wy ʿālā֔yw kō֖l šiləṭē֥y hagibwōriym.",
@@ -702,10 +698,10 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "ref": "4:4"
     },
     {
-      "n": 5,
       "he": "שְׁנֵ֥י שָׁדַ֛יִךְ כִּשְׁנֵ֥י עֳפָרִ֖ים תְּאוֹמֵ֣י צְבִיָּ֑ה הָרוֹעִ֖ים בַּשּׁוֹשַׁנִּֽים׃",
       "en": "Your two breasts are like two fawns, twins of a gazelle, grazing among the lilies.",
       "tr": "šənē֥y šāda֛yikə kišənē֥y ʿŏpāri֖ym təʾwōmē֣y ṣəbiyā֑h hārwōʿi֖ym bašwōšaniym.",
@@ -827,10 +823,10 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "ref": "4:5"
     },
     {
-      "n": 6,
       "he": "עַ֤ד שֶׁיָּפ֨וּחַ֙ הַיּ֔וֹם וְנָ֖סוּ הַצְּלָלִ֑ים אֵ֤לֶךְ לִי֙ אֶל־הַ֣ר הַמּ֔וֹר וְאֶל־גִּבְעַ֖ת הַלְּבוֹנָֽה׃",
       "en": "Until the day breathes and the shadows flee, I will go to the mountain of myrrh and to the hill of frankincense.",
       "tr": "ʿa֤d šeyāp֨wḥa֙ hay֔wōm wənā֖sw haṣəlāli֑ym ʾē֤lekə liy֙ ʾel-ha֣r ham֔wōr wəʾel-gibəʿa֖t haləbwōnāh.",
@@ -1012,10 +1008,10 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "ref": "4:6"
     },
     {
-      "n": 7,
       "he": "כֻּלָּ֤ךְ יָפָה֙ רַעְיָתִ֔י וּמ֖וּם אֵ֥ין בָּֽךְ׃",
       "en": "You are altogether beautiful, my love; there is no blemish in you.",
       "tr": "kulā֤kə yāpāh֙ raʿəyāti֔y wm֖wm ʾē֥yn bākə.",
@@ -1108,10 +1104,10 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "ref": "4:7"
     },
     {
-      "n": 8,
       "he": "אִתִּ֤י מִלְּבָנוֹן֙ כַּלָּ֔ה אִתִּ֖י מִלְּבָנ֣וֹן תָּב֑וֹאִי תָּשׁ֣וּרִי ׀ מֵרֹ֣אשׁ אֲמָנָ֗ה מֵרֹ֤אשׁ שְׂנִיר֙ וְחֶרְמ֔וֹן מִמְּעֹנ֣וֹת אֲרָי֔וֹת מֵֽהַרְרֵ֖י נְמֵרִֽים׃",
       "en": "Come with me from Lebanon, bride; come with me from Lebanon. Descend from the peak of Amana, from the peak of Senir and Hermon, from the dens of lions, from the mountains of leopards.",
       "tr": "ʾiti֤y miləbānwōn֙ kalā֔h ʾiti֖y miləbān֣wōn tāb֑wōʾiy tāš֣wriy | mērō֣ʾš ʾămānā֗h mērō֤ʾš šəniyr֙ wəḥerəm֔wōn miməʿōn֣wōt ʾărāy֔wōt mēharərē֖y nəmēriym.",
@@ -1336,10 +1332,10 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "ref": "4:8"
     },
     {
-      "n": 9,
       "he": "לִבַּבְתִּ֖נִי אֲחֹתִ֣י כַלָּ֑ה לִבַּבְתִּ֨ינִי֙ באחד מֵעֵינַ֔יִךְ בְּאַחַ֥ד עֲנָ֖ק מִצַּוְּרֹנָֽיִךְ׃",
       "en": "You have captivated my heart, my sister, my bride; you have captivated my heart with one glance of your eyes, with one bead of your necklace.",
       "tr": "libabəti֖niy ʾăḥōti֣y kalā֑h libabəti֨yniy֙ bʾḥd mēʿēyna֔yikə bəʾaḥa֥d ʿănā֖q miṣawərōnāyikə.",
@@ -1464,10 +1460,10 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "ref": "4:9"
     },
     {
-      "n": 10,
       "he": "מַה־יָּפ֥וּ דֹדַ֖יִךְ אֲחֹתִ֣י כַלָּ֑ה מַה־טֹּ֤בוּ דֹדַ֨יִךְ֙ מִיַּ֔יִן וְרֵ֥יחַ שְׁמָנַ֖יִךְ מִכָּל־בְּשָׂמִֽים׃",
       "en": "How beautiful is your love, my sister, my bride! How much better is your love than wine, and the fragrance of your oils than all spices.",
       "tr": "mah-yāp֥w dōda֖yikə ʾăḥōti֣y kalā֑h mah-ṭō֤bw dōda֨yikə֙ miya֔yin wərē֥yḥa šəmāna֖yikə mikāl-bəšāmiym.",
@@ -1646,10 +1642,10 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "ref": "4:10"
     },
     {
-      "n": 11,
       "he": "נֹ֛פֶת תִּטֹּ֥פְנָה שִׂפְתוֹתַ֖יִךְ כַּלָּ֑ה דְּבַ֤שׁ וְחָלָב֙ תַּ֣חַת לְשׁוֹנֵ֔ךְ וְרֵ֥יחַ שַׂלְמֹתַ֖יִךְ כְּרֵ֥יחַ לְבָנֽוֹן׃",
       "en": "Honeycomb drips from your lips, bride; honey and milk are under your tongue, and the fragrance of your garments is like the fragrance of Lebanon.",
       "tr": "nō֛pet tiṭō֥pənāh šipətwōta֖yikə kalā֑h dəba֤š wəḥālāb֙ ta֣ḥat ləšwōnē֔kə wərē֥yḥa šaləmōta֖yikə kərē֥yḥa ləbānwōn.",
@@ -1826,10 +1822,10 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "ref": "4:11"
     },
     {
-      "n": 12,
       "he": "גַּ֥ן נָע֖וּל אֲחֹתִ֣י כַלָּ֑ה גַּ֥ל נָע֖וּל מַעְיָ֥ן חָתֽוּם׃",
       "en": "A garden locked is my sister, my bride; a spring locked, a fountain sealed.",
       "tr": "ga֥n nāʿ֖wl ʾăḥōti֣y kalā֑h ga֥l nāʿ֖wl maʿəyā֥n ḥātwm.",
@@ -1947,10 +1943,10 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "ref": "4:12"
     },
     {
-      "n": 13,
       "he": "שְׁלָחַ֨יִךְ֙ פַּרְדֵּ֣ס רִמּוֹנִ֔ים עִ֖ם פְּרִ֣י מְגָדִ֑ים כְּפָרִ֖ים עִם־נְרָדִֽים׃",
       "en": "Your shoots are an orchard of pomegranates with choice fruits—henna with nard,",
       "tr": "šəlāḥa֨yikə֙ parədē֣s rimwōni֔ym ʿi֖m pəri֣y məgādi֑ym kəpāri֖ym ʿim-nərādiym.",
@@ -2080,10 +2076,10 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "ref": "4:13"
     },
     {
-      "n": 14,
       "he": "נֵ֣רְדְּ וְכַרְכֹּ֗ם קָנֶה֙ וְקִנָּמ֔וֹן עִ֖ם כָּל־עֲצֵ֣י לְבוֹנָ֑ה מֹ֚ר וַאֲהָל֔וֹת עִ֖ם כָּל־רָאשֵׁ֥י בְשָׂמִֽים׃",
       "en": "nard and saffron, calamus and cinnamon, with all trees of frankincense; myrrh and aloes, with all chief spices.",
       "tr": "nē֣rədə wəkarəkō֗m qāneh֙ wəqinām֔wōn ʿi֖m kāl-ʿăṣē֣y ləbwōnā֑h mō֚r waʾăhāl֔wōt ʿi֖m kāl-rāʾšē֥y bəšāmiym.",
@@ -2285,10 +2281,10 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "ref": "4:14"
     },
     {
-      "n": 15,
       "he": "מַעְיַ֣ן גַּנִּ֔ים בְּאֵ֖ר מַ֣יִם חַיִּ֑ים וְנֹזְלִ֖ים מִן־לְבָנֽוֹן׃",
       "en": "A garden fountain, a well of living waters, flowing down from Lebanon.",
       "tr": "maʿəya֣n gani֔ym bəʾē֖r ma֣yim ḥayi֑ym wənōzəli֖ym min-ləbānwōn.",
@@ -2407,10 +2403,10 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "ref": "4:15"
     },
     {
-      "n": 16,
       "he": "ע֤וּרִי צָפוֹן֙ וּב֣וֹאִי תֵימָ֔ן הָפִ֥יחִי גַנִּ֖י יִזְּל֣וּ בְשָׂמָ֑יו יָבֹ֤א דוֹדִי֙ לְגַנּ֔וֹ וְיֹאכַ֖ל פְּרִ֥י מְגָדָֽיו׃",
       "en": "Awake, north wind, and come, south; blow upon my garden—let its spices flow. Let my beloved come into his garden and eat its choice fruits.",
       "tr": "ʿ֤wriy ṣāpwōn֙ wb֣wōʾiy tēymā֔n hāpi֥yḥiy gani֖y yizəl֣w bəšāmā֑yw yābō֤ʾ dwōdiy֙ ləgan֔wō wəyōʾka֖l pəri֥y məgādāyw.",
@@ -2608,7 +2604,8 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "ref": "4:16"
     }
   ],
   "lexicon": [
@@ -2872,5 +2869,13 @@
       "a": "Exclusive, protected intimacy expressed through enclosure/spring imagery."
     }
   ],
-  "annotations": []
+  "annotations": [],
+  "spec_version": "1.3",
+  "tagset": {
+    "name": "ETCBC-like",
+    "version": "1.0"
+  },
+  "ref_system": "MT",
+  "generated_at": "2026-02-28",
+  "book_slug": "song-of-songs"
 }

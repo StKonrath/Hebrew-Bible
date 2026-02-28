@@ -3,14 +3,10 @@
     "name": "Hebrew Bible Learning Site",
     "version": "1.2"
   },
-  "book": {
-    "name": "Song of Songs",
-    "slug": "song-of-songs"
-  },
+  "book": "Song of Songs",
   "chapter": 3,
   "verses": [
     {
-      "n": 1,
       "he": "עַל־מִשְׁכָּבִי֙ בַּלֵּיל֔וֹת בִּקַּ֕שְׁתִּי אֵ֥ת שֶׁאָהֲבָ֖ה נַפְשִׁ֑י בִּקַּשְׁתִּ֖יו וְלֹ֥א מְצָאתִֽיו׃",
       "en": "On my bed at nights I sought him whom my soul loves; I sought him but did not find him.",
       "tr": "ʿal-mišəkābiy balēylwōt biqa֕šətiy ʾēt šeʾāhăbāh napəšiy biqašətiyw wəlōʾ məṣāʾtiyw.",
@@ -206,10 +202,10 @@
             "LOVE"
           ]
         }
-      ]
+      ],
+      "ref": "3:1"
     },
     {
-      "n": 2,
       "he": "אָק֨וּמָה נָּ֜א וַאֲסוֹבְבָ֣ה בָעִ֗יר בַּשְּׁוָקִים֙ וּבָ֣רְחֹב֔וֹת אֲבַקְשָׁ֕ה אֵ֥ת שֶׁאָהֲבָ֖ה נַפְשִׁ֑י בִּקַּשְׁתִּ֖יו וְלֹ֥א מְצָאתִֽיו׃",
       "en": "Let me rise now and go about the city, in the markets and in the streets; let me seek him whom my soul loves. I sought him but did not find him.",
       "tr": "ʾāqwmāh nāʾ waʾăswōbəbāh bāʿiyr bašəwāqiym wbārəḥōbwōt ʾăbaqəšā֕h ʾēt šeʾāhăbāh napəšiy biqašətiyw wəlōʾ məṣāʾtiyw.",
@@ -462,10 +458,10 @@
             "LOVE"
           ]
         }
-      ]
+      ],
+      "ref": "3:2"
     },
     {
-      "n": 3,
       "he": "מְצָא֨וּנִי֙ הַשֹּׁ֣מְרִ֔ים הַסֹּבְבִ֖ים בָּעִ֑יר אֵ֛ת שֶׁאָהֲבָ֥ה נַפְשִׁ֖י רְאִיתֶֽם׃",
       "en": "The watchmen who go about the city found me: “Have you seen him whom my soul loves?”",
       "tr": "məṣāʾwniy hašōməriym hasōbəbiym bāʿiyr ʾēt šeʾāhăbāh napəšiy rəʾiytem.",
@@ -631,10 +627,10 @@
             "SPEECH"
           ]
         }
-      ]
+      ],
+      "ref": "3:3"
     },
     {
-      "n": 4,
       "he": "כִּמְעַט֙ שֶׁעָבַ֣רְתִּי מֵהֶ֔ם עַ֣ד שֶֽׁמָּצָ֔אתִי אֵ֥ת שֶׁאָהֲבָ֖ה נַפְשִׁ֑י אֲחַזְתִּיו֙ וְלֹ֣א אַרְפֶּ֔נּוּ עַד־שֶׁ֤הֲבֵיאתִיו֙ אֶל־בֵּ֣ית אִמִּ֔י וְאֶל־חֶ֖דֶר הוֹרָתִֽי׃",
       "en": "Scarcely had I passed them when I found him whom my soul loves. I held him and would not let him go until I brought him into my mother’s house, into the chamber of her who conceived me.",
       "tr": "kiməʿaṭ šeʿābarətiy mēhem ʿad šemāṣāʾtiy ʾēt šeʾāhăbāh napəšiy ʾăḥazətiyw wəlōʾ ʾarəpenw ʿad-šehăbēyʾtiyw ʾel-bēyt ʾimiy wəʾel-ḥeder hwōrātiy.",
@@ -981,10 +977,10 @@
             "BODY"
           ]
         }
-      ]
+      ],
+      "ref": "3:4"
     },
     {
-      "n": 5,
       "he": "הִשְׁבַּ֨עְתִּי אֶתְכֶ֜ם בְּנ֤וֹת יְרוּשָׁלִַ֨ם֙ בִּצְבָא֔וֹת א֖וֹ בְּאַיְל֣וֹת הַשָּׂדֶ֑ה אִם־תָּעִ֧ירוּ ׀ וְאִם־תְּעוֹרְר֛וּ אֶת־הָאַהֲבָ֖ה עַ֥ד שֶׁתֶּחְפָּֽץ׃",
       "en": "I adjure you, daughters of Jerusalem, by the gazelles or by the does of the field: do not stir up or awaken love until it pleases.",
       "tr": "hišəbaʿətiy ʾetəkem bənwōt yərwšālaim biṣəbāʾwōt ʾwō bəʾayəlwōt hašādeh ʾim-tāʿiyrw | wəʾim-təʿwōrərw ʾet-hāʾahăbāh ʿad šeteḥəpāṣ.",
@@ -1274,10 +1270,10 @@
             "LOVE"
           ]
         }
-      ]
+      ],
+      "ref": "3:5"
     },
     {
-      "n": 6,
       "he": "מִ֣י זֹ֗את עֹלָה֙ מִן־הַמִּדְבָּ֔ר כְּתִֽימֲר֖וֹת עָשָׁ֑ן מְקֻטֶּ֤רֶת מוֹר֙ וּלְבוֹנָ֔ה מִכֹּ֖ל אַבְקַ֥ת רוֹכֵֽל׃",
       "en": "Who is this coming up from the wilderness like columns of smoke, perfumed with myrrh and frankincense, with all the powders of the merchant?",
       "tr": "miy zōʾt ʿōlāh min-hamidəbār kətiymărwōt ʿāšān məquṭeret mwōr wləbwōnāh mikōl ʾabəqat rwōkēl.",
@@ -1508,10 +1504,10 @@
             "PLACE"
           ]
         }
-      ]
+      ],
+      "ref": "3:6"
     },
     {
-      "n": 7,
       "he": "הִנֵּ֗ה מִטָּתוֹ֙ שֶׁלִּשְׁלֹמֹ֔ה שִׁשִּׁ֥ים גִּבֹּרִ֖ים סָבִ֣יב לָ֑הּ מִגִּבֹּרֵ֖י יִשְׂרָאֵֽל׃",
       "en": "Behold, it is Solomon’s couch, with sixty mighty men around it, of the mighty men of Israel.",
       "tr": "hinēh miṭātwō šelišəlōmōh šišiym gibōriym sābiyb lāh migibōrēy yišərāʾēl.",
@@ -1670,10 +1666,10 @@
             "PLACE"
           ]
         }
-      ]
+      ],
+      "ref": "3:7"
     },
     {
-      "n": 8,
       "he": "כֻּלָּם֙ אֲחֻ֣זֵי חֶ֔רֶב מְלֻמְּדֵ֖י מִלְחָמָ֑ה אִ֤ישׁ חַרְבּוֹ֙ עַל־יְרֵכ֔וֹ מִפַּ֖חַד בַּלֵּילּֽוֹת׃",
       "en": "All of them are skilled with the sword, trained in warfare—each with his sword on his thigh because of fear in the nights.",
       "tr": "kulām ʾăḥuzēy ḥereb məlumədēy miləḥāmāh ʾiyš ḥarəbwō ʿal-yərēkwō mipaḥad balēylwōt.",
@@ -1876,10 +1872,10 @@
             "TIME"
           ]
         }
-      ]
+      ],
+      "ref": "3:8"
     },
     {
-      "n": 9,
       "he": "אַפִּרְי֗וֹן עָ֤שָׂה לוֹ֙ הַמֶּ֣לֶךְ שְׁלֹמֹ֔ה מֵעֲצֵ֖י הַלְּבָנֽוֹן׃",
       "en": "King Solomon made for himself a palanquin from the wood of Lebanon.",
       "tr": "ʾapirəywōn ʿāšāh lwō hamelekə šəlōmōh mēʿăṣēy haləbānwōn.",
@@ -2010,10 +2006,10 @@
             "PLACE"
           ]
         }
-      ]
+      ],
+      "ref": "3:9"
     },
     {
-      "n": 10,
       "he": "עַמּוּדָיו֙ עָ֣שָׂה כֶ֔סֶף רְפִידָת֣וֹ זָהָ֔ב מֶרְכָּב֖וֹ אַרְגָּמָ֑ן תּוֹכוֹ֙ רָצ֣וּף אַהֲבָ֔ה מִבְּנ֖וֹת יְרוּשָׁלִָֽם׃",
       "en": "He made its pillars of silver, its back of gold, its seat of purple; its interior was inlaid with love by the daughters of Jerusalem.",
       "tr": "ʿamwdāyw ʿāšāh kesep rəpiydātwō zāhāb merəkābwō ʾarəgāmān twōkwō rāṣwp ʾahăbāh mibənwōt yərwšālāim.",
@@ -2239,10 +2235,10 @@
             "PLACE"
           ]
         }
-      ]
+      ],
+      "ref": "3:10"
     },
     {
-      "n": 11,
       "he": "צְאֶ֧ינָה ׀ וּרְאֶ֛ינָה בְּנ֥וֹת צִיּ֖וֹן בַּמֶּ֣לֶךְ שְׁלֹמֹ֑ה בָּעֲטָרָ֗ה שֶׁעִטְּרָה־לּ֤וֹ אִמּוֹ֙ בְּי֣וֹם חֲתֻנָּת֔וֹ וּבְי֖וֹם שִׂמְחַ֥ת לִבּֽוֹ׃",
       "en": "Go out and look, daughters of Zion, at King Solomon with the crown with which his mother crowned him on the day of his wedding, on the day of the joy of his heart.",
       "tr": "ṣəʾeynāh | wrəʾeynāh bənwōt ṣiywōn bamelekə šəlōmōh bāʿăṭārāh šeʿiṭərāh-lwō ʾimwō bəywōm ḥătunātwō wbəywōm šiməḥat libwō.",
@@ -2536,7 +2532,8 @@
             "BODY"
           ]
         }
-      ]
+      ],
+      "ref": "3:11"
     }
   ],
   "lexicon": [
@@ -2709,5 +2706,13 @@
       "a": "It is an adjuration: don’t prematurely rouse love until the proper moment."
     }
   ],
-  "annotations": []
+  "annotations": [],
+  "spec_version": "1.3",
+  "tagset": {
+    "name": "ETCBC-like",
+    "version": "1.0"
+  },
+  "ref_system": "MT",
+  "generated_at": "2026-02-28",
+  "book_slug": "song-of-songs"
 }
