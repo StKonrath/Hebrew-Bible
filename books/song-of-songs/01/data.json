@@ -1,5 +1,5 @@
 {
-  "spec_version": "1.1",
+  "spec_version": "1.2",
   "title": "Song of Songs (Shir ha‑Shirim) — Chapter 1 (verses 1–17)",
   "book": "Song of Songs",
   "book_slug": "song-of-songs",
@@ -17,7 +17,7 @@
           "lemma": "שִׁיר",
           "root": "שׁיר",
           "pos": "NOUN",
-          "morph": "N;msc;abs",
+          "morph": "N;msg;abs?",
           "features": {
             "gender": "m",
             "number": "sg",
@@ -25,7 +25,10 @@
             "prefixes": [
               "ש"
             ],
-            "rel": true
+            "rel": true,
+            "pos": "NOUN",
+            "lemma": "שִׁיר",
+            "root": "שׁיר"
           },
           "gloss": "song",
           "strong": "",
@@ -37,7 +40,7 @@
           "lemma": "שִׁיר",
           "root": "שׁיר",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;mpl;abs?;Suf=3mp",
           "features": {
             "prefixes": [
               "ה"
@@ -46,9 +49,12 @@
             "suffix": "3mp",
             "number": "pl",
             "gender": "m",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "שִׁיר",
+            "root": "שׁיר"
           },
-          "gloss": "the song",
+          "gloss": "song",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.01.t002"
@@ -59,7 +65,11 @@
           "root": "—",
           "pos": "PARTICLE",
           "morph": "PARTICLE",
-          "features": {},
+          "features": {
+            "pos": "PARTICLE",
+            "lemma": "אֲשֶׁר",
+            "root": "—"
+          },
           "gloss": "which/that",
           "strong": "",
           "notes": [],
@@ -70,7 +80,7 @@
           "lemma": "לִשְׁלֹמֹֽה",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "prefixes": [
               "ל"
@@ -79,7 +89,10 @@
               "ל"
             ],
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "לִשְׁלֹמֹֽה",
+            "root": "—"
           },
           "gloss": "to/for",
           "strong": "",
@@ -99,7 +112,7 @@
           "lemma": "נָשַׁק",
           "root": "נשׁק",
           "pos": "VERB",
-          "morph": "V;Qal;Impf;3ms;Obj=1cs",
+          "morph": "V;Qal;Imperfect;3msg;Obj=1cs",
           "features": {
             "stem": "Qal",
             "conjugation": "Imperfect",
@@ -107,7 +120,10 @@
             "gender": "m",
             "number": "sg",
             "object_suffix": "1cs",
-            "suffix": "1cs"
+            "suffix": "1cs",
+            "pos": "VERB",
+            "lemma": "נָשַׁק",
+            "root": "נשׁק"
           },
           "gloss": "kiss",
           "strong": "",
@@ -119,7 +135,7 @@
           "lemma": "נְשִׁיקָה",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;fpl;abs?",
           "features": {
             "prefixes": [
               "מ"
@@ -129,9 +145,12 @@
             ],
             "number": "pl",
             "gender": "f",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "נְשִׁיקָה",
+            "root": "—"
           },
-          "gloss": "from/than",
+          "gloss": "kiss (noun)",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.02.t002"
@@ -141,12 +160,15 @@
           "lemma": "פֶּה",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "פֶּה",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "mouth",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.02.t003"
@@ -156,7 +178,7 @@
           "lemma": "כִּֽי",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "prefixes": [
               "כ"
@@ -166,7 +188,10 @@
             ],
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "כִּֽי",
+            "root": "—"
           },
           "gloss": "like/as",
           "strong": "",
@@ -178,14 +203,17 @@
           "lemma": "טוֹב",
           "root": "—",
           "pos": "ADJ",
-          "morph": "ADJ",
+          "morph": "A;mpl;abs?;Suf=3mp",
           "features": {
             "suffix": "3mp",
             "number": "pl",
             "gender": "m",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "ADJ",
+            "lemma": "טוֹב",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "good/pleasant",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.02.t005"
@@ -195,13 +223,16 @@
           "lemma": "דּוֹד",
           "root": "דוד",
           "pos": "NOUN",
-          "morph": "N;pl;2ms-suf",
+          "morph": "N;?sg;abs?;Suf=2ms",
           "features": {
             "suffix": "2ms",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "דּוֹד",
+            "root": "דוד"
           },
-          "gloss": "love/caresses",
+          "gloss": "love / beloved / caresses",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.02.t006"
@@ -211,7 +242,7 @@
           "lemma": "מִיָּֽיִן",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=3fp",
           "features": {
             "prefixes": [
               "מ"
@@ -221,7 +252,10 @@
             ],
             "suffix": "3fp",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "מִיָּֽיִן",
+            "root": "—"
           },
           "gloss": "from/than",
           "strong": "",
@@ -241,7 +275,7 @@
           "lemma": "רֵיחַ",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "prefixes": [
               "ל"
@@ -250,9 +284,12 @@
               "ל"
             ],
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "רֵיחַ",
+            "root": "—"
           },
-          "gloss": "to/for",
+          "gloss": "scent",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.03.t001"
@@ -262,7 +299,7 @@
           "lemma": "שֶׁמֶן",
           "root": "שׁמן",
           "pos": "NOUN",
-          "morph": "N;msc;pl;2ms-suf",
+          "morph": "N;?sg;abs?;Suf=2ms",
           "features": {
             "suffix": "2ms",
             "prefixes": [
@@ -270,9 +307,12 @@
             ],
             "rel": true,
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "שֶׁמֶן",
+            "root": "שׁמן"
           },
-          "gloss": "oil/perfume",
+          "gloss": "oil / perfume",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.03.t002"
@@ -282,14 +322,17 @@
           "lemma": "טוֹב",
           "root": "—",
           "pos": "ADJ",
-          "morph": "ADJ",
+          "morph": "A;mpl;abs?;Suf=3mp",
           "features": {
             "suffix": "3mp",
             "number": "pl",
             "gender": "m",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "ADJ",
+            "lemma": "טוֹב",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "good/pleasant",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.03.t003"
@@ -299,7 +342,7 @@
           "lemma": "שֶׁמֶן",
           "root": "שׁמן",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=3fp",
           "features": {
             "prefixes": [
               "ש"
@@ -307,7 +350,10 @@
             "rel": true,
             "suffix": "3fp",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "שֶׁמֶן",
+            "root": "שׁמן"
           },
           "gloss": "oil / perfume",
           "strong": "",
@@ -319,10 +365,13 @@
           "lemma": "תּוּרַק",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "תּוּרַק",
+            "root": "—"
           },
           "gloss": "",
           "strong": "",
@@ -334,7 +383,7 @@
           "lemma": "שֵׁם",
           "root": "שׁם",
           "pos": "NOUN",
-          "morph": "N;msc;2ms-suf",
+          "morph": "N;?sg;abs?;Suf=2ms",
           "features": {
             "suffix": "2ms",
             "prefixes": [
@@ -342,9 +391,12 @@
             ],
             "rel": true,
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "שֵׁם",
+            "root": "שׁם"
           },
-          "gloss": "name/renown",
+          "gloss": "name / renown",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.03.t006"
@@ -355,7 +407,11 @@
           "root": "—",
           "pos": "PREP",
           "morph": "PREP",
-          "features": {},
+          "features": {
+            "pos": "PREP",
+            "lemma": "עַל",
+            "root": "—"
+          },
           "gloss": "on/upon",
           "strong": "",
           "notes": [],
@@ -366,7 +422,7 @@
           "lemma": "כֵּן",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=3fp",
           "features": {
             "prefixes": [
               "כ"
@@ -376,9 +432,12 @@
             ],
             "suffix": "3fp",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "כֵּן",
+            "root": "—"
           },
-          "gloss": "like/as",
+          "gloss": "therefore/so",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.03.t008"
@@ -388,13 +447,16 @@
           "lemma": "עַלְמָה",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;fpl;abs?",
           "features": {
             "number": "pl",
             "gender": "f",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "עַלְמָה",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "young woman/maiden",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.03.t009"
@@ -404,13 +466,16 @@
           "lemma": "אָהַב",
           "root": "אהב",
           "pos": "NOUN",
-          "morph": "V;Qal;Perf/Imp?;3cp;Obj=2ms",
+          "morph": "N;?sg;abs?;Suf=2ms",
           "features": {
             "stem": "Qal",
             "object_suffix": "2ms",
             "suffix": "2ms",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "אָהַב",
+            "root": "אהב"
           },
           "gloss": "love",
           "strong": "",
@@ -430,7 +495,7 @@
           "lemma": "מָשַׁךְ",
           "root": "משׁך",
           "pos": "VERB",
-          "morph": "V;Imp;2ms;Obj=1cs",
+          "morph": "V;Qal;Imperative;2msg;Obj=1cs",
           "features": {
             "stem": "Qal",
             "conjugation": "Imperative",
@@ -445,9 +510,12 @@
             "mood": "Imperative",
             "person": "2",
             "gender": "m",
-            "number": "sg"
+            "number": "sg",
+            "pos": "VERB",
+            "lemma": "מָשַׁךְ",
+            "root": "משׁך"
           },
-          "gloss": "draw/pull",
+          "gloss": "draw / pull",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.04.t001"
@@ -457,13 +525,16 @@
           "lemma": "אַחַר",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=2ms",
           "features": {
             "suffix": "2ms",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "אַחַר",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "after/behind",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.04.t002"
@@ -473,13 +544,16 @@
           "lemma": "רוּץ",
           "root": "רץ",
           "pos": "VERB",
-          "morph": "V;Cohortative;1cp",
+          "morph": "V;Qal;Cohortative;1?pl",
           "features": {
             "stem": "Qal",
             "conjugation": "Cohortative",
             "person": "1",
             "number": "pl",
-            "mood": "Cohortative"
+            "mood": "Cohortative",
+            "pos": "VERB",
+            "lemma": "רוּץ",
+            "root": "רץ"
           },
           "gloss": "run",
           "strong": "",
@@ -489,9 +563,9 @@
         {
           "surface": "הֱבִיאַ֨נִי",
           "lemma": "בּוֹא",
-          "root": "—",
+          "root": "בוא",
           "pos": "VERB",
-          "morph": "V;Hifil;Perf?;3ms;Obj=1cs",
+          "morph": "V;Hifil;?;???;Obj=1cs",
           "features": {
             "prefixes": [
               "ה"
@@ -499,9 +573,12 @@
             "definite": true,
             "suffix": "1cs",
             "stem": "Hifil",
-            "object_suffix": "1cs"
+            "object_suffix": "1cs",
+            "pos": "VERB",
+            "lemma": "בּוֹא",
+            "root": "בוא"
           },
-          "gloss": "the",
+          "gloss": "bring/come",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.04.t004"
@@ -511,7 +588,7 @@
           "lemma": "מֶלֶךְ",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=2fs",
           "features": {
             "prefixes": [
               "ה"
@@ -519,9 +596,12 @@
             "definite": true,
             "suffix": "2fs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "מֶלֶךְ",
+            "root": "—"
           },
-          "gloss": "the",
+          "gloss": "king",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.04.t005"
@@ -531,12 +611,15 @@
           "lemma": "חֶדֶר",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "חֶדֶר",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "chamber/room",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.04.t006"
@@ -546,12 +629,15 @@
           "lemma": "גִּיל",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "גִּיל",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "rejoice",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.04.t007"
@@ -561,7 +647,7 @@
           "lemma": "שָׂמַח",
           "root": "שׂמח",
           "pos": "VERB",
-          "morph": "V;Cohortative;1cp",
+          "morph": "V;?;Cohortative;1?pl",
           "features": {
             "prefixes": [
               "ו"
@@ -569,9 +655,12 @@
             "conj": true,
             "mood": "Cohortative",
             "person": "1",
-            "number": "pl"
+            "number": "pl",
+            "pos": "VERB",
+            "lemma": "שָׂמַח",
+            "root": "שׂמח"
           },
-          "gloss": "and",
+          "gloss": "be glad",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.04.t008"
@@ -589,7 +678,10 @@
             "prep_prefixes": [
               "ב"
             ],
-            "suffix": "2fs"
+            "suffix": "2fs",
+            "pos": "PRON",
+            "lemma": "אַתְּ",
+            "root": "—"
           },
           "gloss": "in/at",
           "strong": "",
@@ -601,13 +693,16 @@
           "lemma": "זָכַר",
           "root": "זכר",
           "pos": "VERB",
-          "morph": "V;Cohortative;1cp",
+          "morph": "V;?;Cohortative;1?pl",
           "features": {
             "mood": "Cohortative",
             "person": "1",
-            "number": "pl"
+            "number": "pl",
+            "pos": "VERB",
+            "lemma": "זָכַר",
+            "root": "זכר"
           },
-          "gloss": "",
+          "gloss": "remember/mention",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.04.t010"
@@ -617,11 +712,14 @@
           "lemma": "דֹדֶיךָ",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=2ms",
           "features": {
             "suffix": "2ms",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "דֹדֶיךָ",
+            "root": "—"
           },
           "gloss": "",
           "strong": "",
@@ -633,7 +731,7 @@
           "lemma": "מִיַּיִן",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=3fp",
           "features": {
             "prefixes": [
               "מ"
@@ -643,7 +741,10 @@
             ],
             "suffix": "3fp",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "מִיַּיִן",
+            "root": "—"
           },
           "gloss": "from/than",
           "strong": "",
@@ -655,7 +756,7 @@
           "lemma": "מֵישָׁר",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;mpl;abs?;Suf=3mp",
           "features": {
             "prefixes": [
               "מ"
@@ -666,9 +767,12 @@
             "suffix": "3mp",
             "number": "pl",
             "gender": "m",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "מֵישָׁר",
+            "root": "—"
           },
-          "gloss": "from/than",
+          "gloss": "uprightness",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.04.t013"
@@ -678,13 +782,16 @@
           "lemma": "אָהַב",
           "root": "אהב",
           "pos": "NOUN",
-          "morph": "V;Qal;Perf/Imp?;3cp;Obj=2ms",
+          "morph": "N;?sg;abs?;Suf=2ms",
           "features": {
             "stem": "Qal",
             "object_suffix": "2ms",
             "suffix": "2ms",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "אָהַב",
+            "root": "אהב"
           },
           "gloss": "love",
           "strong": "",
@@ -704,16 +811,19 @@
           "lemma": "שָׁחֹר",
           "root": "—",
           "pos": "ADJ",
-          "morph": "ADJ",
+          "morph": "A;?sg;abs?",
           "features": {
             "prefixes": [
               "ש"
             ],
             "rel": true,
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "ADJ",
+            "lemma": "שָׁחֹר",
+            "root": "—"
           },
-          "gloss": "that/which",
+          "gloss": "black/dark",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.05.t001"
@@ -725,7 +835,10 @@
           "pos": "PRON",
           "morph": "PRON",
           "features": {
-            "suffix": "1cs"
+            "suffix": "1cs",
+            "pos": "PRON",
+            "lemma": "אֲנִי",
+            "root": "—"
           },
           "gloss": "",
           "strong": "",
@@ -737,14 +850,17 @@
           "lemma": "וְֽנָאוָה",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "prefixes": [
               "ו"
             ],
             "conj": true,
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "וְֽנָאוָה",
+            "root": "—"
           },
           "gloss": "and",
           "strong": "",
@@ -756,7 +872,7 @@
           "lemma": "בַּת",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;fpl;abs?",
           "features": {
             "prefixes": [
               "ב"
@@ -766,9 +882,12 @@
             ],
             "number": "pl",
             "gender": "f",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "בַּת",
+            "root": "—"
           },
-          "gloss": "in/at",
+          "gloss": "daughter",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.05.t004"
@@ -778,11 +897,14 @@
           "lemma": "יְרוּשָׁלִָם",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=3mp",
           "features": {
             "suffix": "3mp",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "יְרוּשָׁלִָם",
+            "root": "—"
           },
           "gloss": "",
           "strong": "",
@@ -794,7 +916,7 @@
           "lemma": "אֹהֶל",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "prefixes": [
               "כ"
@@ -804,9 +926,12 @@
             ],
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "אֹהֶל",
+            "root": "—"
           },
-          "gloss": "like/as",
+          "gloss": "tent",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.05.t006"
@@ -816,12 +941,15 @@
           "lemma": "קֵדָר",
           "root": "—",
           "pos": "PROPN",
-          "morph": "PROPN",
+          "morph": "P;?sg;abs?",
           "features": {
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "PROPN",
+            "lemma": "קֵדָר",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "Kedar",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.05.t007"
@@ -831,7 +959,7 @@
           "lemma": "יְרִיעָה",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;fpl;abs?",
           "features": {
             "prefixes": [
               "כ"
@@ -841,9 +969,12 @@
             ],
             "number": "pl",
             "gender": "f",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "יְרִיעָה",
+            "root": "—"
           },
-          "gloss": "like/as",
+          "gloss": "curtain/cloth",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.05.t008"
@@ -853,14 +984,17 @@
           "lemma": "שְׁלֹמֹֽה",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "prefixes": [
               "ש"
             ],
             "rel": true,
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "שְׁלֹמֹֽה",
+            "root": "—"
           },
           "gloss": "that/which",
           "strong": "",
@@ -881,7 +1015,11 @@
           "root": "—",
           "pos": "PARTICLE",
           "morph": "PARTICLE",
-          "features": {},
+          "features": {
+            "pos": "PARTICLE",
+            "lemma": "אַל",
+            "root": "—"
+          },
           "gloss": "do not",
           "strong": "",
           "notes": [],
@@ -892,13 +1030,16 @@
           "lemma": "רָאָה",
           "root": "ראה",
           "pos": "VERB",
-          "morph": "VERB",
+          "morph": "V;?;?;???",
           "features": {
             "suffix": "1cs",
             "stem": "?",
-            "conjugation": "?"
+            "conjugation": "?",
+            "pos": "VERB",
+            "lemma": "רָאָה",
+            "root": "ראה"
           },
-          "gloss": "",
+          "gloss": "see/look",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.06.t002"
@@ -908,7 +1049,7 @@
           "lemma": "שֶׁאֲנִי",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "prefixes": [
               "ש"
@@ -916,7 +1057,10 @@
             "rel": true,
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "שֶׁאֲנִי",
+            "root": "—"
           },
           "gloss": "that/which",
           "strong": "",
@@ -928,14 +1072,17 @@
           "lemma": "שְׁחַרְחֹרֶת",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "prefixes": [
               "ש"
             ],
             "rel": true,
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "שְׁחַרְחֹרֶת",
+            "root": "—"
           },
           "gloss": "that/which",
           "strong": "",
@@ -947,7 +1094,7 @@
           "lemma": "שֶׁשֱּׁזָפַתְנִי",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "prefixes": [
               "ש"
@@ -955,7 +1102,10 @@
             "rel": true,
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "שֶׁשֱּׁזָפַתְנִי",
+            "root": "—"
           },
           "gloss": "that/which",
           "strong": "",
@@ -967,16 +1117,19 @@
           "lemma": "שֶׁמֶשׁ",
           "root": "שׁמש",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "prefixes": [
               "ה"
             ],
             "definite": true,
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "שֶׁמֶשׁ",
+            "root": "שׁמש"
           },
-          "gloss": "the",
+          "gloss": "sun",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.06.t006"
@@ -986,7 +1139,7 @@
           "lemma": "בֵּן",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "prefixes": [
               "ב"
@@ -996,9 +1149,12 @@
             ],
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "בֵּן",
+            "root": "—"
           },
-          "gloss": "in/at",
+          "gloss": "son",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.06.t007"
@@ -1008,13 +1164,16 @@
           "lemma": "אֵם",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "אֵם",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "mother",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.06.t008"
@@ -1024,10 +1183,13 @@
           "lemma": "נִֽחֲרוּ",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "נִֽחֲרוּ",
+            "root": "—"
           },
           "gloss": "",
           "strong": "",
@@ -1039,7 +1201,7 @@
           "lemma": "בִי",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "prefixes": [
               "ב"
@@ -1049,7 +1211,10 @@
             ],
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "בִי",
+            "root": "—"
           },
           "gloss": "in/at",
           "strong": "",
@@ -1059,9 +1224,9 @@
         {
           "surface": "שָׂמֻ֨נִי֙",
           "lemma": "שׂוּם",
-          "root": "—",
+          "root": "שׂים",
           "pos": "VERB",
-          "morph": "VERB",
+          "morph": "V;?;?;???",
           "features": {
             "prefixes": [
               "ש"
@@ -1069,9 +1234,12 @@
             "rel": true,
             "suffix": "1cs",
             "stem": "?",
-            "conjugation": "?"
+            "conjugation": "?",
+            "pos": "VERB",
+            "lemma": "שׂוּם",
+            "root": "שׂים"
           },
-          "gloss": "that/which",
+          "gloss": "set/place",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.06.t011"
@@ -1081,12 +1249,15 @@
           "lemma": "נָטַר",
           "root": "נטר",
           "pos": "VERB",
-          "morph": "VERB",
+          "morph": "V;?;?;???",
           "features": {
             "stem": "?",
-            "conjugation": "?"
+            "conjugation": "?",
+            "pos": "VERB",
+            "lemma": "נָטַר",
+            "root": "נטר"
           },
-          "gloss": "",
+          "gloss": "keep/guard",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.06.t012"
@@ -1096,12 +1267,15 @@
           "lemma": "אֶת",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "אֶת",
+            "root": "—"
           },
-          "gloss": "(obj. marker)",
+          "gloss": "(object marker)",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.06.t013"
@@ -1111,7 +1285,7 @@
           "lemma": "כֶּרֶם",
           "root": "כרם",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;mpl;abs?;Suf=3mp",
           "features": {
             "prefixes": [
               "ה"
@@ -1120,9 +1294,12 @@
             "suffix": "3mp",
             "number": "pl",
             "gender": "m",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "כֶּרֶם",
+            "root": "כרם"
           },
-          "gloss": "the vineyard",
+          "gloss": "vineyard",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.06.t014"
@@ -1132,7 +1309,7 @@
           "lemma": "כֶּרֶם",
           "root": "כרם",
           "pos": "NOUN",
-          "morph": "N;msc;1cs-suf",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "suffix": "1cs",
             "prefixes": [
@@ -1142,7 +1319,10 @@
               "כ"
             ],
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "כֶּרֶם",
+            "root": "כרם"
           },
           "gloss": "vineyard",
           "strong": "",
@@ -1154,7 +1334,7 @@
           "lemma": "שֶׁלִּי",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "prefixes": [
               "ש"
@@ -1162,7 +1342,10 @@
             "rel": true,
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "שֶׁלִּי",
+            "root": "—"
           },
           "gloss": "that/which",
           "strong": "",
@@ -1181,7 +1364,10 @@
             ],
             "prep_prefixes": [
               "ל"
-            ]
+            ],
+            "pos": "PARTICLE",
+            "lemma": "לֹא",
+            "root": "—"
           },
           "gloss": "not",
           "strong": "",
@@ -1193,11 +1379,14 @@
           "lemma": "נָטָֽרְתִּי",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "נָטָֽרְתִּי",
+            "root": "—"
           },
           "gloss": "",
           "strong": "",
@@ -1217,14 +1406,17 @@
           "lemma": "נָגַד",
           "root": "נגד",
           "pos": "VERB",
-          "morph": "VERB",
+          "morph": "V;?;?;???",
           "features": {
             "prefixes": [
               "ה"
             ],
             "definite": true,
             "stem": "?",
-            "conjugation": "?"
+            "conjugation": "?",
+            "pos": "VERB",
+            "lemma": "נָגַד",
+            "root": "נגד"
           },
           "gloss": "the",
           "strong": "",
@@ -1244,7 +1436,10 @@
             "prep_prefixes": [
               "ל"
             ],
-            "suffix": "1cs"
+            "suffix": "1cs",
+            "pos": "PRON",
+            "lemma": "אֲנִי",
+            "root": "—"
           },
           "gloss": "to/for",
           "strong": "",
@@ -1256,14 +1451,17 @@
           "lemma": "שֶׁאָהֲבָה",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "prefixes": [
               "ש"
             ],
             "rel": true,
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "שֶׁאָהֲבָה",
+            "root": "—"
           },
           "gloss": "that/which",
           "strong": "",
@@ -1275,13 +1473,16 @@
           "lemma": "נֶפֶשׁ",
           "root": "נפשׁ",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "נֶפֶשׁ",
+            "root": "נפשׁ"
           },
-          "gloss": "",
+          "gloss": "soul/self",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.07.t004"
@@ -1292,8 +1493,12 @@
           "root": "—",
           "pos": "PARTICLE",
           "morph": "PARTICLE",
-          "features": {},
-          "gloss": "",
+          "features": {
+            "pos": "PARTICLE",
+            "lemma": "אֵיכָה",
+            "root": "—"
+          },
+          "gloss": "where?/how?",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.07.t005"
@@ -1303,12 +1508,15 @@
           "lemma": "רָעָה",
           "root": "רעה",
           "pos": "VERB",
-          "morph": "VERB",
+          "morph": "V;?;?;???",
           "features": {
             "stem": "?",
-            "conjugation": "?"
+            "conjugation": "?",
+            "pos": "VERB",
+            "lemma": "רָעָה",
+            "root": "רעה"
           },
-          "gloss": "",
+          "gloss": "graze/shepherd",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.07.t006"
@@ -1319,8 +1527,12 @@
           "root": "—",
           "pos": "PARTICLE",
           "morph": "PARTICLE",
-          "features": {},
-          "gloss": "",
+          "features": {
+            "pos": "PARTICLE",
+            "lemma": "אֵיכָה",
+            "root": "—"
+          },
+          "gloss": "where?/how?",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.07.t007"
@@ -1330,12 +1542,15 @@
           "lemma": "רָבַץ",
           "root": "רבץ",
           "pos": "VERB",
-          "morph": "VERB",
+          "morph": "V;?;?;???",
           "features": {
             "stem": "?",
-            "conjugation": "?"
+            "conjugation": "?",
+            "pos": "VERB",
+            "lemma": "רָבַץ",
+            "root": "רבץ"
           },
-          "gloss": "",
+          "gloss": "lie down",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.07.t008"
@@ -1345,7 +1560,7 @@
           "lemma": "בַּֽצָּהֳרָיִם",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=3mp",
           "features": {
             "prefixes": [
               "ב"
@@ -1355,7 +1570,10 @@
             ],
             "suffix": "3mp",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "בַּֽצָּהֳרָיִם",
+            "root": "—"
           },
           "gloss": "in/at",
           "strong": "",
@@ -1372,7 +1590,10 @@
             "prefixes": [
               "ש"
             ],
-            "rel": true
+            "rel": true,
+            "pos": "PARTICLE",
+            "lemma": "שַׁלָּמָה",
+            "root": "—"
           },
           "gloss": "that/which",
           "strong": "",
@@ -1384,10 +1605,13 @@
           "lemma": "אֶֽהְיֶה",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "אֶֽהְיֶה",
+            "root": "—"
           },
           "gloss": "",
           "strong": "",
@@ -1399,7 +1623,7 @@
           "lemma": "כְּעֹטְיָה",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "prefixes": [
               "כ"
@@ -1408,7 +1632,10 @@
               "כ"
             ],
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "כְּעֹטְיָה",
+            "root": "—"
           },
           "gloss": "like/as",
           "strong": "",
@@ -1421,7 +1648,11 @@
           "root": "—",
           "pos": "PREP",
           "morph": "PREP",
-          "features": {},
+          "features": {
+            "pos": "PREP",
+            "lemma": "עַל",
+            "root": "—"
+          },
           "gloss": "on/upon",
           "strong": "",
           "notes": [],
@@ -1432,13 +1663,16 @@
           "lemma": "עֵדֶר",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "עֵדֶר",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "flock",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.07.t014"
@@ -1448,11 +1682,14 @@
           "lemma": "חֲבֵרֶֽיךָ",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=2ms",
           "features": {
             "suffix": "2ms",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "חֲבֵרֶֽיךָ",
+            "root": "—"
           },
           "gloss": "",
           "strong": "",
@@ -1474,7 +1711,10 @@
           "pos": "PARTICLE",
           "morph": "PARTICLE",
           "features": {
-            "suffix": "3mp"
+            "suffix": "3mp",
+            "pos": "PARTICLE",
+            "lemma": "אִם",
+            "root": "—"
           },
           "gloss": "if",
           "strong": "",
@@ -1493,7 +1733,10 @@
             ],
             "prep_prefixes": [
               "ל"
-            ]
+            ],
+            "pos": "PARTICLE",
+            "lemma": "לֹא",
+            "root": "—"
           },
           "gloss": "not",
           "strong": "",
@@ -1505,16 +1748,19 @@
           "lemma": "יָדַע",
           "root": "ידע",
           "pos": "VERB",
-          "morph": "V;Qal;Impf;2fs",
+          "morph": "V;Qal;Imperfect;2fsg",
           "features": {
             "suffix": "1cs",
             "stem": "Qal",
             "conjugation": "Imperfect",
             "person": "2",
             "gender": "f",
-            "number": "sg"
+            "number": "sg",
+            "pos": "VERB",
+            "lemma": "יָדַע",
+            "root": "ידע"
           },
-          "gloss": "",
+          "gloss": "know",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.08.t003"
@@ -1532,7 +1778,10 @@
             "prep_prefixes": [
               "ל"
             ],
-            "suffix": "2fs"
+            "suffix": "2fs",
+            "pos": "PRON",
+            "lemma": "אַתְּ",
+            "root": "—"
           },
           "gloss": "to/for",
           "strong": "",
@@ -1544,16 +1793,19 @@
           "lemma": "יָפֶה",
           "root": "—",
           "pos": "ADJ",
-          "morph": "ADJ",
+          "morph": "A;?sg;abs?",
           "features": {
             "prefixes": [
               "ה"
             ],
             "definite": true,
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "ADJ",
+            "lemma": "יָפֶה",
+            "root": "—"
           },
-          "gloss": "the",
+          "gloss": "beautiful",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.08.t005"
@@ -1563,7 +1815,7 @@
           "lemma": "אִשָּׁה",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;mpl;abs?;Suf=3mp",
           "features": {
             "prefixes": [
               "ב"
@@ -1574,9 +1826,12 @@
             "suffix": "3mp",
             "number": "pl",
             "gender": "m",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "אִשָּׁה",
+            "root": "—"
           },
-          "gloss": "in/at",
+          "gloss": "woman",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.08.t006"
@@ -1586,11 +1841,14 @@
           "lemma": "צְֽאִי",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "צְֽאִי",
+            "root": "—"
           },
           "gloss": "",
           "strong": "",
@@ -1610,7 +1868,10 @@
             "prep_prefixes": [
               "ל"
             ],
-            "suffix": "2fs"
+            "suffix": "2fs",
+            "pos": "PRON",
+            "lemma": "אַתְּ",
+            "root": "—"
           },
           "gloss": "to/for",
           "strong": "",
@@ -1622,7 +1883,7 @@
           "lemma": "עָקֵב",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "prefixes": [
               "ב"
@@ -1632,9 +1893,12 @@
             ],
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "עָקֵב",
+            "root": "—"
           },
-          "gloss": "in/at",
+          "gloss": "heel/track",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.08.t009"
@@ -1644,7 +1908,7 @@
           "lemma": "צֹאן",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=3fp",
           "features": {
             "prefixes": [
               "ה"
@@ -1652,9 +1916,12 @@
             "definite": true,
             "suffix": "3fp",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "צֹאן",
+            "root": "—"
           },
-          "gloss": "the",
+          "gloss": "small cattle/flock",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.08.t010"
@@ -1664,7 +1931,7 @@
           "lemma": "רָעָה",
           "root": "רעה",
           "pos": "VERB",
-          "morph": "V;Qal;Imp;2fs",
+          "morph": "V;Qal;Imperative;2fsg",
           "features": {
             "prefixes": [
               "ו"
@@ -1675,9 +1942,12 @@
             "mood": "Imperative",
             "person": "2",
             "gender": "f",
-            "number": "sg"
+            "number": "sg",
+            "pos": "VERB",
+            "lemma": "רָעָה",
+            "root": "רעה"
           },
-          "gloss": "and",
+          "gloss": "graze/shepherd",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.08.t011"
@@ -1687,12 +1957,15 @@
           "lemma": "אֶת",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "אֶת",
+            "root": "—"
           },
-          "gloss": "(obj. marker)",
+          "gloss": "(object marker)",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.08.t012"
@@ -1702,13 +1975,16 @@
           "lemma": "גְּדִי",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=2fs",
           "features": {
             "suffix": "2fs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "גְּדִי",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "kid (young goat)",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.08.t013"
@@ -1719,7 +1995,11 @@
           "root": "—",
           "pos": "PREP",
           "morph": "PREP",
-          "features": {},
+          "features": {
+            "pos": "PREP",
+            "lemma": "עַל",
+            "root": "—"
+          },
           "gloss": "on/upon",
           "strong": "",
           "notes": [],
@@ -1730,7 +2010,7 @@
           "lemma": "מִשְׁכָּן",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;fpl;abs?",
           "features": {
             "prefixes": [
               "מ"
@@ -1740,9 +2020,12 @@
             ],
             "number": "pl",
             "gender": "f",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "מִשְׁכָּן",
+            "root": "—"
           },
-          "gloss": "from/than",
+          "gloss": "dwelling",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.08.t015"
@@ -1752,7 +2035,7 @@
           "lemma": "הָרֹעִֽים",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;mpl;abs?;Suf=3mp",
           "features": {
             "prefixes": [
               "ה"
@@ -1761,7 +2044,10 @@
             "suffix": "3mp",
             "number": "pl",
             "gender": "m",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "הָרֹעִֽים",
+            "root": "—"
           },
           "gloss": "the",
           "strong": "",
@@ -1781,7 +2067,7 @@
           "lemma": "סוּסָה",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "prefixes": [
               "ל"
@@ -1791,9 +2077,12 @@
             ],
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "סוּסָה",
+            "root": "—"
           },
-          "gloss": "to/for",
+          "gloss": "mare",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.09.t001"
@@ -1803,7 +2092,7 @@
           "lemma": "רֶכֶב",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "prefixes": [
               "ב"
@@ -1813,9 +2102,12 @@
             ],
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "רֶכֶב",
+            "root": "—"
           },
-          "gloss": "in/at",
+          "gloss": "chariotry/vehicles",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.09.t002"
@@ -1825,10 +2117,13 @@
           "lemma": "פַרְעֹה",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "פַרְעֹה",
+            "root": "—"
           },
           "gloss": "",
           "strong": "",
@@ -1840,13 +2135,16 @@
           "lemma": "דָּמָה",
           "root": "דמה",
           "pos": "VERB",
-          "morph": "VERB",
+          "morph": "V;?;?;???",
           "features": {
             "suffix": "2fs",
             "stem": "?",
-            "conjugation": "?"
+            "conjugation": "?",
+            "pos": "VERB",
+            "lemma": "דָּמָה",
+            "root": "דמה"
           },
-          "gloss": "",
+          "gloss": "compare",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.09.t004"
@@ -1856,13 +2154,16 @@
           "lemma": "רַעְיָה",
           "root": "רעה",
           "pos": "NOUN",
-          "morph": "N;f;1cs-suf",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "רַעְיָה",
+            "root": "רעה"
           },
-          "gloss": "beloved/companion",
+          "gloss": "beloved / companion",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.09.t005"
@@ -1880,10 +2181,13 @@
           "lemma": "נָאווּ",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "נָאווּ",
+            "root": "—"
           },
           "gloss": "",
           "strong": "",
@@ -1895,7 +2199,7 @@
           "lemma": "לֶחִי",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=2fs",
           "features": {
             "prefixes": [
               "ל"
@@ -1905,9 +2209,12 @@
             ],
             "suffix": "2fs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "לֶחִי",
+            "root": "—"
           },
-          "gloss": "to/for",
+          "gloss": "cheek",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.10.t002"
@@ -1917,7 +2224,7 @@
           "lemma": "תֹּר",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;mpl;abs?;Suf=3mp",
           "features": {
             "prefixes": [
               "ב"
@@ -1928,9 +2235,12 @@
             "suffix": "3mp",
             "number": "pl",
             "gender": "m",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "תֹּר",
+            "root": "—"
           },
-          "gloss": "in/at",
+          "gloss": "turtledove/ornament",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.10.t003"
@@ -1940,13 +2250,16 @@
           "lemma": "צַוָּאר",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=2fs",
           "features": {
             "suffix": "2fs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "צַוָּאר",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "neck",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.10.t004"
@@ -1956,7 +2269,7 @@
           "lemma": "בַּחֲרוּזִֽים",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;mpl;abs?;Suf=3mp",
           "features": {
             "prefixes": [
               "ב"
@@ -1967,7 +2280,10 @@
             "suffix": "3mp",
             "number": "pl",
             "gender": "m",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "בַּחֲרוּזִֽים",
+            "root": "—"
           },
           "gloss": "in/at",
           "strong": "",
@@ -1987,13 +2303,16 @@
           "lemma": "תֹּר",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "תֹּר",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "turtledove/ornament",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.11.t001"
@@ -2003,10 +2322,13 @@
           "lemma": "זָהָב",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "זָהָב",
+            "root": "—"
           },
           "gloss": "",
           "strong": "",
@@ -2018,12 +2340,15 @@
           "lemma": "עָשָׂה",
           "root": "עשׂה",
           "pos": "VERB",
-          "morph": "VERB",
+          "morph": "V;?;?;???",
           "features": {
             "stem": "?",
-            "conjugation": "?"
+            "conjugation": "?",
+            "pos": "VERB",
+            "lemma": "עָשָׂה",
+            "root": "עשׂה"
           },
-          "gloss": "",
+          "gloss": "make",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.11.t003"
@@ -2041,7 +2366,10 @@
             "prep_prefixes": [
               "ל"
             ],
-            "suffix": "2fs"
+            "suffix": "2fs",
+            "pos": "PRON",
+            "lemma": "אַתְּ",
+            "root": "—"
           },
           "gloss": "to/for",
           "strong": "",
@@ -2055,7 +2383,10 @@
           "pos": "PREP",
           "morph": "PREP",
           "features": {
-            "suffix": "3mp"
+            "suffix": "3mp",
+            "pos": "PREP",
+            "lemma": "עִם",
+            "root": "—"
           },
           "gloss": "with",
           "strong": "",
@@ -2067,13 +2398,16 @@
           "lemma": "נְקֻדָּה",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;fpl;abs?",
           "features": {
             "number": "pl",
             "gender": "f",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "נְקֻדָּה",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "dot/point",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.11.t006"
@@ -2083,14 +2417,17 @@
           "lemma": "הַכָּֽסֶף",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "prefixes": [
               "ה"
             ],
             "definite": true,
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "הַכָּֽסֶף",
+            "root": "—"
           },
           "gloss": "the",
           "strong": "",
@@ -2111,7 +2448,11 @@
           "root": "—",
           "pos": "PARTICLE",
           "morph": "PARTICLE",
-          "features": {},
+          "features": {
+            "pos": "PARTICLE",
+            "lemma": "עַד",
+            "root": "—"
+          },
           "gloss": "until",
           "strong": "",
           "notes": [],
@@ -2122,7 +2463,7 @@
           "lemma": "שֶׁהַמֶּלֶךְ",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=2fs",
           "features": {
             "prefixes": [
               "ש"
@@ -2130,7 +2471,10 @@
             "rel": true,
             "suffix": "2fs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "שֶׁהַמֶּלֶךְ",
+            "root": "—"
           },
           "gloss": "that/which",
           "strong": "",
@@ -2142,7 +2486,7 @@
           "lemma": "בִּמְסִבּוֹ",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=3ms",
           "features": {
             "prefixes": [
               "ב"
@@ -2152,7 +2496,10 @@
             ],
             "suffix": "3ms",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "בִּמְסִבּוֹ",
+            "root": "—"
           },
           "gloss": "in/at",
           "strong": "",
@@ -2164,11 +2511,14 @@
           "lemma": "נִרְדִּי",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "נִרְדִּי",
+            "root": "—"
           },
           "gloss": "",
           "strong": "",
@@ -2180,16 +2530,19 @@
           "lemma": "נָתַן",
           "root": "נתן",
           "pos": "VERB",
-          "morph": "V;Qal;Perf;3ms",
+          "morph": "V;Qal;Perfect;3msg",
           "features": {
             "suffix": "3fp",
             "stem": "Qal",
             "conjugation": "Perfect",
             "person": "3",
             "gender": "m",
-            "number": "sg"
+            "number": "sg",
+            "pos": "VERB",
+            "lemma": "נָתַן",
+            "root": "נתן"
           },
-          "gloss": "",
+          "gloss": "give",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.12.t005"
@@ -2199,11 +2552,14 @@
           "lemma": "רֵיחֽוֹ",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=3ms",
           "features": {
             "suffix": "3ms",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "רֵיחֽוֹ",
+            "root": "—"
           },
           "gloss": "",
           "strong": "",
@@ -2223,12 +2579,15 @@
           "lemma": "צְרוֹר",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "צְרוֹר",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "bundle",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.13.t001"
@@ -2238,16 +2597,19 @@
           "lemma": "מֹר",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "prefixes": [
               "ה"
             ],
             "definite": true,
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "מֹר",
+            "root": "—"
           },
-          "gloss": "the",
+          "gloss": "myrrh",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.13.t002"
@@ -2257,10 +2619,13 @@
           "lemma": "׀",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "׀",
+            "root": "—"
           },
           "gloss": "",
           "strong": "",
@@ -2272,11 +2637,14 @@
           "lemma": "דּוֹד",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "דּוֹד",
+            "root": "—"
           },
           "gloss": "love / beloved / caresses",
           "strong": "",
@@ -2296,7 +2664,10 @@
             "prep_prefixes": [
               "ל"
             ],
-            "suffix": "1cs"
+            "suffix": "1cs",
+            "pos": "PRON",
+            "lemma": "לִי",
+            "root": "—"
           },
           "gloss": "to/for",
           "strong": "",
@@ -2316,7 +2687,10 @@
             "prep_prefixes": [
               "ב"
             ],
-            "suffix": "3fp"
+            "suffix": "3fp",
+            "pos": "PREP",
+            "lemma": "בֵּין",
+            "root": "—"
           },
           "gloss": "between",
           "strong": "",
@@ -2328,7 +2702,7 @@
           "lemma": "שַׁד",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "prefixes": [
               "ש"
@@ -2336,9 +2710,12 @@
             "rel": true,
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "שַׁד",
+            "root": "—"
           },
-          "gloss": "that/which",
+          "gloss": "breast",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.13.t007"
@@ -2348,11 +2725,14 @@
           "lemma": "יָלִֽין",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=3fp",
           "features": {
             "suffix": "3fp",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "יָלִֽין",
+            "root": "—"
           },
           "gloss": "",
           "strong": "",
@@ -2372,12 +2752,15 @@
           "lemma": "אֶשְׁכֹּל",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "אֶשְׁכֹּל",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "cluster",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.14.t001"
@@ -2387,16 +2770,19 @@
           "lemma": "כֹּפֶר",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "prefixes": [
               "ה"
             ],
             "definite": true,
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "כֹּפֶר",
+            "root": "—"
           },
-          "gloss": "the",
+          "gloss": "henna/camphire",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.14.t002"
@@ -2406,10 +2792,13 @@
           "lemma": "׀",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "׀",
+            "root": "—"
           },
           "gloss": "",
           "strong": "",
@@ -2421,11 +2810,14 @@
           "lemma": "דּוֹד",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "דּוֹד",
+            "root": "—"
           },
           "gloss": "love / beloved / caresses",
           "strong": "",
@@ -2445,7 +2837,10 @@
             "prep_prefixes": [
               "ל"
             ],
-            "suffix": "1cs"
+            "suffix": "1cs",
+            "pos": "PRON",
+            "lemma": "לִי",
+            "root": "—"
           },
           "gloss": "to/for",
           "strong": "",
@@ -2457,7 +2852,7 @@
           "lemma": "כֶּרֶם",
           "root": "כרם",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "prefixes": [
               "ב"
@@ -2467,9 +2862,12 @@
             ],
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "כֶּרֶם",
+            "root": "כרם"
           },
-          "gloss": "in/at vineyard",
+          "gloss": "vineyard",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.14.t006"
@@ -2479,13 +2877,16 @@
           "lemma": "עַיִן",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=3fp",
           "features": {
             "suffix": "3fp",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "עַיִן",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "spring/eye",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.14.t007"
@@ -2495,11 +2896,14 @@
           "lemma": "גֶּֽדִי",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "גֶּֽדִי",
+            "root": "—"
           },
           "gloss": "",
           "strong": "",
@@ -2519,7 +2923,7 @@
           "lemma": "הִנֵּה",
           "root": "—",
           "pos": "NOUN",
-          "morph": "PART",
+          "morph": "N;?sg;abs?;Suf=2fs",
           "features": {
             "prefixes": [
               "ה"
@@ -2527,7 +2931,10 @@
             "definite": true,
             "suffix": "2fs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "הִנֵּה",
+            "root": "—"
           },
           "gloss": "behold",
           "strong": "",
@@ -2539,12 +2946,15 @@
           "lemma": "יָפֶה",
           "root": "—",
           "pos": "ADJ",
-          "morph": "ADJ",
+          "morph": "A;?sg;abs?",
           "features": {
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "ADJ",
+            "lemma": "יָפֶה",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "beautiful",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.15.t002"
@@ -2554,13 +2964,16 @@
           "lemma": "רַעְיָה",
           "root": "רעה",
           "pos": "NOUN",
-          "morph": "N;f;1cs-suf",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "רַעְיָה",
+            "root": "רעה"
           },
-          "gloss": "beloved/companion",
+          "gloss": "beloved / companion",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.15.t003"
@@ -2570,7 +2983,7 @@
           "lemma": "הִנֵּה",
           "root": "—",
           "pos": "NOUN",
-          "morph": "PART",
+          "morph": "N;?sg;abs?;Suf=2fs",
           "features": {
             "prefixes": [
               "ה"
@@ -2578,7 +2991,10 @@
             "definite": true,
             "suffix": "2fs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "הִנֵּה",
+            "root": "—"
           },
           "gloss": "behold",
           "strong": "",
@@ -2590,12 +3006,15 @@
           "lemma": "יָפֶה",
           "root": "—",
           "pos": "ADJ",
-          "morph": "ADJ",
+          "morph": "A;?sg;abs?",
           "features": {
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "ADJ",
+            "lemma": "יָפֶה",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "beautiful",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.15.t005"
@@ -2605,13 +3024,16 @@
           "lemma": "עַיִן",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=2fs",
           "features": {
             "suffix": "2fs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "עַיִן",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "spring/eye",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.15.t006"
@@ -2621,12 +3043,15 @@
           "lemma": "יוֹנִֽים",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;mpl;abs?;Suf=3mp",
           "features": {
             "suffix": "3mp",
             "number": "pl",
             "gender": "m",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "יוֹנִֽים",
+            "root": "—"
           },
           "gloss": "",
           "strong": "",
@@ -2646,7 +3071,7 @@
           "lemma": "הִנֵּה",
           "root": "—",
           "pos": "NOUN",
-          "morph": "PART",
+          "morph": "N;?sg;abs?;Suf=2ms",
           "features": {
             "prefixes": [
               "ה"
@@ -2654,7 +3079,10 @@
             "definite": true,
             "suffix": "2ms",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "הִנֵּה",
+            "root": "—"
           },
           "gloss": "behold",
           "strong": "",
@@ -2666,12 +3094,15 @@
           "lemma": "יָפֶה",
           "root": "—",
           "pos": "ADJ",
-          "morph": "ADJ",
+          "morph": "A;?sg;abs?",
           "features": {
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "ADJ",
+            "lemma": "יָפֶה",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "beautiful",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.16.t002"
@@ -2681,11 +3112,14 @@
           "lemma": "דּוֹד",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cs",
           "features": {
             "suffix": "1cs",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "דּוֹד",
+            "root": "—"
           },
           "gloss": "love / beloved / caresses",
           "strong": "",
@@ -2698,7 +3132,11 @@
           "root": "—",
           "pos": "PARTICLE",
           "morph": "PARTICLE",
-          "features": {},
+          "features": {
+            "pos": "PARTICLE",
+            "lemma": "אַף",
+            "root": "—"
+          },
           "gloss": "also/indeed",
           "strong": "",
           "notes": [],
@@ -2709,14 +3147,17 @@
           "lemma": "נָעִים",
           "root": "—",
           "pos": "ADJ",
-          "morph": "ADJ",
+          "morph": "A;mpl;abs?;Suf=3mp",
           "features": {
             "suffix": "3mp",
             "number": "pl",
             "gender": "m",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "ADJ",
+            "lemma": "נָעִים",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "pleasant",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.16.t005"
@@ -2727,7 +3168,11 @@
           "root": "—",
           "pos": "PARTICLE",
           "morph": "PARTICLE",
-          "features": {},
+          "features": {
+            "pos": "PARTICLE",
+            "lemma": "אַף",
+            "root": "—"
+          },
           "gloss": "also/indeed",
           "strong": "",
           "notes": [],
@@ -2738,13 +3183,16 @@
           "lemma": "עֶרֶשׂ",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cp",
           "features": {
             "suffix": "1cp",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "עֶרֶשׂ",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "couch/bed",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.16.t007"
@@ -2754,10 +3202,13 @@
           "lemma": "רַעֲנָנָֽה",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?",
           "features": {
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "רַעֲנָנָֽה",
+            "root": "—"
           },
           "gloss": "",
           "strong": "",
@@ -2777,13 +3228,16 @@
           "lemma": "קוֹרָה",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;fpl;abs?",
           "features": {
             "number": "pl",
             "gender": "f",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "קוֹרָה",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "beam",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.17.t001"
@@ -2793,7 +3247,7 @@
           "lemma": "בַּיִת",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cp",
           "features": {
             "prefixes": [
               "ב"
@@ -2803,9 +3257,12 @@
             ],
             "suffix": "1cp",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "בַּיִת",
+            "root": "—"
           },
-          "gloss": "in/at",
+          "gloss": "house",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.17.t002"
@@ -2815,14 +3272,17 @@
           "lemma": "אֶרֶז",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;mpl;abs?;Suf=3mp",
           "features": {
             "suffix": "3mp",
             "number": "pl",
             "gender": "m",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "אֶרֶז",
+            "root": "—"
           },
-          "gloss": "",
+          "gloss": "cedar",
           "strong": "",
           "notes": [],
           "id": "song-of-songs.01.17.t003"
@@ -2832,11 +3292,14 @@
           "lemma": "רַחִיטֵנוּ",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;?sg;abs?;Suf=1cp",
           "features": {
             "suffix": "1cp",
             "number": "sg",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "רַחִיטֵנוּ",
+            "root": "—"
           },
           "gloss": "",
           "strong": "",
@@ -2848,7 +3311,7 @@
           "lemma": "בְּרוֹתִֽים",
           "root": "—",
           "pos": "NOUN",
-          "morph": "NOUN",
+          "morph": "N;mpl;abs?;Suf=3mp",
           "features": {
             "prefixes": [
               "ב"
@@ -2859,7 +3322,10 @@
             "suffix": "3mp",
             "number": "pl",
             "gender": "m",
-            "state": "abs?"
+            "state": "abs?",
+            "pos": "NOUN",
+            "lemma": "בְּרוֹתִֽים",
+            "root": "—"
           },
           "gloss": "in/at",
           "strong": "",
@@ -2996,5 +3462,10 @@
     }
   ],
   "annotations": [],
-  "generated_at": "2026-02-27"
+  "generated_at": "2026-02-28",
+  "tagset": {
+    "name": "ETCBC-like",
+    "version": "1.0",
+    "notes": "features object follows ETCBC-style categories; 'morph' is a compact display string derived from features."
+  }
 }
