@@ -14,6 +14,27 @@ function esc(s){
 
 function pad2(n){ return String(n).padStart(2,'0'); }
 
+function getSiteBase() {
+  // Returns the project base path ending with '/'
+  // Works on GitHub Pages (/REPO/...), local servers, and file://
+  const p = window.location.pathname || '';
+  const i = p.indexOf('/books/');
+  if (i >= 0) return p.slice(0, i+1); // keep trailing '/'
+  // fallback: if we are on /index.html, base is folder path
+  if (p.endsWith('/')) return p;
+  return p.replace(/[^\/]*$/, ''); // strip filename
+}
+
+function chapterUrl(slug, ch2) {
+  const base = getSiteBase();
+  return `${base}books/${slug}/${ch2}/`;
+}
+
+function homeUrl() {
+  const base = getSiteBase();
+  return `${base}index.html`;
+}
+
 function parsePath() {
   // Expected: /books/<slug>/index.html OR /books/<slug>/<ch>/index.html
   const parts = window.location.pathname.split('/').filter(Boolean);
@@ -72,7 +93,7 @@ function buildTopNav(index, ctx) {
 
   nav.innerHTML = `
     <div class="controls" style="position:static; margin-bottom:14px;">
-      <a class="btn" href="${ctx.type==='landing' ? './index.html' : (ctx.type==='book' ? '../..//index.html'.replace('//','/') : '../../../index.html')}">Home</a>
+      <a class="btn" href="${homeUrl()}">Home</a>
       <label class="small muted">Book
         <select id="bookSelect" class="btn" style="padding:8px 10px;">
           ${bookOptions}
@@ -92,15 +113,8 @@ function buildTopNav(index, ctx) {
 
   const go = () => {
     const slug = bookSel.value;
-    const ch = chSel.value;
-    // Always go to chapter page for direct navigation
-    window.location.href = `${ctx.type==='chapter' ? '../' : ''}${ctx.type==='book' ? './' : ''}`; // no-op safe
-    // Build absolute-ish relative: /books/<slug>/<ch>/
-    const parts = window.location.pathname.split('/').filter(Boolean);
-    const booksIdx = parts.indexOf('books');
-    const prefixUp = booksIdx === -1 ? '' : Array((parts.length-1) - booksIdx).fill('..').join('/');
-    const base = prefixUp ? prefixUp + '/books/' : './books/';
-    window.location.href = `${base}${slug}/${ch}/`;
+    const ch = chSel.value; // already 2-digit
+    window.location.href = chapterUrl(slug, ch);
   };
 
   bookSel.addEventListener('change', () => {
