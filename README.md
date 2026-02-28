@@ -28,3 +28,51 @@ Use `PROJECT_PROMPT.md` as the copy/paste prompt for a new chat. It enforces:
 - token IDs
 - ETCBC-like feature keys
 - gloss + lemma normalization
+
+
+## Validation
+This repo includes a JSON Schema for chapter files: `schema/chapter.schema.json`.
+
+Validate (requires `jsonschema`):
+
+```bash
+pip install jsonschema
+python3 tools/validate_chapter.py --all
+```
+
+
+---
+
+## 🔎 JSON Validation (Spec v1.3)
+
+This project uses a formal JSON Schema to ensure every chapter file follows **Spec v1.3**.
+
+Schema location:
+
+    schema/chapter.schema.json
+
+### Install validator dependency
+
+    pip install jsonschema
+
+### Validate a single chapter
+
+    python3 tools/validate_chapter.py books/song-of-songs/02/data.json
+
+### Validate all chapters in the repository
+
+    python3 tools/validate_chapter.py --all
+
+If validation fails, the script prints the file and the schema error.
+
+---
+
+### Why Validation Matters
+
+- Prevents structural drift between chapters
+- Enforces token ID format
+- Ensures morphology fields exist
+- Guarantees semantic tagging structure
+- Protects renderer automation (title, breadcrumbs, SEO)
+
+Always validate before committing new chapters.
