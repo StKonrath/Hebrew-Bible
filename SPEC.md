@@ -97,7 +97,7 @@ Each item of `verses[]`:
 ### Token object
 Each item of `tokens[]`:
 
-- `id` (string, required) — `<book_slug>.<CC>.<VV>.t###`
+- `id` (string, required) — `<book_slug>.<CC>.<VV>.t###` (CC and VV are zero-padded to **2 digits**, but **3 digits** when >=100)
 - `surface` (string, required) — pointed token
 - `lemma` (string, required)
 - `root` (string, required) — `"—"` if not applicable

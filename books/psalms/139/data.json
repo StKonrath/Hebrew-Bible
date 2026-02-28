@@ -3,23 +3,14 @@
     "name": "Hebrew Bible Learning Site",
     "version": "1.2"
   },
-  "book": {
-    "name": "Psalms",
-    "slug": "psalms"
-  },
+  "book": "Psalms",
   "chapter": 139,
   "verses": [
     {
-      "n": 1,
+      "ref": "139:1",
       "he": "לַ֭מְנַצֵּחַ לְדָוִ֣ד מִזְמ֑וֹר יְהוָ֥ה חֲ֝קַרְתַּ֗נִי וַתֵּדָֽע׃",
       "en": "For the director. Of David. A psalm. O LORD, you have searched me and known me.",
       "tr": "la֭mənaṣēḥa lədāwi֣d mizəm֑wōr yəhwā֥h ḥă֝qarəta֗niy watēdāʿ.",
-      "semantic_summary": [
-        "PERCEPTION",
-        "PRAISE",
-        "MUSIC",
-        "SYMBOL"
-      ],
       "tokens": [
         {
           "id": "psalms.139.01.t001",
@@ -110,16 +101,19 @@
           "gloss": "",
           "semantic": []
         }
+      ],
+      "semantic_summary": [
+        "PERCEPTION",
+        "PRAISE",
+        "MUSIC",
+        "SYMBOL"
       ]
     },
     {
-      "n": 2,
+      "ref": "139:2",
       "he": "אַתָּ֣ה יָ֭דַעְתָּ שִׁבְתִּ֣י וְקוּמִ֑י בַּ֥נְתָּה לְ֝רֵעִ֗י מֵרָחֽוֹק׃",
       "en": "You know my sitting down and my rising up; you understand my thought from afar.",
       "tr": "ʾatā֣h yā֭daʿətā šibəti֣y wəqwmi֑y ba֥nətāh lə֝rēʿi֗y mērāḥwōq.",
-      "semantic_summary": [
-        "PERCEPTION"
-      ],
       "tokens": [
         {
           "id": "psalms.139.02.t001",
@@ -216,14 +210,16 @@
           "gloss": "",
           "semantic": []
         }
+      ],
+      "semantic_summary": [
+        "PERCEPTION"
       ]
     },
     {
-      "n": 3,
+      "ref": "139:3",
       "he": "אָרְחִ֣י וְרִבְעִ֣י זֵרִ֑יתָ וְֽכָל־דְּרָכַ֥י הִסְכַּֽנְתָּה׃",
       "en": "My path and my lying down you sift; and you are acquainted with all my ways.",
       "tr": "ʾārəḥi֣y wəribəʿi֣y zēri֑ytā wəkāl-dərāka֥y hisəkanətāh.",
-      "semantic_summary": [],
       "tokens": [
         {
           "id": "psalms.139.03.t001",
@@ -305,18 +301,14 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "semantic_summary": []
     },
     {
-      "n": 4,
+      "ref": "139:4",
       "he": "כִּ֤י אֵ֣ין מִ֭לָּה בִּלְשׁוֹנִ֑י הֵ֥ן יְ֝הוָ֗ה יָדַ֥עְתָּ כֻלָּֽהּ׃",
       "en": "For there is not a word on my tongue—behold, O LORD, you know it all.",
       "tr": "ki֤y ʾē֣yn mi֭lāh biləšwōni֑y hē֥n yə֝hwā֗h yāda֥ʿətā kulāh.",
-      "semantic_summary": [
-        "PERCEPTION",
-        "PRAISE",
-        "SYMBOL"
-      ],
       "tokens": [
         {
           "id": "psalms.139.04.t001",
@@ -430,14 +422,18 @@
           "gloss": "",
           "semantic": []
         }
+      ],
+      "semantic_summary": [
+        "PERCEPTION",
+        "PRAISE",
+        "SYMBOL"
       ]
     },
     {
-      "n": 5,
+      "ref": "139:5",
       "he": "אָח֣וֹר וָקֶ֣דֶם צַרְתָּ֑נִי וַתָּ֖שֶׁת עָלַ֣י כַּפֶּֽכָה׃",
       "en": "Behind and before you hem me in, and you lay your hand upon me.",
       "tr": "ʾāḥ֣wōr wāqe֣dem ṣarətā֑niy watā֖šet ʿāla֣y kapekāh.",
-      "semantic_summary": [],
       "tokens": [
         {
           "id": "psalms.139.05.t001",
@@ -519,14 +515,14 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "semantic_summary": []
     },
     {
-      "n": 6,
+      "ref": "139:6",
       "he": "פִּלְאִ֣יָה דַ֣עַת מִמֶּ֑נִּי נִ֝שְׂגְּבָ֗ה לֹא־א֥וּכַֽל לָֽהּ׃",
       "en": "Such knowledge is too wonderful for me; it is high—I cannot attain it.",
       "tr": "piləʾi֣yāh da֣ʿat mime֑niy ni֝šəgəbā֗h lōʾ-ʾ֥wkal lāh.",
-      "semantic_summary": [],
       "tokens": [
         {
           "id": "psalms.139.06.t001",
@@ -620,19 +616,14 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "semantic_summary": []
     },
     {
-      "n": 7,
+      "ref": "139:7",
       "he": "אָ֭נָ֥ה אֵלֵ֣ךְ מֵרוּחֶ֑ךָ וְ֝אָ֗נָה מִפָּנֶ֥יךָ אֶבְרָֽח׃",
       "en": "Where shall I go from your Spirit? Or where shall I flee from your presence?",
       "tr": "ʾā֭nā֥h ʾēlē֣kə mērwḥe֑kā wə֝ʾā֗nāh mipāne֥ykā ʾebərāḥ.",
-      "semantic_summary": [
-        "MOTION",
-        "PLACE",
-        "PERCEPTION",
-        "SYMBOL"
-      ],
       "tokens": [
         {
           "id": "psalms.139.07.t001",
@@ -723,17 +714,19 @@
             "MOTION"
           ]
         }
+      ],
+      "semantic_summary": [
+        "MOTION",
+        "PLACE",
+        "PERCEPTION",
+        "SYMBOL"
       ]
     },
     {
-      "n": 8,
+      "ref": "139:8",
       "he": "אִם־אֶסַּ֣ק שָׁ֭מַיִם שָׁ֣ם אָ֑תָּה וְאַצִּ֖יעָה שְּׁא֣וֹל הִנֶּֽךָּ׃",
       "en": "If I ascend to heaven, you are there; if I make my bed in Sheol, behold, you are there.",
       "tr": "ʾim-ʾesa֣q šā֭mayim šā֣m ʾā֑tāh wəʾaṣi֖yʿāh šəʾ֣wōl hinekā.",
-      "semantic_summary": [
-        "PLACE",
-        "SYMBOL"
-      ],
       "tokens": [
         {
           "id": "psalms.139.08.t001",
@@ -845,16 +838,17 @@
           "gloss": "",
           "semantic": []
         }
+      ],
+      "semantic_summary": [
+        "PLACE",
+        "SYMBOL"
       ]
     },
     {
-      "n": 9,
+      "ref": "139:9",
       "he": "אֶשָּׂ֥א כַנְפֵי־שָׁ֑חַר אֶ֝שְׁכְּנָ֗ה בְּאַחֲרִ֥ית יָֽם׃",
       "en": "If I lift the wings of the dawn, if I dwell at the farthest end of the sea,",
       "tr": "ʾešā֥ʾ kanəpēy-šā֑ḥar ʾe֝šəkənā֗h bəʾaḥări֥yt yām.",
-      "semantic_summary": [
-        "PLACE"
-      ],
       "tokens": [
         {
           "id": "psalms.139.09.t001",
@@ -936,16 +930,16 @@
             "PLACE"
           ]
         }
+      ],
+      "semantic_summary": [
+        "PLACE"
       ]
     },
     {
-      "n": 10,
+      "ref": "139:10",
       "he": "גַּם־שָׁ֭ם יָדְךָ֣ תַנְחֵ֑נִי וְֽתֹאחֲזֵ֥נִי יְמִינֶֽךָ׃",
       "en": "Even there your hand shall lead me, and your right hand shall hold me.",
       "tr": "gam-šā֭m yādəkā֣ tanəḥē֑niy wətōʾḥăzē֥niy yəmiynekā.",
-      "semantic_summary": [
-        "BODY"
-      ],
       "tokens": [
         {
           "id": "psalms.139.10.t001",
@@ -1030,17 +1024,16 @@
             "BODY"
           ]
         }
+      ],
+      "semantic_summary": [
+        "BODY"
       ]
     },
     {
-      "n": 11,
+      "ref": "139:11",
       "he": "וָ֭אֹמַר אַךְ־חֹ֣שֶׁךְ יְשׁוּפֵ֑נִי וְ֝לַ֗יְלָה א֣וֹר בַּעֲדֵֽנִי׃",
       "en": "And I said, “Surely darkness will crush me, and the light about me will become night.”",
       "tr": "wā֭ʾōmar ʾakə-ḥō֣šekə yəšwpē֑niy wə֝la֗yəlāh ʾ֣wōr baʿădēniy.",
-      "semantic_summary": [
-        "WEATHER",
-        "SYMBOL"
-      ],
       "tokens": [
         {
           "id": "psalms.139.11.t001",
@@ -1141,17 +1134,17 @@
           "gloss": "",
           "semantic": []
         }
-      ]
-    },
-    {
-      "n": 12,
-      "he": "גַּם־חֹשֶׁךְ֮ לֹֽא־יַחְשִׁ֪יךְ מִ֫מֶּ֥ךָ וְ֭לַיְלָה כַּיּ֣וֹם יָאִ֑יר כַּ֝חֲשֵׁיכָ֗ה כָּאוֹרָֽה׃",
-      "en": "Even darkness is not dark to you: the night shines like the day; darkness is like light.",
-      "tr": "gam-ḥōšekə֮ lōʾ-yaḥəši֪ykə mi֫me֥kā wə֭layəlāh kay֣wōm yāʾi֑yr ka֝ḥăšēykā֗h kāʾwōrāh.",
+      ],
       "semantic_summary": [
         "WEATHER",
         "SYMBOL"
-      ],
+      ]
+    },
+    {
+      "ref": "139:12",
+      "he": "גַּם־חֹשֶׁךְ֮ לֹֽא־יַחְשִׁ֪יךְ מִ֫מֶּ֥ךָ וְ֭לַיְלָה כַּיּ֣וֹם יָאִ֑יר כַּ֝חֲשֵׁיכָ֗ה כָּאוֹרָֽה׃",
+      "en": "Even darkness is not dark to you: the night shines like the day; darkness is like light.",
+      "tr": "gam-ḥōšekə֮ lōʾ-yaḥəši֪ykə mi֫me֥kā wə֭layəlāh kay֣wōm yāʾi֑yr ka֝ḥăšēykā֗h kāʾwōrāh.",
       "tokens": [
         {
           "id": "psalms.139.12.t001",
@@ -1288,14 +1281,17 @@
           "gloss": "",
           "semantic": []
         }
+      ],
+      "semantic_summary": [
+        "WEATHER",
+        "SYMBOL"
       ]
     },
     {
-      "n": 13,
+      "ref": "139:13",
       "he": "כִּֽי־אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי׃",
       "en": "For you formed my inward parts; you wove me together in my mother’s womb.",
       "tr": "kiy-ʾa֭tāh qāni֣ytā kiləyōtā֑y tə֝sukē֗niy bəbe֣ṭen ʾimiy.",
-      "semantic_summary": [],
       "tokens": [
         {
           "id": "psalms.139.13.t001",
@@ -1388,14 +1384,14 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "semantic_summary": []
     },
     {
-      "n": 14,
+      "ref": "139:14",
       "he": "אוֹדְךָ֗ עַ֤ל כִּ֥י נוֹרָא֗וֹת נִ֫פְלֵ֥יתִי נִפְלָאִ֥ים מַעֲשֶׂ֑יךָ וְ֝נַפְשִׁ֗י יֹדַ֥עַת מְאֹֽד׃",
       "en": "I praise you, for I am fearfully, wonderfully made; wonderful are your works, and my soul knows it very well.",
       "tr": "ʾwōdəkā֗ ʿa֤l ki֥y nwōrāʾ֗wōt ni֫pəlē֥ytiy nipəlāʾi֥ym maʿăše֑ykā wə֝napəši֗y yōda֥ʿat məʾōd.",
-      "semantic_summary": [],
       "tokens": [
         {
           "id": "psalms.139.14.t001",
@@ -1528,14 +1524,14 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "semantic_summary": []
     },
     {
-      "n": 15,
+      "ref": "139:15",
       "he": "לֹא־נִכְחַ֥ד עָצְמִ֗י מִ֫מֶּ֥ךָּ אֲשֶׁר־עֻשֵּׂ֥יתִי בַסֵּ֑תֶר רֻ֝קַּ֗מְתִּי בְּֽתַחְתִּיּ֥וֹת אָֽרֶץ׃",
       "en": "My frame was not hidden from you when I was made in secret, intricately woven in the depths of the earth.",
       "tr": "lōʾ-nikəḥa֥d ʿāṣəmi֗y mi֫me֥kā ʾăšer-ʿušē֥ytiy basē֑ter ru֝qa֗mətiy bətaḥətiy֥wōt ʾāreṣ.",
-      "semantic_summary": [],
       "tokens": [
         {
           "id": "psalms.139.15.t001",
@@ -1668,17 +1664,14 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "semantic_summary": []
     },
     {
-      "n": 16,
+      "ref": "139:16",
       "he": "גָּלְמִ֤י ׀ רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל־סִפְרְךָ֮ כֻּלָּ֪ם יִכָּ֫תֵ֥בוּ יָמִ֥ים יֻצָּ֑רוּ וְלֹ֥א אֶחָ֣ד בָּהֶֽם׃",
       "en": "Your eyes saw my unformed substance; and in your book they were all written—the days were formed, when not one of them yet existed.",
       "tr": "gāləmi֤y | rā֘ʾ֤w ʿēyne֗ykā wəʿal-sipərəkā֮ kulā֪m yikā֫tē֥bw yāmi֥ym yuṣā֑rw wəlō֥ʾ ʾeḥā֣d bāhem.",
-      "semantic_summary": [
-        "BODY",
-        "PERCEPTION"
-      ],
       "tokens": [
         {
           "id": "psalms.139.16.t001",
@@ -1841,17 +1834,17 @@
           "gloss": "",
           "semantic": []
         }
+      ],
+      "semantic_summary": [
+        "BODY",
+        "PERCEPTION"
       ]
     },
     {
-      "n": 17,
+      "ref": "139:17",
       "he": "וְלִ֗י מַה־יָּקְר֣וּ רֵעֶ֣יךָ אֵ֑ל מֶ֥ה עָ֝צְמוּ רָאשֵׁיהֶֽם׃",
       "en": "And to me—how precious are your thoughts, O God! How vast is the sum of them!",
       "tr": "wəli֗y mah-yāqər֣w rēʿe֣ykā ʾē֑l me֥h ʿā֝ṣəmw rāʾšēyhem.",
-      "semantic_summary": [
-        "PRAISE",
-        "SYMBOL"
-      ],
       "tokens": [
         {
           "id": "psalms.139.17.t001",
@@ -1962,14 +1955,17 @@
           "gloss": "",
           "semantic": []
         }
+      ],
+      "semantic_summary": [
+        "PRAISE",
+        "SYMBOL"
       ]
     },
     {
-      "n": 18,
+      "ref": "139:18",
       "he": "אֶ֭סְפְּרֵם מֵח֣וֹל יִרְבּ֑וּן הֱ֝קִיצֹ֗תִי וְעוֹדִ֥י עִמָּֽךְ׃",
       "en": "If I should count them, they are more than the sand. When I awake, I am still with you.",
       "tr": "ʾe֭səpərēm mēḥ֣wōl yirəb֑wn hĕ֝qiyṣō֗tiy wəʿwōdi֥y ʿimākə.",
-      "semantic_summary": [],
       "tokens": [
         {
           "id": "psalms.139.18.t001",
@@ -2051,18 +2047,14 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "semantic_summary": []
     },
     {
-      "n": 19,
+      "ref": "139:19",
       "he": "אִם־תִּקְטֹ֖ל אֱל֥וֹהַּ ׀ רָשָׁ֑ע וְאַנְשֵׁ֥י דָ֝מִ֗ים ס֣וּרוּ מֶֽנִּי׃",
       "en": "If only you would slay the wicked, O God! O men of blood, depart from me!",
       "tr": "ʾim-tiqəṭō֖l ʾĕl֥wōha | rāšā֑ʿ wəʾanəšē֥y dā֝mi֗ym s֣wrw meniy.",
-      "semantic_summary": [
-        "PRAISE",
-        "DAMAGE",
-        "SYMBOL"
-      ],
       "tokens": [
         {
           "id": "psalms.139.19.t001",
@@ -2177,14 +2169,18 @@
           "gloss": "",
           "semantic": []
         }
+      ],
+      "semantic_summary": [
+        "PRAISE",
+        "DAMAGE",
+        "SYMBOL"
       ]
     },
     {
-      "n": 20,
+      "ref": "139:20",
       "he": "אֲשֶׁ֣ר יֹ֭אמְרֻךָ לִמְזִמָּ֑ה נָשֻׂ֖א לַשָּׁ֣וְא עָרֶֽיךָ׃",
       "en": "Who speak against you with evil intent, and take your name in vain—your adversaries.",
       "tr": "ʾăše֣r yō֭ʾmərukā liməzimā֑h nāšu֖ʾ lašā֣wəʾ ʿāreykā.",
-      "semantic_summary": [],
       "tokens": [
         {
           "id": "psalms.139.20.t001",
@@ -2264,17 +2260,14 @@
           "gloss": "",
           "semantic": []
         }
-      ]
+      ],
+      "semantic_summary": []
     },
     {
-      "n": 21,
+      "ref": "139:21",
       "he": "הֲלֽוֹא־מְשַׂנְאֶ֖יךָ יְהוָ֥ה ׀ אֶשְׂנָ֑א וּ֝בִתְקוֹמְמֶ֗יךָ אֶתְקוֹטָֽט׃",
       "en": "Do I not hate those who hate you, O LORD? And do I not contend with those who rise up against you?",
       "tr": "hălwōʾ-məšanəʾe֖ykā yəhwā֥h | ʾešənā֑ʾ w֝bitəqwōməme֗ykā ʾetəqwōṭāṭ.",
-      "semantic_summary": [
-        "PRAISE",
-        "SYMBOL"
-      ],
       "tokens": [
         {
           "id": "psalms.139.21.t001",
@@ -2359,16 +2352,17 @@
           "gloss": "",
           "semantic": []
         }
+      ],
+      "semantic_summary": [
+        "PRAISE",
+        "SYMBOL"
       ]
     },
     {
-      "n": 22,
+      "ref": "139:22",
       "he": "תַּכְלִ֣ית שִׂנְאָ֣ה שְׂנֵאתִ֑ים לְ֝אוֹיְבִ֗ים הָ֣יוּ לִֽי׃",
       "en": "I hate them with complete hatred; they have become enemies to me.",
       "tr": "takəli֣yt šinəʾā֣h šənēʾti֑ym lə֝ʾwōyəbi֗ym hā֣yw liy.",
-      "semantic_summary": [
-        "DAMAGE"
-      ],
       "tokens": [
         {
           "id": "psalms.139.22.t001",
@@ -2454,17 +2448,16 @@
           "gloss": "",
           "semantic": []
         }
+      ],
+      "semantic_summary": [
+        "DAMAGE"
       ]
     },
     {
-      "n": 23,
+      "ref": "139:23",
       "he": "חָקְרֵ֣נִי אֵ֭ל וְדַ֣ע לְבָבִ֑י בְּ֝חָנֵ֗נִי וְדַ֣ע שַׂרְעַפָּֽי׃",
       "en": "Search me, O God, and know my heart; test me, and know my anxious thoughts.",
       "tr": "ḥāqərē֣niy ʾē֭l wəda֣ʿ ləbābi֑y bə֝ḥānē֗niy wəda֣ʿ šarəʿapāy.",
-      "semantic_summary": [
-        "PRAISE",
-        "SYMBOL"
-      ],
       "tokens": [
         {
           "id": "psalms.139.23.t001",
@@ -2564,17 +2557,17 @@
           "gloss": "",
           "semantic": []
         }
+      ],
+      "semantic_summary": [
+        "PRAISE",
+        "SYMBOL"
       ]
     },
     {
-      "n": 24,
+      "ref": "139:24",
       "he": "וּרְאֵ֗ה אִם־דֶּֽרֶךְ־עֹ֥צֶב בִּ֑י וּ֝נְחֵ֗נִי בְּדֶ֣רֶךְ עוֹלָֽם׃",
       "en": "And see if there is any grievous way in me, and lead me in the way everlasting.",
       "tr": "wrəʾē֗h ʾim-derekə-ʿō֥ṣeb bi֑y w֝nəḥē֗niy bəde֣rekə ʿwōlām.",
-      "semantic_summary": [
-        "MOTION",
-        "SYMBOL"
-      ],
       "tokens": [
         {
           "id": "psalms.139.24.t001",
@@ -2685,6 +2678,10 @@
           "gloss": "",
           "semantic": []
         }
+      ],
+      "semantic_summary": [
+        "MOTION",
+        "SYMBOL"
       ]
     }
   ],
@@ -3018,5 +3015,16 @@
       "a": "Omniscience & omnipresence (vv.1–12) + creation/intimacy (vv.13–18), then ethical alignment and a closing prayer (vv.19–24)."
     }
   ],
-  "annotations": []
+  "annotations": [],
+  "spec_version": "1.3",
+  "book_slug": "psalms",
+  "title": "Psalms - Chapter 139",
+  "generated_at": "2026-02-28",
+  "tagset": {
+    "name": "ETCBC-like",
+    "version": "1.0",
+    "notes": "features object follows ETCBC-like categories; morph is derived display."
+  },
+  "ref_system": "MT",
+  "subtitle": "תְּהִלִּים (Tehillim)"
 }

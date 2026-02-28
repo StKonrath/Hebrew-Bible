@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Psalms — Contents</title>
+  <link rel="stylesheet" href="../../assets/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><a href="../../index.html">Hebrew Bible</a></div>
+    <div class="muted">Psalms</div>
+  </header>
+
+  <main class="container">
+    <h1>Psalms</h1>
+    <p class="muted">Choose a chapter.</p>
+    <div id="toc"></div>
+  </main>
+
+  <script src="../../bible_index.js"></script>
+  <script src="../../assets/app.js"></script>
+  <script>
+    (async function(){
+      const idx = await loadIndex();
+      window.renderBookTOC(idx, "psalms");
+    })();
+  </script>
+</body>
+</html>

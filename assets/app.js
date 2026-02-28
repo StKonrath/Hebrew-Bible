@@ -230,8 +230,127 @@ function tokenizeHebrew(he){
 }
 
 
+
+function parseVerseNum(ref){
+  // ref like "2:17"
+  const m = String(ref||'').match(/:(\d+)/);
+  return m ? parseInt(m[1],10) : null;
+}
+
+function verseRange(data){
+  const nums = (data.verses||[]).map(v=>parseVerseNum(v.ref)).filter(n=>Number.isFinite(n));
+  if (!nums.length) return null;
+  const min = Math.min.apply(null, nums);
+  const max = Math.max.apply(null, nums);
+  return {min, max};
+}
+
+// --- Compatibility + normalization layer ---------------------------------
+// Goal: accept older / ad-hoc chapter JSON shapes (e.g. {book:{name,slug}, verses:[{n,...}]})
+// and normalize into Spec v1.2-ish shape expected by the renderer.
+function normalizeChapterData(raw){
+  const data = raw && typeof raw === 'object' ? JSON.parse(JSON.stringify(raw)) : {};
+
+  // spec_version
+  if (!data.spec_version) {
+    if (typeof data.spec === 'string') data.spec_version = data.spec;
+    else if (data.spec && typeof data.spec === 'object' && data.spec.version) data.spec_version = String(data.spec.version);
+  }
+
+  // book/name/slug
+  if (data.book && typeof data.book === 'object') {
+    if (!data.book_name && data.book.name) data.book_name = data.book.name;
+    if (!data.book_slug && data.book.slug) data.book_slug = data.book.slug;
+  }
+  // Some inputs use book_name instead of book
+  if (typeof data.book !== 'string') {
+    if (typeof data.book_name === 'string') data.book = data.book_name;
+    else if (data.book && typeof data.book === 'object' && typeof data.book.name === 'string') data.book = data.book.name;
+  }
+  if (!data.book_slug && data.book && typeof data.book === 'object' && data.book.slug) data.book_slug = data.book.slug;
+  if (!data.book_slug && typeof data.book === 'string') {
+    // best-effort slugify
+    data.book_slug = String(data.book).toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');
+  }
+
+  // title
+  if (!data.title || typeof data.title !== 'string') {
+    const b = (typeof data.book === 'string' && data.book) ? data.book : 'Book';
+    const ch = data.chapter || '';
+    data.title = `${b} - Chapter ${ch}`.trim();
+  }
+
+  // verses: ensure ref exists; accept {n:1,...} as verse number.
+  const chNum = data.chapter || (data.verses && data.verses[0] && data.verses[0].ref ? String(data.verses[0].ref).split(':')[0] : null);
+  (data.verses||[]).forEach((v,i)=>{
+    if (!v.ref) {
+      const n = (v.n != null ? v.n : (i+1));
+      v.ref = `${chNum || data.chapter || 1}:${n}`;
+    }
+    // normalize missing fields
+    if (typeof v.en !== 'string') v.en = v.en == null ? '' : String(v.en);
+    if (typeof v.tr !== 'string') v.tr = v.tr == null ? '' : String(v.tr);
+    if (!Array.isArray(v.tokens)) v.tokens = [];
+  });
+
+  return data;
+}
+
+function formatChapterTitle(data){
+  const book = (typeof data.book === 'string' ? data.book : (data.book_name || (data.book && data.book.name))) || 'Book';
+  const ch = data.chapter || (String((data.verses||[{}])[0].ref||'').split(':')[0] || '');
+  return `${book} - Chapter ${ch}`;
+}
+
+function getSubtitle(data){
+  // Optional: provide in JSON as `subtitle` or `book_subtitle` or `book_hebrew`.
+  return data.subtitle || data.book_subtitle || data.book_hebrew || data.book_he || '';
+}
+
+function buildBreadcrumb(data){
+  const base = getSiteBase();
+  const slug = data.book_slug || '';
+  const bookName = (typeof data.book === 'string' ? data.book : (data.book_name || (data.book && data.book.name))) || 'Book';
+  const ch = data.chapter || '';
+  const home = `<a href="${homeUrl()}">Home</a>`;
+  const book = slug ? `<a href="${base}books/${slug}/index.html">${esc(bookName)}</a>` : esc(bookName);
+  const chap = `<span>Chapter ${esc(String(ch))}</span>`;
+  return `${home} <span class="crumb-sep">›</span> ${book} <span class="crumb-sep">›</span> ${chap}`;
+}
 function renderChapter(data) {
-  document.getElementById('chapterTitle').textContent = data.title || 'Chapter';
+  const title = formatChapterTitle(data);
+  document.getElementById('chapterTitle').textContent = title;
+  // SEO title
+  document.title = `${title} | Hebrew Bible`;
+
+  // Breadcrumb
+  const h1 = document.getElementById('chapterTitle');
+  let bc = document.getElementById('chapterBreadcrumb');
+  if (!bc) {
+    bc = document.createElement('nav');
+    bc.id = 'chapterBreadcrumb';
+    bc.className = 'breadcrumb';
+    h1.parentNode.insertBefore(bc, h1);
+  }
+  bc.innerHTML = buildBreadcrumb(data);
+
+  // Subtitle + verse range
+  const sub = getSubtitle(data);
+  const vr = verseRange(data);
+  const vrText = vr ? `verses ${vr.min}–${vr.max}` : '';
+  let meta = document.getElementById('chapterMeta');
+  if (!meta) {
+    meta = document.createElement('div');
+    meta.id = 'chapterMeta';
+    meta.className = 'chapter-meta';
+    h1.parentNode.insertBefore(meta, h1.nextSibling);
+  }
+  meta.innerHTML = [
+    sub ? `<div class="subtitle">${escapeHtml(sub)}</div>` : ``,
+    vrText ? `<div class="muted small">${escapeHtml(vrText)}</div>` : ``
+  ].join('');
+
+  
 
   const tokenIndex = new Map();
   (data.verses||[]).forEach(v => (v.tokens||[]).forEach(t => tokenIndex.set(t.id, t)));
@@ -374,8 +493,7 @@ function speakVerse(ref){
 window.speakVerse = speakVerse;
 
 async function renderChapterPage(slug, chapter) {
-  const idx = await loadIndex();
-  buildTopNav(idx, {type:'chapter', slug, chapter});
+  // Load chapter data first (so we can normalize and recover missing book metadata)
   let data = window.__chapterData;
   if (!data) {
     const res = await fetch('./data.json');
@@ -383,12 +501,33 @@ async function renderChapterPage(slug, chapter) {
     data = await res.json();
     window.__chapterData = data;
   }
+
+  data = normalizeChapterData(data);
+  window.__chapterData = data;
+
+  // Load index and ensure current book exists (best-effort)
+  const idx = await loadIndex();
+  idx.books = idx.books || [];
+  const curSlug = data.book_slug || slug;
+  const curName = (typeof data.book === 'string' ? data.book : (data.book_name || (data.book && data.book.name))) || curSlug;
+  if (!idx.books.find(b => b.slug === curSlug)) {
+    idx.books.push({
+      name: curName,
+      slug: curSlug,
+      chapters: data.book_chapters || data.chapters || data.chapter || 1,
+      abbr: (curName||'').split(/\s+/)[0] || curSlug
+    });
+    // stable-ish ordering: keep existing order, append unknown books last
+  }
+
+  buildTopNav(idx, {type:'chapter', slug: curSlug, chapter});
+
   renderChapter(data);
   setupControls();
   applyToggles();
 
   // Prev/Next links
-  const book = (idx.books||[]).find(b => b.slug === slug);
+  const book = (idx.books||[]).find(b => b.slug === curSlug);
   const chNum = parseInt(chapter,10);
   const prev = document.getElementById('prevNext');
   if (book && prev){
@@ -404,16 +543,19 @@ async function renderChapterPage(slug, chapter) {
 
 (async function main(){
   const ctx = parsePath();
-  if (document.body.dataset.page === 'landing'){
+  const page = document.body.dataset.page || ctx.type;
+  if (page === 'landing'){
     await renderLanding();
     return;
   }
-  if (document.body.dataset.page === 'book'){
-    await renderBookTOC(document.body.dataset.slug);
+  if (page === 'book'){
+    // Prefer URL-derived slug to avoid manual edits in copied templates
+    await renderBookTOC(ctx.slug || document.body.dataset.slug);
     return;
   }
-  if (document.body.dataset.page === 'chapter'){
-    await renderChapterPage(document.body.dataset.slug, document.body.dataset.chapter);
+  if (page === 'chapter'){
+    // Prefer URL-derived slug/chapter to avoid manual edits in copied templates
+    await renderChapterPage(ctx.slug || document.body.dataset.slug, ctx.chapter || document.body.dataset.chapter);
     return;
   }
 })();

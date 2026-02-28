@@ -3,6 +3,8 @@
 This is a living backlog of product + engineering improvements for the long-term “computational Hebrew engine” vision.
 
 ## P0 — Fixes / correctness
+- [x] **Chapter title normalization + SEO + breadcrumbs**: renderer derives a canonical title from `book` + `chapter`, with optional subtitle and verse range display.
+
 - [x] **Header navigation 404**: fix book+chapter dropdown generating `.../books/books/...` on GitHub Pages (root cause: wrong relative path when current URL ends in `index.html`).
 - [ ] Add a lightweight **schema validator** (Spec v1.2) to catch missing fields (`lemma/root/gloss/features/morph/semantic`) before publishing.
 - [ ] Normalize tokenization rules: maqaf splitting, punctuation stripping, consistent handling of sof pasuq and paseq.

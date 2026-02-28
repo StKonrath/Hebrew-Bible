@@ -137,3 +137,12 @@ details summary{cursor:pointer; font-weight:600;}
   background: rgba(37,99,235,0.08);
   outline: 1px solid rgba(37,99,235,0.18);
 }
+
+
+/* Breadcrumb + chapter meta */
+.breadcrumb{font-size:13px; margin: 8px 0 10px; color: rgba(0,0,0,.65);} 
+.breadcrumb a{color: inherit; text-decoration: none; border-bottom: 1px solid rgba(0,0,0,.15);} 
+.breadcrumb a:hover{border-bottom-color: rgba(0,0,0,.45);} 
+.breadcrumb .crumb-sep{margin: 0 6px; color: rgba(0,0,0,.35);} 
+.chapter-meta{margin: 6px 0 18px;} 
+.chapter-meta .subtitle{font-size:14px; font-weight:600; margin-bottom:4px;}

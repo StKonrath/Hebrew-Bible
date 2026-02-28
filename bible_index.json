@@ -2,10 +2,18 @@
   "generated_at": "2026-02-27",
   "books": [
     {
+      "name": "Psalms",
+      "slug": "psalms",
+      "chapters": 150,
+      "order": 19,
+      "testament": "OT"
+    },
+    {
       "name": "Song of Songs",
       "slug": "song-of-songs",
       "chapters": 8,
       "abbr": "Song"
     }
-  ]
+  ],
+  "spec_version": "1.2"
 }
