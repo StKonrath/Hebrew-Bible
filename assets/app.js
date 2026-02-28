@@ -12,6 +12,27 @@ function esc(s){
   return (s||'').toString().replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 }
 
+
+function renderErrorBox(err){
+  try{
+    const wrap = document.querySelector('main.wrap') || document.body;
+    let box = document.getElementById('runtimeErrorBox');
+    if (!box){
+      box = document.createElement('div');
+      box.id = 'runtimeErrorBox';
+      box.className = 'card';
+      box.style.border = '1px solid rgba(239,68,68,0.35)';
+      box.style.background = 'rgba(239,68,68,0.06)';
+      box.style.margin = '16px auto';
+      box.style.maxWidth = '1100px';
+      wrap.prepend(box);
+    }
+    box.innerHTML = `<div class="h2" style="margin-bottom:6px;">Renderer error</div>
+      <div class="muted small">A JavaScript error prevented rendering the chapter content.</div>
+      <pre class="mono" style="white-space:pre-wrap; margin-top:10px;">${esc(String(err && err.stack ? err.stack : err))}</pre>`;
+  }catch(_){}
+}
+
 function pad2(n){ return String(n).padStart(2,'0'); }
 
 function getSiteBase() {
@@ -317,28 +338,9 @@ function buildBreadcrumb(data){
   const chap = `<span>Chapter ${esc(String(ch))}</span>`;
   return `${home} <span class="crumb-sep">›</span> ${book} <span class="crumb-sep">›</span> ${chap}`;
 }
-
-function renderErrorBox(err){
-  try{
-    const wrap = document.querySelector('main.wrap') || document.body;
-    let box = document.getElementById('runtimeErrorBox');
-    if (!box){
-      box = document.createElement('div');
-      box.id = 'runtimeErrorBox';
-      box.className = 'card';
-      box.style.border = '1px solid rgba(239,68,68,0.35)';
-      box.style.background = 'rgba(239,68,68,0.06)';
-      box.style.margin = '16px auto';
-      box.style.maxWidth = '1100px';
-      wrap.prepend(box);
-    }
-    box.innerHTML = `<div class="h2" style="margin-bottom:6px;">Renderer error</div>
-      <div class="muted small">This page loaded, but a JavaScript error prevented rendering the chapter content.</div>
-      <pre class="mono" style="white-space:pre-wrap; margin-top:10px;">${escapeHtml(String(err && err.stack ? err.stack : err))}</pre>`;
-  }catch(_){}
-}
 function renderChapter(data) {
   try{
+
   const title = formatChapterTitle(data);
   document.getElementById('chapterTitle').textContent = title;
   // SEO title
@@ -367,8 +369,8 @@ function renderChapter(data) {
     h1.parentNode.insertBefore(meta, h1.nextSibling);
   }
   meta.innerHTML = [
-    sub ? `<div class="subtitle">${escapeHtml(sub)}</div>` : ``,
-    vrText ? `<div class="muted small">${escapeHtml(vrText)}</div>` : ``
+    sub ? `<div class="subtitle">${esc(sub)}</div>` : ``,
+    vrText ? `<div class="muted small">${esc(vrText)}</div>` : ``
   ].join('');
 
   
@@ -450,6 +452,10 @@ function renderChapter(data) {
 
   // Token click handler
   wireTokenClicks();
+
+  }catch(err){
+    renderErrorBox(err);
+  }
 }
 
 
@@ -461,10 +467,6 @@ function applyToggles(){
   document.querySelectorAll('.enBlock').forEach(el => el.style.display = showEng ? 'block':'none');
   document.querySelectorAll('.trBlock').forEach(el => el.style.display = showEng ? 'block':'none');
   document.querySelectorAll('.ilBlock').forEach(el => el.style.display = showIL ? 'block':'none');
-  }catch(err){
-    renderErrorBox(err);
-  }
-
 }
 
 function setActive(btn, active){ btn.classList.toggle('active', active); }
