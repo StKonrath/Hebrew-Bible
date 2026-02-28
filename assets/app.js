@@ -317,7 +317,28 @@ function buildBreadcrumb(data){
   const chap = `<span>Chapter ${esc(String(ch))}</span>`;
   return `${home} <span class="crumb-sep">›</span> ${book} <span class="crumb-sep">›</span> ${chap}`;
 }
+
+function renderErrorBox(err){
+  try{
+    const wrap = document.querySelector('main.wrap') || document.body;
+    let box = document.getElementById('runtimeErrorBox');
+    if (!box){
+      box = document.createElement('div');
+      box.id = 'runtimeErrorBox';
+      box.className = 'card';
+      box.style.border = '1px solid rgba(239,68,68,0.35)';
+      box.style.background = 'rgba(239,68,68,0.06)';
+      box.style.margin = '16px auto';
+      box.style.maxWidth = '1100px';
+      wrap.prepend(box);
+    }
+    box.innerHTML = `<div class="h2" style="margin-bottom:6px;">Renderer error</div>
+      <div class="muted small">This page loaded, but a JavaScript error prevented rendering the chapter content.</div>
+      <pre class="mono" style="white-space:pre-wrap; margin-top:10px;">${escapeHtml(String(err && err.stack ? err.stack : err))}</pre>`;
+  }catch(_){}
+}
 function renderChapter(data) {
+  try{
   const title = formatChapterTitle(data);
   document.getElementById('chapterTitle').textContent = title;
   // SEO title
@@ -357,6 +378,7 @@ function renderChapter(data) {
   window.__tokenIndex = tokenIndex;
 
   const versesEl = document.getElementById('verses');
+  if (!versesEl) throw new Error('Missing #verses container in index.html template');
   versesEl.innerHTML = (data.verses||[]).map(v=>{
     const tokens = v.tokens && v.tokens.length ? v.tokens : tokenizeHebrewToTokens(v.he, data, v.ref);
     const hebSpans = tokens.map(t => {
@@ -396,7 +418,7 @@ function renderChapter(data) {
 
   // Help panels
   const g = document.getElementById('grammar');
-  g.innerHTML = (data.grammar||[]).map(n=>`
+  if (g) g.innerHTML = (data.grammar||[]).map(n=>`
     <div class="item" style="margin-bottom:10px;">
       <div><b>${esc(n.title)}</b> <span class="tag">${esc(n.id)}</span></div>
       <div class="muted small" style="margin-top:6px;">${esc(n.body)}</div>
@@ -404,7 +426,7 @@ function renderChapter(data) {
   `).join('');
 
   const l = document.getElementById('lexicon');
-  l.innerHTML = (data.lexicon||[]).map(x=>`
+  if (l) l.innerHTML = (data.lexicon||[]).map(x=>`
     <div class="item" style="margin-bottom:10px;">
       <div style="display:flex; justify-content:space-between; gap:10px; flex-wrap:wrap; align-items:baseline;">
         <div class="lex-lemma"><b dir="rtl">${esc(x.lemma)}</b> <span class="muted">(${esc(x.pos)})</span></div>
@@ -418,7 +440,7 @@ function renderChapter(data) {
   `).join('');
 
   const e = document.getElementById('exercises');
-  e.innerHTML = (data.exercises||[]).map((x,i)=>`
+  if (e) e.innerHTML = (data.exercises||[]).map((x,i)=>`
     <details>
       <summary>Exercise ${i+1}</summary>
       <div class="muted" style="margin-top:10px;"><b>Q:</b> ${esc(x.q)}</div>
@@ -439,6 +461,10 @@ function applyToggles(){
   document.querySelectorAll('.enBlock').forEach(el => el.style.display = showEng ? 'block':'none');
   document.querySelectorAll('.trBlock').forEach(el => el.style.display = showEng ? 'block':'none');
   document.querySelectorAll('.ilBlock').forEach(el => el.style.display = showIL ? 'block':'none');
+  }catch(err){
+    renderErrorBox(err);
+  }
+
 }
 
 function setActive(btn, active){ btn.classList.toggle('active', active); }
