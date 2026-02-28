@@ -164,3 +164,15 @@ Upgrade older chapter JSONs to meet Spec v1.3 top-level required fields (spec_ve
 ```bash
 python3 tools/backfill_required_fields.py --all
 ```
+
+### `tools/promote_tokens_to_lexicon.py`
+Auto-build `lexicon[]` from tokens so Vocabulary panel is populated.
+```bash
+python3 tools/promote_tokens_to_lexicon.py --all
+```
+
+### `tools/seed_basic_grammar_notes.py`
+Generate baseline `grammar[]` notes from morphology so Grammar panel is not empty.
+```bash
+python3 tools/seed_basic_grammar_notes.py --all
+```

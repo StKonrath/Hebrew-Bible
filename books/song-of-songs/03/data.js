@@ -7,15 +7,10 @@ window.__chapterData = {
   "chapter": 3,
   "verses": [
     {
+      "ref": "3:1",
       "he": "עַל־מִשְׁכָּבִי֙ בַּלֵּיל֔וֹת בִּקַּ֕שְׁתִּי אֵ֥ת שֶׁאָהֲבָ֖ה נַפְשִׁ֑י בִּקַּשְׁתִּ֖יו וְלֹ֥א מְצָאתִֽיו׃",
       "en": "On my bed at nights I sought him whom my soul loves; I sought him but did not find him.",
       "tr": "ʿal-mišəkābiy balēylwōt biqa֕šətiy ʾēt šeʾāhăbāh napəšiy biqašətiyw wəlōʾ məṣāʾtiyw.",
-      "semantic_summary": [
-        "TIME",
-        "PLACE",
-        "LOVE",
-        "PERCEPTION"
-      ],
       "tokens": [
         {
           "id": "song-of-songs.03.01.t001",
@@ -34,8 +29,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.01.t002",
-          "surface": "מִשְׁכָּבִי֙",
-          "lemma": "מִשְׁכָּב",
+          "surface": "מִשְׁכָּבִי",
+          "lemma": "מִשְׁכָּב",
           "root": "שׁכב",
           "pos": "NOUN",
           "features": {
@@ -53,7 +48,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.01.t003",
-          "surface": "בַּלֵּיל֔וֹת",
+          "surface": "בַּלֵּילוֹת",
           "lemma": "לַיְלָה",
           "root": "ליל",
           "pos": "NOUN",
@@ -73,8 +68,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.01.t004",
-          "surface": "בִּקַּ֕שְׁתִּי",
-          "lemma": "בָּקַשׁ",
+          "surface": "בִּקַּשְׁתִּי",
+          "lemma": "בָּקַשׁ",
           "root": "בקשׁ",
           "pos": "VERB",
           "features": {
@@ -93,7 +88,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.01.t005",
-          "surface": "אֵ֥ת",
+          "surface": "אֵת",
           "lemma": "אֵת",
           "root": "—",
           "pos": "PART",
@@ -107,7 +102,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.01.t006",
-          "surface": "שֶׁאָהֲבָ֖ה",
+          "surface": "שֶׁאָהֲבָה",
           "lemma": "אָהַב",
           "root": "אהב",
           "pos": "REL",
@@ -130,7 +125,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.01.t007",
-          "surface": "נַפְשִׁ֑י",
+          "surface": "נַפְשִׁי",
           "lemma": "נֶפֶשׁ",
           "root": "נפשׁ",
           "pos": "NOUN",
@@ -149,8 +144,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.01.t008",
-          "surface": "בִּקַּשְׁתִּ֖יו",
-          "lemma": "בָּקַשׁ",
+          "surface": "בִּקַּשְׁתִּיו",
+          "lemma": "בָּקַשׁ",
           "root": "בקשׁ",
           "pos": "VERB",
           "features": {
@@ -169,7 +164,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.01.t009",
-          "surface": "וְלֹ֥א",
+          "surface": "וְלֹא",
           "lemma": "לֹא",
           "root": "—",
           "pos": "NEG",
@@ -203,23 +198,22 @@ window.__chapterData = {
           ]
         }
       ],
-      "ref": "3:1"
-    },
-    {
-      "he": "אָק֨וּמָה נָּ֜א וַאֲסוֹבְבָ֣ה בָעִ֗יר בַּשְּׁוָקִים֙ וּבָ֣רְחֹב֔וֹת אֲבַקְשָׁ֕ה אֵ֥ת שֶׁאָהֲבָ֖ה נַפְשִׁ֑י בִּקַּשְׁתִּ֖יו וְלֹ֥א מְצָאתִֽיו׃",
-      "en": "Let me rise now and go about the city, in the markets and in the streets; let me seek him whom my soul loves. I sought him but did not find him.",
-      "tr": "ʾāqwmāh nāʾ waʾăswōbəbāh bāʿiyr bašəwāqiym wbārəḥōbwōt ʾăbaqəšā֕h ʾēt šeʾāhăbāh napəšiy biqašətiyw wəlōʾ məṣāʾtiyw.",
       "semantic_summary": [
         "TIME",
         "PLACE",
-        "MOTION",
         "LOVE",
         "PERCEPTION"
-      ],
+      ]
+    },
+    {
+      "ref": "3:2",
+      "he": "אָק֨וּמָה נָּ֜א וַאֲסוֹבְבָ֣ה בָעִ֗יר בַּשְּׁוָקִים֙ וּבָ֣רְחֹב֔וֹת אֲבַקְשָׁ֕ה אֵ֥ת שֶׁאָהֲבָ֖ה נַפְשִׁ֑י בִּקַּשְׁתִּ֖יו וְלֹ֥א מְצָאתִֽיו׃",
+      "en": "Let me rise now and go about the city, in the markets and in the streets; let me seek him whom my soul loves. I sought him but did not find him.",
+      "tr": "ʾāqwmāh nāʾ waʾăswōbəbāh bāʿiyr bašəwāqiym wbārəḥōbwōt ʾăbaqəšā֕h ʾēt šeʾāhăbāh napəšiy biqašətiyw wəlōʾ məṣāʾtiyw.",
       "tokens": [
         {
           "id": "song-of-songs.03.02.t001",
-          "surface": "אָק֨וּמָה",
+          "surface": "אָקוּמָה",
           "lemma": "קוּם",
           "root": "קום",
           "pos": "VERB",
@@ -238,7 +232,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.02.t002",
-          "surface": "נָּ֜א",
+          "surface": "נָּא",
           "lemma": "נָא",
           "root": "—",
           "pos": "PART",
@@ -252,7 +246,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.02.t003",
-          "surface": "וַאֲסוֹבְבָ֣ה",
+          "surface": "וַאֲסוֹבְבָה",
           "lemma": "סָבַב",
           "root": "סבב",
           "pos": "VERB",
@@ -271,7 +265,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.02.t004",
-          "surface": "בָעִ֗יר",
+          "surface": "בָעִיר",
           "lemma": "עִיר",
           "root": "עיר",
           "pos": "NOUN",
@@ -290,7 +284,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.02.t005",
-          "surface": "בַּשְּׁוָקִים֙",
+          "surface": "בַּשְּׁוָקִים",
           "lemma": "שׁוּק",
           "root": "שׁוק",
           "pos": "NOUN",
@@ -309,7 +303,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.02.t006",
-          "surface": "וּבָ֣רְחֹב֔וֹת",
+          "surface": "וּבָרְחֹבוֹת",
           "lemma": "רְחוֹב",
           "root": "רחב",
           "pos": "NOUN",
@@ -329,8 +323,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.02.t007",
-          "surface": "אֲבַקְשָׁ֕ה",
-          "lemma": "בָּקַשׁ",
+          "surface": "אֲבַקְשָׁה",
+          "lemma": "בָּקַשׁ",
           "root": "בקשׁ",
           "pos": "VERB",
           "features": {
@@ -349,7 +343,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.02.t008",
-          "surface": "אֵ֥ת",
+          "surface": "אֵת",
           "lemma": "אֵת",
           "root": "—",
           "pos": "PART",
@@ -363,7 +357,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.02.t009",
-          "surface": "שֶׁאָהֲבָ֖ה",
+          "surface": "שֶׁאָהֲבָה",
           "lemma": "אָהַב",
           "root": "אהב",
           "pos": "REL",
@@ -386,7 +380,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.02.t010",
-          "surface": "נַפְשִׁ֑י",
+          "surface": "נַפְשִׁי",
           "lemma": "נֶפֶשׁ",
           "root": "נפשׁ",
           "pos": "NOUN",
@@ -405,8 +399,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.02.t011",
-          "surface": "בִּקַּשְׁתִּ֖יו",
-          "lemma": "בָּקַשׁ",
+          "surface": "בִּקַּשְׁתִּיו",
+          "lemma": "בָּקַשׁ",
           "root": "בקשׁ",
           "pos": "VERB",
           "features": {
@@ -425,7 +419,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.02.t012",
-          "surface": "וְלֹ֥א",
+          "surface": "וְלֹא",
           "lemma": "לֹא",
           "root": "—",
           "pos": "NEG",
@@ -459,22 +453,23 @@ window.__chapterData = {
           ]
         }
       ],
-      "ref": "3:2"
+      "semantic_summary": [
+        "TIME",
+        "PLACE",
+        "MOTION",
+        "LOVE",
+        "PERCEPTION"
+      ]
     },
     {
+      "ref": "3:3",
       "he": "מְצָא֨וּנִי֙ הַשֹּׁ֣מְרִ֔ים הַסֹּבְבִ֖ים בָּעִ֑יר אֵ֛ת שֶׁאָהֲבָ֥ה נַפְשִׁ֖י רְאִיתֶֽם׃",
       "en": "The watchmen who go about the city found me: “Have you seen him whom my soul loves?”",
       "tr": "məṣāʾwniy hašōməriym hasōbəbiym bāʿiyr ʾēt šeʾāhăbāh napəšiy rəʾiytem.",
-      "semantic_summary": [
-        "PLACE",
-        "PERCEPTION",
-        "SPEECH",
-        "LOVE"
-      ],
       "tokens": [
         {
           "id": "song-of-songs.03.03.t001",
-          "surface": "מְצָא֨וּנִי֙",
+          "surface": "מְצָאוּנִי",
           "lemma": "מָצָא",
           "root": "מצא",
           "pos": "VERB",
@@ -495,8 +490,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.03.t002",
-          "surface": "הַשֹּׁ֣מְרִ֔ים",
-          "lemma": "שָׁמַר",
+          "surface": "הַשֹּׁמְרִים",
+          "lemma": "שָׁמַר",
           "root": "שׁמר",
           "pos": "PTCP",
           "features": {
@@ -514,7 +509,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.03.t003",
-          "surface": "הַסֹּבְבִ֖ים",
+          "surface": "הַסֹּבְבִים",
           "lemma": "סָבַב",
           "root": "סבב",
           "pos": "PTCP",
@@ -533,7 +528,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.03.t004",
-          "surface": "בָּעִ֑יר",
+          "surface": "בָּעִיר",
           "lemma": "עִיר",
           "root": "עיר",
           "pos": "NOUN",
@@ -552,7 +547,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.03.t005",
-          "surface": "אֵ֛ת",
+          "surface": "אֵת",
           "lemma": "אֵת",
           "root": "—",
           "pos": "PART",
@@ -566,7 +561,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.03.t006",
-          "surface": "שֶׁאָהֲבָ֥ה",
+          "surface": "שֶׁאָהֲבָה",
           "lemma": "אָהַב",
           "root": "אהב",
           "pos": "REL",
@@ -589,7 +584,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.03.t007",
-          "surface": "נַפְשִׁ֖י",
+          "surface": "נַפְשִׁי",
           "lemma": "נֶפֶשׁ",
           "root": "נפשׁ",
           "pos": "NOUN",
@@ -628,23 +623,23 @@ window.__chapterData = {
           ]
         }
       ],
-      "ref": "3:3"
+      "semantic_summary": [
+        "PLACE",
+        "PERCEPTION",
+        "SPEECH",
+        "LOVE"
+      ]
     },
     {
+      "ref": "3:4",
       "he": "כִּמְעַט֙ שֶׁעָבַ֣רְתִּי מֵהֶ֔ם עַ֣ד שֶֽׁמָּצָ֔אתִי אֵ֥ת שֶׁאָהֲבָ֖ה נַפְשִׁ֑י אֲחַזְתִּיו֙ וְלֹ֣א אַרְפֶּ֔נּוּ עַד־שֶׁ֤הֲבֵיאתִיו֙ אֶל־בֵּ֣ית אִמִּ֔י וְאֶל־חֶ֖דֶר הוֹרָתִֽי׃",
       "en": "Scarcely had I passed them when I found him whom my soul loves. I held him and would not let him go until I brought him into my mother’s house, into the chamber of her who conceived me.",
       "tr": "kiməʿaṭ šeʿābarətiy mēhem ʿad šemāṣāʾtiy ʾēt šeʾāhăbāh napəšiy ʾăḥazətiyw wəlōʾ ʾarəpenw ʿad-šehăbēyʾtiyw ʾel-bēyt ʾimiy wəʾel-ḥeder hwōrātiy.",
-      "semantic_summary": [
-        "MOTION",
-        "LOVE",
-        "PLACE",
-        "TIME"
-      ],
       "tokens": [
         {
           "id": "song-of-songs.03.04.t001",
-          "surface": "כִּמְעַט֙",
-          "lemma": "כִּמְעַט",
+          "surface": "כִּמְעַט",
+          "lemma": "כִּמְעַט",
           "root": "—",
           "pos": "ADV",
           "features": {
@@ -658,7 +653,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.04.t002",
-          "surface": "שֶׁעָבַ֣רְתִּי",
+          "surface": "שֶׁעָבַרְתִּי",
           "lemma": "עָבַר",
           "root": "עבר",
           "pos": "VERB",
@@ -677,7 +672,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.04.t003",
-          "surface": "מֵהֶ֔ם",
+          "surface": "מֵהֶם",
           "lemma": "מִן",
           "root": "—",
           "pos": "PREP+PRON",
@@ -692,7 +687,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.04.t004",
-          "surface": "עַ֣ד",
+          "surface": "עַד",
           "lemma": "עַד",
           "root": "—",
           "pos": "PREP",
@@ -707,7 +702,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.04.t005",
-          "surface": "שֶֽׁמָּצָ֔אתִי",
+          "surface": "שֶֽׁמָּצָאתִי",
           "lemma": "מָצָא",
           "root": "מצא",
           "pos": "VERB",
@@ -727,7 +722,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.04.t006",
-          "surface": "אֵ֥ת",
+          "surface": "אֵת",
           "lemma": "אֵת",
           "root": "—",
           "pos": "PART",
@@ -741,7 +736,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.04.t007",
-          "surface": "שֶׁאָהֲבָ֖ה",
+          "surface": "שֶׁאָהֲבָה",
           "lemma": "אָהַב",
           "root": "אהב",
           "pos": "REL",
@@ -764,7 +759,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.04.t008",
-          "surface": "נַפְשִׁ֑י",
+          "surface": "נַפְשִׁי",
           "lemma": "נֶפֶשׁ",
           "root": "נפשׁ",
           "pos": "NOUN",
@@ -783,7 +778,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.04.t009",
-          "surface": "אֲחַזְתִּיו֙",
+          "surface": "אֲחַזְתִּיו",
           "lemma": "אָחַז",
           "root": "אחז",
           "pos": "VERB",
@@ -804,7 +799,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.04.t010",
-          "surface": "וְלֹ֣א",
+          "surface": "וְלֹא",
           "lemma": "לֹא",
           "root": "—",
           "pos": "NEG",
@@ -818,7 +813,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.04.t011",
-          "surface": "אַרְפֶּ֔נּוּ",
+          "surface": "אַרְפֶּנּוּ",
           "lemma": "רָפָה",
           "root": "רפה",
           "pos": "VERB",
@@ -853,7 +848,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.04.t013",
-          "surface": "שֶׁהֲבֵיאתִיו֙",
+          "surface": "שֶׁהֲבֵיאתִיו",
           "lemma": "בּוֹא",
           "root": "בוא",
           "pos": "VERB",
@@ -889,8 +884,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.04.t015",
-          "surface": "בֵּ֣ית",
-          "lemma": "בַּיִת",
+          "surface": "בֵּית",
+          "lemma": "בַּיִת",
           "root": "בית",
           "pos": "NOUN",
           "features": {
@@ -907,7 +902,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.04.t016",
-          "surface": "אִמִּ֔י",
+          "surface": "אִמִּי",
           "lemma": "אֵם",
           "root": "אם",
           "pos": "NOUN",
@@ -942,7 +937,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.04.t018",
-          "surface": "חֶ֖דֶר",
+          "surface": "חֶדֶר",
           "lemma": "חֶדֶר",
           "root": "חדר",
           "pos": "NOUN",
@@ -978,23 +973,23 @@ window.__chapterData = {
           ]
         }
       ],
-      "ref": "3:4"
+      "semantic_summary": [
+        "MOTION",
+        "LOVE",
+        "PLACE",
+        "TIME"
+      ]
     },
     {
+      "ref": "3:5",
       "he": "הִשְׁבַּ֨עְתִּי אֶתְכֶ֜ם בְּנ֤וֹת יְרוּשָׁלִַ֨ם֙ בִּצְבָא֔וֹת א֖וֹ בְּאַיְל֣וֹת הַשָּׂדֶ֑ה אִם־תָּעִ֧ירוּ ׀ וְאִם־תְּעוֹרְר֛וּ אֶת־הָאַהֲבָ֖ה עַ֥ד שֶׁתֶּחְפָּֽץ׃",
       "en": "I adjure you, daughters of Jerusalem, by the gazelles or by the does of the field: do not stir up or awaken love until it pleases.",
       "tr": "hišəbaʿətiy ʾetəkem bənwōt yərwšālaim biṣəbāʾwōt ʾwō bəʾayəlwōt hašādeh ʾim-tāʿiyrw | wəʾim-təʿwōrərw ʾet-hāʾahăbāh ʿad šeteḥəpāṣ.",
-      "semantic_summary": [
-        "OATH",
-        "LOVE",
-        "FAUNA",
-        "TIME"
-      ],
       "tokens": [
         {
           "id": "song-of-songs.03.05.t001",
-          "surface": "הִשְׁבַּ֨עְתִּי",
-          "lemma": "שָׁבַע",
+          "surface": "הִשְׁבַּעְתִּי",
+          "lemma": "שָׁבַע",
           "root": "שׁבע",
           "pos": "VERB",
           "features": {
@@ -1013,8 +1008,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.05.t002",
-          "surface": "אֶתְכֶ֜ם",
-          "lemma": "אַתֶּם",
+          "surface": "אֶתְכֶם",
+          "lemma": "אַתֶּם",
           "root": "—",
           "pos": "PRON",
           "features": {
@@ -1030,8 +1025,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.05.t003",
-          "surface": "בְּנ֤וֹת",
-          "lemma": "בַּת",
+          "surface": "בְּנוֹת",
+          "lemma": "בַּת",
           "root": "בת",
           "pos": "NOUN",
           "features": {
@@ -1048,8 +1043,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.05.t004",
-          "surface": "יְרוּשָׁלִַ֨ם֙",
-          "lemma": "יְרוּשָׁלִַם",
+          "surface": "יְרוּשָׁלִַם",
+          "lemma": "יְרוּשָׁלִַם",
           "root": "—",
           "pos": "PROPN",
           "features": {
@@ -1063,7 +1058,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.05.t005",
-          "surface": "בִּצְבָא֔וֹת",
+          "surface": "בִּצְבָאוֹת",
           "lemma": "צְבִי",
           "root": "צבי",
           "pos": "NOUN",
@@ -1082,7 +1077,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.05.t006",
-          "surface": "א֖וֹ",
+          "surface": "אוֹ",
           "lemma": "אוֹ",
           "root": "—",
           "pos": "CONJ",
@@ -1096,8 +1091,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.05.t007",
-          "surface": "בְּאַיְל֣וֹת",
-          "lemma": "אַיָּלָה",
+          "surface": "בְּאַיְלוֹת",
+          "lemma": "אַיָּלָה",
           "root": "איל",
           "pos": "NOUN",
           "features": {
@@ -1115,8 +1110,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.05.t008",
-          "surface": "הַשָּׂדֶ֑ה",
-          "lemma": "שָׂדֶה",
+          "surface": "הַשָּׂדֶה",
+          "lemma": "שָׂדֶה",
           "root": "שׂדה",
           "pos": "NOUN",
           "features": {
@@ -1148,7 +1143,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.05.t010",
-          "surface": "תָּעִ֧ירוּ",
+          "surface": "תָּעִירוּ",
           "lemma": "עוּר",
           "root": "עור",
           "pos": "VERB",
@@ -1184,7 +1179,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.05.t012",
-          "surface": "תְּעוֹרְר֛וּ",
+          "surface": "תְּעוֹרְרוּ",
           "lemma": "עוּר",
           "root": "עור",
           "pos": "VERB",
@@ -1219,7 +1214,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.05.t014",
-          "surface": "הָאַהֲבָ֖ה",
+          "surface": "הָאַהֲבָה",
           "lemma": "אַהֲבָה",
           "root": "אהב",
           "pos": "NOUN",
@@ -1237,7 +1232,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.05.t015",
-          "surface": "עַ֥ד",
+          "surface": "עַד",
           "lemma": "עַד",
           "root": "—",
           "pos": "PREP",
@@ -1252,7 +1247,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.05.t016",
-          "surface": "שֶׁתֶּחְפָּֽץ",
+          "surface": "שֶׁתֶּחְפָּֽץ",
           "lemma": "חָפֵץ",
           "root": "חפץ",
           "pos": "VERB",
@@ -1271,23 +1266,22 @@ window.__chapterData = {
           ]
         }
       ],
-      "ref": "3:5"
+      "semantic_summary": [
+        "OATH",
+        "LOVE",
+        "FAUNA",
+        "TIME"
+      ]
     },
     {
+      "ref": "3:6",
       "he": "מִ֣י זֹ֗את עֹלָה֙ מִן־הַמִּדְבָּ֔ר כְּתִֽימֲר֖וֹת עָשָׁ֑ן מְקֻטֶּ֤רֶת מוֹר֙ וּלְבוֹנָ֔ה מִכֹּ֖ל אַבְקַ֥ת רוֹכֵֽל׃",
       "en": "Who is this coming up from the wilderness like columns of smoke, perfumed with myrrh and frankincense, with all the powders of the merchant?",
       "tr": "miy zōʾt ʿōlāh min-hamidəbār kətiymărwōt ʿāšān məquṭeret mwōr wləbwōnāh mikōl ʾabəqat rwōkēl.",
-      "semantic_summary": [
-        "MOTION",
-        "PLACE",
-        "SYMBOL",
-        "WEATHER",
-        "PERCEPTION"
-      ],
       "tokens": [
         {
           "id": "song-of-songs.03.06.t001",
-          "surface": "מִ֣י",
+          "surface": "מִי",
           "lemma": "מִי",
           "root": "—",
           "pos": "INT",
@@ -1302,7 +1296,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.06.t002",
-          "surface": "זֹ֗את",
+          "surface": "זֹאת",
           "lemma": "זֹאת",
           "root": "—",
           "pos": "PRON",
@@ -1318,7 +1312,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.06.t003",
-          "surface": "עֹלָה֙",
+          "surface": "עֹלָה",
           "lemma": "עָלָה",
           "root": "עלה",
           "pos": "PTCP",
@@ -1349,8 +1343,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.06.t005",
-          "surface": "הַמִּדְבָּ֔ר",
-          "lemma": "מִדְבָּר",
+          "surface": "הַמִּדְבָּר",
+          "lemma": "מִדְבָּר",
           "root": "דבר",
           "pos": "NOUN",
           "features": {
@@ -1367,8 +1361,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.06.t006",
-          "surface": "כְּתִֽימֲר֖וֹת",
-          "lemma": "תִּימָרָה",
+          "surface": "כְּתִֽימֲרוֹת",
+          "lemma": "תִּימָרָה",
           "root": "תמר",
           "pos": "NOUN",
           "features": {
@@ -1385,8 +1379,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.06.t007",
-          "surface": "עָשָׁ֑ן",
-          "lemma": "עָשָׁן",
+          "surface": "עָשָׁן",
+          "lemma": "עָשָׁן",
           "root": "עשׁן",
           "pos": "NOUN",
           "features": {
@@ -1403,7 +1397,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.06.t008",
-          "surface": "מְקֻטֶּ֤רֶת",
+          "surface": "מְקֻטֶּרֶת",
           "lemma": "קָטַר",
           "root": "קטר",
           "pos": "PTCP",
@@ -1421,7 +1415,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.06.t009",
-          "surface": "מוֹר֙",
+          "surface": "מוֹר",
           "lemma": "מֹר",
           "root": "—",
           "pos": "NOUN",
@@ -1438,7 +1432,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.06.t010",
-          "surface": "וּלְבוֹנָ֔ה",
+          "surface": "וּלְבוֹנָה",
           "lemma": "לְבוֹנָה",
           "root": "לבנ",
           "pos": "NOUN",
@@ -1456,8 +1450,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.06.t011",
-          "surface": "מִכֹּ֖ל",
-          "lemma": "כֹּל",
+          "surface": "מִכֹּל",
+          "lemma": "כֹּל",
           "root": "—",
           "pos": "PREP",
           "features": {
@@ -1471,7 +1465,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.06.t012",
-          "surface": "אַבְקַ֥ת",
+          "surface": "אַבְקַת",
           "lemma": "אֲבָקָה",
           "root": "אבק",
           "pos": "NOUN",
@@ -1505,22 +1499,24 @@ window.__chapterData = {
           ]
         }
       ],
-      "ref": "3:6"
+      "semantic_summary": [
+        "MOTION",
+        "PLACE",
+        "SYMBOL",
+        "WEATHER",
+        "PERCEPTION"
+      ]
     },
     {
+      "ref": "3:7",
       "he": "הִנֵּ֗ה מִטָּתוֹ֙ שֶׁלִּשְׁלֹמֹ֔ה שִׁשִּׁ֥ים גִּבֹּרִ֖ים סָבִ֣יב לָ֑הּ מִגִּבֹּרֵ֖י יִשְׂרָאֵֽל׃",
       "en": "Behold, it is Solomon’s couch, with sixty mighty men around it, of the mighty men of Israel.",
       "tr": "hinēh miṭātwō šelišəlōmōh šišiym gibōriym sābiyb lāh migibōrēy yišərāʾēl.",
-      "semantic_summary": [
-        "SYMBOL",
-        "PLACE",
-        "PRAISE"
-      ],
       "tokens": [
         {
           "id": "song-of-songs.03.07.t001",
-          "surface": "הִנֵּ֗ה",
-          "lemma": "הִנֵּה",
+          "surface": "הִנֵּה",
+          "lemma": "הִנֵּה",
           "root": "—",
           "pos": "PART",
           "features": {
@@ -1535,8 +1531,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.07.t002",
-          "surface": "מִטָּתוֹ֙",
-          "lemma": "מִטָּה",
+          "surface": "מִטָּתוֹ",
+          "lemma": "מִטָּה",
           "root": "מטה",
           "pos": "NOUN",
           "features": {
@@ -1555,8 +1551,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.07.t003",
-          "surface": "שֶׁלִּשְׁלֹמֹ֔ה",
-          "lemma": "שְׁלֹמֹה",
+          "surface": "שֶׁלִּשְׁלֹמֹה",
+          "lemma": "שְׁלֹמֹה",
           "root": "—",
           "pos": "PROPN",
           "features": {
@@ -1570,8 +1566,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.07.t004",
-          "surface": "שִׁשִּׁ֥ים",
-          "lemma": "שִׁשִּׁים",
+          "surface": "שִׁשִּׁים",
+          "lemma": "שִׁשִּׁים",
           "root": "—",
           "pos": "NUM",
           "features": {
@@ -1584,8 +1580,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.07.t005",
-          "surface": "גִּבֹּרִ֖ים",
-          "lemma": "גִּבּוֹר",
+          "surface": "גִּבֹּרִים",
+          "lemma": "גִּבּוֹר",
           "root": "גבר",
           "pos": "NOUN",
           "features": {
@@ -1601,7 +1597,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.07.t006",
-          "surface": "סָבִ֣יב",
+          "surface": "סָבִיב",
           "lemma": "סָבִיב",
           "root": "סבב",
           "pos": "ADV",
@@ -1616,7 +1612,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.07.t007",
-          "surface": "לָ֑הּ",
+          "surface": "לָהּ",
           "lemma": "לְ",
           "root": "—",
           "pos": "PRON",
@@ -1634,8 +1630,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.07.t008",
-          "surface": "מִגִּבֹּרֵ֖י",
-          "lemma": "גִּבּוֹר",
+          "surface": "מִגִּבֹּרֵי",
+          "lemma": "גִּבּוֹר",
           "root": "גבר",
           "pos": "NOUN",
           "features": {
@@ -1653,8 +1649,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.07.t009",
-          "surface": "יִשְׂרָאֵֽל",
-          "lemma": "יִשְׂרָאֵל",
+          "surface": "יִשְׂרָאֵֽל",
+          "lemma": "יִשְׂרָאֵל",
           "root": "—",
           "pos": "PROPN",
           "features": {
@@ -1667,23 +1663,22 @@ window.__chapterData = {
           ]
         }
       ],
-      "ref": "3:7"
+      "semantic_summary": [
+        "SYMBOL",
+        "PLACE",
+        "PRAISE"
+      ]
     },
     {
+      "ref": "3:8",
       "he": "כֻּלָּם֙ אֲחֻ֣זֵי חֶ֔רֶב מְלֻמְּדֵ֖י מִלְחָמָ֑ה אִ֤ישׁ חַרְבּוֹ֙ עַל־יְרֵכ֔וֹ מִפַּ֖חַד בַּלֵּילּֽוֹת׃",
       "en": "All of them are skilled with the sword, trained in warfare—each with his sword on his thigh because of fear in the nights.",
       "tr": "kulām ʾăḥuzēy ḥereb məlumədēy miləḥāmāh ʾiyš ḥarəbwō ʿal-yərēkwō mipaḥad balēylwōt.",
-      "semantic_summary": [
-        "DAMAGE",
-        "TIME",
-        "PRAISE",
-        "BODY"
-      ],
       "tokens": [
         {
           "id": "song-of-songs.03.08.t001",
-          "surface": "כֻּלָּם֙",
-          "lemma": "כֹּל",
+          "surface": "כֻּלָּם",
+          "lemma": "כֹּל",
           "root": "—",
           "pos": "PRON",
           "features": {
@@ -1697,7 +1692,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.08.t002",
-          "surface": "אֲחֻ֣זֵי",
+          "surface": "אֲחֻזֵי",
           "lemma": "אָחַז",
           "root": "אחז",
           "pos": "PTCP",
@@ -1716,7 +1711,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.08.t003",
-          "surface": "חֶ֔רֶב",
+          "surface": "חֶרֶב",
           "lemma": "חֶרֶב",
           "root": "חרב",
           "pos": "NOUN",
@@ -1733,7 +1728,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.08.t004",
-          "surface": "מְלֻמְּדֵ֖י",
+          "surface": "מְלֻמְּדֵי",
           "lemma": "לָמַד",
           "root": "למד",
           "pos": "PTCP",
@@ -1752,7 +1747,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.08.t005",
-          "surface": "מִלְחָמָ֑ה",
+          "surface": "מִלְחָמָה",
           "lemma": "מִלְחָמָה",
           "root": "לחם",
           "pos": "NOUN",
@@ -1769,7 +1764,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.08.t006",
-          "surface": "אִ֤ישׁ",
+          "surface": "אִישׁ",
           "lemma": "אִישׁ",
           "root": "אנשׁ",
           "pos": "NOUN",
@@ -1784,7 +1779,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.08.t007",
-          "surface": "חַרְבּוֹ֙",
+          "surface": "חַרְבּוֹ",
           "lemma": "חֶרֶב",
           "root": "חרב",
           "pos": "NOUN",
@@ -1818,7 +1813,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.08.t009",
-          "surface": "יְרֵכ֔וֹ",
+          "surface": "יְרֵכוֹ",
           "lemma": "יָרֵךְ",
           "root": "ירך",
           "pos": "NOUN",
@@ -1837,8 +1832,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.08.t010",
-          "surface": "מִפַּ֖חַד",
-          "lemma": "פַּחַד",
+          "surface": "מִפַּחַד",
+          "lemma": "פַּחַד",
           "root": "פחד",
           "pos": "NOUN",
           "features": {
@@ -1855,7 +1850,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.08.t011",
-          "surface": "בַּלֵּילּֽוֹת",
+          "surface": "בַּלֵּילּֽוֹת",
           "lemma": "לַיְלָה",
           "root": "ליל",
           "pos": "NOUN",
@@ -1873,22 +1868,23 @@ window.__chapterData = {
           ]
         }
       ],
-      "ref": "3:8"
+      "semantic_summary": [
+        "DAMAGE",
+        "TIME",
+        "PRAISE",
+        "BODY"
+      ]
     },
     {
+      "ref": "3:9",
       "he": "אַפִּרְי֗וֹן עָ֤שָׂה לוֹ֙ הַמֶּ֣לֶךְ שְׁלֹמֹ֔ה מֵעֲצֵ֖י הַלְּבָנֽוֹן׃",
       "en": "King Solomon made for himself a palanquin from the wood of Lebanon.",
       "tr": "ʾapirəywōn ʿāšāh lwō hamelekə šəlōmōh mēʿăṣēy haləbānwōn.",
-      "semantic_summary": [
-        "SYMBOL",
-        "AGRICULTURE",
-        "PLACE"
-      ],
       "tokens": [
         {
           "id": "song-of-songs.03.09.t001",
-          "surface": "אַפִּרְי֗וֹן",
-          "lemma": "אַפִּרְיוֹן",
+          "surface": "אַפִּרְיוֹן",
+          "lemma": "אַפִּרְיוֹן",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1904,8 +1900,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.09.t002",
-          "surface": "עָ֤שָׂה",
-          "lemma": "עָשָׂה",
+          "surface": "עָשָׂה",
+          "lemma": "עָשָׂה",
           "root": "עשׂה",
           "pos": "VERB",
           "features": {
@@ -1922,7 +1918,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.09.t003",
-          "surface": "לוֹ֙",
+          "surface": "לוֹ",
           "lemma": "לְ",
           "root": "—",
           "pos": "PRON",
@@ -1940,7 +1936,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.09.t004",
-          "surface": "הַמֶּ֣לֶךְ",
+          "surface": "הַמֶּלֶךְ",
           "lemma": "מֶלֶךְ",
           "root": "מלך",
           "pos": "NOUN",
@@ -1958,8 +1954,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.09.t005",
-          "surface": "שְׁלֹמֹ֔ה",
-          "lemma": "שְׁלֹמֹה",
+          "surface": "שְׁלֹמֹה",
+          "lemma": "שְׁלֹמֹה",
           "root": "—",
           "pos": "PROPN",
           "features": {
@@ -1973,7 +1969,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.09.t006",
-          "surface": "מֵעֲצֵ֖י",
+          "surface": "מֵעֲצֵי",
           "lemma": "עֵץ",
           "root": "עץ",
           "pos": "NOUN",
@@ -1992,7 +1988,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.09.t007",
-          "surface": "הַלְּבָנֽוֹן",
+          "surface": "הַלְּבָנֽוֹן",
           "lemma": "לְבָנוֹן",
           "root": "לבנ",
           "pos": "PROPN",
@@ -2007,21 +2003,21 @@ window.__chapterData = {
           ]
         }
       ],
-      "ref": "3:9"
+      "semantic_summary": [
+        "SYMBOL",
+        "AGRICULTURE",
+        "PLACE"
+      ]
     },
     {
+      "ref": "3:10",
       "he": "עַמּוּדָיו֙ עָ֣שָׂה כֶ֔סֶף רְפִידָת֣וֹ זָהָ֔ב מֶרְכָּב֖וֹ אַרְגָּמָ֑ן תּוֹכוֹ֙ רָצ֣וּף אַהֲבָ֔ה מִבְּנ֖וֹת יְרוּשָׁלִָֽם׃",
       "en": "He made its pillars of silver, its back of gold, its seat of purple; its interior was inlaid with love by the daughters of Jerusalem.",
       "tr": "ʿamwdāyw ʿāšāh kesep rəpiydātwō zāhāb merəkābwō ʾarəgāmān twōkwō rāṣwp ʾahăbāh mibənwōt yərwšālāim.",
-      "semantic_summary": [
-        "SYMBOL",
-        "LOVE",
-        "PLACE"
-      ],
       "tokens": [
         {
           "id": "song-of-songs.03.10.t001",
-          "surface": "עַמּוּדָיו֙",
+          "surface": "עַמּוּדָיו",
           "lemma": "עַמּוּד",
           "root": "עמד",
           "pos": "NOUN",
@@ -2040,8 +2036,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.10.t002",
-          "surface": "עָ֣שָׂה",
-          "lemma": "עָשָׂה",
+          "surface": "עָשָׂה",
+          "lemma": "עָשָׂה",
           "root": "עשׂה",
           "pos": "VERB",
           "features": {
@@ -2058,8 +2054,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.10.t003",
-          "surface": "כֶ֔סֶף",
-          "lemma": "כֶּסֶף",
+          "surface": "כֶסֶף",
+          "lemma": "כֶּסֶף",
           "root": "כסף",
           "pos": "NOUN",
           "features": {
@@ -2075,7 +2071,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.10.t004",
-          "surface": "רְפִידָת֣וֹ",
+          "surface": "רְפִידָתוֹ",
           "lemma": "רְפִידָה",
           "root": "רפד",
           "pos": "NOUN",
@@ -2094,7 +2090,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.10.t005",
-          "surface": "זָהָ֔ב",
+          "surface": "זָהָב",
           "lemma": "זָהָב",
           "root": "זהב",
           "pos": "NOUN",
@@ -2111,8 +2107,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.10.t006",
-          "surface": "מֶרְכָּב֖וֹ",
-          "lemma": "מֶרְכָּב",
+          "surface": "מֶרְכָּבוֹ",
+          "lemma": "מֶרְכָּב",
           "root": "רכב",
           "pos": "NOUN",
           "features": {
@@ -2130,8 +2126,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.10.t007",
-          "surface": "אַרְגָּמָ֑ן",
-          "lemma": "אַרְגָּמָן",
+          "surface": "אַרְגָּמָן",
+          "lemma": "אַרְגָּמָן",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2147,7 +2143,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.10.t008",
-          "surface": "תּוֹכוֹ֙",
+          "surface": "תּוֹכוֹ",
           "lemma": "תּוֹךְ",
           "root": "תוך",
           "pos": "NOUN",
@@ -2167,7 +2163,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.10.t009",
-          "surface": "רָצ֣וּף",
+          "surface": "רָצוּף",
           "lemma": "רָצַף",
           "root": "רצף",
           "pos": "PTCP",
@@ -2185,7 +2181,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.10.t010",
-          "surface": "אַהֲבָ֔ה",
+          "surface": "אַהֲבָה",
           "lemma": "אַהֲבָה",
           "root": "אהב",
           "pos": "NOUN",
@@ -2203,8 +2199,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.10.t011",
-          "surface": "מִבְּנ֖וֹת",
-          "lemma": "בַּת",
+          "surface": "מִבְּנוֹת",
+          "lemma": "בַּת",
           "root": "בת",
           "pos": "NOUN",
           "features": {
@@ -2222,8 +2218,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.10.t012",
-          "surface": "יְרוּשָׁלִָֽם",
-          "lemma": "יְרוּשָׁלִַם",
+          "surface": "יְרוּשָׁלִָֽם",
+          "lemma": "יְרוּשָׁלִַם",
           "root": "—",
           "pos": "PROPN",
           "features": {
@@ -2236,23 +2232,21 @@ window.__chapterData = {
           ]
         }
       ],
-      "ref": "3:10"
+      "semantic_summary": [
+        "SYMBOL",
+        "LOVE",
+        "PLACE"
+      ]
     },
     {
+      "ref": "3:11",
       "he": "צְאֶ֧ינָה ׀ וּרְאֶ֛ינָה בְּנ֥וֹת צִיּ֖וֹן בַּמֶּ֣לֶךְ שְׁלֹמֹ֑ה בָּעֲטָרָ֗ה שֶׁעִטְּרָה־לּ֤וֹ אִמּוֹ֙ בְּי֣וֹם חֲתֻנָּת֔וֹ וּבְי֖וֹם שִׂמְחַ֥ת לִבּֽוֹ׃",
       "en": "Go out and look, daughters of Zion, at King Solomon with the crown with which his mother crowned him on the day of his wedding, on the day of the joy of his heart.",
       "tr": "ṣəʾeynāh | wrəʾeynāh bənwōt ṣiywōn bamelekə šəlōmōh bāʿăṭārāh šeʿiṭərāh-lwō ʾimwō bəywōm ḥătunātwō wbəywōm šiməḥat libwō.",
-      "semantic_summary": [
-        "SPEECH",
-        "PERCEPTION",
-        "SYMBOL",
-        "TIME",
-        "LOVE"
-      ],
       "tokens": [
         {
           "id": "song-of-songs.03.11.t001",
-          "surface": "צְאֶ֧ינָה",
+          "surface": "צְאֶינָה",
           "lemma": "יָצָא",
           "root": "יצא",
           "pos": "VERB",
@@ -2273,7 +2267,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.11.t002",
-          "surface": "וּרְאֶ֛ינָה",
+          "surface": "וּרְאֶינָה",
           "lemma": "רָאָה",
           "root": "ראה",
           "pos": "VERB",
@@ -2294,8 +2288,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.11.t003",
-          "surface": "בְּנ֥וֹת",
-          "lemma": "בַּת",
+          "surface": "בְּנוֹת",
+          "lemma": "בַּת",
           "root": "בת",
           "pos": "NOUN",
           "features": {
@@ -2312,7 +2306,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.11.t004",
-          "surface": "צִיּ֖וֹן",
+          "surface": "צִיּוֹן",
           "lemma": "צִיּוֹן",
           "root": "—",
           "pos": "PROPN",
@@ -2327,7 +2321,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.11.t005",
-          "surface": "בַּמֶּ֣לֶךְ",
+          "surface": "בַּמֶּלֶךְ",
           "lemma": "מֶלֶךְ",
           "root": "מלך",
           "pos": "NOUN",
@@ -2346,8 +2340,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.11.t006",
-          "surface": "שְׁלֹמֹ֑ה",
-          "lemma": "שְׁלֹמֹה",
+          "surface": "שְׁלֹמֹה",
+          "lemma": "שְׁלֹמֹה",
           "root": "—",
           "pos": "PROPN",
           "features": {
@@ -2361,7 +2355,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.11.t007",
-          "surface": "בָּעֲטָרָ֗ה",
+          "surface": "בָּעֲטָרָה",
           "lemma": "עֲטָרָה",
           "root": "עטר",
           "pos": "NOUN",
@@ -2380,7 +2374,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.11.t008",
-          "surface": "שֶׁעִטְּרָה",
+          "surface": "שֶׁעִטְּרָה",
           "lemma": "עָטַר",
           "root": "עטר",
           "pos": "VERB",
@@ -2400,7 +2394,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.11.t009",
-          "surface": "לּ֤וֹ",
+          "surface": "לּוֹ",
           "lemma": "לְ",
           "root": "—",
           "pos": "PRON",
@@ -2418,7 +2412,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.11.t010",
-          "surface": "אִמּוֹ֙",
+          "surface": "אִמּוֹ",
           "lemma": "אֵם",
           "root": "אם",
           "pos": "NOUN",
@@ -2437,7 +2431,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.11.t011",
-          "surface": "בְּי֣וֹם",
+          "surface": "בְּיוֹם",
           "lemma": "יוֹם",
           "root": "יום",
           "pos": "NOUN",
@@ -2456,8 +2450,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.11.t012",
-          "surface": "חֲתֻנָּת֔וֹ",
-          "lemma": "חֲתֻנָּה",
+          "surface": "חֲתֻנָּתוֹ",
+          "lemma": "חֲתֻנָּה",
           "root": "חתן",
           "pos": "NOUN",
           "features": {
@@ -2476,7 +2470,7 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.11.t013",
-          "surface": "וּבְי֖וֹם",
+          "surface": "וּבְיוֹם",
           "lemma": "יוֹם",
           "root": "יום",
           "pos": "NOUN",
@@ -2496,8 +2490,8 @@ window.__chapterData = {
         },
         {
           "id": "song-of-songs.03.11.t014",
-          "surface": "שִׂמְחַ֥ת",
-          "lemma": "שִׂמְחָה",
+          "surface": "שִׂמְחַת",
+          "lemma": "שִׂמְחָה",
           "root": "שׂמח",
           "pos": "NOUN",
           "features": {
@@ -2533,155 +2527,180 @@ window.__chapterData = {
           ]
         }
       ],
-      "ref": "3:11"
+      "semantic_summary": [
+        "SPEECH",
+        "PERCEPTION",
+        "SYMBOL",
+        "TIME",
+        "LOVE"
+      ]
     }
   ],
   "lexicon": [
     {
-      "lemma": "בָּקַשׁ",
+      "lemma": "בָּקַשׁ",
       "root": "בקשׁ",
       "pos": "VERB",
-      "gloss": "seek, look for"
+      "gloss": "seek, look for",
+      "notes": "Common forms: pos=VERB;stem=PIEL;conj=PERF;person=1;number=sg;conj=PERF;suffix=3ms; pos=VERB;stem=PIEL;conj=PERF;person=1;number=sg;conj=PERF"
     },
     {
       "lemma": "מָצָא",
       "root": "מצא",
       "pos": "VERB",
-      "gloss": "find"
+      "gloss": "find",
+      "notes": "Common forms: pos=VERB;stem=QAL;conj=PERF;person=1;number=sg;conj=PERF;suffix=3ms; pos=VERB;stem=QAL;conj=PERF;person=3;number=pl;conj=PERF;suffix=1cs"
     },
     {
       "lemma": "אָהַב",
       "root": "אהב",
       "pos": "VERB",
-      "gloss": "love"
+      "gloss": "love",
+      "notes": "Common forms: pos=REL;type=שֶׁ;verb={'stem': 'QAL', 'conj': 'PERF', 'person': '3', 'gender': 'f', 'number': 'sg'}"
     },
     {
       "lemma": "נֶפֶשׁ",
       "root": "נפשׁ",
       "pos": "NOUN",
-      "gloss": "soul, self"
+      "gloss": "soul, self",
+      "notes": "Common forms: pos=NOUN;gender=f;number=sg;state=cs;suffix=1cs"
     },
     {
       "lemma": "עִיר",
       "root": "עיר",
       "pos": "NOUN",
-      "gloss": "city"
+      "gloss": "city",
+      "notes": "Common forms: pos=NOUN;gender=f;number=sg;definite=art;prep=בְּ"
     },
     {
       "lemma": "שׁוּק",
       "root": "שׁוק",
       "pos": "NOUN",
-      "gloss": "market"
+      "gloss": "market",
+      "notes": "Common forms: pos=NOUN;gender=m;number=pl;definite=art;prep=בְּ"
     },
     {
       "lemma": "רְחוֹב",
       "root": "רחב",
       "pos": "NOUN",
-      "gloss": "street, square"
+      "gloss": "street, square",
+      "notes": "Common forms: pos=NOUN;conj=וּ;gender=m;number=pl;definite=art;prep=בְּ;conj=וּ"
     },
     {
-      "lemma": "שָׁמַר",
+      "lemma": "שָׁמַר",
       "root": "שׁמר",
       "pos": "VERB/NOUN",
-      "gloss": "watch; watchman"
+      "gloss": "watch; watchman",
+      "notes": "Common forms: pos=PTCP;stem=QAL;gender=m;number=pl;definite=art"
     },
     {
-      "lemma": "שָׁבַע",
+      "lemma": "שָׁבַע",
       "root": "שׁבע",
       "pos": "VERB",
-      "gloss": "swear; adjure"
+      "gloss": "swear; adjure",
+      "notes": "Common forms: pos=VERB;stem=HIFIL;conj=PERF;person=1;number=sg;conj=PERF"
     },
     {
       "lemma": "צְבִי",
       "root": "צבי",
       "pos": "NOUN",
-      "gloss": "gazelle"
+      "gloss": "gazelle",
+      "notes": "Common forms: pos=NOUN;gender=m;number=pl;prep=בְּ"
     },
     {
-      "lemma": "אַיָּלָה",
+      "lemma": "אַיָּלָה",
       "root": "איל",
       "pos": "NOUN",
-      "gloss": "doe"
+      "gloss": "doe",
+      "notes": "Common forms: pos=NOUN;gender=f;number=pl;prep=בְּ"
     },
     {
-      "lemma": "מִדְבָּר",
+      "lemma": "מִדְבָּר",
       "root": "דבר",
       "pos": "NOUN",
-      "gloss": "wilderness"
+      "gloss": "wilderness",
+      "notes": "Common forms: pos=NOUN;gender=m;number=sg;definite=art"
     },
     {
-      "lemma": "עָשָׁן",
+      "lemma": "עָשָׁן",
       "root": "עשׁן",
       "pos": "NOUN",
-      "gloss": "smoke"
+      "gloss": "smoke",
+      "notes": "Common forms: pos=NOUN;gender=m;number=sg"
     },
     {
       "lemma": "מֹר",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "myrrh"
+      "gloss": "myrrh",
+      "notes": "Common forms: pos=NOUN;gender=m;number=sg"
     },
     {
       "lemma": "לְבוֹנָה",
       "root": "לבנ",
       "pos": "NOUN",
-      "gloss": "frankincense"
+      "gloss": "frankincense",
+      "notes": "Common forms: pos=NOUN;conj=וּ;gender=f;number=sg;conj=וּ"
     },
     {
-      "lemma": "אַפִּרְיוֹן",
+      "lemma": "אַפִּרְיוֹן",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "palanquin, litter"
+      "gloss": "palanquin, litter",
+      "notes": "Common forms: pos=NOUN;gender=m;number=sg"
     },
     {
-      "lemma": "אַרְגָּמָן",
+      "lemma": "אַרְגָּמָן",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "purple cloth/dye"
+      "gloss": "purple cloth/dye",
+      "notes": "Common forms: pos=NOUN;gender=m;number=sg"
     },
     {
       "lemma": "עֲטָרָה",
       "root": "עטר",
       "pos": "NOUN",
-      "gloss": "crown, wreath"
+      "gloss": "crown, wreath",
+      "notes": "Common forms: pos=NOUN;gender=f;number=sg;definite=art;prep=בְּ"
     },
     {
-      "lemma": "חֲתֻנָּה",
+      "lemma": "חֲתֻנָּה",
       "root": "חתן",
       "pos": "NOUN",
-      "gloss": "wedding"
+      "gloss": "wedding",
+      "notes": "Common forms: pos=NOUN;gender=f;number=sg;state=cs;suffix=3ms"
     }
   ],
   "grammar": [
     {
-      "topic": "Cohortative (1cs)",
-      "example": "אָקוּמָה / אֲבַקְשָׁה",
-      "note": "Ending -ָה marks cohortative (volitive) in 1cs: ‘let me …’."
+      "id": "cohortative-1cs",
+      "title": "Cohortative (1cs)",
+      "body": "Ending -ָה marks cohortative (volitive) in 1cs: ‘let me …’.\n\nExample: אָקוּמָה / אֲבַקְשָׁה"
     },
     {
-      "topic": "Waw + volitive",
-      "example": "וַאֲסוֹבְבָה",
-      "note": "Waw can link volitives; here it continues intention (‘and let me go about’)."
+      "id": "waw-volitive",
+      "title": "Waw + volitive",
+      "body": "Waw can link volitives; here it continues intention (‘and let me go about’).\n\nExample: וַאֲסוֹבְבָה"
     },
     {
-      "topic": "Direct object marker",
-      "example": "אֵת",
-      "note": "אֵת marks a definite direct object; it carries no lexical root (root=—)."
+      "id": "direct-object-marker",
+      "title": "Direct object marker",
+      "body": "אֵת marks a definite direct object; it carries no lexical root (root=—).\n\nExample: אֵת"
     },
     {
-      "topic": "Pronominal suffix on verbs",
-      "example": "בִּקַּשְׁתִּיו / מְצָאתִיו",
-      "note": "Suffix -יו encodes 3ms object (‘him’) on 1cs perfect forms."
+      "id": "pronominal-suffix-on-verbs",
+      "title": "Pronominal suffix on verbs",
+      "body": "Suffix -יו encodes 3ms object (‘him’) on 1cs perfect forms.\n\nExample: בִּקַּשְׁתִּיו / מְצָאתִיו"
     },
     {
-      "topic": "Adjuration formula",
-      "example": "הִשְׁבַּעְתִּי … אִם־תָּעִירוּ",
-      "note": "An oath/adjuration pattern: pragmatically ‘do not awaken…’ rather than a true conditional."
+      "id": "adjuration-formula",
+      "title": "Adjuration formula",
+      "body": "An oath/adjuration pattern: pragmatically ‘do not awaken…’ rather than a true conditional.\n\nExample: הִשְׁבַּעְתִּי … אִם־תָּעִירוּ"
     },
     {
-      "topic": "Participles as descriptors",
-      "example": "הַסֹּבְבִים / מְקֻטֶּרֶת",
-      "note": "Participles function adjectivally to depict ongoing/characterizing actions (‘circling’, ‘perfumed’)."
+      "id": "participles-as-descriptors",
+      "title": "Participles as descriptors",
+      "body": "Participles function adjectivally to depict ongoing/characterizing actions (‘circling’, ‘perfumed’).\n\nExample: הַסֹּבְבִים / מְקֻטֶּרֶת"
     }
   ],
   "exercises": [
@@ -2707,12 +2726,13 @@ window.__chapterData = {
     }
   ],
   "annotations": [],
-  "spec_version": "1.3",
+  "spec_version": "1.2",
+  "book_slug": "song-of-songs",
+  "title": "Song of Songs - Chapter 3",
+  "generated_at": "2026-02-28",
   "tagset": {
     "name": "ETCBC-like",
     "version": "1.0"
   },
-  "ref_system": "MT",
-  "generated_at": "2026-02-28",
-  "book_slug": "song-of-songs"
+  "ref_system": "MT"
 };

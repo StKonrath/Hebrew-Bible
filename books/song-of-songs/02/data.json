@@ -32,13 +32,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=1cs",
-          "gloss": "",
+          "gloss": "to/for",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.01.t002",
-          "surface": "חֲבַצֶּלֶת",
-          "lemma": "חֲבַצֶּלֶת",
+          "surface": "חֲבַצֶּלֶת",
+          "lemma": "חֲבַצֶּלֶת",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -54,8 +54,8 @@
         },
         {
           "id": "song-of-songs.02.01.t003",
-          "surface": "הַשָּׁרוֹן",
-          "lemma": "ַשָּׁרוֹן",
+          "surface": "הַשָּׁרוֹן",
+          "lemma": "שָּׁרוֹן",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -76,8 +76,8 @@
         },
         {
           "id": "song-of-songs.02.01.t004",
-          "surface": "שׁוֹשַׁנַּת",
-          "lemma": "ׁוֹשַׁנַּת",
+          "surface": "שׁוֹשַׁנַּת",
+          "lemma": "וֹשַׁנַּת",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -98,7 +98,7 @@
         {
           "id": "song-of-songs.02.01.t005",
           "surface": "הָעֲמָקִים",
-          "lemma": "ָעֲמָקִים",
+          "lemma": "עֲמָקִים",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -129,8 +129,8 @@
       "tokens": [
         {
           "id": "song-of-songs.02.02.t001",
-          "surface": "כְּשׁוֹשַׁנָּה",
-          "lemma": "ְּשׁוֹשַׁנָּה",
+          "surface": "כְּשׁוֹשַׁנָּה",
+          "lemma": "שׁוֹשַׁנָּה",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -152,8 +152,8 @@
         },
         {
           "id": "song-of-songs.02.02.t002",
-          "surface": "בֵּין",
-          "lemma": "ֵּין",
+          "surface": "בֵּין",
+          "lemma": "ין",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -171,13 +171,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=3fp",
-          "gloss": "",
+          "gloss": "between",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.02.t003",
           "surface": "הַחוֹחִים",
-          "lemma": "ַחוֹחִים",
+          "lemma": "חוֹחִים",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -199,8 +199,8 @@
         },
         {
           "id": "song-of-songs.02.02.t004",
-          "surface": "כֵּן",
-          "lemma": "ֵּן",
+          "surface": "כֵּן",
+          "lemma": "ן",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -218,7 +218,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=3fp",
-          "gloss": "",
+          "gloss": "therefore/so",
           "semantic": []
         },
         {
@@ -236,13 +236,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=1cs",
-          "gloss": "",
+          "gloss": "beloved / companion",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.02.t006",
-          "surface": "בֵּין",
-          "lemma": "ֵּין",
+          "surface": "בֵּין",
+          "lemma": "ין",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -260,13 +260,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=3fp",
-          "gloss": "",
+          "gloss": "between",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.02.t007",
-          "surface": "הַבָּנוֹת",
-          "lemma": "ַבָּנוֹת",
+          "surface": "הַבָּנוֹת",
+          "lemma": "בָּנוֹת",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -295,8 +295,8 @@
       "tokens": [
         {
           "id": "song-of-songs.02.03.t001",
-          "surface": "כְּתַפּוּחַ",
-          "lemma": "ְּתַפּוּחַ",
+          "surface": "כְּתַפּוּחַ",
+          "lemma": "תַפּוּחַ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -318,8 +318,8 @@
         },
         {
           "id": "song-of-songs.02.03.t002",
-          "surface": "בַּעֲצֵי",
-          "lemma": "ַּעֲצֵי",
+          "surface": "בַּעֲצֵי",
+          "lemma": "עֲצֵי",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -342,8 +342,8 @@
         },
         {
           "id": "song-of-songs.02.03.t003",
-          "surface": "הַיַּעַר",
-          "lemma": "ַיַּעַר",
+          "surface": "הַיַּעַר",
+          "lemma": "יַּעַר",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -363,8 +363,8 @@
         },
         {
           "id": "song-of-songs.02.03.t004",
-          "surface": "כֵּן",
-          "lemma": "ֵּן",
+          "surface": "כֵּן",
+          "lemma": "ן",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -382,7 +382,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=3fp",
-          "gloss": "",
+          "gloss": "therefore/so",
           "semantic": []
         },
         {
@@ -400,13 +400,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=1cs",
-          "gloss": "",
+          "gloss": "love / beloved / caresses",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.03.t006",
-          "surface": "בֵּין",
-          "lemma": "ֵּין",
+          "surface": "בֵּין",
+          "lemma": "ין",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -424,13 +424,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=3fp",
-          "gloss": "",
+          "gloss": "between",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.03.t007",
-          "surface": "הַבָּנִים",
-          "lemma": "ַבָּנִים",
+          "surface": "הַבָּנִים",
+          "lemma": "בָּנִים",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -452,8 +452,8 @@
         },
         {
           "id": "song-of-songs.02.03.t008",
-          "surface": "בְּצִלּוֹ",
-          "lemma": "ְּצִלּוֹ",
+          "surface": "בְּצִלּוֹ",
+          "lemma": "צִלּוֹ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -476,8 +476,8 @@
         },
         {
           "id": "song-of-songs.02.03.t009",
-          "surface": "חִמַּדְתִּי",
-          "lemma": "חִמַּדְתִּי",
+          "surface": "חִמַּדְתִּי",
+          "lemma": "חִמַּדְתִּי",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -494,8 +494,8 @@
         },
         {
           "id": "song-of-songs.02.03.t010",
-          "surface": "וְיָשַׁבְתִּי",
-          "lemma": "ְיָשַׁבְתִּי",
+          "surface": "וְיָשַׁבְתִּי",
+          "lemma": "יָשַׁבְתִּי",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -517,7 +517,7 @@
         {
           "id": "song-of-songs.02.03.t011",
           "surface": "וּפִרְיוֹ",
-          "lemma": "ּפִרְיוֹ",
+          "lemma": "פִרְיוֹ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -539,7 +539,7 @@
         {
           "id": "song-of-songs.02.03.t012",
           "surface": "מָתוֹק",
-          "lemma": "ָתוֹק",
+          "lemma": "תוֹק",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -561,8 +561,8 @@
         },
         {
           "id": "song-of-songs.02.03.t013",
-          "surface": "לְחִכִּי",
-          "lemma": "ְחִכִּי",
+          "surface": "לְחִכִּי",
+          "lemma": "חִכִּי",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -595,7 +595,7 @@
         {
           "id": "song-of-songs.02.04.t001",
           "surface": "הֱבִיאַנִי",
-          "lemma": "ֱבִיאַנִי",
+          "lemma": "בִיאַנִי",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -611,7 +611,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=1cs",
-          "gloss": "",
+          "gloss": "bring/come",
           "semantic": []
         },
         {
@@ -628,13 +628,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "to/into",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.04.t003",
-          "surface": "בֵּית",
-          "lemma": "ֵּית",
+          "surface": "בֵּית",
+          "lemma": "ית",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -651,13 +651,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "house of",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.04.t004",
-          "surface": "הַיָּיִן",
-          "lemma": "ַיָּיִן",
+          "surface": "הַיָּיִן",
+          "lemma": "יָּיִן",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -679,7 +679,7 @@
         {
           "id": "song-of-songs.02.04.t005",
           "surface": "וְדִגְלוֹ",
-          "lemma": "ְדִגְלוֹ",
+          "lemma": "דִגְלוֹ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -730,7 +730,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "love",
           "semantic": []
         }
       ],
@@ -744,8 +744,8 @@
       "tokens": [
         {
           "id": "song-of-songs.02.05.t001",
-          "surface": "סַמְּכוּנִי",
-          "lemma": "סַמְּכוּנִי",
+          "surface": "סַמְּכוּנִי",
+          "lemma": "סַמְּכוּנִי",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -762,8 +762,8 @@
         },
         {
           "id": "song-of-songs.02.05.t002",
-          "surface": "בָּאֲשִׁישׁוֹת",
-          "lemma": "ָּאֲשִׁישׁוֹת",
+          "surface": "בָּאֲשִׁישׁוֹת",
+          "lemma": "אֲשִׁישׁוֹת",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -785,8 +785,8 @@
         },
         {
           "id": "song-of-songs.02.05.t003",
-          "surface": "רַפְּדוּנִי",
-          "lemma": "רַפְּדוּנִי",
+          "surface": "רַפְּדוּנִי",
+          "lemma": "רַפְּדוּנִי",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -803,8 +803,8 @@
         },
         {
           "id": "song-of-songs.02.05.t004",
-          "surface": "בַּתַּפּוּחִים",
-          "lemma": "ַּתַּפּוּחִים",
+          "surface": "בַּתַּפּוּחִים",
+          "lemma": "תַּפּוּחִים",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -828,8 +828,8 @@
         },
         {
           "id": "song-of-songs.02.05.t005",
-          "surface": "כִּי",
-          "lemma": "ִּי",
+          "surface": "כִּי",
+          "lemma": "י",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -881,7 +881,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "love",
           "semantic": []
         },
         {
@@ -913,8 +913,8 @@
       "tokens": [
         {
           "id": "song-of-songs.02.06.t001",
-          "surface": "שְׂמֹאלוֹ",
-          "lemma": "ְׂמֹאלוֹ",
+          "surface": "שְׂמֹאלוֹ",
+          "lemma": "מֹאלוֹ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -935,8 +935,8 @@
         },
         {
           "id": "song-of-songs.02.06.t002",
-          "surface": "תַּחַת",
-          "lemma": "תַּחַת",
+          "surface": "תַּחַת",
+          "lemma": "תַּחַת",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -952,8 +952,8 @@
         },
         {
           "id": "song-of-songs.02.06.t003",
-          "surface": "לְרֹאשִׁי",
-          "lemma": "ְרֹאשִׁי",
+          "surface": "לְרֹאשִׁי",
+          "lemma": "רֹאשִׁי",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -977,7 +977,7 @@
         {
           "id": "song-of-songs.02.06.t004",
           "surface": "וִימִינוֹ",
-          "lemma": "ִימִינוֹ",
+          "lemma": "ימִינוֹ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -998,8 +998,8 @@
         },
         {
           "id": "song-of-songs.02.06.t005",
-          "surface": "תְּחַבְּקֵנִי",
-          "lemma": "תְּחַבְּקֵנִי",
+          "surface": "תְּחַבְּקֵנִי",
+          "lemma": "תְּחַבְּקֵנִי",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1025,8 +1025,8 @@
       "tokens": [
         {
           "id": "song-of-songs.02.07.t001",
-          "surface": "הִשְׁבַּעְתִּי",
-          "lemma": "ִשְׁבַּעְתִּי",
+          "surface": "הִשְׁבַּעְתִּי",
+          "lemma": "שְׁבַּעְתִּי",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1042,7 +1042,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=1cs",
-          "gloss": "",
+          "gloss": "I adjured",
           "semantic": []
         },
         {
@@ -1060,13 +1060,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=3mp",
-          "gloss": "",
+          "gloss": "you (pl.)",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.07.t003",
-          "surface": "בְּנוֹת",
-          "lemma": "ְּנוֹת",
+          "surface": "בְּנוֹת",
+          "lemma": "נוֹת",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1083,13 +1083,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "daughters of",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.07.t004",
-          "surface": "יְרוּשָׁלִַם",
-          "lemma": "יְרוּשָׁלִַם",
+          "surface": "יְרוּשָׁלִַם",
+          "lemma": "יְרוּשָׁלִַם",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1101,13 +1101,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=3mp",
-          "gloss": "",
+          "gloss": "Jerusalem",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.07.t005",
-          "surface": "בִּצְבָאוֹת",
-          "lemma": "ִּצְבָאוֹת",
+          "surface": "בִּצְבָאוֹת",
+          "lemma": "צְבָאוֹת",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1124,7 +1124,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "by the gazelles",
           "semantic": []
         },
         {
@@ -1142,13 +1142,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=3ms",
-          "gloss": "",
+          "gloss": "or",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.07.t007",
-          "surface": "בְּאַיְלוֹת",
-          "lemma": "ְּאַיְלוֹת",
+          "surface": "בְּאַיְלוֹת",
+          "lemma": "אַיְלוֹת",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1165,13 +1165,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "by the does",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.07.t008",
-          "surface": "הַשָּׂדֶה",
-          "lemma": "ַשָּׂדֶה",
+          "surface": "הַשָּׂדֶה",
+          "lemma": "שָּׂדֶה",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1186,7 +1186,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "the field",
           "semantic": []
         },
         {
@@ -1204,13 +1204,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=3mp",
-          "gloss": "",
+          "gloss": "if",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.07.t010",
-          "surface": "תָּעִירוּ",
-          "lemma": "תָּעִירוּ",
+          "surface": "תָּעִירוּ",
+          "lemma": "תָּעִירוּ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1221,13 +1221,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "you awaken",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.07.t011",
           "surface": "וְאִם",
-          "lemma": "ְאִם",
+          "lemma": "אִם",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1243,13 +1243,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=3mp",
-          "gloss": "",
+          "gloss": "if",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.07.t012",
-          "surface": "תְּעוֹרְרוּ",
-          "lemma": "תְּעוֹרְרוּ",
+          "surface": "תְּעוֹרְרוּ",
+          "lemma": "תְּעוֹרְרוּ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1260,7 +1260,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "you arouse",
           "semantic": []
         },
         {
@@ -1277,13 +1277,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "(object marker)",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.07.t014",
           "surface": "הָאַהֲבָה",
-          "lemma": "ָאַהֲבָה",
+          "lemma": "אַהֲבָה",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1298,7 +1298,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "love",
           "semantic": []
         },
         {
@@ -1315,13 +1315,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "until",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.07.t016",
-          "surface": "שֶׁתֶּחְפָּץ",
-          "lemma": "ֶׁתֶּחְפָּץ",
+          "surface": "שֶׁתֶּחְפָּץ",
+          "lemma": "תֶּחְפָּץ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1380,13 +1380,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=1cs",
-          "gloss": "",
+          "gloss": "love / beloved / caresses",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.08.t003",
-          "surface": "הִנֵּה",
-          "lemma": "ִנֵּה",
+          "surface": "הִנֵּה",
+          "lemma": "נֵּה",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1401,7 +1401,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "behold",
           "semantic": []
         },
         {
@@ -1423,8 +1423,8 @@
         },
         {
           "id": "song-of-songs.02.08.t005",
-          "surface": "בָּא",
-          "lemma": "ָּא",
+          "surface": "בָּא",
+          "lemma": "א",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1446,8 +1446,8 @@
         },
         {
           "id": "song-of-songs.02.08.t006",
-          "surface": "מְדַלֵּג",
-          "lemma": "ְדַלֵּג",
+          "surface": "מְדַלֵּג",
+          "lemma": "דַלֵּג",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1481,13 +1481,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "on/upon",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.08.t008",
           "surface": "הֶהָרִים",
-          "lemma": "ֶהָרִים",
+          "lemma": "הָרִים",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1509,8 +1509,8 @@
         },
         {
           "id": "song-of-songs.02.08.t009",
-          "surface": "מְקַפֵּץ",
-          "lemma": "ְקַפֵּץ",
+          "surface": "מְקַפֵּץ",
+          "lemma": "קַפֵּץ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1544,13 +1544,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "on/upon",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.08.t011",
-          "surface": "הַגְּבָעוֹת",
-          "lemma": "ַגְּבָעוֹת",
+          "surface": "הַגְּבָעוֹת",
+          "lemma": "גְּבָעוֹת",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1609,13 +1609,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=1cs",
-          "gloss": "",
+          "gloss": "love / beloved / caresses",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.09.t003",
           "surface": "לִצְבִי",
-          "lemma": "ִצְבִי",
+          "lemma": "צְבִי",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1633,7 +1633,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=1cs",
-          "gloss": "",
+          "gloss": "by the gazelles",
           "semantic": []
         },
         {
@@ -1651,13 +1651,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=3ms",
-          "gloss": "",
+          "gloss": "or",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.09.t005",
           "surface": "לְעֹפֶר",
-          "lemma": "ְעֹפֶר",
+          "lemma": "עֹפֶר",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1679,8 +1679,8 @@
         },
         {
           "id": "song-of-songs.02.09.t006",
-          "surface": "הָאַיָּלִים",
-          "lemma": "ָאַיָּלִים",
+          "surface": "הָאַיָּלִים",
+          "lemma": "אַיָּלִים",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1702,8 +1702,8 @@
         },
         {
           "id": "song-of-songs.02.09.t007",
-          "surface": "הִנֵּה",
-          "lemma": "ִנֵּה",
+          "surface": "הִנֵּה",
+          "lemma": "נֵּה",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1718,7 +1718,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "behold",
           "semantic": []
         },
         {
@@ -1769,13 +1769,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "after/behind",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.09.t011",
-          "surface": "כָּתְלֵנוּ",
-          "lemma": "ָּתְלֵנוּ",
+          "surface": "כָּתְלֵנוּ",
+          "lemma": "תְלֵנוּ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1798,8 +1798,8 @@
         },
         {
           "id": "song-of-songs.02.09.t012",
-          "surface": "מַשְׁגִּיחַ",
-          "lemma": "ַשְׁגִּיחַ",
+          "surface": "מַשְׁגִּיחַ",
+          "lemma": "שְׁגִּיחַ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1822,7 +1822,7 @@
         {
           "id": "song-of-songs.02.09.t013",
           "surface": "מִן",
-          "lemma": "ִן",
+          "lemma": "ן",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1840,13 +1840,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=3fp",
-          "gloss": "",
+          "gloss": "from",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.09.t014",
           "surface": "הַחֲלּוֹנוֹת",
-          "lemma": "ַחֲלּוֹנוֹת",
+          "lemma": "חֲלּוֹנוֹת",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1867,7 +1867,7 @@
         {
           "id": "song-of-songs.02.09.t015",
           "surface": "מֵצִיץ",
-          "lemma": "ֵצִיץ",
+          "lemma": "צִיץ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1890,7 +1890,7 @@
         {
           "id": "song-of-songs.02.09.t016",
           "surface": "מִן",
-          "lemma": "ִן",
+          "lemma": "ן",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1908,13 +1908,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=3fp",
-          "gloss": "",
+          "gloss": "from",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.09.t017",
-          "surface": "הַחֲרַכִּים",
-          "lemma": "ַחֲרַכִּים",
+          "surface": "הַחֲרַכִּים",
+          "lemma": "חֲרַכִּים",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -1975,13 +1975,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=1cs",
-          "gloss": "",
+          "gloss": "love / beloved / caresses",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.10.t003",
           "surface": "וְאָמַר",
-          "lemma": "ְאָמַר",
+          "lemma": "אָמַר",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2002,7 +2002,7 @@
         {
           "id": "song-of-songs.02.10.t004",
           "surface": "לִי",
-          "lemma": "ִי",
+          "lemma": "י",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2020,7 +2020,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=1cs",
-          "gloss": "",
+          "gloss": "to/for",
           "semantic": []
         },
         {
@@ -2044,7 +2044,7 @@
         {
           "id": "song-of-songs.02.10.t006",
           "surface": "לָךְ",
-          "lemma": "ָךְ",
+          "lemma": "ךְ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2062,7 +2062,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=2fs",
-          "gloss": "",
+          "gloss": "to/for",
           "semantic": []
         },
         {
@@ -2080,7 +2080,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=1cs",
-          "gloss": "",
+          "gloss": "beloved / companion",
           "semantic": []
         },
         {
@@ -2104,7 +2104,7 @@
         {
           "id": "song-of-songs.02.10.t009",
           "surface": "וּלְכִי",
-          "lemma": "ּלְכִי",
+          "lemma": "לְכִי",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2126,7 +2126,7 @@
         {
           "id": "song-of-songs.02.10.t010",
           "surface": "לָךְ",
-          "lemma": "ָךְ",
+          "lemma": "ךְ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2144,7 +2144,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=2fs",
-          "gloss": "",
+          "gloss": "to/for",
           "semantic": []
         }
       ],
@@ -2158,8 +2158,8 @@
       "tokens": [
         {
           "id": "song-of-songs.02.11.t001",
-          "surface": "כִּי",
-          "lemma": "ִּי",
+          "surface": "כִּי",
+          "lemma": "י",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2182,8 +2182,8 @@
         },
         {
           "id": "song-of-songs.02.11.t002",
-          "surface": "הִנֵּה",
-          "lemma": "ִנֵּה",
+          "surface": "הִנֵּה",
+          "lemma": "נֵּה",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2198,13 +2198,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "behold",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.11.t003",
-          "surface": "הַסְּתָו",
-          "lemma": "ַסְּתָו",
+          "surface": "הַסְּתָו",
+          "lemma": "סְּתָו",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2241,8 +2241,8 @@
         },
         {
           "id": "song-of-songs.02.11.t005",
-          "surface": "הַגֶּשֶׁם",
-          "lemma": "ַגֶּשֶׁם",
+          "surface": "הַגֶּשֶׁם",
+          "lemma": "גֶּשֶׁם",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2281,7 +2281,7 @@
         {
           "id": "song-of-songs.02.11.t007",
           "surface": "הָלַךְ",
-          "lemma": "ָלַךְ",
+          "lemma": "לַךְ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2323,7 +2323,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=3ms",
-          "gloss": "",
+          "gloss": "for himself",
           "semantic": []
         }
       ],
@@ -2337,8 +2337,8 @@
       "tokens": [
         {
           "id": "song-of-songs.02.12.t001",
-          "surface": "הַנִּצָּנִים",
-          "lemma": "ַנִּצָּנִים",
+          "surface": "הַנִּצָּנִים",
+          "lemma": "נִּצָּנִים",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2378,7 +2378,7 @@
         {
           "id": "song-of-songs.02.12.t003",
           "surface": "בָאָרֶץ",
-          "lemma": "ָאָרֶץ",
+          "lemma": "אָרֶץ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2417,8 +2417,8 @@
         },
         {
           "id": "song-of-songs.02.12.t005",
-          "surface": "הַזָּמִיר",
-          "lemma": "ַזָּמִיר",
+          "surface": "הַזָּמִיר",
+          "lemma": "זָּמִיר",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2438,8 +2438,8 @@
         },
         {
           "id": "song-of-songs.02.12.t006",
-          "surface": "הִגִּיעַ",
-          "lemma": "ִגִּיעַ",
+          "surface": "הִגִּיעַ",
+          "lemma": "גִּיעַ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2460,7 +2460,7 @@
         {
           "id": "song-of-songs.02.12.t007",
           "surface": "וְקוֹל",
-          "lemma": "ְקוֹל",
+          "lemma": "קוֹל",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2481,7 +2481,7 @@
         {
           "id": "song-of-songs.02.12.t008",
           "surface": "הַתּוֹר",
-          "lemma": "ַתּוֹר",
+          "lemma": "תּוֹר",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2501,8 +2501,8 @@
         },
         {
           "id": "song-of-songs.02.12.t009",
-          "surface": "נִשְׁמַע",
-          "lemma": "נִשְׁמַע",
+          "surface": "נִשְׁמַע",
+          "lemma": "נִשְׁמַע",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2518,8 +2518,8 @@
         },
         {
           "id": "song-of-songs.02.12.t010",
-          "surface": "בְּאַרְצֵנוּ",
-          "lemma": "ְּאַרְצֵנוּ",
+          "surface": "בְּאַרְצֵנוּ",
+          "lemma": "אַרְצֵנוּ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2551,8 +2551,8 @@
       "tokens": [
         {
           "id": "song-of-songs.02.13.t001",
-          "surface": "הַתְּאֵנָה",
-          "lemma": "ַתְּאֵנָה",
+          "surface": "הַתְּאֵנָה",
+          "lemma": "תְּאֵנָה",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2589,8 +2589,8 @@
         },
         {
           "id": "song-of-songs.02.13.t003",
-          "surface": "פַגֶּיהָ",
-          "lemma": "פַגֶּיהָ",
+          "surface": "פַגֶּיהָ",
+          "lemma": "פַגֶּיהָ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2606,8 +2606,8 @@
         },
         {
           "id": "song-of-songs.02.13.t004",
-          "surface": "וְהַגְּפָנִים",
-          "lemma": "ְהַגְּפָנִים",
+          "surface": "וְהַגְּפָנִים",
+          "lemma": "הַגְּפָנִים",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2676,7 +2676,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "scent",
           "semantic": []
         },
         {
@@ -2700,7 +2700,7 @@
         {
           "id": "song-of-songs.02.13.t009",
           "surface": "לְכִי",
-          "lemma": "ְכִי",
+          "lemma": "כִי",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2736,7 +2736,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=1cs",
-          "gloss": "",
+          "gloss": "beloved / companion",
           "semantic": []
         },
         {
@@ -2760,7 +2760,7 @@
         {
           "id": "song-of-songs.02.13.t012",
           "surface": "וּלְכִי",
-          "lemma": "ּלְכִי",
+          "lemma": "לְכִי",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2782,7 +2782,7 @@
         {
           "id": "song-of-songs.02.13.t013",
           "surface": "לָךְ",
-          "lemma": "ָךְ",
+          "lemma": "ךְ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2800,7 +2800,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=2fs",
-          "gloss": "",
+          "gloss": "to/for",
           "semantic": []
         }
       ],
@@ -2832,8 +2832,8 @@
         },
         {
           "id": "song-of-songs.02.14.t002",
-          "surface": "בְּחַגְוֵי",
-          "lemma": "ְּחַגְוֵי",
+          "surface": "בְּחַגְוֵי",
+          "lemma": "חַגְוֵי",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2856,8 +2856,8 @@
         },
         {
           "id": "song-of-songs.02.14.t003",
-          "surface": "הַסֶּלַע",
-          "lemma": "ַסֶּלַע",
+          "surface": "הַסֶּלַע",
+          "lemma": "סֶּלַע",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2877,8 +2877,8 @@
         },
         {
           "id": "song-of-songs.02.14.t004",
-          "surface": "בְּסֵתֶר",
-          "lemma": "ְּסֵתֶר",
+          "surface": "בְּסֵתֶר",
+          "lemma": "סֵתֶר",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2900,8 +2900,8 @@
         },
         {
           "id": "song-of-songs.02.14.t005",
-          "surface": "הַמַּדְרֵגָה",
-          "lemma": "ַמַּדְרֵגָה",
+          "surface": "הַמַּדְרֵגָה",
+          "lemma": "מַּדְרֵגָה",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2922,7 +2922,7 @@
         {
           "id": "song-of-songs.02.14.t006",
           "surface": "הַרְאִינִי",
-          "lemma": "ַרְאִינִי",
+          "lemma": "רְאִינִי",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2955,13 +2955,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "(object marker)",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.14.t008",
           "surface": "מַרְאַיִךְ",
-          "lemma": "ַרְאַיִךְ",
+          "lemma": "רְאַיִךְ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -2984,8 +2984,8 @@
         },
         {
           "id": "song-of-songs.02.14.t009",
-          "surface": "הַשְׁמִיעִינִי",
-          "lemma": "ַשְׁמִיעִינִי",
+          "surface": "הַשְׁמִיעִינִי",
+          "lemma": "שְׁמִיעִינִי",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3018,7 +3018,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "(object marker)",
           "semantic": []
         },
         {
@@ -3041,8 +3041,8 @@
         },
         {
           "id": "song-of-songs.02.14.t012",
-          "surface": "כִּי",
-          "lemma": "ִּי",
+          "surface": "כִּי",
+          "lemma": "י",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3101,7 +3101,7 @@
         {
           "id": "song-of-songs.02.14.t015",
           "surface": "וּמַרְאֵיךְ",
-          "lemma": "ּמַרְאֵיךְ",
+          "lemma": "מַרְאֵיךְ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3166,7 +3166,7 @@
         {
           "id": "song-of-songs.02.15.t002",
           "surface": "לָנוּ",
-          "lemma": "ָנוּ",
+          "lemma": "נוּ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3190,7 +3190,7 @@
         {
           "id": "song-of-songs.02.15.t003",
           "surface": "שׁוּעָלִים",
-          "lemma": "ׁוּעָלִים",
+          "lemma": "וּעָלִים",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3213,7 +3213,7 @@
         {
           "id": "song-of-songs.02.15.t004",
           "surface": "שׁוּעָלִים",
-          "lemma": "ׁוּעָלִים",
+          "lemma": "וּעָלִים",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3235,8 +3235,8 @@
         },
         {
           "id": "song-of-songs.02.15.t005",
-          "surface": "קְטַנִּים",
-          "lemma": "קְטַנִּים",
+          "surface": "קְטַנִּים",
+          "lemma": "קְטַנִּים",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3254,8 +3254,8 @@
         },
         {
           "id": "song-of-songs.02.15.t006",
-          "surface": "מְחַבְּלִים",
-          "lemma": "ְחַבְּלִים",
+          "surface": "מְחַבְּלִים",
+          "lemma": "חַבְּלִים",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3279,8 +3279,8 @@
         },
         {
           "id": "song-of-songs.02.15.t007",
-          "surface": "כְּרָמִים",
-          "lemma": "ְּרָמִים",
+          "surface": "כְּרָמִים",
+          "lemma": "רָמִים",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3305,7 +3305,7 @@
         {
           "id": "song-of-songs.02.15.t008",
           "surface": "וּכְרָמֵינוּ",
-          "lemma": "ּכְרָמֵינוּ",
+          "lemma": "כְרָמֵינוּ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3365,13 +3365,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=1cs",
-          "gloss": "",
+          "gloss": "love / beloved / caresses",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.16.t002",
           "surface": "לִי",
-          "lemma": "ִי",
+          "lemma": "י",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3389,13 +3389,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=1cs",
-          "gloss": "",
+          "gloss": "to/for",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.16.t003",
           "surface": "וַאֲנִי",
-          "lemma": "ַאֲנִי",
+          "lemma": "אֲנִי",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3411,7 +3411,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=1cs",
-          "gloss": "",
+          "gloss": "to/for",
           "semantic": []
         },
         {
@@ -3437,13 +3437,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=3ms",
-          "gloss": "",
+          "gloss": "for himself",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.16.t005",
           "surface": "הָרֹעֶה",
-          "lemma": "ָרֹעֶה",
+          "lemma": "רֹעֶה",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3463,8 +3463,8 @@
         },
         {
           "id": "song-of-songs.02.16.t006",
-          "surface": "בַּשּׁוֹשַׁנִּים",
-          "lemma": "ַּשּׁוֹשַׁנִּים",
+          "surface": "בַּשּׁוֹשַׁנִּים",
+          "lemma": "שּׁוֹשַׁנִּים",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3509,13 +3509,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "until",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.17.t002",
-          "surface": "שֶׁיָּפֻחַ",
-          "lemma": "ֶׁיָּפֻחַ",
+          "surface": "שֶׁיָּפֻחַ",
+          "lemma": "יָּפֻחַ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3536,7 +3536,7 @@
         {
           "id": "song-of-songs.02.17.t003",
           "surface": "הַיּוֹם",
-          "lemma": "ַיּוֹם",
+          "lemma": "יּוֹם",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3558,7 +3558,7 @@
         {
           "id": "song-of-songs.02.17.t004",
           "surface": "וְנָסוּ",
-          "lemma": "ְנָסוּ",
+          "lemma": "נָסוּ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3578,8 +3578,8 @@
         },
         {
           "id": "song-of-songs.02.17.t005",
-          "surface": "הַצְּלָלִים",
-          "lemma": "ַצְּלָלִים",
+          "surface": "הַצְּלָלִים",
+          "lemma": "צְּלָלִים",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3618,8 +3618,8 @@
         },
         {
           "id": "song-of-songs.02.17.t007",
-          "surface": "דְּמֵה",
-          "lemma": "דְּמֵה",
+          "surface": "דְּמֵה",
+          "lemma": "דְּמֵה",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3636,7 +3636,7 @@
         {
           "id": "song-of-songs.02.17.t008",
           "surface": "לְךָ",
-          "lemma": "ְךָ",
+          "lemma": "ךָ",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3672,13 +3672,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=1cs",
-          "gloss": "",
+          "gloss": "love / beloved / caresses",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.17.t010",
           "surface": "לִצְבִי",
-          "lemma": "ִצְבִי",
+          "lemma": "צְבִי",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3696,7 +3696,7 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=1cs",
-          "gloss": "",
+          "gloss": "by the gazelles",
           "semantic": []
         },
         {
@@ -3714,13 +3714,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?;Suf=3ms",
-          "gloss": "",
+          "gloss": "or",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.17.t012",
           "surface": "לְעֹפֶר",
-          "lemma": "ְעֹפֶר",
+          "lemma": "עֹפֶר",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3742,8 +3742,8 @@
         },
         {
           "id": "song-of-songs.02.17.t013",
-          "surface": "הָאַיָּלִים",
-          "lemma": "ָאַיָּלִים",
+          "surface": "הָאַיָּלִים",
+          "lemma": "אַיָּלִים",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3777,13 +3777,13 @@
             "state": "abs?"
           },
           "morph": "N;?sg;abs?",
-          "gloss": "",
+          "gloss": "on/upon",
           "semantic": []
         },
         {
           "id": "song-of-songs.02.17.t015",
           "surface": "הָרֵי",
-          "lemma": "ָרֵי",
+          "lemma": "רֵי",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3805,7 +3805,7 @@
         {
           "id": "song-of-songs.02.17.t016",
           "surface": "בָתֶר",
-          "lemma": "ָתֶר",
+          "lemma": "תֶר",
           "root": "—",
           "pos": "NOUN",
           "features": {
@@ -3831,564 +3831,644 @@
   ],
   "lexicon": [
     {
-      "lemma": "ְאִם",
+      "lemma": "אִם",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "if",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=3mp"
     },
     {
-      "lemma": "ְאָמַר",
+      "lemma": "אָמַר",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "say",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ְדִגְלוֹ",
+      "lemma": "דִגְלוֹ",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "his banner/standard",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=3ms"
     },
     {
-      "lemma": "ְדַלֵּג",
+      "lemma": "דַלֵּג",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "leap",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ְהַגְּפָנִים",
+      "lemma": "הַגְּפָנִים",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "the vines",
+      "semantic": [],
+      "notes": "Common forms: N;mpl;abs?;Suf=3mp"
     },
     {
-      "lemma": "ְחִכִּי",
+      "lemma": "חִכִּי",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "my palate",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=1cs"
     },
     {
-      "lemma": "ְחַבְּלִים",
+      "lemma": "חַבְּלִים",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "destroying / ruining",
+      "semantic": [],
+      "notes": "Common forms: N;mpl;abs?;Suf=3mp"
     },
     {
-      "lemma": "ְיָשַׁבְתִּי",
+      "lemma": "יָשַׁבְתִּי",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "I sat",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=1cs"
     },
     {
-      "lemma": "ְךָ",
+      "lemma": "ךָ",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "you / your (m.sg.)",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=2ms"
     },
     {
-      "lemma": "ְכִי",
+      "lemma": "כִי",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "for / because",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=1cs"
     },
     {
-      "lemma": "ְנָסוּ",
+      "lemma": "נָסוּ",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "they fled / vanished",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ְעֹפֶר",
+      "lemma": "עֹפֶר",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "fawn / young stag",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ְקַפֵּץ",
+      "lemma": "קַפֵּץ",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "spring / leap",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ְקוֹל",
+      "lemma": "קוֹל",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "voice / sound",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ְרֹאשִׁי",
+      "lemma": "רֹאשִׁי",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "my head",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=1cs"
     },
     {
-      "lemma": "ֱבִיאַנִי",
+      "lemma": "בִיאַנִי",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "bring/come",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=1cs"
     },
     {
-      "lemma": "ִגִּיעַ",
+      "lemma": "גִּיעַ",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "has arrived / reached",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ִי",
+      "lemma": "י",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "to/for",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=1cs"
     },
     {
-      "lemma": "ִימִינוֹ",
+      "lemma": "ימִינוֹ",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "his right hand",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=3ms"
     },
     {
-      "lemma": "ִן",
+      "lemma": "ן",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "from",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=3fp"
     },
     {
-      "lemma": "ִנֵּה",
+      "lemma": "נֵּה",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "behold",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ִצְבִי",
+      "lemma": "צְבִי",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "by the gazelles",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=1cs"
     },
     {
-      "lemma": "ִשְׁבַּעְתִּי",
+      "lemma": "שְׁבַּעְתִּי",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "I adjured",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=1cs"
     },
     {
-      "lemma": "ֵצִיץ",
+      "lemma": "צִיץ",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "peeps / looks out",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ֶהָרִים",
+      "lemma": "הָרִים",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "mountains",
+      "semantic": [],
+      "notes": "Common forms: N;mpl;abs?;Suf=3mp"
     },
     {
-      "lemma": "ַאֲנִי",
+      "lemma": "אֲנִי",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "I",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=1cs"
     },
     {
-      "lemma": "ַבָּנִים",
+      "lemma": "בָּנִים",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "sons",
+      "semantic": [],
+      "notes": "Common forms: N;mpl;abs?;Suf=3mp"
     },
     {
-      "lemma": "ַבָּנוֹת",
+      "lemma": "בָּנוֹת",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "daughters",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ַגְּבָעוֹת",
+      "lemma": "גְּבָעוֹת",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "hills",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ַגֶּשֶׁם",
+      "lemma": "גֶּשֶׁם",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "rain",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=3mp"
     },
     {
-      "lemma": "ַזָּמִיר",
+      "lemma": "זָּמִיר",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "song / singing; pruning",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ַחֲלּוֹנוֹת",
+      "lemma": "חֲלּוֹנוֹת",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "windows",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ַחֲרַכִּים",
+      "lemma": "חֲרַכִּים",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "lattices",
+      "semantic": [],
+      "notes": "Common forms: N;mpl;abs?;Suf=3mp"
     },
     {
-      "lemma": "ַחוֹחִים",
+      "lemma": "חוֹחִים",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "thorns",
+      "semantic": [],
+      "notes": "Common forms: N;mpl;abs?;Suf=3mp"
     },
     {
-      "lemma": "ַיַּעַר",
+      "lemma": "יַּעַר",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "forest / honeycomb",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ַיָּיִן",
+      "lemma": "יָּיִן",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "wine",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=3fp"
     },
     {
-      "lemma": "ַיּוֹם",
+      "lemma": "יּוֹם",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "day",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=3mp"
     },
     {
-      "lemma": "ַמַּדְרֵגָה",
+      "lemma": "מַּדְרֵגָה",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "stairway / step",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ַנִּצָּנִים",
+      "lemma": "נִּצָּנִים",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "blossoms",
+      "semantic": [],
+      "notes": "Common forms: N;mpl;abs?;Suf=3mp"
     },
     {
-      "lemma": "ַסְּתָו",
+      "lemma": "סְּתָו",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "winter",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ַסֶּלַע",
+      "lemma": "סֶּלַע",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "rock / crag",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ַצְּלָלִים",
+      "lemma": "צְּלָלִים",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "shadows",
+      "semantic": [],
+      "notes": "Common forms: N;mpl;abs?;Suf=3mp"
     },
     {
-      "lemma": "ַרְאִינִי",
+      "lemma": "רְאִינִי",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "show me! (f.sg.)",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=1cs"
     },
     {
-      "lemma": "ַרְאַיִךְ",
+      "lemma": "רְאַיִךְ",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "your appearance",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=2fs"
     },
     {
-      "lemma": "ַשְׁגִּיחַ",
+      "lemma": "שְׁגִּיחַ",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "looking / watching",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ַשְׁמִיעִינִי",
+      "lemma": "שְׁמִיעִינִי",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "let me hear! (f.sg.)",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=1cs"
     },
     {
-      "lemma": "ַשָּׁרוֹן",
+      "lemma": "שָּׁרוֹן",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "Sharon",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=3fp"
     },
     {
-      "lemma": "ַשָּׂדֶה",
+      "lemma": "שָּׂדֶה",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "the field",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ַתְּאֵנָה",
+      "lemma": "תְּאֵנָה",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "fig tree",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ַתּוֹר",
+      "lemma": "תּוֹר",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "turtledove",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ָאַהֲבָה",
+      "lemma": "אַהֲבָה",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "love",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ָאַיָּלִים",
+      "lemma": "אַיָּלִים",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "stags",
+      "semantic": [],
+      "notes": "Common forms: N;mpl;abs?;Suf=3mp"
     },
     {
-      "lemma": "ָאָרֶץ",
+      "lemma": "אָרֶץ",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "land / earth",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ָךְ",
+      "lemma": "ךְ",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "to/for",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=2fs"
     },
     {
-      "lemma": "ָלַךְ",
+      "lemma": "לַךְ",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "for you (f.sg.)",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=2fs"
     },
     {
-      "lemma": "ָנוּ",
+      "lemma": "נוּ",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "please / now",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=1cp"
     },
     {
-      "lemma": "ָעֲמָקִים",
+      "lemma": "עֲמָקִים",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "valleys",
+      "semantic": [],
+      "notes": "Common forms: N;mpl;abs?;Suf=3mp"
     },
     {
-      "lemma": "ָרֵי",
+      "lemma": "רֵי",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "mountains (construct)",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=1cs"
     },
     {
-      "lemma": "ָרֹעֶה",
+      "lemma": "רֹעֶה",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "shepherding / grazing",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ָתֶר",
+      "lemma": "תֶר",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "turtledove",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ָתוֹק",
+      "lemma": "תוֹק",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "sweetness / sweet",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
       "lemma": "ֹ",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "for himself",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=3ms"
     },
     {
-      "lemma": "ְּאַיְלוֹת",
+      "lemma": "אַיְלוֹת",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "by the does",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ְּאַרְצֵנוּ",
+      "lemma": "אַרְצֵנוּ",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "our land",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=1cp"
     },
     {
-      "lemma": "ְּחַגְוֵי",
+      "lemma": "חַגְוֵי",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "clefts / recesses",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=1cs"
     },
     {
-      "lemma": "ְּנוֹת",
+      "lemma": "נוֹת",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "daughters of",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ְּסֵתֶר",
+      "lemma": "סֵתֶר",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "hiding place / shelter",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ְּצִלּוֹ",
+      "lemma": "צִלּוֹ",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "his shade",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=3ms"
     },
     {
-      "lemma": "ְּרָמִים",
+      "lemma": "רָמִים",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "mountains / heights",
+      "semantic": [],
+      "notes": "Common forms: N;mpl;abs?;Suf=3mp"
     },
     {
-      "lemma": "ְּשׁוֹשַׁנָּה",
+      "lemma": "שׁוֹשַׁנָּה",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "lily",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ְּתַפּוּחַ",
+      "lemma": "תַפּוּחַ",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "apple tree",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ִּי",
+      "lemma": "י",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "(poetic particle)",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=1cs"
     },
     {
-      "lemma": "ִּצְבָאוֹת",
+      "lemma": "צְבָאוֹת",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "by the gazelles",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ֵּין",
+      "lemma": "ין",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "between",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=3fp"
     },
     {
-      "lemma": "ֵּית",
+      "lemma": "ית",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "house of",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     },
     {
-      "lemma": "ֵּן",
+      "lemma": "ן",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "therefore/so",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=3fp"
     },
     {
-      "lemma": "ַּעֲצֵי",
+      "lemma": "עֲצֵי",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "trees of",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?;Suf=1cs"
     },
     {
-      "lemma": "ַּשּׁוֹשַׁנִּים",
+      "lemma": "שּׁוֹשַׁנִּים",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "lilies",
+      "semantic": [],
+      "notes": "Common forms: N;mpl;abs?;Suf=3mp"
     },
     {
-      "lemma": "ַּתַּפּוּחִים",
+      "lemma": "תַּפּוּחִים",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "apples",
+      "semantic": [],
+      "notes": "Common forms: N;mpl;abs?;Suf=3mp"
     },
     {
-      "lemma": "ָּא",
+      "lemma": "א",
       "root": "—",
       "pos": "NOUN",
-      "gloss": "",
-      "semantic": []
+      "gloss": "(particle)",
+      "semantic": [],
+      "notes": "Common forms: N;?sg;abs?"
     }
   ],
   "grammar": [

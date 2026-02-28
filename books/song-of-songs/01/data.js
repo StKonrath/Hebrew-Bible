@@ -13,8 +13,8 @@ window.__chapterData = {
       "tr": "Shir ha-shirim asher li-Shlomo.",
       "tokens": [
         {
-          "surface": "שִׁ֥יר",
-          "lemma": "שִׁיר",
+          "surface": "שִׁיר",
+          "lemma": "שִׁיר",
           "root": "שׁיר",
           "pos": "NOUN",
           "morph": "N;msg;abs?",
@@ -37,8 +37,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "הַשִּׁירִ֖ים",
-          "lemma": "שִׁיר",
+          "surface": "הַשִּׁירִים",
+          "lemma": "שִׁיר",
           "root": "שׁיר",
           "pos": "NOUN",
           "morph": "N;mpl;abs?;Suf=3mp",
@@ -62,8 +62,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "אֲשֶׁ֥ר",
-          "lemma": "אֲשֶׁר",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
           "root": "—",
           "pos": "PARTICLE",
           "morph": "PARTICLE",
@@ -79,8 +79,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "לִשְׁלֹמֹֽה",
-          "lemma": "לִשְׁלֹמֹֽה",
+          "surface": "לִשְׁלֹמֹֽה",
+          "lemma": "לִשְׁלֹמֹֽה",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?",
@@ -113,8 +113,8 @@ window.__chapterData = {
       "tr": "Yishaqeni min-neshiqot pihu ki tovim dodekha mi-yayin.",
       "tokens": [
         {
-          "surface": "יִשָּׁקֵ֨נִי֙",
-          "lemma": "נָשַׁק",
+          "surface": "יִשָּׁקֵנִי",
+          "lemma": "נָשַׁק",
           "root": "נשׁק",
           "pos": "VERB",
           "morph": "V;Qal;Imperfect;3msg;Obj=1cs",
@@ -137,8 +137,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "מִנְּשִׁיק֣וֹת",
-          "lemma": "נְשִׁיקָה",
+          "surface": "מִנְּשִׁיקוֹת",
+          "lemma": "נְשִׁיקָה",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;fpl;abs?",
@@ -163,8 +163,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "פִּ֔יהוּ",
-          "lemma": "פֶּה",
+          "surface": "פִּיהוּ",
+          "lemma": "פֶּה",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?",
@@ -182,8 +182,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "כִּֽי",
-          "lemma": "כִּֽי",
+          "surface": "כִּֽי",
+          "lemma": "כִּֽי",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=1cs",
@@ -208,7 +208,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "טוֹבִ֥ים",
+          "surface": "טוֹבִים",
           "lemma": "טוֹב",
           "root": "—",
           "pos": "ADJ",
@@ -229,7 +229,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "דֹּדֶ֖יךָ",
+          "surface": "דֹּדֶיךָ",
           "lemma": "דּוֹד",
           "root": "דוד",
           "pos": "NOUN",
@@ -249,8 +249,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "מִיָּֽיִן",
-          "lemma": "מִיָּֽיִן",
+          "surface": "מִיָּֽיִן",
+          "lemma": "מִיָּֽיִן",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=3fp",
@@ -284,7 +284,7 @@ window.__chapterData = {
       "tr": "Le-reach shemanekha tovim; shemen turaq shemekha; al-ken alamot ahevukha.",
       "tokens": [
         {
-          "surface": "לְרֵ֨יחַ֙",
+          "surface": "לְרֵיחַ",
           "lemma": "רֵיחַ",
           "root": "—",
           "pos": "NOUN",
@@ -309,8 +309,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "שְׁמָנֶ֣יךָ",
-          "lemma": "שֶׁמֶן",
+          "surface": "שְׁמָנֶיךָ",
+          "lemma": "שֶׁמֶן",
           "root": "שׁמן",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=2ms",
@@ -333,7 +333,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "טוֹבִ֔ים",
+          "surface": "טוֹבִים",
           "lemma": "טוֹב",
           "root": "—",
           "pos": "ADJ",
@@ -354,8 +354,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "שֶׁ֖מֶן",
-          "lemma": "שֶׁמֶן",
+          "surface": "שֶׁמֶן",
+          "lemma": "שֶׁמֶן",
           "root": "שׁמן",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=3fp",
@@ -378,7 +378,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "תּוּרַ֣ק",
+          "surface": "תּוּרַק",
           "lemma": "תּוּרַק",
           "root": "—",
           "pos": "NOUN",
@@ -397,8 +397,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "שְׁמֶ֑ךָ",
-          "lemma": "שֵׁם",
+          "surface": "שְׁמֶךָ",
+          "lemma": "שֵׁם",
           "root": "שׁם",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=2ms",
@@ -438,8 +438,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "כֵּ֖ן",
-          "lemma": "כֵּן",
+          "surface": "כֵּן",
+          "lemma": "כֵּן",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=3fp",
@@ -464,7 +464,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "עֲלָמ֥וֹת",
+          "surface": "עֲלָמוֹת",
           "lemma": "עַלְמָה",
           "root": "—",
           "pos": "NOUN",
@@ -515,8 +515,8 @@ window.__chapterData = {
       "tr": "Mashkheni acharekha narutsah; hevi’ani ha-melekh chadarav; nagilah ve-nismechah bakh; nazkirah dodekha mi-yayin; meysharim ahevukha.",
       "tokens": [
         {
-          "surface": "מָשְׁכֵ֖נִי",
-          "lemma": "מָשַׁךְ",
+          "surface": "מָשְׁכֵנִי",
+          "lemma": "מָשַׁךְ",
           "root": "משׁך",
           "pos": "VERB",
           "morph": "V;Qal;Imperative;2msg;Obj=1cs",
@@ -546,7 +546,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "אַחֲרֶ֣יךָ",
+          "surface": "אַחֲרֶיךָ",
           "lemma": "אַחַר",
           "root": "—",
           "pos": "NOUN",
@@ -566,7 +566,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "נָּר֑וּצָה",
+          "surface": "נָּרוּצָה",
           "lemma": "רוּץ",
           "root": "רץ",
           "pos": "VERB",
@@ -588,7 +588,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "הֱבִיאַ֨נִי",
+          "surface": "הֱבִיאַנִי",
           "lemma": "בּוֹא",
           "root": "בוא",
           "pos": "VERB",
@@ -612,7 +612,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "הַמֶּ֜לֶךְ",
+          "surface": "הַמֶּלֶךְ",
           "lemma": "מֶלֶךְ",
           "root": "—",
           "pos": "NOUN",
@@ -636,7 +636,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "חֲדָרָ֗יו",
+          "surface": "חֲדָרָיו",
           "lemma": "חֶדֶר",
           "root": "—",
           "pos": "NOUN",
@@ -655,8 +655,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "נָגִ֤ילָה",
-          "lemma": "גִּיל",
+          "surface": "נָגִילָה",
+          "lemma": "גִּיל",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?",
@@ -674,8 +674,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "וְנִשְׂמְחָה֙",
-          "lemma": "שָׂמַח",
+          "surface": "וְנִשְׂמְחָה",
+          "lemma": "שָׂמַח",
           "root": "שׂמח",
           "pos": "VERB",
           "morph": "V;?;Cohortative;1?pl",
@@ -698,8 +698,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "בָּ֔ךְ",
-          "lemma": "אַתְּ",
+          "surface": "בָּךְ",
+          "lemma": "אַתְּ",
           "root": "—",
           "pos": "PRON",
           "morph": "PRON",
@@ -722,7 +722,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "נַזְכִּ֤ירָה",
+          "surface": "נַזְכִּירָה",
           "lemma": "זָכַר",
           "root": "זכר",
           "pos": "VERB",
@@ -742,7 +742,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "דֹדֶ֨יךָ֙",
+          "surface": "דֹדֶיךָ",
           "lemma": "דֹדֶיךָ",
           "root": "—",
           "pos": "NOUN",
@@ -762,8 +762,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "מִיַּ֔יִן",
-          "lemma": "מִיַּיִן",
+          "surface": "מִיַּיִן",
+          "lemma": "מִיַּיִן",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=3fp",
@@ -788,8 +788,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "מֵישָׁרִ֖ים",
-          "lemma": "מֵישָׁר",
+          "surface": "מֵישָׁרִים",
+          "lemma": "מֵישָׁר",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;mpl;abs?;Suf=3mp",
@@ -846,8 +846,8 @@ window.__chapterData = {
       "tr": "Shechorah ani ve-na’avah, benot Yerushalayim; ke-ohole Qedar, ki-yeri’ot Shlomo.",
       "tokens": [
         {
-          "surface": "שְׁחוֹרָ֤ה",
-          "lemma": "שָׁחֹר",
+          "surface": "שְׁחוֹרָה",
+          "lemma": "שָׁחֹר",
           "root": "—",
           "pos": "ADJ",
           "morph": "A;?sg;abs?",
@@ -869,7 +869,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "אֲנִי֙",
+          "surface": "אֲנִי",
           "lemma": "אֲנִי",
           "root": "—",
           "pos": "PRON",
@@ -887,7 +887,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "וְֽנָאוָ֔ה",
+          "surface": "וְֽנָאוָה",
           "lemma": "וְֽנָאוָה",
           "root": "—",
           "pos": "NOUN",
@@ -910,8 +910,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "בְּנ֖וֹת",
-          "lemma": "בַּת",
+          "surface": "בְּנוֹת",
+          "lemma": "בַּת",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;fpl;abs?",
@@ -936,8 +936,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "יְרוּשָׁלִָ֑ם",
-          "lemma": "יְרוּשָׁלִָם",
+          "surface": "יְרוּשָׁלִָם",
+          "lemma": "יְרוּשָׁלִָם",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=3mp",
@@ -956,7 +956,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "כְּאָהֳלֵ֣י",
+          "surface": "כְּאָהֳלֵי",
           "lemma": "אֹהֶל",
           "root": "—",
           "pos": "NOUN",
@@ -982,7 +982,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "קֵדָ֔ר",
+          "surface": "קֵדָר",
           "lemma": "קֵדָר",
           "root": "—",
           "pos": "PROPN",
@@ -1001,7 +1001,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "כִּירִיע֖וֹת",
+          "surface": "כִּירִיעוֹת",
           "lemma": "יְרִיעָה",
           "root": "—",
           "pos": "NOUN",
@@ -1027,8 +1027,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "שְׁלֹמֹֽה",
-          "lemma": "שְׁלֹמֹֽה",
+          "surface": "שְׁלֹמֹֽה",
+          "lemma": "שְׁלֹמֹֽה",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?",
@@ -1076,7 +1076,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "תִּרְא֨וּנִי֙",
+          "surface": "תִּרְאוּנִי",
           "lemma": "רָאָה",
           "root": "ראה",
           "pos": "VERB",
@@ -1096,8 +1096,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "שֶׁאֲנִ֣י",
-          "lemma": "שֶׁאֲנִי",
+          "surface": "שֶׁאֲנִי",
+          "lemma": "שֶׁאֲנִי",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=1cs",
@@ -1120,8 +1120,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "שְׁחַרְחֹ֔רֶת",
-          "lemma": "שְׁחַרְחֹרֶת",
+          "surface": "שְׁחַרְחֹרֶת",
+          "lemma": "שְׁחַרְחֹרֶת",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?",
@@ -1143,8 +1143,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "שֶׁשֱּׁזָפַ֖תְנִי",
-          "lemma": "שֶׁשֱּׁזָפַתְנִי",
+          "surface": "שֶׁשֱּׁזָפַתְנִי",
+          "lemma": "שֶׁשֱּׁזָפַתְנִי",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=1cs",
@@ -1167,8 +1167,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "הַשָּׁ֑מֶשׁ",
-          "lemma": "שֶׁמֶשׁ",
+          "surface": "הַשָּׁמֶשׁ",
+          "lemma": "שֶׁמֶשׁ",
           "root": "שׁמש",
           "pos": "NOUN",
           "morph": "N;?sg;abs?",
@@ -1190,8 +1190,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "בְּנֵ֧י",
-          "lemma": "בֵּן",
+          "surface": "בְּנֵי",
+          "lemma": "בֵּן",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=1cs",
@@ -1216,7 +1216,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "אִמִּ֣י",
+          "surface": "אִמִּי",
           "lemma": "אֵם",
           "root": "—",
           "pos": "NOUN",
@@ -1255,7 +1255,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "בִ֗י",
+          "surface": "בִי",
           "lemma": "בִי",
           "root": "—",
           "pos": "NOUN",
@@ -1281,7 +1281,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "שָׂמֻ֨נִי֙",
+          "surface": "שָׂמֻנִי",
           "lemma": "שׂוּם",
           "root": "שׂים",
           "pos": "VERB",
@@ -1305,7 +1305,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "נֹטֵרָ֣ה",
+          "surface": "נֹטֵרָה",
           "lemma": "נָטַר",
           "root": "נטר",
           "pos": "VERB",
@@ -1343,8 +1343,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "הַכְּרָמִ֔ים",
-          "lemma": "כֶּרֶם",
+          "surface": "הַכְּרָמִים",
+          "lemma": "כֶּרֶם",
           "root": "כרם",
           "pos": "NOUN",
           "morph": "N;mpl;abs?;Suf=3mp",
@@ -1368,8 +1368,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "כַּרְמִ֥י",
-          "lemma": "כֶּרֶם",
+          "surface": "כַּרְמִי",
+          "lemma": "כֶּרֶם",
           "root": "כרם",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=1cs",
@@ -1394,8 +1394,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "שֶׁלִּ֖י",
-          "lemma": "שֶׁלִּי",
+          "surface": "שֶׁלִּי",
+          "lemma": "שֶׁלִּי",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=1cs",
@@ -1418,7 +1418,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "לֹ֥א",
+          "surface": "לֹא",
           "lemma": "לֹא",
           "root": "—",
           "pos": "PARTICLE",
@@ -1441,8 +1441,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "נָטָֽרְתִּי",
-          "lemma": "נָטָֽרְתִּי",
+          "surface": "נָטָֽרְתִּי",
+          "lemma": "נָטָֽרְתִּי",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=1cs",
@@ -1470,7 +1470,7 @@ window.__chapterData = {
       "tr": "Haggidah li she-ahavah nafshi: eykhah tir’eh, eykhah tarbits ba-tsohorayim? Shalamah ehyeh k’otyah al edrei chaveirekha?",
       "tokens": [
         {
-          "surface": "הַגִּ֣ידָה",
+          "surface": "הַגִּידָה",
           "lemma": "נָגַד",
           "root": "נגד",
           "pos": "VERB",
@@ -1493,7 +1493,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "לִּ֗י",
+          "surface": "לִּי",
           "lemma": "אֲנִי",
           "root": "—",
           "pos": "PRON",
@@ -1517,8 +1517,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "שֶׁ֤אָהֲבָה֙",
-          "lemma": "שֶׁאָהֲבָה",
+          "surface": "שֶׁאָהֲבָה",
+          "lemma": "שֶׁאָהֲבָה",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?",
@@ -1540,7 +1540,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "נַפְשִׁ֔י",
+          "surface": "נַפְשִׁי",
           "lemma": "נֶפֶשׁ",
           "root": "נפשׁ",
           "pos": "NOUN",
@@ -1560,7 +1560,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "אֵיכָ֣ה",
+          "surface": "אֵיכָה",
           "lemma": "אֵיכָה",
           "root": "—",
           "pos": "PARTICLE",
@@ -1577,7 +1577,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "תִרְעֶ֔ה",
+          "surface": "תִרְעֶה",
           "lemma": "רָעָה",
           "root": "רעה",
           "pos": "VERB",
@@ -1596,7 +1596,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "אֵיכָ֖ה",
+          "surface": "אֵיכָה",
           "lemma": "אֵיכָה",
           "root": "—",
           "pos": "PARTICLE",
@@ -1613,7 +1613,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "תַּרְבִּ֣יץ",
+          "surface": "תַּרְבִּיץ",
           "lemma": "רָבַץ",
           "root": "רבץ",
           "pos": "VERB",
@@ -1632,8 +1632,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "בַּֽצָּהֳרָ֑יִם",
-          "lemma": "בַּֽצָּהֳרָיִם",
+          "surface": "בַּֽצָּהֳרָיִם",
+          "lemma": "בַּֽצָּהֳרָיִם",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=3mp",
@@ -1658,8 +1658,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "שַׁלָּמָ֤ה",
-          "lemma": "שַׁלָּמָה",
+          "surface": "שַׁלָּמָה",
+          "lemma": "שַׁלָּמָה",
           "root": "—",
           "pos": "PARTICLE",
           "morph": "PARTICLE",
@@ -1679,7 +1679,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "אֶֽהְיֶה֙",
+          "surface": "אֶֽהְיֶה",
           "lemma": "אֶֽהְיֶה",
           "root": "—",
           "pos": "NOUN",
@@ -1698,8 +1698,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "כְּעֹ֣טְיָ֔ה",
-          "lemma": "כְּעֹטְיָה",
+          "surface": "כְּעֹטְיָה",
+          "lemma": "כְּעֹטְיָה",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?",
@@ -1723,7 +1723,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "עַ֖ל",
+          "surface": "עַל",
           "lemma": "עַל",
           "root": "—",
           "pos": "PREP",
@@ -1740,7 +1740,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "עֶדְרֵ֥י",
+          "surface": "עֶדְרֵי",
           "lemma": "עֵדֶר",
           "root": "—",
           "pos": "NOUN",
@@ -1807,7 +1807,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "לֹ֤א",
+          "surface": "לֹא",
           "lemma": "לֹא",
           "root": "—",
           "pos": "PARTICLE",
@@ -1830,7 +1830,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "תֵדְעִי֙",
+          "surface": "תֵדְעִי",
           "lemma": "יָדַע",
           "root": "ידע",
           "pos": "VERB",
@@ -1853,8 +1853,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "לָ֔ךְ",
-          "lemma": "אַתְּ",
+          "surface": "לָךְ",
+          "lemma": "אַתְּ",
           "root": "—",
           "pos": "PRON",
           "morph": "PRON",
@@ -1877,7 +1877,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "הַיָּפָ֖ה",
+          "surface": "הַיָּפָה",
           "lemma": "יָפֶה",
           "root": "—",
           "pos": "ADJ",
@@ -1900,8 +1900,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "בַּנָּשִׁ֑ים",
-          "lemma": "אִשָּׁה",
+          "surface": "בַּנָּשִׁים",
+          "lemma": "אִשָּׁה",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;mpl;abs?;Suf=3mp",
@@ -1947,8 +1947,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "לָ֞ךְ",
-          "lemma": "אַתְּ",
+          "surface": "לָךְ",
+          "lemma": "אַתְּ",
           "root": "—",
           "pos": "PRON",
           "morph": "PRON",
@@ -1971,7 +1971,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "בְּעִקְבֵ֣י",
+          "surface": "בְּעִקְבֵי",
           "lemma": "עָקֵב",
           "root": "—",
           "pos": "NOUN",
@@ -1997,7 +1997,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "הַצֹּ֗אן",
+          "surface": "הַצֹּאן",
           "lemma": "צֹאן",
           "root": "—",
           "pos": "NOUN",
@@ -2021,7 +2021,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "וּרְעִי֙",
+          "surface": "וּרְעִי",
           "lemma": "רָעָה",
           "root": "רעה",
           "pos": "VERB",
@@ -2067,8 +2067,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "גְּדִיֹּתַ֔יִךְ",
-          "lemma": "גְּדִי",
+          "surface": "גְּדִיֹּתַיִךְ",
+          "lemma": "גְּדִי",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=2fs",
@@ -2087,7 +2087,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "עַ֖ל",
+          "surface": "עַל",
           "lemma": "עַל",
           "root": "—",
           "pos": "PREP",
@@ -2104,8 +2104,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "מִשְׁכְּנ֥וֹת",
-          "lemma": "מִשְׁכָּן",
+          "surface": "מִשְׁכְּנוֹת",
+          "lemma": "מִשְׁכָּן",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;fpl;abs?",
@@ -2164,7 +2164,7 @@ window.__chapterData = {
       "tr": "Le-susati b’rikhvei Par‘oh dimitikh ra‘yati.",
       "tokens": [
         {
-          "surface": "לְסֻסָתִי֙",
+          "surface": "לְסֻסָתִי",
           "lemma": "סוּסָה",
           "root": "—",
           "pos": "NOUN",
@@ -2190,7 +2190,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "בְּרִכְבֵ֣י",
+          "surface": "בְּרִכְבֵי",
           "lemma": "רֶכֶב",
           "root": "—",
           "pos": "NOUN",
@@ -2216,7 +2216,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "פַרְעֹ֔ה",
+          "surface": "פַרְעֹה",
           "lemma": "פַרְעֹה",
           "root": "—",
           "pos": "NOUN",
@@ -2235,8 +2235,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "דִּמִּיתִ֖יךְ",
-          "lemma": "דָּמָה",
+          "surface": "דִּמִּיתִיךְ",
+          "lemma": "דָּמָה",
           "root": "דמה",
           "pos": "VERB",
           "morph": "V;?;?;???",
@@ -2284,7 +2284,7 @@ window.__chapterData = {
       "tr": "Na’u le-chayayikh ba-torim; tsavarekh ba-charuzim.",
       "tokens": [
         {
-          "surface": "נָאו֤וּ",
+          "surface": "נָאווּ",
           "lemma": "נָאווּ",
           "root": "—",
           "pos": "NOUN",
@@ -2303,7 +2303,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "לְחָיַ֨יִךְ֙",
+          "surface": "לְחָיַיִךְ",
           "lemma": "לֶחִי",
           "root": "—",
           "pos": "NOUN",
@@ -2329,8 +2329,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "בַּתֹּרִ֔ים",
-          "lemma": "תֹּר",
+          "surface": "בַּתֹּרִים",
+          "lemma": "תֹּר",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;mpl;abs?;Suf=3mp",
@@ -2356,8 +2356,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "צַוָּארֵ֖ךְ",
-          "lemma": "צַוָּאר",
+          "surface": "צַוָּארֵךְ",
+          "lemma": "צַוָּאר",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=2fs",
@@ -2376,8 +2376,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "בַּחֲרוּזִֽים",
-          "lemma": "בַּחֲרוּזִֽים",
+          "surface": "בַּחֲרוּזִֽים",
+          "lemma": "בַּחֲרוּזִֽים",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;mpl;abs?;Suf=3mp",
@@ -2412,8 +2412,8 @@ window.__chapterData = {
       "tr": "Torei zahav na‘aseh-lakh, im n’qudot ha-kasef.",
       "tokens": [
         {
-          "surface": "תּוֹרֵ֤י",
-          "lemma": "תֹּר",
+          "surface": "תּוֹרֵי",
+          "lemma": "תֹּר",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=1cs",
@@ -2432,7 +2432,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "זָהָב֙",
+          "surface": "זָהָב",
           "lemma": "זָהָב",
           "root": "—",
           "pos": "NOUN",
@@ -2451,8 +2451,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "נַעֲשֶׂה",
-          "lemma": "עָשָׂה",
+          "surface": "נַעֲשֶׂה",
+          "lemma": "עָשָׂה",
           "root": "עשׂה",
           "pos": "VERB",
           "morph": "V;?;?;???",
@@ -2470,8 +2470,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "לָּ֔ךְ",
-          "lemma": "אַתְּ",
+          "surface": "לָּךְ",
+          "lemma": "אַתְּ",
           "root": "—",
           "pos": "PRON",
           "morph": "PRON",
@@ -2494,7 +2494,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "עִ֖ם",
+          "surface": "עִם",
           "lemma": "עִם",
           "root": "—",
           "pos": "PREP",
@@ -2512,8 +2512,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "נְקֻדּ֥וֹת",
-          "lemma": "נְקֻדָּה",
+          "surface": "נְקֻדּוֹת",
+          "lemma": "נְקֻדָּה",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;fpl;abs?",
@@ -2532,8 +2532,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "הַכָּֽסֶף",
-          "lemma": "הַכָּֽסֶף",
+          "surface": "הַכָּֽסֶף",
+          "lemma": "הַכָּֽסֶף",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?",
@@ -2581,8 +2581,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "שֶׁ֤הַמֶּ֨לֶךְ֙",
-          "lemma": "שֶׁהַמֶּלֶךְ",
+          "surface": "שֶׁהַמֶּלֶךְ",
+          "lemma": "שֶׁהַמֶּלֶךְ",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=2fs",
@@ -2605,8 +2605,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "בִּמְסִבּ֔וֹ",
-          "lemma": "בִּמְסִבּוֹ",
+          "surface": "בִּמְסִבּוֹ",
+          "lemma": "בִּמְסִבּוֹ",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=3ms",
@@ -2631,8 +2631,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "נִרְדִּ֖י",
-          "lemma": "נִרְדִּי",
+          "surface": "נִרְדִּי",
+          "lemma": "נִרְדִּי",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=1cs",
@@ -2651,7 +2651,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "נָתַ֥ן",
+          "surface": "נָתַן",
           "lemma": "נָתַן",
           "root": "נתן",
           "pos": "VERB",
@@ -2703,7 +2703,7 @@ window.__chapterData = {
       "tr": "Tseror ha-mor dodi li; bein shaday yalin.",
       "tokens": [
         {
-          "surface": "צְר֨וֹר",
+          "surface": "צְרוֹר",
           "lemma": "צְרוֹר",
           "root": "—",
           "pos": "NOUN",
@@ -2722,7 +2722,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "הַמֹּ֤ר",
+          "surface": "הַמֹּר",
           "lemma": "מֹר",
           "root": "—",
           "pos": "NOUN",
@@ -2764,7 +2764,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "דּוֹדִי֙",
+          "surface": "דּוֹדִי",
           "lemma": "דּוֹד",
           "root": "—",
           "pos": "NOUN",
@@ -2784,7 +2784,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "לִ֔י",
+          "surface": "לִי",
           "lemma": "לִי",
           "root": "—",
           "pos": "PRON",
@@ -2808,8 +2808,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "בֵּ֥ין",
-          "lemma": "בֵּין",
+          "surface": "בֵּין",
+          "lemma": "בֵּין",
           "root": "—",
           "pos": "PREP",
           "morph": "PREP",
@@ -2832,8 +2832,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "שָׁדַ֖י",
-          "lemma": "שַׁד",
+          "surface": "שָׁדַי",
+          "lemma": "שַׁד",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=1cs",
@@ -2885,8 +2885,8 @@ window.__chapterData = {
       "tr": "Eshkol ha-kofer dodi li, b’kharmei Ein-Gedi.",
       "tokens": [
         {
-          "surface": "אֶשְׁכֹּ֨ל",
-          "lemma": "אֶשְׁכֹּל",
+          "surface": "אֶשְׁכֹּל",
+          "lemma": "אֶשְׁכֹּל",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?",
@@ -2904,8 +2904,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "הַכֹּ֤פֶר",
-          "lemma": "כֹּפֶר",
+          "surface": "הַכֹּפֶר",
+          "lemma": "כֹּפֶר",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?",
@@ -2946,7 +2946,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "דּוֹדִי֙",
+          "surface": "דּוֹדִי",
           "lemma": "דּוֹד",
           "root": "—",
           "pos": "NOUN",
@@ -2966,7 +2966,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "לִ֔י",
+          "surface": "לִי",
           "lemma": "לִי",
           "root": "—",
           "pos": "PRON",
@@ -2990,8 +2990,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "בְּכַרְמֵ֖י",
-          "lemma": "כֶּרֶם",
+          "surface": "בְּכַרְמֵי",
+          "lemma": "כֶּרֶם",
           "root": "כרם",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=1cs",
@@ -3016,7 +3016,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "עֵ֥ין",
+          "surface": "עֵין",
           "lemma": "עַיִן",
           "root": "—",
           "pos": "NOUN",
@@ -3036,8 +3036,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "גֶּֽדִי",
-          "lemma": "גֶּֽדִי",
+          "surface": "גֶּֽדִי",
+          "lemma": "גֶּֽדִי",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=1cs",
@@ -3065,8 +3065,8 @@ window.__chapterData = {
       "tr": "Hinnakh yafah ra‘yati; hinnakh yafah; einayikh yonim.",
       "tokens": [
         {
-          "surface": "הִנָּ֤ךְ",
-          "lemma": "הִנֵּה",
+          "surface": "הִנָּךְ",
+          "lemma": "הִנֵּה",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=2fs",
@@ -3089,7 +3089,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "יָפָה֙",
+          "surface": "יָפָה",
           "lemma": "יָפֶה",
           "root": "—",
           "pos": "ADJ",
@@ -3108,7 +3108,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "רַעְיָתִ֔י",
+          "surface": "רַעְיָתִי",
           "lemma": "רַעְיָה",
           "root": "רעה",
           "pos": "NOUN",
@@ -3128,8 +3128,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "הִנָּ֥ךְ",
-          "lemma": "הִנֵּה",
+          "surface": "הִנָּךְ",
+          "lemma": "הִנֵּה",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=2fs",
@@ -3152,7 +3152,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "יָפָ֖ה",
+          "surface": "יָפָה",
           "lemma": "יָפֶה",
           "root": "—",
           "pos": "ADJ",
@@ -3171,7 +3171,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "עֵינַ֥יִךְ",
+          "surface": "עֵינַיִךְ",
           "lemma": "עַיִן",
           "root": "—",
           "pos": "NOUN",
@@ -3221,8 +3221,8 @@ window.__chapterData = {
       "tr": "Hinnekh yafeh dodi, af na‘im; af-arsenu ra‘ananah.",
       "tokens": [
         {
-          "surface": "הִנְּךָ֨",
-          "lemma": "הִנֵּה",
+          "surface": "הִנְּךָ",
+          "lemma": "הִנֵּה",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=2ms",
@@ -3245,7 +3245,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "יָפֶ֤ה",
+          "surface": "יָפֶה",
           "lemma": "יָפֶה",
           "root": "—",
           "pos": "ADJ",
@@ -3264,7 +3264,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "דוֹדִי֙",
+          "surface": "דוֹדִי",
           "lemma": "דּוֹד",
           "root": "—",
           "pos": "NOUN",
@@ -3284,7 +3284,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "אַ֣ף",
+          "surface": "אַף",
           "lemma": "אַף",
           "root": "—",
           "pos": "PARTICLE",
@@ -3301,7 +3301,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "נָעִ֔ים",
+          "surface": "נָעִים",
           "lemma": "נָעִים",
           "root": "—",
           "pos": "ADJ",
@@ -3339,7 +3339,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "עַרְשֵׂ֖נוּ",
+          "surface": "עַרְשֵׂנוּ",
           "lemma": "עֶרֶשׂ",
           "root": "—",
           "pos": "NOUN",
@@ -3387,7 +3387,7 @@ window.__chapterData = {
       "tr": "Qorot batenu arazim; rachitenu b’rotim.",
       "tokens": [
         {
-          "surface": "קֹר֤וֹת",
+          "surface": "קֹרוֹת",
           "lemma": "קוֹרָה",
           "root": "—",
           "pos": "NOUN",
@@ -3407,8 +3407,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "בָּתֵּ֨ינוּ֙",
-          "lemma": "בַּיִת",
+          "surface": "בָּתֵּינוּ",
+          "lemma": "בַּיִת",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;?sg;abs?;Suf=1cp",
@@ -3433,7 +3433,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "אֲרָזִ֔ים",
+          "surface": "אֲרָזִים",
           "lemma": "אֶרֶז",
           "root": "—",
           "pos": "NOUN",
@@ -3454,7 +3454,7 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "רַחִיטֵ֖נוּ",
+          "surface": "רַחִיטֵנוּ",
           "lemma": "רַחִיטֵנוּ",
           "root": "—",
           "pos": "NOUN",
@@ -3474,8 +3474,8 @@ window.__chapterData = {
           "semantic": []
         },
         {
-          "surface": "בְּרוֹתִֽים",
-          "lemma": "בְּרוֹתִֽים",
+          "surface": "בְּרוֹתִֽים",
+          "lemma": "בְּרוֹתִֽים",
           "root": "—",
           "pos": "NOUN",
           "morph": "N;mpl;abs?;Suf=3mp",
@@ -3506,14 +3506,14 @@ window.__chapterData = {
   ],
   "lexicon": [
     {
-      "lemma": "שִׁיר",
+      "lemma": "שִׁיר",
       "root": "שׁיר",
       "pos": "noun",
       "gloss": "song",
       "notes": "Common masculine singular noun."
     },
     {
-      "lemma": "אֲשֶׁר",
+      "lemma": "אֲשֶׁר",
       "root": "—",
       "pos": "particle",
       "gloss": "which/that",
@@ -3534,21 +3534,21 @@ window.__chapterData = {
       "notes": "Comparator for delight/pleasure."
     },
     {
-      "lemma": "שֶׁמֶן",
+      "lemma": "שֶׁמֶן",
       "root": "שׁמן",
       "pos": "noun",
       "gloss": "oil / perfume",
       "notes": "Here, perfumed oil."
     },
     {
-      "lemma": "שֵׁם",
+      "lemma": "שֵׁם",
       "root": "שׁם",
       "pos": "noun",
       "gloss": "name / renown",
       "notes": "Often ‘reputation/renown’ in Hebrew poetics."
     },
     {
-      "lemma": "מָשַׁךְ",
+      "lemma": "מָשַׁךְ",
       "root": "משׁך",
       "pos": "verb",
       "gloss": "draw / pull",
@@ -3569,7 +3569,7 @@ window.__chapterData = {
       "notes": "Qal; אֲהֵבוּךָ = “they love you”."
     },
     {
-      "lemma": "כֶּרֶם",
+      "lemma": "כֶּרֶם",
       "root": "כרם",
       "pos": "noun",
       "gloss": "vineyard",
@@ -3583,7 +3583,7 @@ window.__chapterData = {
       "notes": "Term of address; feminine."
     },
     {
-      "lemma": "הִנֵּה",
+      "lemma": "הִנֵּה",
       "root": "—",
       "pos": "particle",
       "gloss": "behold",

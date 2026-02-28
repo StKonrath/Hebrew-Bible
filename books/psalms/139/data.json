@@ -14,7 +14,7 @@
       "tokens": [
         {
           "id": "psalms.139.01.t001",
-          "surface": "לַ֭מְנַצֵּחַ",
+          "surface": "לַמְנַצֵּחַ",
           "lemma": "לַמְנַצֵּחַ",
           "root": "?",
           "pos": "NOUN",
@@ -29,7 +29,7 @@
         },
         {
           "id": "psalms.139.01.t002",
-          "surface": "לְדָוִ֣ד",
+          "surface": "לְדָוִד",
           "lemma": "דָוִד",
           "root": "?",
           "pos": "NOUN",
@@ -43,7 +43,7 @@
         },
         {
           "id": "psalms.139.01.t003",
-          "surface": "מִזְמ֑וֹר",
+          "surface": "מִזְמוֹר",
           "lemma": "זְמוֹר",
           "root": "?",
           "pos": "NOUN",
@@ -57,7 +57,7 @@
         },
         {
           "id": "psalms.139.01.t004",
-          "surface": "יְהוָ֥ה",
+          "surface": "יְהוָה",
           "lemma": "יְהוָה",
           "root": "—",
           "pos": "PROPN",
@@ -74,7 +74,7 @@
         },
         {
           "id": "psalms.139.01.t005",
-          "surface": "חֲ֝קַרְתַּ֗נִי",
+          "surface": "חֲקַרְתַּנִי",
           "lemma": "חֲקַרְתַּנִי",
           "root": "?",
           "pos": "NOUN",
@@ -90,7 +90,7 @@
         {
           "id": "psalms.139.01.t006",
           "surface": "וַתֵּדָֽע",
-          "lemma": "ַתֵּדָע",
+          "lemma": "תֵּדָע",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -117,7 +117,7 @@
       "tokens": [
         {
           "id": "psalms.139.02.t001",
-          "surface": "אַתָּ֣ה",
+          "surface": "אַתָּה",
           "lemma": "אַתָּה",
           "root": "?",
           "pos": "VERB",
@@ -130,7 +130,7 @@
         },
         {
           "id": "psalms.139.02.t002",
-          "surface": "יָ֭דַעְתָּ",
+          "surface": "יָדַעְתָּ",
           "lemma": "יָדַעְתָּ",
           "root": "?",
           "pos": "VERB",
@@ -145,7 +145,7 @@
         },
         {
           "id": "psalms.139.02.t003",
-          "surface": "שִׁבְתִּ֣י",
+          "surface": "שִׁבְתִּי",
           "lemma": "שִׁבְתִּי",
           "root": "?",
           "pos": "NOUN",
@@ -158,8 +158,8 @@
         },
         {
           "id": "psalms.139.02.t004",
-          "surface": "וְקוּמִ֑י",
-          "lemma": "ְקוּמִי",
+          "surface": "וְקוּמִי",
+          "lemma": "קוּמִי",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -172,7 +172,7 @@
         },
         {
           "id": "psalms.139.02.t005",
-          "surface": "בַּ֥נְתָּה",
+          "surface": "בַּנְתָּה",
           "lemma": "בַּנְתָּה",
           "root": "?",
           "pos": "NOUN",
@@ -185,7 +185,7 @@
         },
         {
           "id": "psalms.139.02.t006",
-          "surface": "לְ֝רֵעִ֗י",
+          "surface": "לְרֵעִי",
           "lemma": "רֵעִי",
           "root": "?",
           "pos": "NOUN",
@@ -223,7 +223,7 @@
       "tokens": [
         {
           "id": "psalms.139.03.t001",
-          "surface": "אָרְחִ֣י",
+          "surface": "אָרְחִי",
           "lemma": "אָרְחִי",
           "root": "?",
           "pos": "VERB",
@@ -236,8 +236,8 @@
         },
         {
           "id": "psalms.139.03.t002",
-          "surface": "וְרִבְעִ֣י",
-          "lemma": "ְרִבְעִי",
+          "surface": "וְרִבְעִי",
+          "lemma": "רִבְעִי",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -250,7 +250,7 @@
         },
         {
           "id": "psalms.139.03.t003",
-          "surface": "זֵרִ֑יתָ",
+          "surface": "זֵרִיתָ",
           "lemma": "זֵרִיתָ",
           "root": "?",
           "pos": "NOUN",
@@ -264,7 +264,7 @@
         {
           "id": "psalms.139.03.t004",
           "surface": "וְֽכָל",
-          "lemma": "ְכָל",
+          "lemma": "כָל",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -277,7 +277,7 @@
         },
         {
           "id": "psalms.139.03.t005",
-          "surface": "דְּרָכַ֥י",
+          "surface": "דְּרָכַי",
           "lemma": "דְּרָכַי",
           "root": "?",
           "pos": "NOUN",
@@ -312,7 +312,7 @@
       "tokens": [
         {
           "id": "psalms.139.04.t001",
-          "surface": "כִּ֤י",
+          "surface": "כִּי",
           "lemma": "כִּי",
           "root": "?",
           "pos": "NOUN",
@@ -325,7 +325,7 @@
         },
         {
           "id": "psalms.139.04.t002",
-          "surface": "אֵ֣ין",
+          "surface": "אֵין",
           "lemma": "אֵין",
           "root": "?",
           "pos": "VERB",
@@ -338,7 +338,7 @@
         },
         {
           "id": "psalms.139.04.t003",
-          "surface": "מִ֭לָּה",
+          "surface": "מִלָּה",
           "lemma": "לָּה",
           "root": "?",
           "pos": "NOUN",
@@ -352,7 +352,7 @@
         },
         {
           "id": "psalms.139.04.t004",
-          "surface": "בִּלְשׁוֹנִ֑י",
+          "surface": "בִּלְשׁוֹנִי",
           "lemma": "בִּלְשׁוֹנִי",
           "root": "?",
           "pos": "NOUN",
@@ -365,8 +365,8 @@
         },
         {
           "id": "psalms.139.04.t005",
-          "surface": "הֵ֥ן",
-          "lemma": "ֵן",
+          "surface": "הֵן",
+          "lemma": "ן",
           "root": "—",
           "pos": "PART",
           "features": {
@@ -379,7 +379,7 @@
         },
         {
           "id": "psalms.139.04.t006",
-          "surface": "יְ֝הוָ֗ה",
+          "surface": "יְהוָה",
           "lemma": "יְהוָה",
           "root": "—",
           "pos": "PROPN",
@@ -396,7 +396,7 @@
         },
         {
           "id": "psalms.139.04.t007",
-          "surface": "יָדַ֥עְתָּ",
+          "surface": "יָדַעְתָּ",
           "lemma": "יָדַעְתָּ",
           "root": "?",
           "pos": "VERB",
@@ -437,7 +437,7 @@
       "tokens": [
         {
           "id": "psalms.139.05.t001",
-          "surface": "אָח֣וֹר",
+          "surface": "אָחוֹר",
           "lemma": "אָחוֹר",
           "root": "?",
           "pos": "VERB",
@@ -450,8 +450,8 @@
         },
         {
           "id": "psalms.139.05.t002",
-          "surface": "וָקֶ֣דֶם",
-          "lemma": "ָקֶדֶם",
+          "surface": "וָקֶדֶם",
+          "lemma": "קֶדֶם",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -464,7 +464,7 @@
         },
         {
           "id": "psalms.139.05.t003",
-          "surface": "צַרְתָּ֑נִי",
+          "surface": "צַרְתָּנִי",
           "lemma": "צַרְתָּנִי",
           "root": "?",
           "pos": "NOUN",
@@ -477,8 +477,8 @@
         },
         {
           "id": "psalms.139.05.t004",
-          "surface": "וַתָּ֖שֶׁת",
-          "lemma": "ַתָּשֶׁת",
+          "surface": "וַתָּשֶׁת",
+          "lemma": "תָּשֶׁת",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -491,7 +491,7 @@
         },
         {
           "id": "psalms.139.05.t005",
-          "surface": "עָלַ֣י",
+          "surface": "עָלַי",
           "lemma": "עָלַי",
           "root": "?",
           "pos": "NOUN",
@@ -526,7 +526,7 @@
       "tokens": [
         {
           "id": "psalms.139.06.t001",
-          "surface": "פִּלְאִ֣יָה",
+          "surface": "פִּלְאִיָה",
           "lemma": "פִּלְאִיָה",
           "root": "?",
           "pos": "NOUN",
@@ -539,7 +539,7 @@
         },
         {
           "id": "psalms.139.06.t002",
-          "surface": "דַ֣עַת",
+          "surface": "דַעַת",
           "lemma": "דַעַת",
           "root": "?",
           "pos": "NOUN",
@@ -552,7 +552,7 @@
         },
         {
           "id": "psalms.139.06.t003",
-          "surface": "מִמֶּ֑נִּי",
+          "surface": "מִמֶּנִּי",
           "lemma": "מֶּנִּי",
           "root": "?",
           "pos": "NOUN",
@@ -566,7 +566,7 @@
         },
         {
           "id": "psalms.139.06.t004",
-          "surface": "נִ֝שְׂגְּבָ֗ה",
+          "surface": "נִשְׂגְּבָה",
           "lemma": "נִשְׂגְּבָה",
           "root": "?",
           "pos": "VERB",
@@ -587,12 +587,12 @@
             "pos": "NEG"
           },
           "morph": "pos=NEG",
-          "gloss": "",
+          "gloss": "and not",
           "semantic": []
         },
         {
           "id": "psalms.139.06.t006",
-          "surface": "א֥וּכַֽל",
+          "surface": "אוּכַֽל",
           "lemma": "אוּכַל",
           "root": "?",
           "pos": "NOUN",
@@ -627,7 +627,7 @@
       "tokens": [
         {
           "id": "psalms.139.07.t001",
-          "surface": "אָ֭נָ֥ה",
+          "surface": "אָנָה",
           "lemma": "אָנָה",
           "root": "—",
           "pos": "INT",
@@ -640,7 +640,7 @@
         },
         {
           "id": "psalms.139.07.t002",
-          "surface": "אֵלֵ֣ךְ",
+          "surface": "אֵלֵךְ",
           "lemma": "אֵלֵךְ",
           "root": "?",
           "pos": "VERB",
@@ -653,7 +653,7 @@
         },
         {
           "id": "psalms.139.07.t003",
-          "surface": "מֵרוּחֶ֑ךָ",
+          "surface": "מֵרוּחֶךָ",
           "lemma": "רוּחֶךָ",
           "root": "?",
           "pos": "NOUN",
@@ -670,8 +670,8 @@
         },
         {
           "id": "psalms.139.07.t004",
-          "surface": "וְ֝אָ֗נָה",
-          "lemma": "ְאָנָה",
+          "surface": "וְאָנָה",
+          "lemma": "אָנָה",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -684,7 +684,7 @@
         },
         {
           "id": "psalms.139.07.t005",
-          "surface": "מִפָּנֶ֥יךָ",
+          "surface": "מִפָּנֶיךָ",
           "lemma": "פָּנֶיךָ",
           "root": "?",
           "pos": "NOUN",
@@ -738,12 +738,12 @@
             "pos": "CONJ"
           },
           "morph": "pos=CONJ",
-          "gloss": "",
+          "gloss": "if",
           "semantic": []
         },
         {
           "id": "psalms.139.08.t002",
-          "surface": "אֶסַּ֣ק",
+          "surface": "אֶסַּק",
           "lemma": "אֶסַּק",
           "root": "?",
           "pos": "VERB",
@@ -756,7 +756,7 @@
         },
         {
           "id": "psalms.139.08.t003",
-          "surface": "שָׁ֭מַיִם",
+          "surface": "שָׁמַיִם",
           "lemma": "שָׁמַיִם",
           "root": "?",
           "pos": "NOUN",
@@ -771,7 +771,7 @@
         },
         {
           "id": "psalms.139.08.t004",
-          "surface": "שָׁ֣ם",
+          "surface": "שָׁם",
           "lemma": "שָׁם",
           "root": "?",
           "pos": "NOUN",
@@ -784,7 +784,7 @@
         },
         {
           "id": "psalms.139.08.t005",
-          "surface": "אָ֑תָּה",
+          "surface": "אָתָּה",
           "lemma": "אָתָּה",
           "root": "?",
           "pos": "VERB",
@@ -797,8 +797,8 @@
         },
         {
           "id": "psalms.139.08.t006",
-          "surface": "וְאַצִּ֖יעָה",
-          "lemma": "ְאַצִּיעָה",
+          "surface": "וְאַצִּיעָה",
+          "lemma": "אַצִּיעָה",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -811,7 +811,7 @@
         },
         {
           "id": "psalms.139.08.t007",
-          "surface": "שְּׁא֣וֹל",
+          "surface": "שְּׁאוֹל",
           "lemma": "שְּׁאוֹל",
           "root": "?",
           "pos": "NOUN",
@@ -852,7 +852,7 @@
       "tokens": [
         {
           "id": "psalms.139.09.t001",
-          "surface": "אֶשָּׂ֥א",
+          "surface": "אֶשָּׂא",
           "lemma": "אֶשָּׂא",
           "root": "?",
           "pos": "VERB",
@@ -878,7 +878,7 @@
         },
         {
           "id": "psalms.139.09.t003",
-          "surface": "שָׁ֑חַר",
+          "surface": "שָׁחַר",
           "lemma": "שָׁחַר",
           "root": "?",
           "pos": "NOUN",
@@ -891,7 +891,7 @@
         },
         {
           "id": "psalms.139.09.t004",
-          "surface": "אֶ֝שְׁכְּנָ֗ה",
+          "surface": "אֶשְׁכְּנָה",
           "lemma": "אֶשְׁכְּנָה",
           "root": "?",
           "pos": "VERB",
@@ -904,7 +904,7 @@
         },
         {
           "id": "psalms.139.09.t005",
-          "surface": "בְּאַחֲרִ֥ית",
+          "surface": "בְּאַחֲרִית",
           "lemma": "בְּאַחֲרִית",
           "root": "?",
           "pos": "NOUN",
@@ -956,7 +956,7 @@
         },
         {
           "id": "psalms.139.10.t002",
-          "surface": "שָׁ֭ם",
+          "surface": "שָׁם",
           "lemma": "שָׁם",
           "root": "?",
           "pos": "NOUN",
@@ -969,7 +969,7 @@
         },
         {
           "id": "psalms.139.10.t003",
-          "surface": "יָדְךָ֣",
+          "surface": "יָדְךָ",
           "lemma": "יָדְךָ",
           "root": "?",
           "pos": "VERB",
@@ -984,7 +984,7 @@
         },
         {
           "id": "psalms.139.10.t004",
-          "surface": "תַנְחֵ֑נִי",
+          "surface": "תַנְחֵנִי",
           "lemma": "תַנְחֵנִי",
           "root": "?",
           "pos": "VERB",
@@ -997,8 +997,8 @@
         },
         {
           "id": "psalms.139.10.t005",
-          "surface": "וְֽתֹאחֲזֵ֥נִי",
-          "lemma": "ְתֹאחֲזֵנִי",
+          "surface": "וְֽתֹאחֲזֵנִי",
+          "lemma": "תֹאחֲזֵנִי",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1037,8 +1037,8 @@
       "tokens": [
         {
           "id": "psalms.139.11.t001",
-          "surface": "וָ֭אֹמַר",
-          "lemma": "ָאֹמַר",
+          "surface": "וָאֹמַר",
+          "lemma": "אֹמַר",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1064,7 +1064,7 @@
         },
         {
           "id": "psalms.139.11.t003",
-          "surface": "חֹ֣שֶׁךְ",
+          "surface": "חֹשֶׁךְ",
           "lemma": "חֹשֶׁךְ",
           "root": "?",
           "pos": "NOUN",
@@ -1080,7 +1080,7 @@
         },
         {
           "id": "psalms.139.11.t004",
-          "surface": "יְשׁוּפֵ֑נִי",
+          "surface": "יְשׁוּפֵנִי",
           "lemma": "יְשׁוּפֵנִי",
           "root": "?",
           "pos": "VERB",
@@ -1093,8 +1093,8 @@
         },
         {
           "id": "psalms.139.11.t005",
-          "surface": "וְ֝לַ֗יְלָה",
-          "lemma": "ְלַיְלָה",
+          "surface": "וְלַיְלָה",
+          "lemma": "לַיְלָה",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1102,12 +1102,12 @@
             "conj": "ו"
           },
           "morph": "pos=NOUN;conj=ו",
-          "gloss": "",
+          "gloss": "in the nights",
           "semantic": []
         },
         {
           "id": "psalms.139.11.t006",
-          "surface": "א֣וֹר",
+          "surface": "אוֹר",
           "lemma": "אוֹר",
           "root": "?",
           "pos": "NOUN",
@@ -1161,7 +1161,7 @@
         },
         {
           "id": "psalms.139.12.t002",
-          "surface": "חֹשֶׁךְ֮",
+          "surface": "חֹשֶׁךְ",
           "lemma": "חֹשֶׁךְ",
           "root": "?",
           "pos": "NOUN",
@@ -1185,12 +1185,12 @@
             "pos": "NEG"
           },
           "morph": "pos=NEG",
-          "gloss": "",
+          "gloss": "and not",
           "semantic": []
         },
         {
           "id": "psalms.139.12.t004",
-          "surface": "יַחְשִׁ֪יךְ",
+          "surface": "יַחְשִׁיךְ",
           "lemma": "יַחְשִׁיךְ",
           "root": "?",
           "pos": "VERB",
@@ -1203,7 +1203,7 @@
         },
         {
           "id": "psalms.139.12.t005",
-          "surface": "מִ֫מֶּ֥ךָ",
+          "surface": "מִמֶּךָ",
           "lemma": "מֶּךָ",
           "root": "?",
           "pos": "NOUN",
@@ -1217,8 +1217,8 @@
         },
         {
           "id": "psalms.139.12.t006",
-          "surface": "וְ֭לַיְלָה",
-          "lemma": "ְלַיְלָה",
+          "surface": "וְלַיְלָה",
+          "lemma": "לַיְלָה",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1226,12 +1226,12 @@
             "conj": "ו"
           },
           "morph": "pos=NOUN;conj=ו",
-          "gloss": "",
+          "gloss": "in the nights",
           "semantic": []
         },
         {
           "id": "psalms.139.12.t007",
-          "surface": "כַּיּ֣וֹם",
+          "surface": "כַּיּוֹם",
           "lemma": "כַּיּוֹם",
           "root": "?",
           "pos": "NOUN",
@@ -1244,7 +1244,7 @@
         },
         {
           "id": "psalms.139.12.t008",
-          "surface": "יָאִ֑יר",
+          "surface": "יָאִיר",
           "lemma": "יָאִיר",
           "root": "?",
           "pos": "VERB",
@@ -1257,7 +1257,7 @@
         },
         {
           "id": "psalms.139.12.t009",
-          "surface": "כַּ֝חֲשֵׁיכָ֗ה",
+          "surface": "כַּחֲשֵׁיכָה",
           "lemma": "כַּחֲשֵׁיכָה",
           "root": "?",
           "pos": "NOUN",
@@ -1303,12 +1303,12 @@
             "pos": "NOUN"
           },
           "morph": "pos=NOUN",
-          "gloss": "",
+          "gloss": "like/as",
           "semantic": []
         },
         {
           "id": "psalms.139.13.t002",
-          "surface": "אַ֭תָּה",
+          "surface": "אַתָּה",
           "lemma": "אַתָּה",
           "root": "?",
           "pos": "VERB",
@@ -1321,7 +1321,7 @@
         },
         {
           "id": "psalms.139.13.t003",
-          "surface": "קָנִ֣יתָ",
+          "surface": "קָנִיתָ",
           "lemma": "קָנִיתָ",
           "root": "?",
           "pos": "NOUN",
@@ -1334,7 +1334,7 @@
         },
         {
           "id": "psalms.139.13.t004",
-          "surface": "כִלְיֹתָ֑י",
+          "surface": "כִלְיֹתָי",
           "lemma": "כִלְיֹתָי",
           "root": "?",
           "pos": "NOUN",
@@ -1347,7 +1347,7 @@
         },
         {
           "id": "psalms.139.13.t005",
-          "surface": "תְּ֝סֻכֵּ֗נִי",
+          "surface": "תְּסֻכֵּנִי",
           "lemma": "תְּסֻכֵּנִי",
           "root": "?",
           "pos": "VERB",
@@ -1360,7 +1360,7 @@
         },
         {
           "id": "psalms.139.13.t006",
-          "surface": "בְּבֶ֣טֶן",
+          "surface": "בְּבֶטֶן",
           "lemma": "בְּבֶטֶן",
           "root": "?",
           "pos": "NOUN",
@@ -1395,7 +1395,7 @@
       "tokens": [
         {
           "id": "psalms.139.14.t001",
-          "surface": "אוֹדְךָ֗",
+          "surface": "אוֹדְךָ",
           "lemma": "אוֹדְךָ",
           "root": "?",
           "pos": "NOUN",
@@ -1408,7 +1408,7 @@
         },
         {
           "id": "psalms.139.14.t002",
-          "surface": "עַ֤ל",
+          "surface": "עַל",
           "lemma": "עַל",
           "root": "—",
           "pos": "PREP",
@@ -1416,12 +1416,12 @@
             "pos": "PREP"
           },
           "morph": "pos=PREP",
-          "gloss": "",
+          "gloss": "on/upon",
           "semantic": []
         },
         {
           "id": "psalms.139.14.t003",
-          "surface": "כִּ֥י",
+          "surface": "כִּי",
           "lemma": "כִּי",
           "root": "?",
           "pos": "NOUN",
@@ -1434,7 +1434,7 @@
         },
         {
           "id": "psalms.139.14.t004",
-          "surface": "נוֹרָא֗וֹת",
+          "surface": "נוֹרָאוֹת",
           "lemma": "נוֹרָאוֹת",
           "root": "?",
           "pos": "NOUN",
@@ -1447,7 +1447,7 @@
         },
         {
           "id": "psalms.139.14.t005",
-          "surface": "נִ֫פְלֵ֥יתִי",
+          "surface": "נִפְלֵיתִי",
           "lemma": "נִפְלֵיתִי",
           "root": "?",
           "pos": "VERB",
@@ -1460,7 +1460,7 @@
         },
         {
           "id": "psalms.139.14.t006",
-          "surface": "נִפְלָאִ֥ים",
+          "surface": "נִפְלָאִים",
           "lemma": "נִפְלָאִים",
           "root": "?",
           "pos": "VERB",
@@ -1473,7 +1473,7 @@
         },
         {
           "id": "psalms.139.14.t007",
-          "surface": "מַעֲשֶׂ֑יךָ",
+          "surface": "מַעֲשֶׂיךָ",
           "lemma": "מַעֲשֶׂיךָ",
           "root": "?",
           "pos": "NOUN",
@@ -1486,8 +1486,8 @@
         },
         {
           "id": "psalms.139.14.t008",
-          "surface": "וְ֝נַפְשִׁ֗י",
-          "lemma": "ְנַפְשִׁי",
+          "surface": "וְנַפְשִׁי",
+          "lemma": "נַפְשִׁי",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1500,7 +1500,7 @@
         },
         {
           "id": "psalms.139.14.t009",
-          "surface": "יֹדַ֥עַת",
+          "surface": "יֹדַעַת",
           "lemma": "יֹדַעַת",
           "root": "?",
           "pos": "VERB",
@@ -1543,12 +1543,12 @@
             "pos": "NEG"
           },
           "morph": "pos=NEG",
-          "gloss": "",
+          "gloss": "and not",
           "semantic": []
         },
         {
           "id": "psalms.139.15.t002",
-          "surface": "נִכְחַ֥ד",
+          "surface": "נִכְחַד",
           "lemma": "נִכְחַד",
           "root": "?",
           "pos": "VERB",
@@ -1561,7 +1561,7 @@
         },
         {
           "id": "psalms.139.15.t003",
-          "surface": "עָצְמִ֗י",
+          "surface": "עָצְמִי",
           "lemma": "עָצְמִי",
           "root": "?",
           "pos": "NOUN",
@@ -1574,7 +1574,7 @@
         },
         {
           "id": "psalms.139.15.t004",
-          "surface": "מִ֫מֶּ֥ךָּ",
+          "surface": "מִמֶּךָּ",
           "lemma": "מֶּךָּ",
           "root": "?",
           "pos": "NOUN",
@@ -1596,12 +1596,12 @@
             "pos": "REL"
           },
           "morph": "pos=REL",
-          "gloss": "",
+          "gloss": "which/that",
           "semantic": []
         },
         {
           "id": "psalms.139.15.t006",
-          "surface": "עֻשֵּׂ֥יתִי",
+          "surface": "עֻשֵּׂיתִי",
           "lemma": "עֻשֵּׂיתִי",
           "root": "?",
           "pos": "NOUN",
@@ -1614,7 +1614,7 @@
         },
         {
           "id": "psalms.139.15.t007",
-          "surface": "בַסֵּ֑תֶר",
+          "surface": "בַסֵּתֶר",
           "lemma": "בַסֵּתֶר",
           "root": "?",
           "pos": "NOUN",
@@ -1627,7 +1627,7 @@
         },
         {
           "id": "psalms.139.15.t008",
-          "surface": "רֻ֝קַּ֗מְתִּי",
+          "surface": "רֻקַּמְתִּי",
           "lemma": "רֻקַּמְתִּי",
           "root": "?",
           "pos": "NOUN",
@@ -1640,7 +1640,7 @@
         },
         {
           "id": "psalms.139.15.t009",
-          "surface": "בְּֽתַחְתִּיּ֥וֹת",
+          "surface": "בְּֽתַחְתִּיּוֹת",
           "lemma": "בְּתַחְתִּיּוֹת",
           "root": "?",
           "pos": "NOUN",
@@ -1675,7 +1675,7 @@
       "tokens": [
         {
           "id": "psalms.139.16.t001",
-          "surface": "גָּלְמִ֤י",
+          "surface": "גָּלְמִי",
           "lemma": "גָּלְמִי",
           "root": "?",
           "pos": "NOUN",
@@ -1688,7 +1688,7 @@
         },
         {
           "id": "psalms.139.16.t002",
-          "surface": "רָ֘א֤וּ",
+          "surface": "רָאוּ",
           "lemma": "רָאוּ",
           "root": "?",
           "pos": "VERB",
@@ -1701,7 +1701,7 @@
         },
         {
           "id": "psalms.139.16.t003",
-          "surface": "עֵינֶ֗יךָ",
+          "surface": "עֵינֶיךָ",
           "lemma": "עֵינֶיךָ",
           "root": "?",
           "pos": "NOUN",
@@ -1718,7 +1718,7 @@
         {
           "id": "psalms.139.16.t004",
           "surface": "וְעַֽל",
-          "lemma": "ְעַל",
+          "lemma": "עַל",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1726,12 +1726,12 @@
             "conj": "ו"
           },
           "morph": "pos=NOUN;conj=ו",
-          "gloss": "",
+          "gloss": "on/upon",
           "semantic": []
         },
         {
           "id": "psalms.139.16.t005",
-          "surface": "סִפְרְךָ֮",
+          "surface": "סִפְרְךָ",
           "lemma": "סִפְרְךָ",
           "root": "?",
           "pos": "NOUN",
@@ -1744,7 +1744,7 @@
         },
         {
           "id": "psalms.139.16.t006",
-          "surface": "כֻּלָּ֪ם",
+          "surface": "כֻּלָּם",
           "lemma": "כֻּלָּם",
           "root": "?",
           "pos": "NOUN",
@@ -1752,12 +1752,12 @@
             "pos": "NOUN"
           },
           "morph": "pos=NOUN",
-          "gloss": "",
+          "gloss": "all of them",
           "semantic": []
         },
         {
           "id": "psalms.139.16.t007",
-          "surface": "יִכָּ֫תֵ֥בוּ",
+          "surface": "יִכָּתֵבוּ",
           "lemma": "יִכָּתֵבוּ",
           "root": "?",
           "pos": "VERB",
@@ -1770,7 +1770,7 @@
         },
         {
           "id": "psalms.139.16.t008",
-          "surface": "יָמִ֥ים",
+          "surface": "יָמִים",
           "lemma": "יָמִים",
           "root": "?",
           "pos": "VERB",
@@ -1783,7 +1783,7 @@
         },
         {
           "id": "psalms.139.16.t009",
-          "surface": "יֻצָּ֑רוּ",
+          "surface": "יֻצָּרוּ",
           "lemma": "יֻצָּרוּ",
           "root": "?",
           "pos": "VERB",
@@ -1796,8 +1796,8 @@
         },
         {
           "id": "psalms.139.16.t010",
-          "surface": "וְלֹ֥א",
-          "lemma": "ְלֹא",
+          "surface": "וְלֹא",
+          "lemma": "לֹא",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1805,12 +1805,12 @@
             "conj": "ו"
           },
           "morph": "pos=NOUN;conj=ו",
-          "gloss": "",
+          "gloss": "and not",
           "semantic": []
         },
         {
           "id": "psalms.139.16.t011",
-          "surface": "אֶחָ֣ד",
+          "surface": "אֶחָד",
           "lemma": "אֶחָד",
           "root": "?",
           "pos": "VERB",
@@ -1848,8 +1848,8 @@
       "tokens": [
         {
           "id": "psalms.139.17.t001",
-          "surface": "וְלִ֗י",
-          "lemma": "ְלִי",
+          "surface": "וְלִי",
+          "lemma": "לִי",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1857,7 +1857,7 @@
             "conj": "ו"
           },
           "morph": "pos=NOUN;conj=ו",
-          "gloss": "",
+          "gloss": "to/for",
           "semantic": []
         },
         {
@@ -1875,7 +1875,7 @@
         },
         {
           "id": "psalms.139.17.t003",
-          "surface": "יָּקְר֣וּ",
+          "surface": "יָּקְרוּ",
           "lemma": "יָּקְרוּ",
           "root": "?",
           "pos": "VERB",
@@ -1888,7 +1888,7 @@
         },
         {
           "id": "psalms.139.17.t004",
-          "surface": "רֵעֶ֣יךָ",
+          "surface": "רֵעֶיךָ",
           "lemma": "רֵעֶיךָ",
           "root": "?",
           "pos": "NOUN",
@@ -1901,7 +1901,7 @@
         },
         {
           "id": "psalms.139.17.t005",
-          "surface": "אֵ֑ל",
+          "surface": "אֵל",
           "lemma": "אֵל",
           "root": "—",
           "pos": "PROPN",
@@ -1918,7 +1918,7 @@
         },
         {
           "id": "psalms.139.17.t006",
-          "surface": "מֶ֥ה",
+          "surface": "מֶה",
           "lemma": "מֶה",
           "root": "—",
           "pos": "INT",
@@ -1931,7 +1931,7 @@
         },
         {
           "id": "psalms.139.17.t007",
-          "surface": "עָ֝צְמוּ",
+          "surface": "עָצְמוּ",
           "lemma": "עָצְמוּ",
           "root": "?",
           "pos": "VERB",
@@ -1969,7 +1969,7 @@
       "tokens": [
         {
           "id": "psalms.139.18.t001",
-          "surface": "אֶ֭סְפְּרֵם",
+          "surface": "אֶסְפְּרֵם",
           "lemma": "אֶסְפְּרֵם",
           "root": "?",
           "pos": "VERB",
@@ -1982,7 +1982,7 @@
         },
         {
           "id": "psalms.139.18.t002",
-          "surface": "מֵח֣וֹל",
+          "surface": "מֵחוֹל",
           "lemma": "חוֹל",
           "root": "?",
           "pos": "NOUN",
@@ -1996,7 +1996,7 @@
         },
         {
           "id": "psalms.139.18.t003",
-          "surface": "יִרְבּ֑וּן",
+          "surface": "יִרְבּוּן",
           "lemma": "יִרְבּוּן",
           "root": "?",
           "pos": "VERB",
@@ -2009,7 +2009,7 @@
         },
         {
           "id": "psalms.139.18.t004",
-          "surface": "הֱ֝קִיצֹ֗תִי",
+          "surface": "הֱקִיצֹתִי",
           "lemma": "הֱקִיצֹתִי",
           "root": "?",
           "pos": "NOUN",
@@ -2022,8 +2022,8 @@
         },
         {
           "id": "psalms.139.18.t005",
-          "surface": "וְעוֹדִ֥י",
-          "lemma": "ְעוֹדִי",
+          "surface": "וְעוֹדִי",
+          "lemma": "עוֹדִי",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2066,12 +2066,12 @@
             "pos": "CONJ"
           },
           "morph": "pos=CONJ",
-          "gloss": "",
+          "gloss": "if",
           "semantic": []
         },
         {
           "id": "psalms.139.19.t002",
-          "surface": "תִּקְטֹ֖ל",
+          "surface": "תִּקְטֹל",
           "lemma": "תִּקְטֹל",
           "root": "?",
           "pos": "VERB",
@@ -2084,7 +2084,7 @@
         },
         {
           "id": "psalms.139.19.t003",
-          "surface": "אֱל֥וֹהַּ",
+          "surface": "אֱלוֹהַּ",
           "lemma": "אֱלוֹהַּ",
           "root": "—",
           "pos": "PROPN",
@@ -2101,7 +2101,7 @@
         },
         {
           "id": "psalms.139.19.t004",
-          "surface": "רָשָׁ֑ע",
+          "surface": "רָשָׁע",
           "lemma": "רָשָׁע",
           "root": "?",
           "pos": "NOUN",
@@ -2116,8 +2116,8 @@
         },
         {
           "id": "psalms.139.19.t005",
-          "surface": "וְאַנְשֵׁ֥י",
-          "lemma": "ְאַנְשֵׁי",
+          "surface": "וְאַנְשֵׁי",
+          "lemma": "אַנְשֵׁי",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2130,7 +2130,7 @@
         },
         {
           "id": "psalms.139.19.t006",
-          "surface": "דָ֝מִ֗ים",
+          "surface": "דָמִים",
           "lemma": "דָמִים",
           "root": "?",
           "pos": "NOUN",
@@ -2145,7 +2145,7 @@
         },
         {
           "id": "psalms.139.19.t007",
-          "surface": "ס֣וּרוּ",
+          "surface": "סוּרוּ",
           "lemma": "סוּרוּ",
           "root": "?",
           "pos": "VERB",
@@ -2184,7 +2184,7 @@
       "tokens": [
         {
           "id": "psalms.139.20.t001",
-          "surface": "אֲשֶׁ֣ר",
+          "surface": "אֲשֶׁר",
           "lemma": "אֲשֶׁר",
           "root": "—",
           "pos": "REL",
@@ -2192,12 +2192,12 @@
             "pos": "REL"
           },
           "morph": "pos=REL",
-          "gloss": "",
+          "gloss": "which/that",
           "semantic": []
         },
         {
           "id": "psalms.139.20.t002",
-          "surface": "יֹ֭אמְרֻךָ",
+          "surface": "יֹאמְרֻךָ",
           "lemma": "יֹאמְרֻךָ",
           "root": "?",
           "pos": "VERB",
@@ -2210,7 +2210,7 @@
         },
         {
           "id": "psalms.139.20.t003",
-          "surface": "לִמְזִמָּ֑ה",
+          "surface": "לִמְזִמָּה",
           "lemma": "לִמְזִמָּה",
           "root": "?",
           "pos": "NOUN",
@@ -2223,7 +2223,7 @@
         },
         {
           "id": "psalms.139.20.t004",
-          "surface": "נָשֻׂ֖א",
+          "surface": "נָשֻׂא",
           "lemma": "נָשֻׂא",
           "root": "?",
           "pos": "VERB",
@@ -2236,7 +2236,7 @@
         },
         {
           "id": "psalms.139.20.t005",
-          "surface": "לַשָּׁ֣וְא",
+          "surface": "לַשָּׁוְא",
           "lemma": "לַשָּׁוְא",
           "root": "?",
           "pos": "NOUN",
@@ -2284,7 +2284,7 @@
         },
         {
           "id": "psalms.139.21.t002",
-          "surface": "מְשַׂנְאֶ֖יךָ",
+          "surface": "מְשַׂנְאֶיךָ",
           "lemma": "מְשַׂנְאֶיךָ",
           "root": "?",
           "pos": "PTCP",
@@ -2297,7 +2297,7 @@
         },
         {
           "id": "psalms.139.21.t003",
-          "surface": "יְהוָ֥ה",
+          "surface": "יְהוָה",
           "lemma": "יְהוָה",
           "root": "—",
           "pos": "PROPN",
@@ -2314,7 +2314,7 @@
         },
         {
           "id": "psalms.139.21.t004",
-          "surface": "אֶשְׂנָ֑א",
+          "surface": "אֶשְׂנָא",
           "lemma": "אֶשְׂנָא",
           "root": "?",
           "pos": "VERB",
@@ -2327,8 +2327,8 @@
         },
         {
           "id": "psalms.139.21.t005",
-          "surface": "וּ֝בִתְקוֹמְמֶ֗יךָ",
-          "lemma": "ּבִתְקוֹמְמֶיךָ",
+          "surface": "וּבִתְקוֹמְמֶיךָ",
+          "lemma": "בִתְקוֹמְמֶיךָ",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2366,7 +2366,7 @@
       "tokens": [
         {
           "id": "psalms.139.22.t001",
-          "surface": "תַּכְלִ֣ית",
+          "surface": "תַּכְלִית",
           "lemma": "תַּכְלִית",
           "root": "?",
           "pos": "VERB",
@@ -2379,7 +2379,7 @@
         },
         {
           "id": "psalms.139.22.t002",
-          "surface": "שִׂנְאָ֣ה",
+          "surface": "שִׂנְאָה",
           "lemma": "שִׂנְאָה",
           "root": "?",
           "pos": "NOUN",
@@ -2394,7 +2394,7 @@
         },
         {
           "id": "psalms.139.22.t003",
-          "surface": "שְׂנֵאתִ֑ים",
+          "surface": "שְׂנֵאתִים",
           "lemma": "שְׂנֵאתִים",
           "root": "?",
           "pos": "NOUN",
@@ -2407,7 +2407,7 @@
         },
         {
           "id": "psalms.139.22.t004",
-          "surface": "לְ֝אוֹיְבִ֗ים",
+          "surface": "לְאוֹיְבִים",
           "lemma": "אוֹיְבִים",
           "root": "?",
           "pos": "NOUN",
@@ -2423,8 +2423,8 @@
         },
         {
           "id": "psalms.139.22.t005",
-          "surface": "הָ֣יוּ",
-          "lemma": "ָיוּ",
+          "surface": "הָיוּ",
+          "lemma": "יוּ",
           "root": "?",
           "pos": "VERB",
           "features": {
@@ -2445,7 +2445,7 @@
             "pos": "NOUN"
           },
           "morph": "pos=NOUN",
-          "gloss": "",
+          "gloss": "to/for",
           "semantic": []
         }
       ],
@@ -2461,7 +2461,7 @@
       "tokens": [
         {
           "id": "psalms.139.23.t001",
-          "surface": "חָקְרֵ֣נִי",
+          "surface": "חָקְרֵנִי",
           "lemma": "חָקְרֵנִי",
           "root": "?",
           "pos": "NOUN",
@@ -2474,7 +2474,7 @@
         },
         {
           "id": "psalms.139.23.t002",
-          "surface": "אֵ֭ל",
+          "surface": "אֵל",
           "lemma": "אֵל",
           "root": "—",
           "pos": "PROPN",
@@ -2491,8 +2491,8 @@
         },
         {
           "id": "psalms.139.23.t003",
-          "surface": "וְדַ֣ע",
-          "lemma": "ְדַע",
+          "surface": "וְדַע",
+          "lemma": "דַע",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2505,7 +2505,7 @@
         },
         {
           "id": "psalms.139.23.t004",
-          "surface": "לְבָבִ֑י",
+          "surface": "לְבָבִי",
           "lemma": "בָבִי",
           "root": "?",
           "pos": "NOUN",
@@ -2519,7 +2519,7 @@
         },
         {
           "id": "psalms.139.23.t005",
-          "surface": "בְּ֝חָנֵ֗נִי",
+          "surface": "בְּחָנֵנִי",
           "lemma": "בְּחָנֵנִי",
           "root": "?",
           "pos": "NOUN",
@@ -2532,8 +2532,8 @@
         },
         {
           "id": "psalms.139.23.t006",
-          "surface": "וְדַ֣ע",
-          "lemma": "ְדַע",
+          "surface": "וְדַע",
+          "lemma": "דַע",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2571,8 +2571,8 @@
       "tokens": [
         {
           "id": "psalms.139.24.t001",
-          "surface": "וּרְאֵ֗ה",
-          "lemma": "ּרְאֵה",
+          "surface": "וּרְאֵה",
+          "lemma": "רְאֵה",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2593,7 +2593,7 @@
             "pos": "CONJ"
           },
           "morph": "pos=CONJ",
-          "gloss": "",
+          "gloss": "if",
           "semantic": []
         },
         {
@@ -2614,7 +2614,7 @@
         },
         {
           "id": "psalms.139.24.t004",
-          "surface": "עֹ֥צֶב",
+          "surface": "עֹצֶב",
           "lemma": "עֹצֶב",
           "root": "?",
           "pos": "NOUN",
@@ -2627,7 +2627,7 @@
         },
         {
           "id": "psalms.139.24.t005",
-          "surface": "בִּ֑י",
+          "surface": "בִּי",
           "lemma": "בִּי",
           "root": "?",
           "pos": "NOUN",
@@ -2640,8 +2640,8 @@
         },
         {
           "id": "psalms.139.24.t006",
-          "surface": "וּ֝נְחֵ֗נִי",
-          "lemma": "ּנְחֵנִי",
+          "surface": "וּנְחֵנִי",
+          "lemma": "נְחֵנִי",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2654,7 +2654,7 @@
         },
         {
           "id": "psalms.139.24.t007",
-          "surface": "בְּדֶ֣רֶךְ",
+          "surface": "בְּדֶרֶךְ",
           "lemma": "בְּדֶרֶךְ",
           "root": "?",
           "pos": "NOUN",
@@ -2690,303 +2690,348 @@
       "lemma": "יְהוָה",
       "root": "—",
       "pos": "PROPN",
-      "gloss": ""
+      "gloss": "YHWH / LORD",
+      "notes": "Common forms: pos=PROPN;type=deity"
     },
     {
       "lemma": "כִּי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "for / because",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "אַתָּה",
       "root": "?",
       "pos": "VERB",
-      "gloss": ""
+      "gloss": "you",
+      "notes": "Common forms: pos=VERB"
     },
     {
       "lemma": "יָדַעְתָּ",
       "root": "?",
       "pos": "VERB",
-      "gloss": ""
+      "gloss": "you know",
+      "notes": "Common forms: pos=VERB"
     },
     {
       "lemma": "שָׁם",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "there",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "גַּם",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "also",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "חֹשֶׁךְ",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "darkness",
+      "notes": "Common forms: pos=NOUN"
     },
     {
-      "lemma": "ְלַיְלָה",
+      "lemma": "לַיְלָה",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "night",
+      "notes": "Common forms: pos=NOUN;conj=ו"
     },
     {
       "lemma": "אֵל",
       "root": "—",
       "pos": "PROPN",
-      "gloss": ""
+      "gloss": "to / toward",
+      "notes": "Common forms: pos=PROPN;type=deity"
     },
     {
-      "lemma": "ְדַע",
+      "lemma": "דַע",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "know!",
+      "notes": "Common forms: pos=NOUN;conj=ו"
     },
     {
       "lemma": "לַמְנַצֵּחַ",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "for the director (of music)",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "דָוִד",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "beloved",
+      "notes": "Common forms: pos=NOUN;prep=לְ"
     },
     {
       "lemma": "זְמוֹר",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "psalm / song",
+      "notes": "Common forms: pos=NOUN;prep=מִן"
     },
     {
       "lemma": "חֲקַרְתַּנִי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "you have searched me",
+      "notes": "Common forms: pos=NOUN"
     },
     {
-      "lemma": "ַתֵּדָע",
+      "lemma": "תֵּדָע",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "you understand / know",
+      "notes": "Common forms: pos=NOUN;conj=ו"
     },
     {
       "lemma": "שִׁבְתִּי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "my sitting",
+      "notes": "Common forms: pos=NOUN"
     },
     {
-      "lemma": "ְקוּמִי",
+      "lemma": "קוּמִי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "arise! (f.sg.)",
+      "notes": "Common forms: pos=NOUN;conj=ו"
     },
     {
       "lemma": "בַּנְתָּה",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "you discerned",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "רֵעִי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "my thought",
+      "notes": "Common forms: pos=NOUN;prep=לְ"
     },
     {
       "lemma": "אָרְחִי",
       "root": "?",
       "pos": "VERB",
-      "gloss": ""
+      "gloss": "my path",
+      "notes": "Common forms: pos=VERB"
     },
     {
-      "lemma": "ְרִבְעִי",
+      "lemma": "רִבְעִי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "my lying down",
+      "notes": "Common forms: pos=NOUN;conj=ו"
     },
     {
       "lemma": "זֵרִיתָ",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "you sifted / winnowed",
+      "notes": "Common forms: pos=NOUN"
     },
     {
-      "lemma": "ְכָל",
+      "lemma": "כָל",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "all / every",
+      "notes": "Common forms: pos=NOUN;conj=ו"
     },
     {
       "lemma": "דְּרָכַי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "my ways",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "הִסְכַּנְתָּה",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "you are familiar with",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "אֵין",
       "root": "?",
       "pos": "VERB",
-      "gloss": ""
+      "gloss": "there is no / not",
+      "notes": "Common forms: pos=VERB"
     },
     {
       "lemma": "לָּה",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "to it",
+      "notes": "Common forms: pos=NOUN;prep=מִן"
     },
     {
       "lemma": "בִּלְשׁוֹנִי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "on my tongue",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "כֻלָּהּ",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "bride",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "אָחוֹר",
       "root": "?",
       "pos": "VERB",
-      "gloss": ""
+      "gloss": "behind",
+      "notes": "Common forms: pos=VERB"
     },
     {
-      "lemma": "ָקֶדֶם",
+      "lemma": "קֶדֶם",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "before / east",
+      "notes": "Common forms: pos=NOUN;conj=ו"
     },
     {
       "lemma": "צַרְתָּנִי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "you hemmed me in",
+      "notes": "Common forms: pos=NOUN"
     },
     {
-      "lemma": "ַתָּשֶׁת",
+      "lemma": "תָּשֶׁת",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "you laid / you set",
+      "notes": "Common forms: pos=NOUN;conj=ו"
     },
     {
       "lemma": "עָלַי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "upon me",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "כַּפֶּכָה",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "your palm",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "פִּלְאִיָה",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "too wonderful",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "דַעַת",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "knowledge",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "מֶּנִּי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "from me",
+      "notes": "Common forms: pos=NOUN;prep=מִן"
     },
     {
       "lemma": "נִשְׂגְּבָה",
       "root": "?",
       "pos": "VERB",
-      "gloss": ""
+      "gloss": "too high",
+      "notes": "Common forms: pos=VERB"
     },
     {
       "lemma": "אוּכַל",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "I can",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "לָהּ",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "to it",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "אֵלֵךְ",
       "root": "?",
       "pos": "VERB",
-      "gloss": ""
+      "gloss": "I go",
+      "notes": "Common forms: pos=VERB"
     },
     {
       "lemma": "רוּחֶךָ",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "your Spirit",
+      "notes": "Common forms: pos=NOUN;prep=מִן"
     },
     {
-      "lemma": "ְאָנָה",
+      "lemma": "אָנָה",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "where?",
+      "notes": "Common forms: pos=NOUN;conj=ו"
     },
     {
       "lemma": "פָּנֶיךָ",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "your presence / face",
+      "notes": "Common forms: pos=NOUN;prep=מִן"
     }
   ],
   "grammar": [
     {
-      "topic": "Superscription style",
-      "example": "לַמְנַצֵּחַ … מִזְמוֹר (139:1)",
-      "note": "Psalms often open with a superscription marking performance context and attribution."
+      "id": "superscription-style",
+      "title": "Superscription style",
+      "body": "Psalms often open with a superscription marking performance context and attribution.\n\nExample: לַמְנַצֵּחַ … מִזְמוֹר (139:1)"
     },
     {
-      "topic": "Perfect verbs for divine knowledge",
-      "example": "חֲקַרְתַּנִי; יָדַעְתָּ (139:1–4)",
-      "note": "Perfect forms present YHWH’s knowing as established, comprehensive reality."
+      "id": "perfect-verbs-for-divine-knowledge",
+      "title": "Perfect verbs for divine knowledge",
+      "body": "Perfect forms present YHWH’s knowing as established, comprehensive reality.\n\nExample: חֲקַרְתַּנִי; יָדַעְתָּ (139:1–4)"
     },
     {
-      "topic": "Rhetorical ‘where?’ questions",
-      "example": "אָנָה אֵלֵךְ … וְאָנָה … אֶבְרָח (139:7)",
-      "note": "Interrogatives intensify the claim that escape from God’s presence is impossible."
+      "id": "rhetorical-where-questions",
+      "title": "Rhetorical ‘where?’ questions",
+      "body": "Interrogatives intensify the claim that escape from God’s presence is impossible.\n\nExample: אָנָה אֵלֵךְ … וְאָנָה … אֶבְרָח (139:7)"
     },
     {
-      "topic": "Conditional clauses with אִם",
-      "example": "אִם־אֶסַּק … וְאַצִּיעָה … (139:8)",
-      "note": "אִם introduces hypothetical extremes (heaven/Sheol) to express totality."
+      "id": "conditional-clauses-with",
+      "title": "Conditional clauses with אִם",
+      "body": "אִם introduces hypothetical extremes (heaven/Sheol) to express totality.\n\nExample: אִם־אֶסַּק … וְאַצִּיעָה … (139:8)"
     },
     {
-      "topic": "Antithetic imagery (dark/light)",
-      "example": "חֹשֶׁךְ … אוֹר … לַיְלָה/יוֹם (139:11–12)",
-      "note": "Oppositions collapse: for God, darkness is as light—an omniscience motif."
+      "id": "antithetic-imagery-dark-light",
+      "title": "Antithetic imagery (dark/light)",
+      "body": "Oppositions collapse: for God, darkness is as light—an omniscience motif.\n\nExample: חֹשֶׁךְ … אוֹר … לַיְלָה/יוֹם (139:11–12)"
     },
     {
-      "topic": "Imperatives in the closing plea",
-      "example": "חָקְרֵנִי … דַע … בְּחָנֵנִי … וּרְאֵה … וּנְחֵנִי (139:23–24)",
-      "note": "A sequence of imperatives forms a prayer for examination and guidance."
+      "id": "imperatives-in-the-closing-plea",
+      "title": "Imperatives in the closing plea",
+      "body": "A sequence of imperatives forms a prayer for examination and guidance.\n\nExample: חָקְרֵנִי … דַע … בְּחָנֵנִי … וּרְאֵה … וּנְחֵנִי (139:23–24)"
     }
   ],
   "exercises": [
@@ -3016,15 +3061,13 @@
     }
   ],
   "annotations": [],
-  "spec_version": "1.3",
+  "spec_version": "1.2",
   "book_slug": "psalms",
   "title": "Psalms - Chapter 139",
   "generated_at": "2026-02-28",
   "tagset": {
     "name": "ETCBC-like",
-    "version": "1.0",
-    "notes": "features object follows ETCBC-like categories; morph is derived display."
+    "version": "1.0"
   },
-  "ref_system": "MT",
-  "subtitle": "תְּהִלִּים (Tehillim)"
+  "ref_system": "MT"
 }

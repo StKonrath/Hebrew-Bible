@@ -252,6 +252,18 @@ def main():
     except Exception:
         # If the helper isn't available, continue; validation may still fail if semantic fields are missing.
         pass
+
+    # Promote token data into teaching layers (Vocabulary + Grammar) before validation
+    try:
+        from promote_tokens_to_lexicon import patch_file as _patch_lex
+        _patch_lex(out_json, force=False)  # only if lexicon empty
+    except Exception:
+        pass
+    try:
+        from seed_basic_grammar_notes import patch_file as _patch_gram
+        _patch_gram(out_json, force=False)  # only if grammar empty
+    except Exception:
+        pass
         validate(out_json, args)
         print("OK: installed", out_json)
     else:

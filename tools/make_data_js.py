@@ -1,15 +1,39 @@
 #!/usr/bin/env python3
-"""
-make_data_js.py
-Generate data.js (file:// friendly) from a chapter data.json.
+import argparse
+import json
+import pathlib
+import glob
 
-Usage:
-  python3 tools/make_data_js.py books/song-of-songs/01/data.json
-"""
-import json, sys, pathlib
+ROOT = pathlib.Path(__file__).resolve().parents[1]
 
-p = pathlib.Path(sys.argv[1]).resolve()
-obj = json.loads(p.read_text(encoding="utf-8"))
-out = p.with_name("data.js")
-out.write_text("window.__chapterData = " + json.dumps(obj, ensure_ascii=False, indent=2) + ";\n", encoding="utf-8")
-print("Wrote", out)
+def build_js(json_path: pathlib.Path):
+    obj = json.loads(json_path.read_text(encoding="utf-8"))
+    out = json_path.with_name("data.js")
+    out.write_text(
+        "window.__chapterData = " +
+        json.dumps(obj, ensure_ascii=False, indent=2) +
+        ";\n",
+        encoding="utf-8"
+    )
+    print("Wrote", out)
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("path", nargs="?", help="Path to data.json")
+    parser.add_argument("--all", action="store_true")
+    args = parser.parse_args()
+
+    if args.all:
+        files = glob.glob(str(ROOT / "books" / "*" / "*" / "data.json"))
+        for f in sorted(files):
+            build_js(pathlib.Path(f))
+        return
+
+    if not args.path:
+        print("Usage: make_data_js.py <path/to/data.json> or --all")
+        return
+
+    build_js(pathlib.Path(args.path))
+
+if __name__ == "__main__":
+    main()

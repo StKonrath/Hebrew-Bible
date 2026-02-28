@@ -7,15 +7,15 @@
   "chapter": 5,
   "verses": [
     {
+      "ref": "5:1",
       "he": "בָּ֣אתִי לְגַנִּי֮ אֲחֹתִ֣י כַלָּה֒ אָרִ֤יתִי מוֹרִי֙ עִם־בְּשָׂמִ֔י אָכַ֤לְתִּי יַעְרִי֙ עִם־דִּבְשִׁ֔י שָׁתִ֥יתִי יֵינִ֖י עִם־חֲלָבִ֑י אִכְל֣וּ רֵעִ֔ים שְׁת֥וּ וְשִׁכְר֖וּ דּוֹדִֽים׃",
       "en": "I have come to my garden, my sister, my bride; I have gathered my myrrh with my spice. I have eaten my honeycomb with my honey; I have drunk my wine with my milk. Eat, friends; drink, yes, drink deeply, beloved ones.",
       "tr": "bā֣ʾtiy ləganiy֮ ʾăḥōti֣y kalāh֒ ʾāri֤ytiy mwōriy֙ ʿim-bəšāmi֔y ʾāka֤lətiy yaʿəriy֙ ʿim-dibəši֔y šāti֥ytiy yēyni֖y ʿim-ḥălābi֑y ʾikəl֣w rēʿi֔ym šət֥w wəšikər֖w dwōdiym.",
-      "semantic_summary": [],
       "tokens": [
         {
           "id": "song-of-songs.05.01.t001",
-          "surface": "בָּ֣אתִי",
-          "lemma": "בָּאתִי",
+          "surface": "בָּאתִי",
+          "lemma": "בָּאתִי",
           "root": "בוא",
           "pos": "NOUN",
           "features": {
@@ -28,8 +28,8 @@
         },
         {
           "id": "song-of-songs.05.01.t002",
-          "surface": "לְגַנִּי֮",
-          "lemma": "גַנִּי",
+          "surface": "לְגַנִּי",
+          "lemma": "גַנִּי",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -42,7 +42,7 @@
         },
         {
           "id": "song-of-songs.05.01.t003",
-          "surface": "אֲחֹתִ֣י",
+          "surface": "אֲחֹתִי",
           "lemma": "אֲחֹתִי",
           "root": "?",
           "pos": "VERB",
@@ -55,8 +55,8 @@
         },
         {
           "id": "song-of-songs.05.01.t004",
-          "surface": "כַלָּה֒",
-          "lemma": "כַלָּה",
+          "surface": "כַלָּה",
+          "lemma": "כַלָּה",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -68,7 +68,7 @@
         },
         {
           "id": "song-of-songs.05.01.t005",
-          "surface": "אָרִ֤יתִי",
+          "surface": "אָרִיתִי",
           "lemma": "אָרִיתִי",
           "root": "?",
           "pos": "VERB",
@@ -81,7 +81,7 @@
         },
         {
           "id": "song-of-songs.05.01.t006",
-          "surface": "מוֹרִי֙",
+          "surface": "מוֹרִי",
           "lemma": "מוֹרִי",
           "root": "?",
           "pos": "NOUN",
@@ -102,13 +102,13 @@
             "pos": "NOUN"
           },
           "morph": "pos=NOUN",
-          "gloss": "",
+          "gloss": "with",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.01.t008",
-          "surface": "בְּשָׂמִ֔י",
-          "lemma": "בְּשָׂמִי",
+          "surface": "בְּשָׂמִי",
+          "lemma": "בְּשָׂמִי",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -121,8 +121,8 @@
         },
         {
           "id": "song-of-songs.05.01.t009",
-          "surface": "אָכַ֤לְתִּי",
-          "lemma": "אָכַלְתִּי",
+          "surface": "אָכַלְתִּי",
+          "lemma": "אָכַלְתִּי",
           "root": "?",
           "pos": "VERB",
           "features": {
@@ -134,7 +134,7 @@
         },
         {
           "id": "song-of-songs.05.01.t010",
-          "surface": "יַעְרִי֙",
+          "surface": "יַעְרִי",
           "lemma": "יַעְרִי",
           "root": "?",
           "pos": "VERB",
@@ -155,13 +155,13 @@
             "pos": "NOUN"
           },
           "morph": "pos=NOUN",
-          "gloss": "",
+          "gloss": "with",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.01.t012",
-          "surface": "דִּבְשִׁ֔י",
-          "lemma": "דִּבְשִׁי",
+          "surface": "דִּבְשִׁי",
+          "lemma": "דִּבְשִׁי",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -173,8 +173,8 @@
         },
         {
           "id": "song-of-songs.05.01.t013",
-          "surface": "שָׁתִ֥יתִי",
-          "lemma": "שָׁתִיתִי",
+          "surface": "שָׁתִיתִי",
+          "lemma": "שָׁתִיתִי",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -186,7 +186,7 @@
         },
         {
           "id": "song-of-songs.05.01.t014",
-          "surface": "יֵינִ֖י",
+          "surface": "יֵינִי",
           "lemma": "יֵינִי",
           "root": "?",
           "pos": "VERB",
@@ -207,12 +207,12 @@
             "pos": "NOUN"
           },
           "morph": "pos=NOUN",
-          "gloss": "",
+          "gloss": "with",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.01.t016",
-          "surface": "חֲלָבִ֑י",
+          "surface": "חֲלָבִי",
           "lemma": "חֲלָבִי",
           "root": "?",
           "pos": "NOUN",
@@ -225,7 +225,7 @@
         },
         {
           "id": "song-of-songs.05.01.t017",
-          "surface": "אִכְל֣וּ",
+          "surface": "אִכְלוּ",
           "lemma": "אִכְלוּ",
           "root": "?",
           "pos": "VERB",
@@ -238,7 +238,7 @@
         },
         {
           "id": "song-of-songs.05.01.t018",
-          "surface": "רֵעִ֔ים",
+          "surface": "רֵעִים",
           "lemma": "רֵעִים",
           "root": "?",
           "pos": "NOUN",
@@ -251,8 +251,8 @@
         },
         {
           "id": "song-of-songs.05.01.t019",
-          "surface": "שְׁת֥וּ",
-          "lemma": "שְׁתוּ",
+          "surface": "שְׁתוּ",
+          "lemma": "שְׁתוּ",
           "root": "?",
           "pos": "VERB",
           "features": {
@@ -264,8 +264,8 @@
         },
         {
           "id": "song-of-songs.05.01.t020",
-          "surface": "וְשִׁכְר֖וּ",
-          "lemma": "ְשִׁכְרוּ",
+          "surface": "וְשִׁכְרוּ",
+          "lemma": "שִׁכְרוּ",
           "root": "?",
           "pos": "VERB",
           "features": {
@@ -290,23 +290,17 @@
           "semantic": []
         }
       ],
-      "ref": "5:1"
+      "semantic_summary": []
     },
     {
+      "ref": "5:2",
       "he": "אֲנִ֥י יְשֵׁנָ֖ה וְלִבִּ֣י עֵ֑ר ק֣וֹל ׀ דּוֹדִ֣י דוֹפֵ֗ק פִּתְחִי־לִ֞י אֲחֹתִ֤י רַעְיָתִי֙ יוֹנָתִ֣י תַמָּתִ֔י שֶׁרֹּאשִׁי֙ נִמְלָא־טָ֔ל קְוֻּצּוֹתַ֖י רְסִ֥יסֵי לָֽיְלָה׃",
       "en": "I was sleeping, but my heart was awake. A sound—my beloved is knocking: “Open to me, my sister, my love, my dove, my perfect one; for my head is filled with dew, my locks with the drops of the night.”",
       "tr": "ʾăni֥y yəšēnā֖h wəlibi֣y ʿē֑r q֣wōl | dwōdi֣y dwōpē֗q pitəḥiy-li֞y ʾăḥōti֤y raʿəyātiy֙ ywōnāti֣y tamāti֔y šerōʾšiy֙ niməlāʾ-ṭā֔l qəwuṣwōta֖y rəsi֥ysēy lāyəlāh.",
-      "semantic_summary": [
-        "LOVE",
-        "MOTION",
-        "SPEECH",
-        "TIME",
-        "PERCEPTION"
-      ],
       "tokens": [
         {
           "id": "song-of-songs.05.02.t001",
-          "surface": "אֲנִ֥י",
+          "surface": "אֲנִי",
           "lemma": "אֲנִי",
           "root": "—",
           "pos": "PRON",
@@ -316,15 +310,15 @@
             "number": "sg"
           },
           "morph": "pos=PRON;person=1;number=sg",
-          "gloss": "",
+          "gloss": "to/for",
           "semantic": [
             "SPEECH"
           ]
         },
         {
           "id": "song-of-songs.05.02.t002",
-          "surface": "יְשֵׁנָ֖ה",
-          "lemma": "יְשֵׁנָה",
+          "surface": "יְשֵׁנָה",
+          "lemma": "יְשֵׁנָה",
           "root": "?",
           "pos": "VERB",
           "features": {
@@ -338,8 +332,8 @@
         },
         {
           "id": "song-of-songs.05.02.t003",
-          "surface": "וְלִבִּ֣י",
-          "lemma": "ְלִבִּי",
+          "surface": "וְלִבִּי",
+          "lemma": "לִבִּי",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -352,7 +346,7 @@
         },
         {
           "id": "song-of-songs.05.02.t004",
-          "surface": "עֵ֑ר",
+          "surface": "עֵר",
           "lemma": "עֵר",
           "root": "?",
           "pos": "NOUN",
@@ -367,7 +361,7 @@
         },
         {
           "id": "song-of-songs.05.02.t005",
-          "surface": "ק֣וֹל",
+          "surface": "קוֹל",
           "lemma": "קוֹל",
           "root": "?",
           "pos": "NOUN",
@@ -383,7 +377,7 @@
         },
         {
           "id": "song-of-songs.05.02.t006",
-          "surface": "דּוֹדִ֣י",
+          "surface": "דּוֹדִי",
           "lemma": "דּוֹדִי",
           "root": "?",
           "pos": "NOUN",
@@ -391,14 +385,14 @@
             "pos": "NOUN"
           },
           "morph": "pos=NOUN",
-          "gloss": "",
+          "gloss": "love / beloved / caresses",
           "semantic": [
             "LOVE"
           ]
         },
         {
           "id": "song-of-songs.05.02.t007",
-          "surface": "דוֹפֵ֗ק",
+          "surface": "דוֹפֵק",
           "lemma": "דוֹפֵק",
           "root": "?",
           "pos": "NOUN",
@@ -411,8 +405,8 @@
         },
         {
           "id": "song-of-songs.05.02.t008",
-          "surface": "פִּתְחִי",
-          "lemma": "פִּתְחִי",
+          "surface": "פִּתְחִי",
+          "lemma": "פִּתְחִי",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -427,7 +421,7 @@
         },
         {
           "id": "song-of-songs.05.02.t009",
-          "surface": "לִ֞י",
+          "surface": "לִי",
           "lemma": "לִי",
           "root": "?",
           "pos": "NOUN",
@@ -435,12 +429,12 @@
             "pos": "NOUN"
           },
           "morph": "pos=NOUN",
-          "gloss": "",
+          "gloss": "to/for",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.02.t010",
-          "surface": "אֲחֹתִ֤י",
+          "surface": "אֲחֹתִי",
           "lemma": "אֲחֹתִי",
           "root": "?",
           "pos": "VERB",
@@ -453,7 +447,7 @@
         },
         {
           "id": "song-of-songs.05.02.t011",
-          "surface": "רַעְיָתִי֙",
+          "surface": "רַעְיָתִי",
           "lemma": "רַעְיָתִי",
           "root": "?",
           "pos": "NOUN",
@@ -461,12 +455,12 @@
             "pos": "NOUN"
           },
           "morph": "pos=NOUN",
-          "gloss": "",
+          "gloss": "beloved / companion",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.02.t012",
-          "surface": "יוֹנָתִ֣י",
+          "surface": "יוֹנָתִי",
           "lemma": "יוֹנָתִי",
           "root": "?",
           "pos": "NOUN",
@@ -479,8 +473,8 @@
         },
         {
           "id": "song-of-songs.05.02.t013",
-          "surface": "תַמָּתִ֔י",
-          "lemma": "תַמָּתִי",
+          "surface": "תַמָּתִי",
+          "lemma": "תַמָּתִי",
           "root": "?",
           "pos": "VERB",
           "features": {
@@ -492,8 +486,8 @@
         },
         {
           "id": "song-of-songs.05.02.t014",
-          "surface": "שֶׁרֹּאשִׁי֙",
-          "lemma": "שֶׁרֹּאשִׁי",
+          "surface": "שֶׁרֹּאשִׁי",
+          "lemma": "שֶׁרֹּאשִׁי",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -518,7 +512,7 @@
         },
         {
           "id": "song-of-songs.05.02.t016",
-          "surface": "טָ֔ל",
+          "surface": "טָל",
           "lemma": "טָל",
           "root": "?",
           "pos": "NOUN",
@@ -531,8 +525,8 @@
         },
         {
           "id": "song-of-songs.05.02.t017",
-          "surface": "קְוֻּצּוֹתַ֖י",
-          "lemma": "קְוֻּצּוֹתַי",
+          "surface": "קְוֻּצּוֹתַי",
+          "lemma": "קְוֻּצּוֹתַי",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -544,7 +538,7 @@
         },
         {
           "id": "song-of-songs.05.02.t018",
-          "surface": "רְסִ֥יסֵי",
+          "surface": "רְסִיסֵי",
           "lemma": "רְסִיסֵי",
           "root": "?",
           "pos": "NOUN",
@@ -569,18 +563,24 @@
           "semantic": []
         }
       ],
-      "ref": "5:2"
+      "semantic_summary": [
+        "LOVE",
+        "MOTION",
+        "SPEECH",
+        "TIME",
+        "PERCEPTION"
+      ]
     },
     {
+      "ref": "5:3",
       "he": "פָּשַׁ֨טְתִּי֙ אֶת־כֻּתָּנְתִּ֔י אֵיכָ֖כָה אֶלְבָּשֶׁ֑נָּה רָחַ֥צְתִּי אֶת־רַגְלַ֖י אֵיכָ֥כָה אֲטַנְּפֵֽם׃",
       "en": "I have taken off my tunic—how can I put it on? I have washed my feet—how can I soil them?",
       "tr": "pāša֨ṭətiy֙ ʾet-kutānəti֔y ʾēykā֖kāh ʾeləbāše֑nāh rāḥa֥ṣətiy ʾet-ragəla֖y ʾēykā֥kāh ʾăṭanəpēm.",
-      "semantic_summary": [],
       "tokens": [
         {
           "id": "song-of-songs.05.03.t001",
-          "surface": "פָּשַׁ֨טְתִּי֙",
-          "lemma": "פָּשַׁטְתִּי",
+          "surface": "פָּשַׁטְתִּי",
+          "lemma": "פָּשַׁטְתִּי",
           "root": "?",
           "pos": "VERB",
           "features": {
@@ -600,13 +600,13 @@
             "pos": "PART"
           },
           "morph": "pos=PART",
-          "gloss": "",
+          "gloss": "(object marker)",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.03.t003",
-          "surface": "כֻּתָּנְתִּ֔י",
-          "lemma": "כֻּתָּנְתִּי",
+          "surface": "כֻּתָּנְתִּי",
+          "lemma": "כֻּתָּנְתִּי",
           "root": "?",
           "pos": "VERB",
           "features": {
@@ -619,7 +619,7 @@
         },
         {
           "id": "song-of-songs.05.03.t004",
-          "surface": "אֵיכָ֖כָה",
+          "surface": "אֵיכָכָה",
           "lemma": "אֵיכָכָה",
           "root": "—",
           "pos": "INT",
@@ -632,8 +632,8 @@
         },
         {
           "id": "song-of-songs.05.03.t005",
-          "surface": "אֶלְבָּשֶׁ֑נָּה",
-          "lemma": "אֶלְבָּשֶׁנָּה",
+          "surface": "אֶלְבָּשֶׁנָּה",
+          "lemma": "אֶלְבָּשֶׁנָּה",
           "root": "?",
           "pos": "VERB",
           "features": {
@@ -645,8 +645,8 @@
         },
         {
           "id": "song-of-songs.05.03.t006",
-          "surface": "רָחַ֥צְתִּי",
-          "lemma": "רָחַצְתִּי",
+          "surface": "רָחַצְתִּי",
+          "lemma": "רָחַצְתִּי",
           "root": "?",
           "pos": "VERB",
           "features": {
@@ -666,12 +666,12 @@
             "pos": "PART"
           },
           "morph": "pos=PART",
-          "gloss": "",
+          "gloss": "(object marker)",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.03.t008",
-          "surface": "רַגְלַ֖י",
+          "surface": "רַגְלַי",
           "lemma": "רַגְלַי",
           "root": "?",
           "pos": "NOUN",
@@ -684,7 +684,7 @@
         },
         {
           "id": "song-of-songs.05.03.t009",
-          "surface": "אֵיכָ֥כָה",
+          "surface": "אֵיכָכָה",
           "lemma": "אֵיכָכָה",
           "root": "—",
           "pos": "INT",
@@ -697,8 +697,8 @@
         },
         {
           "id": "song-of-songs.05.03.t010",
-          "surface": "אֲטַנְּפֵֽם",
-          "lemma": "אֲטַנְּפֵם",
+          "surface": "אֲטַנְּפֵֽם",
+          "lemma": "אֲטַנְּפֵם",
           "root": "?",
           "pos": "VERB",
           "features": {
@@ -709,20 +709,17 @@
           "semantic": []
         }
       ],
-      "ref": "5:3"
+      "semantic_summary": []
     },
     {
+      "ref": "5:4",
       "he": "דּוֹדִ֗י שָׁלַ֤ח יָדוֹ֙ מִן־הַחֹ֔ר וּמֵעַ֖י הָמ֥וּ עָלָֽיו׃",
       "en": "My beloved put his hand through the opening, and my inward parts yearned for him.",
       "tr": "dwōdi֗y šāla֤ḥ yādwō֙ min-haḥō֔r wmēʿa֖y hām֥w ʿālāyw.",
-      "semantic_summary": [
-        "LOVE",
-        "BODY"
-      ],
       "tokens": [
         {
           "id": "song-of-songs.05.04.t001",
-          "surface": "דּוֹדִ֗י",
+          "surface": "דּוֹדִי",
           "lemma": "דּוֹדִי",
           "root": "?",
           "pos": "NOUN",
@@ -730,15 +727,15 @@
             "pos": "NOUN"
           },
           "morph": "pos=NOUN",
-          "gloss": "",
+          "gloss": "love / beloved / caresses",
           "semantic": [
             "LOVE"
           ]
         },
         {
           "id": "song-of-songs.05.04.t002",
-          "surface": "שָׁלַ֤ח",
-          "lemma": "שָׁלַח",
+          "surface": "שָׁלַח",
+          "lemma": "שָׁלַח",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -750,7 +747,7 @@
         },
         {
           "id": "song-of-songs.05.04.t003",
-          "surface": "יָדוֹ֙",
+          "surface": "יָדוֹ",
           "lemma": "יָדוֹ",
           "root": "ידד",
           "pos": "VERB",
@@ -773,13 +770,13 @@
             "pos": "PREP"
           },
           "morph": "pos=PREP",
-          "gloss": "",
+          "gloss": "from",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.04.t005",
-          "surface": "הַחֹ֔ר",
-          "lemma": "ַחֹר",
+          "surface": "הַחֹר",
+          "lemma": "חֹר",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -792,8 +789,8 @@
         },
         {
           "id": "song-of-songs.05.04.t006",
-          "surface": "וּמֵעַ֖י",
-          "lemma": "ּמֵעַי",
+          "surface": "וּמֵעַי",
+          "lemma": "מֵעַי",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -806,8 +803,8 @@
         },
         {
           "id": "song-of-songs.05.04.t007",
-          "surface": "הָמ֥וּ",
-          "lemma": "ָמוּ",
+          "surface": "הָמוּ",
+          "lemma": "מוּ",
           "root": "?",
           "pos": "VERB",
           "features": {
@@ -832,20 +829,21 @@
           "semantic": []
         }
       ],
-      "ref": "5:4"
+      "semantic_summary": [
+        "LOVE",
+        "BODY"
+      ]
     },
     {
+      "ref": "5:5",
       "he": "קַ֥מְתִּֽי אֲנִ֖י לִפְתֹּ֣חַ לְדוֹדִ֑י וְיָדַ֣י נָֽטְפוּ־מ֗וֹר וְאֶצְבְּעֹתַי֙ מ֣וֹר עֹבֵ֔ר עַ֖ל כַּפּ֥וֹת הַמַּנְעֽוּל׃",
       "en": "I rose to open to my beloved, and my hands dripped with myrrh, my fingers with flowing myrrh on the handles of the bolt.",
       "tr": "qa֥mətiy ʾăni֖y lipətō֣ḥa lədwōdi֑y wəyāda֣y nāṭəpw-m֗wōr wəʾeṣəbəʿōtay֙ m֣wōr ʿōbē֔r ʿa֖l kap֥wōt hamanəʿwl.",
-      "semantic_summary": [
-        "SPEECH"
-      ],
       "tokens": [
         {
           "id": "song-of-songs.05.05.t001",
-          "surface": "קַ֥מְתִּֽי",
-          "lemma": "קַמְתִּי",
+          "surface": "קַמְתִּֽי",
+          "lemma": "קַמְתִּי",
           "root": "?",
           "pos": "VERB",
           "features": {
@@ -857,7 +855,7 @@
         },
         {
           "id": "song-of-songs.05.05.t002",
-          "surface": "אֲנִ֖י",
+          "surface": "אֲנִי",
           "lemma": "אֲנִי",
           "root": "—",
           "pos": "PRON",
@@ -867,15 +865,15 @@
             "number": "sg"
           },
           "morph": "pos=PRON;person=1;number=sg",
-          "gloss": "",
+          "gloss": "to/for",
           "semantic": [
             "SPEECH"
           ]
         },
         {
           "id": "song-of-songs.05.05.t003",
-          "surface": "לִפְתֹּ֣חַ",
-          "lemma": "לִפְתֹּחַ",
+          "surface": "לִפְתֹּחַ",
+          "lemma": "לִפְתֹּחַ",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -887,7 +885,7 @@
         },
         {
           "id": "song-of-songs.05.05.t004",
-          "surface": "לְדוֹדִ֑י",
+          "surface": "לְדוֹדִי",
           "lemma": "דוֹדִי",
           "root": "?",
           "pos": "NOUN",
@@ -901,8 +899,8 @@
         },
         {
           "id": "song-of-songs.05.05.t005",
-          "surface": "וְיָדַ֣י",
-          "lemma": "ְיָדַי",
+          "surface": "וְיָדַי",
+          "lemma": "יָדַי",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -928,7 +926,7 @@
         },
         {
           "id": "song-of-songs.05.05.t007",
-          "surface": "מ֗וֹר",
+          "surface": "מוֹר",
           "lemma": "מוֹר",
           "root": "?",
           "pos": "NOUN",
@@ -936,13 +934,13 @@
             "pos": "NOUN"
           },
           "morph": "pos=NOUN",
-          "gloss": "",
+          "gloss": "myrrh",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.05.t008",
-          "surface": "וְאֶצְבְּעֹתַי֙",
-          "lemma": "ְאֶצְבְּעֹתַי",
+          "surface": "וְאֶצְבְּעֹתַי",
+          "lemma": "אֶצְבְּעֹתַי",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -955,7 +953,7 @@
         },
         {
           "id": "song-of-songs.05.05.t009",
-          "surface": "מ֣וֹר",
+          "surface": "מוֹר",
           "lemma": "מוֹר",
           "root": "?",
           "pos": "NOUN",
@@ -963,12 +961,12 @@
             "pos": "NOUN"
           },
           "morph": "pos=NOUN",
-          "gloss": "",
+          "gloss": "myrrh",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.05.t010",
-          "surface": "עֹבֵ֔ר",
+          "surface": "עֹבֵר",
           "lemma": "עֹבֵר",
           "root": "?",
           "pos": "NOUN",
@@ -981,7 +979,7 @@
         },
         {
           "id": "song-of-songs.05.05.t011",
-          "surface": "עַ֖ל",
+          "surface": "עַל",
           "lemma": "עַל",
           "root": "—",
           "pos": "PREP",
@@ -989,13 +987,13 @@
             "pos": "PREP"
           },
           "morph": "pos=PREP",
-          "gloss": "",
+          "gloss": "on/upon",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.05.t012",
-          "surface": "כַּפּ֥וֹת",
-          "lemma": "כַּפּוֹת",
+          "surface": "כַּפּוֹת",
+          "lemma": "כַּפּוֹת",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1008,8 +1006,8 @@
         },
         {
           "id": "song-of-songs.05.05.t013",
-          "surface": "הַמַּנְעֽוּל",
-          "lemma": "ַמַּנְעוּל",
+          "surface": "הַמַּנְעֽוּל",
+          "lemma": "מַּנְעוּל",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1021,20 +1019,20 @@
           "semantic": []
         }
       ],
-      "ref": "5:5"
+      "semantic_summary": [
+        "SPEECH"
+      ]
     },
     {
+      "ref": "5:6",
       "he": "פָּתַ֤חְתִּֽי אֲנִי֙ לְדוֹדִ֔י וְדוֹדִ֖י חָמַ֣ק עָבָ֑ר נַפְשִׁי֙ יָֽצְאָ֣ה בְדַבְּר֔וֹ בִּקַּשְׁתִּ֨יהוּ֙ וְלֹ֣א מְצָאתִ֔יהוּ קְרָאתִ֖יו וְלֹ֥א עָנָֽנִי׃",
       "en": "I opened to my beloved, but my beloved had turned and gone. My soul went out at his speaking; I sought him but did not find him. I called him, but he did not answer me.",
       "tr": "pāta֤ḥətiy ʾăniy֙ lədwōdi֔y wədwōdi֖y ḥāma֣q ʿābā֑r napəšiy֙ yāṣəʾā֣h bədabər֔wō biqašəti֨yhw֙ wəlō֣ʾ məṣāʾti֔yhw qərāʾti֖yw wəlō֥ʾ ʿānāniy.",
-      "semantic_summary": [
-        "SPEECH"
-      ],
       "tokens": [
         {
           "id": "song-of-songs.05.06.t001",
-          "surface": "פָּתַ֤חְתִּֽי",
-          "lemma": "פָּתַחְתִּי",
+          "surface": "פָּתַחְתִּֽי",
+          "lemma": "פָּתַחְתִּי",
           "root": "?",
           "pos": "VERB",
           "features": {
@@ -1046,7 +1044,7 @@
         },
         {
           "id": "song-of-songs.05.06.t002",
-          "surface": "אֲנִי֙",
+          "surface": "אֲנִי",
           "lemma": "אֲנִי",
           "root": "—",
           "pos": "PRON",
@@ -1056,14 +1054,14 @@
             "number": "sg"
           },
           "morph": "pos=PRON;person=1;number=sg",
-          "gloss": "",
+          "gloss": "to/for",
           "semantic": [
             "SPEECH"
           ]
         },
         {
           "id": "song-of-songs.05.06.t003",
-          "surface": "לְדוֹדִ֔י",
+          "surface": "לְדוֹדִי",
           "lemma": "דוֹדִי",
           "root": "?",
           "pos": "NOUN",
@@ -1077,8 +1075,8 @@
         },
         {
           "id": "song-of-songs.05.06.t004",
-          "surface": "וְדוֹדִ֖י",
-          "lemma": "ְדוֹדִי",
+          "surface": "וְדוֹדִי",
+          "lemma": "דוֹדִי",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1091,7 +1089,7 @@
         },
         {
           "id": "song-of-songs.05.06.t005",
-          "surface": "חָמַ֣ק",
+          "surface": "חָמַק",
           "lemma": "חָמַק",
           "root": "חמק",
           "pos": "NOUN",
@@ -1104,7 +1102,7 @@
         },
         {
           "id": "song-of-songs.05.06.t006",
-          "surface": "עָבָ֑ר",
+          "surface": "עָבָר",
           "lemma": "עָבָר",
           "root": "?",
           "pos": "NOUN",
@@ -1117,20 +1115,20 @@
         },
         {
           "id": "song-of-songs.05.06.t007",
-          "surface": "נַפְשִׁי֙",
-          "lemma": "נַפְשִׁי",
+          "surface": "נַפְשִׁי",
+          "lemma": "נַפְשִׁי",
           "root": "?",
           "pos": "VERB",
           "features": {
             "pos": "VERB"
           },
           "morph": "pos=VERB",
-          "gloss": "",
+          "gloss": "my soul",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.06.t008",
-          "surface": "יָֽצְאָ֣ה",
+          "surface": "יָֽצְאָה",
           "lemma": "יָצְאָה",
           "root": "?",
           "pos": "VERB",
@@ -1143,8 +1141,8 @@
         },
         {
           "id": "song-of-songs.05.06.t009",
-          "surface": "בְדַבְּר֔וֹ",
-          "lemma": "בְדַבְּרוֹ",
+          "surface": "בְדַבְּרוֹ",
+          "lemma": "בְדַבְּרוֹ",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1156,8 +1154,8 @@
         },
         {
           "id": "song-of-songs.05.06.t010",
-          "surface": "בִּקַּשְׁתִּ֨יהוּ֙",
-          "lemma": "בִּקַּשְׁתִּיהוּ",
+          "surface": "בִּקַּשְׁתִּיהוּ",
+          "lemma": "בִּקַּשְׁתִּיהוּ",
           "root": "?",
           "pos": "VERB",
           "features": {
@@ -1170,8 +1168,8 @@
         },
         {
           "id": "song-of-songs.05.06.t011",
-          "surface": "וְלֹ֣א",
-          "lemma": "ְלֹא",
+          "surface": "וְלֹא",
+          "lemma": "לֹא",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1179,12 +1177,12 @@
             "conj": "ו"
           },
           "morph": "pos=NOUN;conj=ו",
-          "gloss": "",
+          "gloss": "and not",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.06.t012",
-          "surface": "מְצָאתִ֔יהוּ",
+          "surface": "מְצָאתִיהוּ",
           "lemma": "מְצָאתִיהוּ",
           "root": "?",
           "pos": "PTCP",
@@ -1197,7 +1195,7 @@
         },
         {
           "id": "song-of-songs.05.06.t013",
-          "surface": "קְרָאתִ֖יו",
+          "surface": "קְרָאתִיו",
           "lemma": "קְרָאתִיו",
           "root": "?",
           "pos": "NOUN",
@@ -1210,8 +1208,8 @@
         },
         {
           "id": "song-of-songs.05.06.t014",
-          "surface": "וְלֹ֥א",
-          "lemma": "ְלֹא",
+          "surface": "וְלֹא",
+          "lemma": "לֹא",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1219,7 +1217,7 @@
             "conj": "ו"
           },
           "morph": "pos=NOUN;conj=ו",
-          "gloss": "",
+          "gloss": "and not",
           "semantic": []
         },
         {
@@ -1236,19 +1234,19 @@
           "semantic": []
         }
       ],
-      "ref": "5:6"
+      "semantic_summary": [
+        "SPEECH"
+      ]
     },
     {
+      "ref": "5:7",
       "he": "מְצָאֻ֧נִי הַשֹּׁמְרִ֛ים הַסֹּבְבִ֥ים בָּעִ֖יר הִכּ֣וּנִי פְצָע֑וּנִי נָשְׂא֤וּ אֶת־רְדִידִי֙ מֵֽעָלַ֔י שֹׁמְרֵ֖י הַחֹמֽוֹת׃",
       "en": "The watchmen who go about the city found me; they struck me, they wounded me; they took away my veil from me—the watchmen of the walls.",
       "tr": "məṣāʾu֧niy hašōməri֛ym hasōbəbi֥ym bāʿi֖yr hik֣wniy pəṣāʿ֑wniy nāšəʾ֤w ʾet-rədiydiy֙ mēʿāla֔y šōmərē֖y haḥōmwōt.",
-      "semantic_summary": [
-        "DAMAGE"
-      ],
       "tokens": [
         {
           "id": "song-of-songs.05.07.t001",
-          "surface": "מְצָאֻ֧נִי",
+          "surface": "מְצָאֻנִי",
           "lemma": "מְצָאֻנִי",
           "root": "?",
           "pos": "PTCP",
@@ -1261,8 +1259,8 @@
         },
         {
           "id": "song-of-songs.05.07.t002",
-          "surface": "הַשֹּׁמְרִ֛ים",
-          "lemma": "ַשֹּׁמְרִים",
+          "surface": "הַשֹּׁמְרִים",
+          "lemma": "שֹּׁמְרִים",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1270,13 +1268,13 @@
             "definite": "art"
           },
           "morph": "pos=NOUN;definite=art",
-          "gloss": "",
+          "gloss": "the watchmen",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.07.t003",
-          "surface": "הַסֹּבְבִ֥ים",
-          "lemma": "ַסֹּבְבִים",
+          "surface": "הַסֹּבְבִים",
+          "lemma": "סֹּבְבִים",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1284,13 +1282,13 @@
             "definite": "art"
           },
           "morph": "pos=NOUN;definite=art",
-          "gloss": "",
+          "gloss": "circling",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.07.t004",
-          "surface": "בָּעִ֖יר",
-          "lemma": "בָּעִיר",
+          "surface": "בָּעִיר",
+          "lemma": "בָּעִיר",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1298,12 +1296,12 @@
             "prep": "בְּ"
           },
           "morph": "pos=NOUN;prep=בְּ",
-          "gloss": "",
+          "gloss": "in the city",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.07.t005",
-          "surface": "הִכּ֣וּנִי",
+          "surface": "הִכּוּנִי",
           "lemma": "הִכּוּנִי",
           "root": "?",
           "pos": "NOUN",
@@ -1318,7 +1316,7 @@
         },
         {
           "id": "song-of-songs.05.07.t006",
-          "surface": "פְצָע֑וּנִי",
+          "surface": "פְצָעוּנִי",
           "lemma": "פְצָעוּנִי",
           "root": "?",
           "pos": "NOUN",
@@ -1331,8 +1329,8 @@
         },
         {
           "id": "song-of-songs.05.07.t007",
-          "surface": "נָשְׂא֤וּ",
-          "lemma": "נָשְׂאוּ",
+          "surface": "נָשְׂאוּ",
+          "lemma": "נָשְׂאוּ",
           "root": "?",
           "pos": "VERB",
           "features": {
@@ -1352,12 +1350,12 @@
             "pos": "PART"
           },
           "morph": "pos=PART",
-          "gloss": "",
+          "gloss": "(object marker)",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.07.t009",
-          "surface": "רְדִידִי֙",
+          "surface": "רְדִידִי",
           "lemma": "רְדִידִי",
           "root": "?",
           "pos": "NOUN",
@@ -1370,7 +1368,7 @@
         },
         {
           "id": "song-of-songs.05.07.t010",
-          "surface": "מֵֽעָלַ֔י",
+          "surface": "מֵֽעָלַי",
           "lemma": "מֵעָלַי",
           "root": "?",
           "pos": "NOUN",
@@ -1383,8 +1381,8 @@
         },
         {
           "id": "song-of-songs.05.07.t011",
-          "surface": "שֹׁמְרֵ֖י",
-          "lemma": "שֹׁמְרֵי",
+          "surface": "שֹׁמְרֵי",
+          "lemma": "שֹׁמְרֵי",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1397,7 +1395,7 @@
         {
           "id": "song-of-songs.05.07.t012",
           "surface": "הַחֹמֽוֹת",
-          "lemma": "ַחֹמוֹת",
+          "lemma": "חֹמוֹת",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1409,32 +1407,32 @@
           "semantic": []
         }
       ],
-      "ref": "5:7"
+      "semantic_summary": [
+        "DAMAGE"
+      ]
     },
     {
+      "ref": "5:8",
       "he": "הִשְׁבַּ֥עְתִּי אֶתְכֶ֖ם בְּנ֣וֹת יְרוּשָׁלִָ֑ם אִֽם־תִּמְצְאוּ֙ אֶת־דּוֹדִ֔י מַה־תַּגִּ֣ידוּ ל֔וֹ שֶׁחוֹלַ֥ת אַהֲבָ֖ה אָֽנִי׃",
       "en": "I adjure you, daughters of Jerusalem: if you find my beloved, what will you tell him?—that I am sick with love.",
       "tr": "hišəba֥ʿətiy ʾetəke֖m bən֣wōt yərwšālā֑im ʾim-timəṣəʾw֙ ʾet-dwōdi֔y mah-tagi֣ydw l֔wō šeḥwōla֥t ʾahăbā֖h ʾāniy.",
-      "semantic_summary": [
-        "LOVE"
-      ],
       "tokens": [
         {
           "id": "song-of-songs.05.08.t001",
-          "surface": "הִשְׁבַּ֥עְתִּי",
-          "lemma": "הִשְׁבַּעְתִּי",
+          "surface": "הִשְׁבַּעְתִּי",
+          "lemma": "הִשְׁבַּעְתִּי",
           "root": "?",
           "pos": "VERB",
           "features": {
             "pos": "VERB"
           },
           "morph": "pos=VERB",
-          "gloss": "",
+          "gloss": "I adjured",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.08.t002",
-          "surface": "אֶתְכֶ֖ם",
+          "surface": "אֶתְכֶם",
           "lemma": "אֶתְכֶם",
           "root": "?",
           "pos": "VERB",
@@ -1442,13 +1440,13 @@
             "pos": "VERB"
           },
           "morph": "pos=VERB",
-          "gloss": "",
+          "gloss": "you (pl.)",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.08.t003",
-          "surface": "בְּנ֣וֹת",
-          "lemma": "בְּנוֹת",
+          "surface": "בְּנוֹת",
+          "lemma": "בְּנוֹת",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1456,13 +1454,13 @@
             "prep": "בְּ"
           },
           "morph": "pos=NOUN;prep=בְּ",
-          "gloss": "",
+          "gloss": "daughters of",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.08.t004",
-          "surface": "יְרוּשָׁלִָ֑ם",
-          "lemma": "יְרוּשָׁלִָם",
+          "surface": "יְרוּשָׁלִָם",
+          "lemma": "יְרוּשָׁלִָם",
           "root": "?",
           "pos": "PROPN",
           "features": {
@@ -1482,13 +1480,13 @@
             "pos": "CONJ"
           },
           "morph": "pos=CONJ",
-          "gloss": "",
+          "gloss": "if",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.08.t006",
-          "surface": "תִּמְצְאוּ֙",
-          "lemma": "תִּמְצְאוּ",
+          "surface": "תִּמְצְאוּ",
+          "lemma": "תִּמְצְאוּ",
           "root": "?",
           "pos": "VERB",
           "features": {
@@ -1508,12 +1506,12 @@
             "pos": "PART"
           },
           "morph": "pos=PART",
-          "gloss": "",
+          "gloss": "(object marker)",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.08.t008",
-          "surface": "דּוֹדִ֔י",
+          "surface": "דּוֹדִי",
           "lemma": "דּוֹדִי",
           "root": "?",
           "pos": "NOUN",
@@ -1521,7 +1519,7 @@
             "pos": "NOUN"
           },
           "morph": "pos=NOUN",
-          "gloss": "",
+          "gloss": "love / beloved / caresses",
           "semantic": [
             "LOVE"
           ]
@@ -1541,8 +1539,8 @@
         },
         {
           "id": "song-of-songs.05.08.t010",
-          "surface": "תַּגִּ֣ידוּ",
-          "lemma": "תַּגִּידוּ",
+          "surface": "תַּגִּידוּ",
+          "lemma": "תַּגִּידוּ",
           "root": "?",
           "pos": "VERB",
           "features": {
@@ -1554,7 +1552,7 @@
         },
         {
           "id": "song-of-songs.05.08.t011",
-          "surface": "ל֔וֹ",
+          "surface": "לוֹ",
           "lemma": "לוֹ",
           "root": "?",
           "pos": "NOUN",
@@ -1562,13 +1560,13 @@
             "pos": "NOUN"
           },
           "morph": "pos=NOUN",
-          "gloss": "",
+          "gloss": "for himself",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.08.t012",
-          "surface": "שֶׁחוֹלַ֥ת",
-          "lemma": "שֶׁחוֹלַת",
+          "surface": "שֶׁחוֹלַת",
+          "lemma": "שֶׁחוֹלַת",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1580,7 +1578,7 @@
         },
         {
           "id": "song-of-songs.05.08.t013",
-          "surface": "אַהֲבָ֖ה",
+          "surface": "אַהֲבָה",
           "lemma": "אַהֲבָה",
           "root": "?",
           "pos": "VERB",
@@ -1588,7 +1586,7 @@
             "pos": "VERB"
           },
           "morph": "pos=VERB",
-          "gloss": "",
+          "gloss": "love",
           "semantic": []
         },
         {
@@ -1605,15 +1603,15 @@
           "semantic": []
         }
       ],
-      "ref": "5:8"
+      "semantic_summary": [
+        "LOVE"
+      ]
     },
     {
+      "ref": "5:9",
       "he": "מַה־דּוֹדֵ֣ךְ מִדּ֔וֹד הַיָּפָ֖ה בַּנָּשִׁ֑ים מַה־דּוֹדֵ֣ךְ מִדּ֔וֹד שֶׁכָּ֖כָה הִשְׁבַּעְתָּֽנוּ׃",
       "en": "What is your beloved more than another beloved, O fairest among women? What is your beloved more than another beloved, that you adjure us so?",
       "tr": "mah-dwōdē֣kə mid֔wōd hayāpā֖h banāši֑ym mah-dwōdē֣kə mid֔wōd šekā֖kāh hišəbaʿətānw.",
-      "semantic_summary": [
-        "LOVE"
-      ],
       "tokens": [
         {
           "id": "song-of-songs.05.09.t001",
@@ -1630,7 +1628,7 @@
         },
         {
           "id": "song-of-songs.05.09.t002",
-          "surface": "דּוֹדֵ֣ךְ",
+          "surface": "דּוֹדֵךְ",
           "lemma": "דּוֹדֵךְ",
           "root": "דוד",
           "pos": "NOUN",
@@ -1645,7 +1643,7 @@
         },
         {
           "id": "song-of-songs.05.09.t003",
-          "surface": "מִדּ֔וֹד",
+          "surface": "מִדּוֹד",
           "lemma": "דּוֹד",
           "root": "דוד",
           "pos": "NOUN",
@@ -1654,15 +1652,15 @@
             "prep": "מִן"
           },
           "morph": "pos=NOUN;prep=מִן",
-          "gloss": "",
+          "gloss": "love / beloved / caresses",
           "semantic": [
             "LOVE"
           ]
         },
         {
           "id": "song-of-songs.05.09.t004",
-          "surface": "הַיָּפָ֖ה",
-          "lemma": "ַיָּפָה",
+          "surface": "הַיָּפָה",
+          "lemma": "יָּפָה",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1670,13 +1668,13 @@
             "definite": "art"
           },
           "morph": "pos=NOUN;definite=art",
-          "gloss": "",
+          "gloss": "beautiful",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.09.t005",
-          "surface": "בַּנָּשִׁ֑ים",
-          "lemma": "בַּנָּשִׁים",
+          "surface": "בַּנָּשִׁים",
+          "lemma": "בַּנָּשִׁים",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1684,7 +1682,7 @@
             "prep": "בְּ"
           },
           "morph": "pos=NOUN;prep=בְּ",
-          "gloss": "",
+          "gloss": "woman",
           "semantic": []
         },
         {
@@ -1702,7 +1700,7 @@
         },
         {
           "id": "song-of-songs.05.09.t007",
-          "surface": "דּוֹדֵ֣ךְ",
+          "surface": "דּוֹדֵךְ",
           "lemma": "דּוֹדֵךְ",
           "root": "דוד",
           "pos": "NOUN",
@@ -1717,7 +1715,7 @@
         },
         {
           "id": "song-of-songs.05.09.t008",
-          "surface": "מִדּ֔וֹד",
+          "surface": "מִדּוֹד",
           "lemma": "דּוֹד",
           "root": "דוד",
           "pos": "NOUN",
@@ -1726,15 +1724,15 @@
             "prep": "מִן"
           },
           "morph": "pos=NOUN;prep=מִן",
-          "gloss": "",
+          "gloss": "love / beloved / caresses",
           "semantic": [
             "LOVE"
           ]
         },
         {
           "id": "song-of-songs.05.09.t009",
-          "surface": "שֶׁכָּ֖כָה",
-          "lemma": "שֶׁכָּכָה",
+          "surface": "שֶׁכָּכָה",
+          "lemma": "שֶׁכָּכָה",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1746,8 +1744,8 @@
         },
         {
           "id": "song-of-songs.05.09.t010",
-          "surface": "הִשְׁבַּעְתָּֽנוּ",
-          "lemma": "הִשְׁבַּעְתָּנוּ",
+          "surface": "הִשְׁבַּעְתָּֽנוּ",
+          "lemma": "הִשְׁבַּעְתָּנוּ",
           "root": "?",
           "pos": "VERB",
           "features": {
@@ -1758,20 +1756,19 @@
           "semantic": []
         }
       ],
-      "ref": "5:9"
+      "semantic_summary": [
+        "LOVE"
+      ]
     },
     {
+      "ref": "5:10",
       "he": "דּוֹדִ֥י צַח֙ וְאָד֔וֹם דָּג֖וּל מֵרְבָבָֽה׃",
       "en": "My beloved is radiant and ruddy, distinguished among ten thousand.",
       "tr": "dwōdi֥y ṣaḥ֙ wəʾād֔wōm dāg֖wl mērəbābāh.",
-      "semantic_summary": [
-        "LOVE",
-        "PRAISE"
-      ],
       "tokens": [
         {
           "id": "song-of-songs.05.10.t001",
-          "surface": "דּוֹדִ֥י",
+          "surface": "דּוֹדִי",
           "lemma": "דּוֹדִי",
           "root": "?",
           "pos": "NOUN",
@@ -1779,14 +1776,14 @@
             "pos": "NOUN"
           },
           "morph": "pos=NOUN",
-          "gloss": "",
+          "gloss": "love / beloved / caresses",
           "semantic": [
             "LOVE"
           ]
         },
         {
           "id": "song-of-songs.05.10.t002",
-          "surface": "צַח֙",
+          "surface": "צַח",
           "lemma": "צַח",
           "root": "צחח",
           "pos": "NOUN",
@@ -1801,8 +1798,8 @@
         },
         {
           "id": "song-of-songs.05.10.t003",
-          "surface": "וְאָד֔וֹם",
-          "lemma": "ְאָדוֹם",
+          "surface": "וְאָדוֹם",
+          "lemma": "אָדוֹם",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1815,8 +1812,8 @@
         },
         {
           "id": "song-of-songs.05.10.t004",
-          "surface": "דָּג֖וּל",
-          "lemma": "דָּגוּל",
+          "surface": "דָּגוּל",
+          "lemma": "דָּגוּל",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1840,17 +1837,20 @@
           "semantic": []
         }
       ],
-      "ref": "5:10"
+      "semantic_summary": [
+        "LOVE",
+        "PRAISE"
+      ]
     },
     {
+      "ref": "5:11",
       "he": "רֹאשׁ֖וֹ כֶּ֣תֶם פָּ֑ז קְוּצּוֹתָיו֙ תַּלְתַּלִּ֔ים שְׁחֹר֖וֹת כָּעוֹרֵֽב׃",
       "en": "His head is finest gold; his locks are wavy, black as a raven.",
       "tr": "rōʾš֖wō ke֣tem pā֑z qəwṣwōtāyw֙ talətali֔ym šəḥōr֖wōt kāʿwōrēb.",
-      "semantic_summary": [],
       "tokens": [
         {
           "id": "song-of-songs.05.11.t001",
-          "surface": "רֹאשׁ֖וֹ",
+          "surface": "רֹאשׁוֹ",
           "lemma": "רֹאשׁוֹ",
           "root": "ראשׁ",
           "pos": "NOUN",
@@ -1863,8 +1863,8 @@
         },
         {
           "id": "song-of-songs.05.11.t002",
-          "surface": "כֶּ֣תֶם",
-          "lemma": "כֶּתֶם",
+          "surface": "כֶּתֶם",
+          "lemma": "כֶּתֶם",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1877,8 +1877,8 @@
         },
         {
           "id": "song-of-songs.05.11.t003",
-          "surface": "פָּ֑ז",
-          "lemma": "פָּז",
+          "surface": "פָּז",
+          "lemma": "פָּז",
           "root": "פזז",
           "pos": "NOUN",
           "features": {
@@ -1890,7 +1890,7 @@
         },
         {
           "id": "song-of-songs.05.11.t004",
-          "surface": "קְוּצּוֹתָיו֙",
+          "surface": "קְוּצּוֹתָיו",
           "lemma": "קְוּצּוֹתָיו",
           "root": "?",
           "pos": "NOUN",
@@ -1903,8 +1903,8 @@
         },
         {
           "id": "song-of-songs.05.11.t005",
-          "surface": "תַּלְתַּלִּ֔ים",
-          "lemma": "תַּלְתַּלִּים",
+          "surface": "תַּלְתַּלִּים",
+          "lemma": "תַּלְתַּלִּים",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1916,8 +1916,8 @@
         },
         {
           "id": "song-of-songs.05.11.t006",
-          "surface": "שְׁחֹר֖וֹת",
-          "lemma": "שְׁחֹרוֹת",
+          "surface": "שְׁחֹרוֹת",
+          "lemma": "שְׁחֹרוֹת",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1929,8 +1929,8 @@
         },
         {
           "id": "song-of-songs.05.11.t007",
-          "surface": "כָּעוֹרֵֽב",
-          "lemma": "כָּעוֹרֵב",
+          "surface": "כָּעוֹרֵֽב",
+          "lemma": "כָּעוֹרֵב",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1942,17 +1942,17 @@
           "semantic": []
         }
       ],
-      "ref": "5:11"
+      "semantic_summary": []
     },
     {
+      "ref": "5:12",
       "he": "עֵינָ֕יו כְּיוֹנִ֖ים עַל־אֲפִ֣יקֵי מָ֑יִם רֹֽחֲצוֹת֙ בֶּֽחָלָ֔ב יֹשְׁב֖וֹת עַל־מִלֵּֽאת׃",
       "en": "His eyes are like doves by streams of water, washed with milk, sitting in fullness.",
       "tr": "ʿēynā֕yw kəywōni֖ym ʿal-ʾăpi֣yqēy mā֑yim rōḥăṣwōt֙ beḥālā֔b yōšəb֖wōt ʿal-milēʾt.",
-      "semantic_summary": [],
       "tokens": [
         {
           "id": "song-of-songs.05.12.t001",
-          "surface": "עֵינָ֕יו",
+          "surface": "עֵינָיו",
           "lemma": "עֵינָיו",
           "root": "?",
           "pos": "NOUN",
@@ -1965,8 +1965,8 @@
         },
         {
           "id": "song-of-songs.05.12.t002",
-          "surface": "כְּיוֹנִ֖ים",
-          "lemma": "כְּיוֹנִים",
+          "surface": "כְּיוֹנִים",
+          "lemma": "כְּיוֹנִים",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -1987,12 +1987,12 @@
             "pos": "PREP"
           },
           "morph": "pos=PREP",
-          "gloss": "",
+          "gloss": "on/upon",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.12.t004",
-          "surface": "אֲפִ֣יקֵי",
+          "surface": "אֲפִיקֵי",
           "lemma": "אֲפִיקֵי",
           "root": "?",
           "pos": "VERB",
@@ -2005,7 +2005,7 @@
         },
         {
           "id": "song-of-songs.05.12.t005",
-          "surface": "מָ֑יִם",
+          "surface": "מָיִם",
           "lemma": "מָיִם",
           "root": "?",
           "pos": "NOUN",
@@ -2018,7 +2018,7 @@
         },
         {
           "id": "song-of-songs.05.12.t006",
-          "surface": "רֹֽחֲצוֹת֙",
+          "surface": "רֹֽחֲצוֹת",
           "lemma": "רֹחֲצוֹת",
           "root": "?",
           "pos": "NOUN",
@@ -2031,8 +2031,8 @@
         },
         {
           "id": "song-of-songs.05.12.t007",
-          "surface": "בֶּֽחָלָ֔ב",
-          "lemma": "בֶּחָלָב",
+          "surface": "בֶּֽחָלָב",
+          "lemma": "בֶּחָלָב",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2045,8 +2045,8 @@
         },
         {
           "id": "song-of-songs.05.12.t008",
-          "surface": "יֹשְׁב֖וֹת",
-          "lemma": "יֹשְׁבוֹת",
+          "surface": "יֹשְׁבוֹת",
+          "lemma": "יֹשְׁבוֹת",
           "root": "?",
           "pos": "VERB",
           "features": {
@@ -2066,13 +2066,13 @@
             "pos": "PREP"
           },
           "morph": "pos=PREP",
-          "gloss": "",
+          "gloss": "on/upon",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.12.t010",
-          "surface": "מִלֵּֽאת",
-          "lemma": "לֵּאת",
+          "surface": "מִלֵּֽאת",
+          "lemma": "לֵּאת",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2084,17 +2084,17 @@
           "semantic": []
         }
       ],
-      "ref": "5:12"
+      "semantic_summary": []
     },
     {
+      "ref": "5:13",
       "he": "לְחָיָו֙ כַּעֲרוּגַ֣ת הַבֹּ֔שֶׂם מִגְדְּל֖וֹת מֶרְקָחִ֑ים שִׂפְתוֹתָיו֙ שֽׁוֹשַׁנִּ֔ים נֹטְפ֖וֹת מ֥וֹר עֹבֵֽר׃",
       "en": "His cheeks are like beds of spice, towers of perfumes; his lips are lilies, dripping flowing myrrh.",
       "tr": "ləḥāyāw֙ kaʿărwga֣t habō֔šem migədəl֖wōt merəqāḥi֑ym šipətwōtāyw֙ šwōšani֔ym nōṭəp֖wōt m֥wōr ʿōbēr.",
-      "semantic_summary": [],
       "tokens": [
         {
           "id": "song-of-songs.05.13.t001",
-          "surface": "לְחָיָו֙",
+          "surface": "לְחָיָו",
           "lemma": "חָיָו",
           "root": "?",
           "pos": "NOUN",
@@ -2108,8 +2108,8 @@
         },
         {
           "id": "song-of-songs.05.13.t002",
-          "surface": "כַּעֲרוּגַ֣ת",
-          "lemma": "כַּעֲרוּגַת",
+          "surface": "כַּעֲרוּגַת",
+          "lemma": "כַּעֲרוּגַת",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2122,8 +2122,8 @@
         },
         {
           "id": "song-of-songs.05.13.t003",
-          "surface": "הַבֹּ֔שֶׂם",
-          "lemma": "ַבֹּשֶׂם",
+          "surface": "הַבֹּשֶׂם",
+          "lemma": "בֹּשֶׂם",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2136,8 +2136,8 @@
         },
         {
           "id": "song-of-songs.05.13.t004",
-          "surface": "מִגְדְּל֖וֹת",
-          "lemma": "גְדְּלוֹת",
+          "surface": "מִגְדְּלוֹת",
+          "lemma": "גְדְּלוֹת",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2150,7 +2150,7 @@
         },
         {
           "id": "song-of-songs.05.13.t005",
-          "surface": "מֶרְקָחִ֑ים",
+          "surface": "מֶרְקָחִים",
           "lemma": "מֶרְקָחִים",
           "root": "?",
           "pos": "NOUN",
@@ -2163,8 +2163,8 @@
         },
         {
           "id": "song-of-songs.05.13.t006",
-          "surface": "שִׂפְתוֹתָיו֙",
-          "lemma": "שִׂפְתוֹתָיו",
+          "surface": "שִׂפְתוֹתָיו",
+          "lemma": "שִׂפְתוֹתָיו",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2176,8 +2176,8 @@
         },
         {
           "id": "song-of-songs.05.13.t007",
-          "surface": "שֽׁוֹשַׁנִּ֔ים",
-          "lemma": "שׁוֹשַׁנִּים",
+          "surface": "שֽׁוֹשַׁנִּים",
+          "lemma": "שׁוֹשַׁנִּים",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2189,7 +2189,7 @@
         },
         {
           "id": "song-of-songs.05.13.t008",
-          "surface": "נֹטְפ֖וֹת",
+          "surface": "נֹטְפוֹת",
           "lemma": "נֹטְפוֹת",
           "root": "?",
           "pos": "VERB",
@@ -2202,7 +2202,7 @@
         },
         {
           "id": "song-of-songs.05.13.t009",
-          "surface": "מ֥וֹר",
+          "surface": "מוֹר",
           "lemma": "מוֹר",
           "root": "?",
           "pos": "NOUN",
@@ -2210,7 +2210,7 @@
             "pos": "NOUN"
           },
           "morph": "pos=NOUN",
-          "gloss": "",
+          "gloss": "myrrh",
           "semantic": []
         },
         {
@@ -2227,20 +2227,17 @@
           "semantic": []
         }
       ],
-      "ref": "5:13"
+      "semantic_summary": []
     },
     {
+      "ref": "5:14",
       "he": "יָדָיו֙ גְּלִילֵ֣י זָהָ֔ב מְמֻלָּאִ֖ים בַּתַּרְשִׁ֑ישׁ מֵעָיו֙ עֶ֣שֶׁת שֵׁ֔ן מְעֻלֶּ֖פֶת סַפִּירִֽים׃",
       "en": "His hands are rods of gold set with beryl; his body is ivory work overlaid with sapphires.",
       "tr": "yādāyw֙ gəliylē֣y zāhā֔b məmulāʾi֖ym batarəši֑yš mēʿāyw֙ ʿe֣šet šē֔n məʿule֖pet sapiyriym.",
-      "semantic_summary": [
-        "BODY",
-        "SYMBOL"
-      ],
       "tokens": [
         {
           "id": "song-of-songs.05.14.t001",
-          "surface": "יָדָיו֙",
+          "surface": "יָדָיו",
           "lemma": "יָדָיו",
           "root": "ידד",
           "pos": "VERB",
@@ -2255,8 +2252,8 @@
         },
         {
           "id": "song-of-songs.05.14.t002",
-          "surface": "גְּלִילֵ֣י",
-          "lemma": "גְּלִילֵי",
+          "surface": "גְּלִילֵי",
+          "lemma": "גְּלִילֵי",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2268,7 +2265,7 @@
         },
         {
           "id": "song-of-songs.05.14.t003",
-          "surface": "זָהָ֔ב",
+          "surface": "זָהָב",
           "lemma": "זָהָב",
           "root": "זהב",
           "pos": "NOUN",
@@ -2276,15 +2273,15 @@
             "pos": "NOUN"
           },
           "morph": "pos=NOUN",
-          "gloss": "",
+          "gloss": "gold",
           "semantic": [
             "SYMBOL"
           ]
         },
         {
           "id": "song-of-songs.05.14.t004",
-          "surface": "מְמֻלָּאִ֖ים",
-          "lemma": "מְמֻלָּאִים",
+          "surface": "מְמֻלָּאִים",
+          "lemma": "מְמֻלָּאִים",
           "root": "?",
           "pos": "PTCP",
           "features": {
@@ -2296,8 +2293,8 @@
         },
         {
           "id": "song-of-songs.05.14.t005",
-          "surface": "בַּתַּרְשִׁ֑ישׁ",
-          "lemma": "בַּתַּרְשִׁישׁ",
+          "surface": "בַּתַּרְשִׁישׁ",
+          "lemma": "בַּתַּרְשִׁישׁ",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2310,7 +2307,7 @@
         },
         {
           "id": "song-of-songs.05.14.t006",
-          "surface": "מֵעָיו֙",
+          "surface": "מֵעָיו",
           "lemma": "מֵעָיו",
           "root": "?",
           "pos": "NOUN",
@@ -2323,8 +2320,8 @@
         },
         {
           "id": "song-of-songs.05.14.t007",
-          "surface": "עֶ֣שֶׁת",
-          "lemma": "עֶשֶׁת",
+          "surface": "עֶשֶׁת",
+          "lemma": "עֶשֶׁת",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2336,8 +2333,8 @@
         },
         {
           "id": "song-of-songs.05.14.t008",
-          "surface": "שֵׁ֔ן",
-          "lemma": "שֵׁן",
+          "surface": "שֵׁן",
+          "lemma": "שֵׁן",
           "root": "שׁנן",
           "pos": "NOUN",
           "features": {
@@ -2349,8 +2346,8 @@
         },
         {
           "id": "song-of-songs.05.14.t009",
-          "surface": "מְעֻלֶּ֖פֶת",
-          "lemma": "מְעֻלֶּפֶת",
+          "surface": "מְעֻלֶּפֶת",
+          "lemma": "מְעֻלֶּפֶת",
           "root": "?",
           "pos": "PTCP",
           "features": {
@@ -2362,8 +2359,8 @@
         },
         {
           "id": "song-of-songs.05.14.t010",
-          "surface": "סַפִּירִֽים",
-          "lemma": "סַפִּירִים",
+          "surface": "סַפִּירִֽים",
+          "lemma": "סַפִּירִים",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2374,17 +2371,20 @@
           "semantic": []
         }
       ],
-      "ref": "5:14"
+      "semantic_summary": [
+        "BODY",
+        "SYMBOL"
+      ]
     },
     {
+      "ref": "5:15",
       "he": "שׁוֹקָיו֙ עַמּ֣וּדֵי שֵׁ֔שׁ מְיֻסָּדִ֖ים עַל־אַדְנֵי־פָ֑ז מַרְאֵ֨הוּ֙ כַּלְּבָנ֔וֹן בָּח֖וּר כָּאֲרָזִֽים׃",
       "en": "His legs are pillars of marble set on bases of fine gold; his appearance is like Lebanon, choice as the cedars.",
       "tr": "šwōqāyw֙ ʿam֣wdēy šē֔š məyusādi֖ym ʿal-ʾadənēy-pā֑z marəʾē֨hw֙ kaləbān֔wōn bāḥ֖wr kāʾărāziym.",
-      "semantic_summary": [],
       "tokens": [
         {
           "id": "song-of-songs.05.15.t001",
-          "surface": "שׁוֹקָיו֙",
+          "surface": "שׁוֹקָיו",
           "lemma": "שׁוֹקָיו",
           "root": "שׁוק",
           "pos": "NOUN",
@@ -2397,7 +2397,7 @@
         },
         {
           "id": "song-of-songs.05.15.t002",
-          "surface": "עַמּ֣וּדֵי",
+          "surface": "עַמּוּדֵי",
           "lemma": "עַמּוּדֵי",
           "root": "?",
           "pos": "NOUN",
@@ -2410,8 +2410,8 @@
         },
         {
           "id": "song-of-songs.05.15.t003",
-          "surface": "שֵׁ֔שׁ",
-          "lemma": "שֵׁשׁ",
+          "surface": "שֵׁשׁ",
+          "lemma": "שֵׁשׁ",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2423,8 +2423,8 @@
         },
         {
           "id": "song-of-songs.05.15.t004",
-          "surface": "מְיֻסָּדִ֖ים",
-          "lemma": "מְיֻסָּדִים",
+          "surface": "מְיֻסָּדִים",
+          "lemma": "מְיֻסָּדִים",
           "root": "?",
           "pos": "PTCP",
           "features": {
@@ -2444,7 +2444,7 @@
             "pos": "PREP"
           },
           "morph": "pos=PREP",
-          "gloss": "",
+          "gloss": "on/upon",
           "semantic": []
         },
         {
@@ -2462,7 +2462,7 @@
         },
         {
           "id": "song-of-songs.05.15.t007",
-          "surface": "פָ֑ז",
+          "surface": "פָז",
           "lemma": "פָז",
           "root": "?",
           "pos": "NOUN",
@@ -2475,7 +2475,7 @@
         },
         {
           "id": "song-of-songs.05.15.t008",
-          "surface": "מַרְאֵ֨הוּ֙",
+          "surface": "מַרְאֵהוּ",
           "lemma": "מַרְאֵהוּ",
           "root": "?",
           "pos": "VERB",
@@ -2488,8 +2488,8 @@
         },
         {
           "id": "song-of-songs.05.15.t009",
-          "surface": "כַּלְּבָנ֔וֹן",
-          "lemma": "כַּלְּבָנוֹן",
+          "surface": "כַּלְּבָנוֹן",
+          "lemma": "כַּלְּבָנוֹן",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2502,8 +2502,8 @@
         },
         {
           "id": "song-of-songs.05.15.t010",
-          "surface": "בָּח֖וּר",
-          "lemma": "בָּחוּר",
+          "surface": "בָּחוּר",
+          "lemma": "בָּחוּר",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2516,8 +2516,8 @@
         },
         {
           "id": "song-of-songs.05.15.t011",
-          "surface": "כָּאֲרָזִֽים",
-          "lemma": "כָּאֲרָזִים",
+          "surface": "כָּאֲרָזִֽים",
+          "lemma": "כָּאֲרָזִים",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2529,17 +2529,17 @@
           "semantic": []
         }
       ],
-      "ref": "5:15"
+      "semantic_summary": []
     },
     {
+      "ref": "5:16",
       "he": "חִכּוֹ֙ מַֽמְתַקִּ֔ים וְכֻלּ֖וֹ מַחֲּמַדִּ֑ים זֶ֤ה דוֹדִי֙ וְזֶ֣ה רֵעִ֔י בְּנ֖וֹת יְרוּשָׁלִָֽם׃",
       "en": "His mouth is sweetness, and he is altogether desirable. This is my beloved and this is my friend, O daughters of Jerusalem.",
       "tr": "ḥikwō֙ mamətaqi֔ym wəkul֖wō maḥămadi֑ym ze֤h dwōdiy֙ wəze֣h rēʿi֔y bən֖wōt yərwšālāim.",
-      "semantic_summary": [],
       "tokens": [
         {
           "id": "song-of-songs.05.16.t001",
-          "surface": "חִכּוֹ֙",
+          "surface": "חִכּוֹ",
           "lemma": "חִכּוֹ",
           "root": "?",
           "pos": "NOUN",
@@ -2552,8 +2552,8 @@
         },
         {
           "id": "song-of-songs.05.16.t002",
-          "surface": "מַֽמְתַקִּ֔ים",
-          "lemma": "מַמְתַקִּים",
+          "surface": "מַֽמְתַקִּים",
+          "lemma": "מַמְתַקִּים",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2565,8 +2565,8 @@
         },
         {
           "id": "song-of-songs.05.16.t003",
-          "surface": "וְכֻלּ֖וֹ",
-          "lemma": "ְכֻלּוֹ",
+          "surface": "וְכֻלּוֹ",
+          "lemma": "כֻלּוֹ",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2579,8 +2579,8 @@
         },
         {
           "id": "song-of-songs.05.16.t004",
-          "surface": "מַחֲּמַדִּ֑ים",
-          "lemma": "מַחֲּמַדִּים",
+          "surface": "מַחֲּמַדִּים",
+          "lemma": "מַחֲּמַדִּים",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2592,7 +2592,7 @@
         },
         {
           "id": "song-of-songs.05.16.t005",
-          "surface": "זֶ֤ה",
+          "surface": "זֶה",
           "lemma": "זֶה",
           "root": "—",
           "pos": "PRON",
@@ -2606,7 +2606,7 @@
         },
         {
           "id": "song-of-songs.05.16.t006",
-          "surface": "דוֹדִי֙",
+          "surface": "דוֹדִי",
           "lemma": "דוֹדִי",
           "root": "?",
           "pos": "NOUN",
@@ -2614,13 +2614,13 @@
             "pos": "NOUN"
           },
           "morph": "pos=NOUN",
-          "gloss": "",
+          "gloss": "love / beloved / caresses",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.16.t007",
-          "surface": "וְזֶ֣ה",
-          "lemma": "ְזֶה",
+          "surface": "וְזֶה",
+          "lemma": "זֶה",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2633,7 +2633,7 @@
         },
         {
           "id": "song-of-songs.05.16.t008",
-          "surface": "רֵעִ֔י",
+          "surface": "רֵעִי",
           "lemma": "רֵעִי",
           "root": "?",
           "pos": "NOUN",
@@ -2646,8 +2646,8 @@
         },
         {
           "id": "song-of-songs.05.16.t009",
-          "surface": "בְּנ֖וֹת",
-          "lemma": "בְּנוֹת",
+          "surface": "בְּנוֹת",
+          "lemma": "בְּנוֹת",
           "root": "?",
           "pos": "NOUN",
           "features": {
@@ -2655,24 +2655,24 @@
             "prep": "בְּ"
           },
           "morph": "pos=NOUN;prep=בְּ",
-          "gloss": "",
+          "gloss": "daughters of",
           "semantic": []
         },
         {
           "id": "song-of-songs.05.16.t010",
-          "surface": "יְרוּשָׁלִָֽם",
-          "lemma": "יְרוּשָׁלִָם",
+          "surface": "יְרוּשָׁלִָֽם",
+          "lemma": "יְרוּשָׁלִָם",
           "root": "?",
           "pos": "PROPN",
           "features": {
             "pos": "PROPN"
           },
           "morph": "pos=PROPN",
-          "gloss": "",
+          "gloss": "Jerusalem",
           "semantic": []
         }
       ],
-      "ref": "5:16"
+      "semantic_summary": []
     }
   ],
   "lexicon": [
@@ -2680,273 +2680,313 @@
       "lemma": "דּוֹדִי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "love / beloved / caresses",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "עִם",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "with",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "דוֹדִי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "my beloved",
+      "notes": "Common forms: pos=NOUN;prep=לְ; pos=NOUN"
     },
     {
       "lemma": "מוֹר",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "myrrh",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "אֲחֹתִי",
       "root": "?",
       "pos": "VERB",
-      "gloss": ""
+      "gloss": "my sister",
+      "notes": "Common forms: pos=VERB"
     },
     {
       "lemma": "עֹבֵר",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "passed / has passed",
+      "notes": "Common forms: pos=NOUN"
     },
     {
-      "lemma": "ְלֹא",
+      "lemma": "לֹא",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "not",
+      "notes": "Common forms: pos=NOUN;conj=ו"
     },
     {
-      "lemma": "בְּנוֹת",
+      "lemma": "בְּנוֹת",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "daughters of",
+      "notes": "Common forms: pos=NOUN;prep=בְּ"
     },
     {
-      "lemma": "יְרוּשָׁלִָם",
+      "lemma": "יְרוּשָׁלִָם",
       "root": "?",
       "pos": "PROPN",
-      "gloss": ""
+      "gloss": "Jerusalem",
+      "notes": "Common forms: pos=PROPN"
     },
     {
       "lemma": "דּוֹדֵךְ",
       "root": "דוד",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "your beloved",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "דּוֹד",
       "root": "דוד",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "love / beloved / caresses",
+      "notes": "Common forms: pos=NOUN;prep=מִן"
     },
     {
-      "lemma": "בָּאתִי",
+      "lemma": "בָּאתִי",
       "root": "בוא",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "I came",
+      "notes": "Common forms: pos=NOUN;prep=בְּ"
     },
     {
-      "lemma": "גַנִּי",
+      "lemma": "גַנִּי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "my garden",
+      "notes": "Common forms: pos=NOUN;prep=לְ"
     },
     {
-      "lemma": "כַלָּה",
+      "lemma": "כַלָּה",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "bride",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "אָרִיתִי",
       "root": "?",
       "pos": "VERB",
-      "gloss": ""
+      "gloss": "I gathered / I plucked",
+      "notes": "Common forms: pos=VERB"
     },
     {
       "lemma": "מוֹרִי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "my myrrh",
+      "notes": "Common forms: pos=NOUN"
     },
     {
-      "lemma": "בְּשָׂמִי",
+      "lemma": "בְּשָׂמִי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "my spice / perfume",
+      "notes": "Common forms: pos=NOUN;prep=בְּ"
     },
     {
-      "lemma": "אָכַלְתִּי",
+      "lemma": "אָכַלְתִּי",
       "root": "?",
       "pos": "VERB",
-      "gloss": ""
+      "gloss": "I ate",
+      "notes": "Common forms: pos=VERB"
     },
     {
       "lemma": "יַעְרִי",
       "root": "?",
       "pos": "VERB",
-      "gloss": ""
+      "gloss": "my honeycomb",
+      "notes": "Common forms: pos=VERB"
     },
     {
-      "lemma": "דִּבְשִׁי",
+      "lemma": "דִּבְשִׁי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "my honey",
+      "notes": "Common forms: pos=NOUN"
     },
     {
-      "lemma": "שָׁתִיתִי",
+      "lemma": "שָׁתִיתִי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "I drank",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "יֵינִי",
       "root": "?",
       "pos": "VERB",
-      "gloss": ""
+      "gloss": "my wine",
+      "notes": "Common forms: pos=VERB"
     },
     {
       "lemma": "חֲלָבִי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "my milk",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "אִכְלוּ",
       "root": "?",
       "pos": "VERB",
-      "gloss": ""
+      "gloss": "eat! (pl.)",
+      "notes": "Common forms: pos=VERB"
     },
     {
       "lemma": "רֵעִים",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "friends",
+      "notes": "Common forms: pos=NOUN"
     },
     {
-      "lemma": "שְׁתוּ",
+      "lemma": "שְׁתוּ",
       "root": "?",
       "pos": "VERB",
-      "gloss": ""
+      "gloss": "drink! (pl.)",
+      "notes": "Common forms: pos=VERB"
     },
     {
-      "lemma": "ְשִׁכְרוּ",
+      "lemma": "שִׁכְרוּ",
       "root": "?",
       "pos": "VERB",
-      "gloss": ""
+      "gloss": "be drunk! (pl.)",
+      "notes": "Common forms: pos=VERB;conj=ו"
     },
     {
       "lemma": "דּוֹדִים",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "loves / love-making",
+      "notes": "Common forms: pos=NOUN"
     },
     {
-      "lemma": "יְשֵׁנָה",
+      "lemma": "יְשֵׁנָה",
       "root": "?",
       "pos": "VERB",
-      "gloss": ""
+      "gloss": "sleeping (f.)",
+      "notes": "Common forms: pos=VERB"
     },
     {
-      "lemma": "ְלִבִּי",
+      "lemma": "לִבִּי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "my heart",
+      "notes": "Common forms: pos=NOUN;conj=ו"
     },
     {
       "lemma": "עֵר",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "awake",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "קוֹל",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "voice / sound",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "דוֹפֵק",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "knocking",
+      "notes": "Common forms: pos=NOUN"
     },
     {
-      "lemma": "פִּתְחִי",
+      "lemma": "פִּתְחִי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "open! (f.sg.)",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "לִי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "to/for",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "רַעְיָתִי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "beloved / companion",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "יוֹנָתִי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "my dove",
+      "notes": "Common forms: pos=NOUN"
     },
     {
-      "lemma": "תַמָּתִי",
+      "lemma": "תַמָּתִי",
       "root": "?",
       "pos": "VERB",
-      "gloss": ""
+      "gloss": "my perfect one",
+      "notes": "Common forms: pos=VERB"
     },
     {
-      "lemma": "שֶׁרֹּאשִׁי",
+      "lemma": "שֶׁרֹּאשִׁי",
       "root": "?",
       "pos": "NOUN",
-      "gloss": ""
+      "gloss": "that my head",
+      "notes": "Common forms: pos=NOUN"
     },
     {
       "lemma": "נִמְלָא",
       "root": "?",
       "pos": "VERB",
-      "gloss": ""
+      "gloss": "is filled",
+      "notes": "Common forms: pos=VERB"
     }
   ],
   "grammar": [
     {
-      "topic": "1cs perfect narrative chain",
-      "example": "בָּאתִי … אָרִיתִי … אָכַלְתִּי … שָׁתִיתִי (5:1)",
-      "note": "A sequence of 1cs perfect verbs forms a stylized recounting of completed actions."
+      "id": "1cs-perfect-narrative-chain",
+      "title": "1cs perfect narrative chain",
+      "body": "A sequence of 1cs perfect verbs forms a stylized recounting of completed actions.\n\nExample: בָּאתִי … אָרִיתִי … אָכַלְתִּי … שָׁתִיתִי (5:1)"
     },
     {
-      "topic": "Imperatives + vocatives",
-      "example": "פִּתְחִי־לִי … אֲחֹתִי רַעְיָתִי … (5:2)",
-      "note": "Direct address stacks vocatives; imperative 2fs (‘open!’) drives the scene."
+      "id": "imperatives-vocatives",
+      "title": "Imperatives + vocatives",
+      "body": "Direct address stacks vocatives; imperative 2fs (‘open!’) drives the scene.\n\nExample: פִּתְחִי־לִי … אֲחֹתִי רַעְיָתִי … (5:2)"
     },
     {
-      "topic": "Rhetorical ‘how?’ question",
-      "example": "אֵיכָכָה אֶלְבָּשֶׁנָּה … אֵיכָכָה אֲטַנְּפֵם (5:3)",
-      "note": "אֵיכָכָה introduces rhetorical reluctance (‘how could I…?’)."
+      "id": "rhetorical-how-question",
+      "title": "Rhetorical ‘how?’ question",
+      "body": "אֵיכָכָה introduces rhetorical reluctance (‘how could I…?’).\n\nExample: אֵיכָכָה אֶלְבָּשֶׁנָּה … אֵיכָכָה אֲטַנְּפֵם (5:3)"
     },
     {
-      "topic": "Pronominal suffixes",
-      "example": "דוֹדִי / לִבִּי / נַפְשִׁי / יָדַי / אֶצְבְּעֹתַי",
-      "note": "Suffixes mark possession and participant tracking; they are pervasive in description."
+      "id": "pronominal-suffixes",
+      "title": "Pronominal suffixes",
+      "body": "Suffixes mark possession and participant tracking; they are pervasive in description.\n\nExample: דוֹדִי / לִבִּי / נַפְשִׁי / יָדַי / אֶצְבְּעֹתַי"
     },
     {
-      "topic": "Object marker אֶת",
-      "example": "אֶת־כֻּתָּנְתִּי; אֶת־רַגְלַי; אֶת־רְדִידִי",
-      "note": "אֶת marks definite direct objects; it is usually not translated."
+      "id": "object-marker",
+      "title": "Object marker אֶת",
+      "body": "אֶת marks definite direct objects; it is usually not translated.\n\nExample: אֶת־כֻּתָּנְתִּי; אֶת־רַגְלַי; אֶת־רְדִידִי"
     },
     {
-      "topic": "Participles as depiction",
-      "example": "דוֹפֵק; רֹחֲצוֹת; יֹשְׁבוֹת; נֹטְפוֹת",
-      "note": "Participles function adjectivally to depict ongoing action/qualities in the portrait."
+      "id": "participles-as-depiction",
+      "title": "Participles as depiction",
+      "body": "Participles function adjectivally to depict ongoing action/qualities in the portrait.\n\nExample: דוֹפֵק; רֹחֲצוֹת; יֹשְׁבוֹת; נֹטְפוֹת"
     }
   ],
   "exercises": [
@@ -2976,12 +3016,13 @@
     }
   ],
   "annotations": [],
-  "spec_version": "1.3",
+  "spec_version": "1.2",
+  "book_slug": "song-of-songs",
+  "title": "Song of Songs - Chapter 5",
+  "generated_at": "2026-02-28",
   "tagset": {
     "name": "ETCBC-like",
     "version": "1.0"
   },
-  "ref_system": "MT",
-  "generated_at": "2026-02-28",
-  "book_slug": "song-of-songs"
+  "ref_system": "MT"
 }
