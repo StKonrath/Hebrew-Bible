@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Bible Learning Site</title>
+  <link rel="stylesheet" href="./assets/styles.css" />
+</head>
+<body data-page="landing">
+  <header class="site-header">
+    <div class="wrap">
+      <h1 class="h1">Bible Learning Site</h1>
+      <p class="sub">Original text + annotated learning translation + vocab + grammar + exercises + audio (browser TTS). Add chapters by dropping a <span class="mono">data.json</span> into the chapter folder.</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="card">
+      <h2 class="h2">Books</h2>
+      <div id="books" class="list"></div>
+    </div>
+
+    <div class="footer">
+      <div class="muted small">
+        Tip: Host this folder on any static server (GitHub Pages, Netlify, Vercel static, nginx, etc.).
+      </div>
+    </div>
+  </main>
+
+  <script src="./bible_index.js"></script>
+  <script src="./assets/app.js"></script>
+</body>
+</html>

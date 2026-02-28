@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Chapter</title>
+  <link rel="stylesheet" href="../../../assets/styles.css" />
+</head>
+<body data-page="chapter" data-slug="song-of-songs" data-chapter="06">
+  <header class="site-header">
+    <div class="wrap">
+      <div id="topnav"></div>
+      <h1 class="h1" id="chapterTitle">Chapter</h1>
+      <p class="sub">Toggle Hebrew/Translation/Interlinear. Audio uses browser TTS; speed is adjustable.</p>
+      <div id="prevNext" style="margin-top:12px; display:flex; gap:10px; flex-wrap:wrap;"></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="controls" role="region" aria-label="Display controls">
+      <button class="pill active" id="toggleHeb">Hebrew</button>
+      <button class="pill active" id="toggleEng">Translation</button>
+      <button class="pill" id="toggleInterlinear">Interlinear</button>
+
+      <label class="small"><span class="tag">Audio</span> <span class="muted">Play uses browser TTS</span></label>
+      <label class="small">
+        Speed
+        <input id="ttsRate" type="range" min="0.6" max="1.2" value="0.90" step="0.05" />
+        <span id="ttsRateLabel" class="mono">0.90×</span>
+      </label>
+
+      <input id="search" type="search" placeholder="Search Hebrew / translation / transliteration" />
+      <a class="btn" href="./data.json" download>Download data.json</a>
+    </div>
+
+    <div class="grid">
+      <main class="card">
+        <h2 class="h2">Text</h2>
+        <div id="verses"></div>
+      </main>
+
+      <aside class="card">
+        <h2 class="h2">Help</h2>
+
+        <details open>
+          <summary>How to add the next chapter</summary>
+          <div class="muted" style="margin-top:10px;">
+            <ol>
+              <li>Create folder <span class="mono">/books/song-of-songs/07/</span></li>
+              <li>Copy this chapter’s <span class="mono">index.html</span> into it (or duplicate the folder)</li>
+              <li>Drop a new <span class="mono">data.json</span> into that folder</li>
+            </ol>
+            <div class="small muted">The renderer reads <span class="mono">./data.json</span> and builds everything automatically.</div>
+          </div>
+        </details>
+
+        <details open>
+          <summary>Token info</summary>
+          <div id="tokenInfo"></div>
+        </details>
+
+        <details>
+          <summary>Grammar notes</summary>
+          <div id="grammar"></div>
+        </details>
+
+        <details>
+          <summary>Vocabulary (key lemmas)</summary>
+          <div id="lexicon"></div>
+        </details>
+
+        <details>
+          <summary>Exercises (with answers)</summary>
+          <div id="exercises"></div>
+        </details>
+      </aside>
+    </div>
+
+    <div class="footer">
+      <span class="muted small">Interlinear is a scaffold. To show gloss + parsing per token, connect it to a morphology dataset.</span>
+    </div>
+  </main>
+
+  <script src="./data.js"></script>
+  <script src="../../../bible_index.js"></script>
+  <script src="../../../assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+window.BIBLE_INDEX = {
+  "generated_at": "2026-02-27",
+  "books": [
+    {
+      "name": "Song of Songs",
+      "slug": "song-of-songs",
+      "chapters": 8,
+      "abbr": "Song"
+    }
+  ]
+};
