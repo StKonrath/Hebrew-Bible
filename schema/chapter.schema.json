@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://example.invalid/hebrew-bible/chapter.schema.json",
-  "title": "Hebrew Bible Chapter (Spec v1.3)",
+  "title": "Hebrew Bible Chapter (Spec v1.4)",
   "type": "object",
   "additionalProperties": true,
   "required": [

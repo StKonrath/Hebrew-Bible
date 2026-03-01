@@ -2,104 +2,69 @@
 """
 backfill_required_fields.py
 
-Ensures all chapter `data.json` files meet Spec v1.3 *top-level* required fields.
-This is meant to upgrade older chapter files generated before Spec v1.3 was locked.
+Ensures all chapter data.json files meet Spec v1.4 top-level required fields.
 
 It will add (if missing):
-- spec_version: "1.3"
-- tagset: {name:"ETCBC-like", version:"1.0"}
-- ref_system: "MT"
-- generated_at: YYYY-MM-DD (today)
-- book, book_slug, chapter: inferred from folder path books/<slug>/<NNN>/
+- spec_version, tagset, ref_system, generated_at
+- book, book_slug, chapter: inferred from folder path
 - lexicon, grammar, exercises, annotations: []
-
-It does NOT change verse text or token morphology (beyond adding defaults).
 
 Usage:
   python3 tools/backfill_required_fields.py books/song-of-songs/03/data.json
   python3 tools/backfill_required_fields.py --all
 """
-import json, pathlib, sys, glob, re, datetime
+import sys, pathlib, datetime
+from utils import (
+    load_json, save_json, infer_book_chapter, title_case_slug,
+    all_chapter_jsons, SPEC_VERSION,
+)
 
-ROOT = pathlib.Path(__file__).resolve().parents[1]
-
-def load(p: pathlib.Path):
-    return json.loads(p.read_text(encoding="utf-8"))
-
-def save(p: pathlib.Path, obj):
-    p.write_text(json.dumps(obj, ensure_ascii=False, indent=2), encoding="utf-8")
-
-def infer_from_path(fp: pathlib.Path):
-    # expect .../books/<slug>/<chapter>/data.json
-    parts = fp.parts
-    try:
-        i = parts.index("books")
-        slug = parts[i+1]
-        ch = parts[i+2]
-        ch_num = int(ch)
-        return slug, ch_num
-    except Exception:
-        return None, None
-
-def title_case_slug(slug: str) -> str:
-    # Special-case a few
-    if slug == "song-of-songs": return "Song of Songs"
-    return " ".join([w.capitalize() for w in slug.split("-")])
-
-def patch(fp: pathlib.Path) -> bool:
-    data = load(fp)
+def patch(fp):
+    data = load_json(fp)
     changed = False
 
-    slug, ch_num = infer_from_path(fp)
-    if data.get("spec_version") is None:
-        data["spec_version"] = "1.3"
-        changed = True
-    if data.get("tagset") is None:
-        data["tagset"] = {"name":"ETCBC-like","version":"1.0"}
-        changed = True
-    if data.get("ref_system") is None:
-        data["ref_system"] = "MT"
-        changed = True
-    if data.get("generated_at") is None:
-        data["generated_at"] = str(datetime.date.today())
-        changed = True
+    slug, ch_num = infer_book_chapter(fp)
+
+    defaults = {
+        "spec_version": SPEC_VERSION,
+        "tagset": {"name": "ETCBC-like", "version": "1.0"},
+        "ref_system": "MT",
+        "generated_at": str(datetime.date.today()),
+    }
+    for k, v in defaults.items():
+        if data.get(k) is None:
+            data[k] = v
+            changed = True
 
     if slug and data.get("book_slug") is None:
         data["book_slug"] = slug
         changed = True
     if ch_num and data.get("chapter") is None:
-        data["chapter"] = int(ch_num)
+        data["chapter"] = ch_num
         changed = True
     if data.get("book") is None:
-        # if legacy book is object
         if isinstance(data.get("book"), dict) and data["book"].get("name"):
             data["book"] = data["book"]["name"]
-            changed = True
         elif slug:
             data["book"] = title_case_slug(slug)
-            changed = True
+        changed = True
 
-    for k in ["lexicon","grammar","exercises","annotations"]:
+    for k in ("lexicon", "grammar", "exercises", "annotations"):
         if data.get(k) is None:
             data[k] = []
             changed = True
 
-    # Ensure verses exist
     if data.get("verses") is None:
         data["verses"] = []
         changed = True
 
     if changed:
-        save(fp, data)
+        save_json(fp, data)
     return changed
 
 def main(argv):
     if len(argv) >= 2 and argv[1] == "--all":
-        files = glob.glob(str(ROOT / "books" / "*" / "*" / "data.json"))
-        n = 0
-        for f in sorted(files):
-            if patch(pathlib.Path(f)):
-                n += 1
+        n = sum(1 for f in all_chapter_jsons() if patch(f))
         print(f"OK: patched {n} files")
         return 0
 

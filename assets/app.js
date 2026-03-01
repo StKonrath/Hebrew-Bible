@@ -268,7 +268,7 @@ function verseRange(data){
 
 // --- Compatibility + normalization layer ---------------------------------
 // Goal: accept older / ad-hoc chapter JSON shapes (e.g. {book:{name,slug}, verses:[{n,...}]})
-// and normalize into Spec v1.2-ish shape expected by the renderer.
+// and normalize into the canonical shape expected by the renderer.
 function normalizeChapterData(raw){
   const data = raw && typeof raw === 'object' ? JSON.parse(JSON.stringify(raw)) : {};
 
@@ -405,7 +405,7 @@ function renderChapter(data) {
           <b>${esc(v.ref)}</b>
           <span class="tag">Text</span>
           <span class="spacer"></span>
-          <button class="btn small" onclick="speakVerse('${esc(v.ref)}')">Play</button>
+          <button class="btn small playBtn" data-ref="${esc(v.ref)}">Play</button>
         </div>
         <div class="he heBlock" dir="rtl" style="user-select:text;">${hebSpans}</div>
         <div class="en enBlock">${esc(v.en)}</div>
@@ -418,14 +418,19 @@ function renderChapter(data) {
     `;
   }).join('');
 
-  // Help panels
+  // Help panels (accept both {id,title,body} and legacy {topic,example,note})
   const g = document.getElementById('grammar');
-  if (g) g.innerHTML = (data.grammar||[]).map(n=>`
-    <div class="item" style="margin-bottom:10px;">
-      <div><b>${esc(n.title)}</b> <span class="tag">${esc(n.id)}</span></div>
-      <div class="muted small" style="margin-top:6px;">${esc(n.body)}</div>
-    </div>
-  `).join('');
+  if (g) g.innerHTML = (data.grammar||[]).map(n=>{
+    const title = n.title || n.topic || 'Note';
+    const id = n.id || '';
+    let body = n.body || n.note || '';
+    if (!body && n.example) body = n.example;
+    else if (body && n.example) body += '\nExample: ' + n.example;
+    return `<div class="item" style="margin-bottom:10px;">
+      <div><b>${esc(title)}</b> ${id ? `<span class="tag">${esc(id)}</span>` : ''}</div>
+      <div class="muted small" style="margin-top:6px; white-space:pre-line;">${esc(body)}</div>
+    </div>`;
+  }).join('');
 
   const l = document.getElementById('lexicon');
   if (l) l.innerHTML = (data.lexicon||[]).map(x=>`
@@ -452,6 +457,11 @@ function renderChapter(data) {
 
   // Token click handler
   wireTokenClicks();
+
+  // Play buttons
+  document.querySelectorAll('.playBtn').forEach(btn => {
+    btn.addEventListener('click', () => speakVerse(btn.dataset.ref));
+  });
 
   }catch(err){
     renderErrorBox(err);
@@ -518,7 +528,6 @@ function speakVerse(ref){
     alert('TTS not available in this browser/device.');
   }
 }
-window.speakVerse = speakVerse;
 
 async function renderChapterPage(slug, chapter) {
   // Load chapter data first (so we can normalize and recover missing book metadata)

@@ -1,39 +1,32 @@
 #!/usr/bin/env python3
-import argparse
-import json
-import pathlib
-import glob
+"""
+make_data_js.py — Generate data.js wrappers from data.json files.
 
-ROOT = pathlib.Path(__file__).resolve().parents[1]
-
-def build_js(json_path: pathlib.Path):
-    obj = json.loads(json_path.read_text(encoding="utf-8"))
-    out = json_path.with_name("data.js")
-    out.write_text(
-        "window.__chapterData = " +
-        json.dumps(obj, ensure_ascii=False, indent=2) +
-        ";\n",
-        encoding="utf-8"
-    )
-    print("Wrote", out)
+Usage:
+  python3 tools/make_data_js.py books/song-of-songs/02/data.json
+  python3 tools/make_data_js.py --all
+"""
+import argparse, pathlib
+from utils import write_data_js, all_chapter_jsons
 
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("path", nargs="?", help="Path to data.json")
-    parser.add_argument("--all", action="store_true")
-    args = parser.parse_args()
+    ap = argparse.ArgumentParser()
+    ap.add_argument("path", nargs="?", help="Path to data.json")
+    ap.add_argument("--all", action="store_true")
+    args = ap.parse_args()
 
     if args.all:
-        files = glob.glob(str(ROOT / "books" / "*" / "*" / "data.json"))
-        for f in sorted(files):
-            build_js(pathlib.Path(f))
+        for f in all_chapter_jsons():
+            out = write_data_js(f)
+            print("Wrote", out)
         return
 
     if not args.path:
         print("Usage: make_data_js.py <path/to/data.json> or --all")
         return
 
-    build_js(pathlib.Path(args.path))
+    out = write_data_js(pathlib.Path(args.path))
+    print("Wrote", out)
 
 if __name__ == "__main__":
     main()

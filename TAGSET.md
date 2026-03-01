@@ -39,3 +39,7 @@ Verb-specific (when available):
 - `PARTICLE`
 
 `features` is the authoritative representation; `morph` is display-only.
+
+## Token semantic layer (v1.4)
+Each token includes a `semantic` array of tags (e.g. `["FLORA", "LOVE"]`).
+Each verse includes `semantic_summary` — the union of all token semantic tags.
