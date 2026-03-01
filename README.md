@@ -176,3 +176,12 @@ Generate baseline `grammar[]` notes from morphology so Grammar panel is not empt
 ```bash
 python3 tools/seed_basic_grammar_notes.py --all
 ```
+
+
+### `tools/vocab_coverage.py`
+Report vocabulary (lexicon) gloss coverage per chapter (and optionally token gloss coverage).
+```bash
+python3 tools/vocab_coverage.py --all
+python3 tools/vocab_coverage.py --all --tokens
+python3 tools/vocab_coverage.py --all --min 95
+```
