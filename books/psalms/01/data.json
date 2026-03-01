@@ -141,9 +141,9 @@
           "surface": "עָמָד",
           "lemma": "עָמָד",
           "root": "עמד",
-          "pos": "noun",
+          "pos": "verb",
           "features": {},
-          "morph": "NOUN",
+          "morph": "VERB",
           "gloss": "stood",
           "semantic": [
             "MOTION"
@@ -153,11 +153,11 @@
           "id": "psalms.01.01.t012",
           "surface": "וּבְמוֹשַׁב",
           "lemma": "וּבְמוֹשַׁב",
-          "root": "?",
+          "root": "ישׁב",
           "pos": "noun",
           "features": {},
           "morph": "NOUN",
-          "gloss": "",
+          "gloss": "and in the seat of",
           "semantic": []
         },
         {
@@ -305,9 +305,9 @@
           "surface": "יוֹמָם",
           "lemma": "יוֹמָם",
           "root": "יום",
-          "pos": "verb",
+          "pos": "adv",
           "features": {},
-          "morph": "VERB",
+          "morph": "ADV",
           "gloss": "by day",
           "semantic": [
             "TIME"
@@ -317,12 +317,14 @@
           "id": "psalms.01.02.t009",
           "surface": "וָלָיְלָה",
           "lemma": "וָלָיְלָה",
-          "root": "?",
+          "root": "לילה",
           "pos": "noun",
           "features": {},
           "morph": "NOUN",
-          "gloss": "",
-          "semantic": []
+          "gloss": "and night",
+          "semantic": [
+            "TIME"
+          ]
         }
       ],
       "semantic_summary": [
@@ -342,9 +344,9 @@
           "surface": "וְהָיָה",
           "lemma": "וְהָיָה",
           "root": "היה",
-          "pos": "noun",
+          "pos": "verb",
           "features": {},
-          "morph": "NOUN",
+          "morph": "VERB",
           "gloss": "and he will be",
           "semantic": []
         },
@@ -402,11 +404,11 @@
           "id": "psalms.01.03.t006",
           "surface": "מָיִם",
           "lemma": "מָיִם",
-          "root": "?",
+          "root": "מים",
           "pos": "noun",
           "features": {},
           "morph": "NOUN",
-          "gloss": "",
+          "gloss": "water",
           "semantic": []
         },
         {
@@ -461,9 +463,9 @@
           "surface": "וְעָלֵהוּ",
           "lemma": "וְעָלֵהוּ",
           "root": "עלה",
-          "pos": "verb",
+          "pos": "noun",
           "features": {},
-          "morph": "VERB",
+          "morph": "NOUN",
           "gloss": "and its leaf",
           "semantic": [
             "AGRICULTURE",
@@ -563,11 +565,11 @@
           "id": "psalms.01.04.t002",
           "surface": "כֵן",
           "lemma": "כֵן",
-          "root": "?",
-          "pos": "noun",
+          "root": "כן",
+          "pos": "adv",
           "features": {},
-          "morph": "NOUN",
-          "gloss": "",
+          "morph": "ADV",
+          "gloss": "so",
           "semantic": []
         },
         {
@@ -684,11 +686,11 @@
           "id": "psalms.01.05.t002",
           "surface": "כֵּן",
           "lemma": "כֵּן",
-          "root": "?",
-          "pos": "noun",
+          "root": "כן",
+          "pos": "adv",
           "features": {},
-          "morph": "NOUN",
-          "gloss": "",
+          "morph": "ADV",
+          "gloss": "therefore",
           "semantic": []
         },
         {
@@ -1032,14 +1034,14 @@
     {
       "lemma": "עָמָד",
       "root": "עמד",
-      "pos": "noun",
+      "pos": "verb",
       "gloss": "stood"
     },
     {
       "lemma": "וּבְמוֹשַׁב",
-      "root": "?",
+      "root": "ישׁב",
       "pos": "noun",
-      "gloss": ""
+      "gloss": "and in the seat of"
     },
     {
       "lemma": "לֵצִים",
@@ -1080,7 +1082,7 @@
     {
       "lemma": "יוֹמָם",
       "root": "יום",
-      "pos": "verb",
+      "pos": "adv",
       "gloss": "by day"
     }
   ],
