@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27",
+  "generated_at": "2026-03-01",
   "books": [
     {
       "name": "Psalms",
@@ -11,9 +11,10 @@
     {
       "name": "Song of Songs",
       "slug": "song-of-songs",
-      "chapters": 5,
-      "abbr": "Song"
+      "chapters": 8,
+      "order": 22,
+      "testament": "OT"
     }
   ],
-  "spec_version": "1.2"
+  "spec_version": "1.4"
 }

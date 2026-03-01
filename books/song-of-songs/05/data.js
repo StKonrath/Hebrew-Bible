@@ -3016,7 +3016,7 @@ window.__chapterData = {
     }
   ],
   "annotations": [],
-  "spec_version": "1.2",
+  "spec_version": "1.4",
   "book_slug": "song-of-songs",
   "title": "Song of Songs - Chapter 5",
   "generated_at": "2026-02-28",

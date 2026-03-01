@@ -1,5 +1,5 @@
 window.__chapterData = {
-  "spec_version": "1.2",
+  "spec_version": "1.4",
   "tagset": {
     "name": "ETCBC-like",
     "version": "1.0",

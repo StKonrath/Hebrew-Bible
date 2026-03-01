@@ -1,0 +1,26 @@
+name: Validate chapters
+
+on:
+  push:
+    paths:
+      - "books/**/data.json"
+      - "schema/**"
+      - "tools/validate_chapter.py"
+  pull_request:
+    paths:
+      - "books/**/data.json"
+      - "schema/**"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install jsonschema
+      - name: Validate all chapter data.json files
+        run: python3 tools/validate_chapter.py --all
+      - name: Check vocab coverage (>=90%)
+        run: python3 tools/vocab_coverage.py --all --min 90
