@@ -31,7 +31,10 @@ window.__chapterData = {
               "prep:l",
               "article_assim"
             ]
-          }
+          },
+          "semantic": [
+            "MUSIC"
+          ]
         },
         {
           "id": "psalms.06.01.t002",
@@ -45,7 +48,10 @@ window.__chapterData = {
             "prefixes": [
               "prep:b"
             ]
-          }
+          },
+          "semantic": [
+            "MUSIC"
+          ]
         },
         {
           "id": "psalms.06.01.t003",
@@ -55,7 +61,8 @@ window.__chapterData = {
           "pos": "prep",
           "morph": "PREP",
           "gloss": "on/upon",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.01.t004",
@@ -69,7 +76,10 @@ window.__chapterData = {
             "prefixes": [
               "article"
             ]
-          }
+          },
+          "semantic": [
+            "MUSIC"
+          ]
         },
         {
           "id": "psalms.06.01.t005",
@@ -79,7 +89,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "psalm",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "MUSIC"
+          ]
         },
         {
           "id": "psalms.06.01.t006",
@@ -93,7 +106,8 @@ window.__chapterData = {
             "prefixes": [
               "prep:l"
             ]
-          }
+          },
+          "semantic": []
         }
       ],
       "semantic_summary": [
@@ -115,7 +129,8 @@ window.__chapterData = {
           "pos": "proper",
           "morph": "PN",
           "gloss": "YHWH",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.02.t002",
@@ -125,7 +140,8 @@ window.__chapterData = {
           "pos": "neg",
           "morph": "NEG",
           "gloss": "do not",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.02.t003",
@@ -139,7 +155,10 @@ window.__chapterData = {
             "prefixes": [
               "prep:b"
             ]
-          }
+          },
+          "semantic": [
+            "EMOTION"
+          ]
         },
         {
           "id": "psalms.06.02.t004",
@@ -149,7 +168,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Hiphil-Impf-2ms+SFX-1cs(juss)",
           "gloss": "rebuke me",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
         },
         {
           "id": "psalms.06.02.t005",
@@ -163,7 +185,8 @@ window.__chapterData = {
             "prefixes": [
               "conj"
             ]
-          }
+          },
+          "semantic": []
         },
         {
           "id": "psalms.06.02.t006",
@@ -178,7 +201,10 @@ window.__chapterData = {
               "prep:b",
               "article_assim"
             ]
-          }
+          },
+          "semantic": [
+            "EMOTION"
+          ]
         },
         {
           "id": "psalms.06.02.t007",
@@ -188,7 +214,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Piel-Impf-2ms+SFX-1cs(juss)",
           "gloss": "discipline me",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
         }
       ],
       "semantic_summary": [
@@ -210,7 +239,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Piel-Imp-2ms+SFX-1cs",
           "gloss": "be gracious to me",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
         },
         {
           "id": "psalms.06.03.t002",
@@ -220,7 +252,8 @@ window.__chapterData = {
           "pos": "proper",
           "morph": "PN",
           "gloss": "YHWH",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.03.t003",
@@ -230,7 +263,8 @@ window.__chapterData = {
           "pos": "conj",
           "morph": "CONJ",
           "gloss": "for/because",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.03.t004",
@@ -240,7 +274,10 @@ window.__chapterData = {
           "pos": "adj",
           "morph": "ADJ-ms",
           "gloss": "feeble/languishing",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
         },
         {
           "id": "psalms.06.03.t005",
@@ -250,7 +287,8 @@ window.__chapterData = {
           "pos": "pron",
           "morph": "PRON-1cs",
           "gloss": "I",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.03.t006",
@@ -260,7 +298,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Qal-Imp-2ms+SFX-1cs",
           "gloss": "heal me",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
         },
         {
           "id": "psalms.06.03.t007",
@@ -270,7 +311,8 @@ window.__chapterData = {
           "pos": "proper",
           "morph": "PN",
           "gloss": "YHWH",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.03.t008",
@@ -280,7 +322,8 @@ window.__chapterData = {
           "pos": "conj",
           "morph": "CONJ",
           "gloss": "for/because",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.03.t009",
@@ -290,7 +333,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Niphal-Perf-3cp",
           "gloss": "they were terrified",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "EMOTION"
+          ]
         },
         {
           "id": "psalms.06.03.t010",
@@ -300,7 +346,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-fp+SFX-1cs",
           "gloss": "my bones",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
         }
       ],
       "semantic_summary": [
@@ -326,7 +375,10 @@ window.__chapterData = {
             "prefixes": [
               "conj"
             ]
-          }
+          },
+          "semantic": [
+            "BODY"
+          ]
         },
         {
           "id": "psalms.06.04.t002",
@@ -336,7 +388,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Niphal-Perf-3fs",
           "gloss": "is terrified",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "EMOTION"
+          ]
         },
         {
           "id": "psalms.06.04.t003",
@@ -346,7 +401,8 @@ window.__chapterData = {
           "pos": "adv",
           "morph": "ADV",
           "gloss": "greatly",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.04.t004",
@@ -360,7 +416,8 @@ window.__chapterData = {
             "prefixes": [
               "conj"
             ]
-          }
+          },
+          "semantic": []
         },
         {
           "id": "psalms.06.04.t005",
@@ -370,7 +427,8 @@ window.__chapterData = {
           "pos": "proper",
           "morph": "PN",
           "gloss": "YHWH",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.04.t006",
@@ -380,7 +438,10 @@ window.__chapterData = {
           "pos": "prep",
           "morph": "PREP",
           "gloss": "until/how long",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "TIME"
+          ]
         },
         {
           "id": "psalms.06.04.t007",
@@ -390,7 +451,10 @@ window.__chapterData = {
           "pos": "interrog",
           "morph": "INTERR",
           "gloss": "when? (how long?)",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "TIME"
+          ]
         }
       ],
       "semantic_summary": [
@@ -412,7 +476,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Qal-Imp-2ms+paragogic",
           "gloss": "return",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "MOTION"
+          ]
         },
         {
           "id": "psalms.06.05.t002",
@@ -422,7 +489,8 @@ window.__chapterData = {
           "pos": "proper",
           "morph": "PN",
           "gloss": "YHWH",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.05.t003",
@@ -432,7 +500,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Piel-Imp-2ms+paragogic",
           "gloss": "rescue/deliver",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "MOTION"
+          ]
         },
         {
           "id": "psalms.06.05.t004",
@@ -442,7 +513,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-fs+SFX-1cs",
           "gloss": "my soul/life",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
         },
         {
           "id": "psalms.06.05.t005",
@@ -452,7 +526,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Hiphil-Imp-2ms+SFX-1cs",
           "gloss": "save me",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "SALVATION"
+          ]
         },
         {
           "id": "psalms.06.05.t006",
@@ -466,7 +543,8 @@ window.__chapterData = {
             "prefixes": [
               "prep:l"
             ]
-          }
+          },
+          "semantic": []
         },
         {
           "id": "psalms.06.05.t007",
@@ -476,7 +554,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-ms+SFX-2ms",
           "gloss": "your steadfast love",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "COVENANT"
+          ]
         }
       ],
       "semantic_summary": [
@@ -498,7 +579,8 @@ window.__chapterData = {
           "pos": "conj",
           "morph": "CONJ",
           "gloss": "for/because",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.06.t002",
@@ -508,7 +590,8 @@ window.__chapterData = {
           "pos": "particle",
           "morph": "NEG.EXIST",
           "gloss": "there is no",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.06.t003",
@@ -523,7 +606,10 @@ window.__chapterData = {
               "prep:b",
               "article_assim"
             ]
-          }
+          },
+          "semantic": [
+            "DEATH"
+          ]
         },
         {
           "id": "psalms.06.06.t004",
@@ -533,7 +619,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-ms+SFX-2ms",
           "gloss": "your remembrance",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
         },
         {
           "id": "psalms.06.06.t005",
@@ -547,7 +636,11 @@ window.__chapterData = {
             "prefixes": [
               "prep:b"
             ]
-          }
+          },
+          "semantic": [
+            "DEATH",
+            "PLACE"
+          ]
         },
         {
           "id": "psalms.06.06.t006",
@@ -557,7 +650,8 @@ window.__chapterData = {
           "pos": "interrog",
           "morph": "INTERR",
           "gloss": "who?",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.06.t007",
@@ -567,7 +661,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Hiphil-Impf-3ms",
           "gloss": "will give thanks",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "PRAISE"
+          ]
         },
         {
           "id": "psalms.06.06.t008",
@@ -577,7 +674,8 @@ window.__chapterData = {
           "pos": "prep",
           "morph": "PREP+SFX-2ms",
           "gloss": "to you",
-          "features": {}
+          "features": {},
+          "semantic": []
         }
       ],
       "semantic_summary": [
@@ -599,7 +697,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Qal-Perf-1cs",
           "gloss": "I am weary",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
         },
         {
           "id": "psalms.06.07.t002",
@@ -613,7 +714,10 @@ window.__chapterData = {
             "prefixes": [
               "prep:b"
             ]
-          }
+          },
+          "semantic": [
+            "SPEECH"
+          ]
         },
         {
           "id": "psalms.06.07.t003",
@@ -623,7 +727,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Hiphil-Impf-1cs",
           "gloss": "I cause to swim (make float)",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "MOTION"
+          ]
         },
         {
           "id": "psalms.06.07.t004",
@@ -637,7 +744,8 @@ window.__chapterData = {
             "prefixes": [
               "prep:b"
             ]
-          }
+          },
+          "semantic": []
         },
         {
           "id": "psalms.06.07.t005",
@@ -647,7 +755,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "night",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "TIME"
+          ]
         },
         {
           "id": "psalms.06.07.t006",
@@ -657,7 +768,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-fs+SFX-1cs",
           "gloss": "my bed",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "ARTIFACT"
+          ]
         },
         {
           "id": "psalms.06.07.t007",
@@ -671,7 +785,10 @@ window.__chapterData = {
             "prefixes": [
               "prep:b"
             ]
-          }
+          },
+          "semantic": [
+            "BODY"
+          ]
         },
         {
           "id": "psalms.06.07.t008",
@@ -681,7 +798,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-ms+SFX-1cs",
           "gloss": "my couch",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "ARTIFACT"
+          ]
         },
         {
           "id": "psalms.06.07.t009",
@@ -691,7 +811,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Hiphil-Impf-1cs",
           "gloss": "I drench/soak",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "MOTION"
+          ]
         }
       ],
       "semantic_summary": [
@@ -713,7 +836,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Qal-Perf-3fs",
           "gloss": "has wasted away",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
         },
         {
           "id": "psalms.06.08.t002",
@@ -727,7 +853,10 @@ window.__chapterData = {
             "prefixes": [
               "prep:min"
             ]
-          }
+          },
+          "semantic": [
+            "EMOTION"
+          ]
         },
         {
           "id": "psalms.06.08.t003",
@@ -737,7 +866,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-fs+SFX-1cs",
           "gloss": "my eye",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
         },
         {
           "id": "psalms.06.08.t004",
@@ -747,7 +879,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Qal-Perf-3fs",
           "gloss": "has grown old",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "TIME"
+          ]
         },
         {
           "id": "psalms.06.08.t005",
@@ -761,7 +896,8 @@ window.__chapterData = {
             "prefixes": [
               "prep:b"
             ]
-          }
+          },
+          "semantic": []
         },
         {
           "id": "psalms.06.08.t006",
@@ -771,7 +907,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-mp+SFX-1cs",
           "gloss": "my adversaries",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "DAMAGE"
+          ]
         }
       ],
       "semantic_summary": [
@@ -793,7 +932,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Qal-Imp-2mp",
           "gloss": "depart",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "MOTION"
+          ]
         },
         {
           "id": "psalms.06.09.t002",
@@ -803,7 +945,8 @@ window.__chapterData = {
           "pos": "prep",
           "morph": "PREP+SFX-1cs",
           "gloss": "from me",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.09.t003",
@@ -813,7 +956,8 @@ window.__chapterData = {
           "pos": "quant",
           "morph": "QUANT",
           "gloss": "all",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.09.t004",
@@ -823,7 +967,10 @@ window.__chapterData = {
           "pos": "participle",
           "morph": "PTCP-Qal-mp-construct",
           "gloss": "workers of",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "DAMAGE"
+          ]
         },
         {
           "id": "psalms.06.09.t005",
@@ -833,7 +980,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "iniquity",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "DAMAGE"
+          ]
         },
         {
           "id": "psalms.06.09.t006",
@@ -843,7 +993,8 @@ window.__chapterData = {
           "pos": "conj",
           "morph": "CONJ",
           "gloss": "for/because",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.09.t007",
@@ -853,7 +1004,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Qal-Perf-3ms",
           "gloss": "he has heard",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
         },
         {
           "id": "psalms.06.09.t008",
@@ -863,7 +1017,8 @@ window.__chapterData = {
           "pos": "proper",
           "morph": "PN",
           "gloss": "YHWH",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.09.t009",
@@ -873,7 +1028,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "voice/sound",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
         },
         {
           "id": "psalms.06.09.t010",
@@ -887,7 +1045,10 @@ window.__chapterData = {
             "prefixes": [
               "prep:b"
             ]
-          }
+          },
+          "semantic": [
+            "BODY"
+          ]
         }
       ],
       "semantic_summary": [
@@ -909,7 +1070,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Qal-Perf-3ms",
           "gloss": "has heard",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
         },
         {
           "id": "psalms.06.10.t002",
@@ -919,7 +1083,8 @@ window.__chapterData = {
           "pos": "proper",
           "morph": "PN",
           "gloss": "YHWH",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.10.t003",
@@ -929,7 +1094,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-fs+SFX-1cs",
           "gloss": "my supplication",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
         },
         {
           "id": "psalms.06.10.t004",
@@ -939,7 +1107,8 @@ window.__chapterData = {
           "pos": "proper",
           "morph": "PN",
           "gloss": "YHWH",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.10.t005",
@@ -949,7 +1118,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-fs+SFX-1cs",
           "gloss": "my prayer",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
         },
         {
           "id": "psalms.06.10.t006",
@@ -959,7 +1131,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Qal-Impf-3ms",
           "gloss": "will take/accept",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
         }
       ],
       "semantic_summary": [
@@ -981,7 +1156,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Qal-Impf-3mp(juss)",
           "gloss": "let them be ashamed",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "EMOTION"
+          ]
         },
         {
           "id": "psalms.06.11.t002",
@@ -995,7 +1173,10 @@ window.__chapterData = {
             "prefixes": [
               "conj"
             ]
-          }
+          },
+          "semantic": [
+            "EMOTION"
+          ]
         },
         {
           "id": "psalms.06.11.t003",
@@ -1005,7 +1186,8 @@ window.__chapterData = {
           "pos": "adv",
           "morph": "ADV",
           "gloss": "greatly",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.11.t004",
@@ -1015,7 +1197,8 @@ window.__chapterData = {
           "pos": "quant",
           "morph": "QUANT",
           "gloss": "all",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.11.t005",
@@ -1025,7 +1208,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-mp+SFX-1cs",
           "gloss": "my enemies",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "DAMAGE"
+          ]
         },
         {
           "id": "psalms.06.11.t006",
@@ -1035,7 +1221,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Qal-Impf-3mp(juss)",
           "gloss": "let them turn back",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "MOTION"
+          ]
         },
         {
           "id": "psalms.06.11.t007",
@@ -1045,7 +1234,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Qal-Impf-3mp(juss)",
           "gloss": "let them be ashamed",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "EMOTION"
+          ]
         },
         {
           "id": "psalms.06.11.t008",
@@ -1055,7 +1247,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "in an instant/moment",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "TIME"
+          ]
         }
       ],
       "semantic_summary": [

@@ -27,8 +27,14 @@
           "morph": "PTCP-Piel-ms",
           "gloss": "for the leader/director",
           "features": {
-            "prefixes": ["prep:l", "article_assim"]
-          }
+            "prefixes": [
+              "prep:l",
+              "article_assim"
+            ]
+          },
+          "semantic": [
+            "MUSIC"
+          ]
         },
         {
           "id": "psalms.08.01.t002",
@@ -38,7 +44,8 @@
           "pos": "prep",
           "morph": "PREP",
           "gloss": "on/upon",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.01.t003",
@@ -49,8 +56,13 @@
           "morph": "N-fs+Art",
           "gloss": "the Gittith (tune/term)",
           "features": {
-            "prefixes": ["article"]
-          }
+            "prefixes": [
+              "article"
+            ]
+          },
+          "semantic": [
+            "MUSIC"
+          ]
         },
         {
           "id": "psalms.08.01.t004",
@@ -60,7 +72,10 @@
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "psalm",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "MUSIC"
+          ]
         },
         {
           "id": "psalms.08.01.t005",
@@ -71,11 +86,17 @@
           "morph": "PN",
           "gloss": "of David",
           "features": {
-            "prefixes": ["prep:l"]
-          }
+            "prefixes": [
+              "prep:l"
+            ]
+          },
+          "semantic": []
         }
       ],
-      "semantic_summary": ["SUPERSCRIPTION", "MUSIC"]
+      "semantic_summary": [
+        "SUPERSCRIPTION",
+        "MUSIC"
+      ]
     },
     {
       "ref": "8:2",
@@ -91,7 +112,8 @@
           "pos": "proper",
           "morph": "PN",
           "gloss": "YHWH",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.02.t002",
@@ -101,7 +123,10 @@
           "pos": "noun",
           "morph": "N-ms+SFX-1cp",
           "gloss": "our Lord/master",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "ROYAL"
+          ]
         },
         {
           "id": "psalms.08.02.t003",
@@ -111,7 +136,8 @@
           "pos": "interrog",
           "morph": "INTERR",
           "gloss": "how!",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.02.t004",
@@ -121,7 +147,10 @@
           "pos": "adj",
           "morph": "ADJ-ms",
           "gloss": "majestic",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "ROYAL"
+          ]
         },
         {
           "id": "psalms.08.02.t005",
@@ -131,7 +160,10 @@
           "pos": "noun",
           "morph": "N-ms+SFX-2ms",
           "gloss": "your name",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
         },
         {
           "id": "psalms.08.02.t006",
@@ -142,8 +174,11 @@
           "morph": "QUANT",
           "gloss": "in all",
           "features": {
-            "prefixes": ["prep:b"]
-          }
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "semantic": []
         },
         {
           "id": "psalms.08.02.t007",
@@ -154,8 +189,13 @@
           "morph": "N-fs+Art",
           "gloss": "the earth/land",
           "features": {
-            "prefixes": ["article"]
-          }
+            "prefixes": [
+              "article"
+            ]
+          },
+          "semantic": [
+            "PLACE"
+          ]
         },
         {
           "id": "psalms.08.02.t008",
@@ -165,7 +205,8 @@
           "pos": "rel",
           "morph": "REL",
           "gloss": "who/which",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.02.t009",
@@ -175,7 +216,10 @@
           "pos": "verb",
           "morph": "V-Qal-Perf-2ms(poetic)",
           "gloss": "you have set/given",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "CREATION"
+          ]
         },
         {
           "id": "psalms.08.02.t010",
@@ -185,7 +229,10 @@
           "pos": "noun",
           "morph": "N-ms+SFX-2ms",
           "gloss": "your splendor",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "ROYAL"
+          ]
         },
         {
           "id": "psalms.08.02.t011",
@@ -195,7 +242,8 @@
           "pos": "prep",
           "morph": "PREP",
           "gloss": "above",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.02.t012",
@@ -206,11 +254,20 @@
           "morph": "N-mp+Art",
           "gloss": "the heavens",
           "features": {
-            "prefixes": ["article"]
-          }
+            "prefixes": [
+              "article"
+            ]
+          },
+          "semantic": [
+            "CREATION",
+            "PLACE"
+          ]
         }
       ],
-      "semantic_summary": ["PRAISE", "CREATION"]
+      "semantic_summary": [
+        "PRAISE",
+        "CREATION"
+      ]
     },
     {
       "ref": "8:3",
@@ -227,8 +284,13 @@
           "morph": "N-ms+SFX-1cs?",
           "gloss": "from the mouth of",
           "features": {
-            "prefixes": ["prep:min"]
-          }
+            "prefixes": [
+              "prep:min"
+            ]
+          },
+          "semantic": [
+            "BODY"
+          ]
         },
         {
           "id": "psalms.08.03.t002",
@@ -238,7 +300,10 @@
           "pos": "noun",
           "morph": "N-mp",
           "gloss": "infants/children",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "HUMANITY"
+          ]
         },
         {
           "id": "psalms.08.03.t003",
@@ -249,8 +314,13 @@
           "morph": "PTCP-Qal-mp",
           "gloss": "and nursing (babies)",
           "features": {
-            "prefixes": ["conj"]
-          }
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "semantic": [
+            "HUMANITY"
+          ]
         },
         {
           "id": "psalms.08.03.t004",
@@ -260,7 +330,10 @@
           "pos": "verb",
           "morph": "V-Piel-Perf-2ms",
           "gloss": "you established/founded",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "CREATION"
+          ]
         },
         {
           "id": "psalms.08.03.t005",
@@ -270,7 +343,10 @@
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "strength",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "POWER"
+          ]
         },
         {
           "id": "psalms.08.03.t006",
@@ -281,8 +357,11 @@
           "morph": "PREP",
           "gloss": "for the sake of/because of",
           "features": {
-            "prefixes": ["prep:l"]
-          }
+            "prefixes": [
+              "prep:l"
+            ]
+          },
+          "semantic": []
         },
         {
           "id": "psalms.08.03.t007",
@@ -292,7 +371,10 @@
           "pos": "noun",
           "morph": "N-mp+SFX-2ms",
           "gloss": "your foes",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "DAMAGE"
+          ]
         },
         {
           "id": "psalms.08.03.t008",
@@ -303,8 +385,13 @@
           "morph": "V-Hiphil-InfC",
           "gloss": "to silence/put an end to",
           "features": {
-            "prefixes": ["prep:l"]
-          }
+            "prefixes": [
+              "prep:l"
+            ]
+          },
+          "semantic": [
+            "SPEECH"
+          ]
         },
         {
           "id": "psalms.08.03.t009",
@@ -314,7 +401,10 @@
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "enemy",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "DAMAGE"
+          ]
         },
         {
           "id": "psalms.08.03.t010",
@@ -325,11 +415,19 @@
           "morph": "PTCP-Hitpael-ms",
           "gloss": "and the avenger",
           "features": {
-            "prefixes": ["conj"]
-          }
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "semantic": [
+            "DAMAGE"
+          ]
         }
       ],
-      "semantic_summary": ["PARADOX", "POWER"]
+      "semantic_summary": [
+        "PARADOX",
+        "POWER"
+      ]
     },
     {
       "ref": "8:4",
@@ -345,7 +443,8 @@
           "pos": "conj",
           "morph": "CONJ",
           "gloss": "for/when",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.04.t002",
@@ -355,7 +454,10 @@
           "pos": "verb",
           "morph": "V-Qal-Impf-1cs",
           "gloss": "I see",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
         },
         {
           "id": "psalms.08.04.t003",
@@ -365,7 +467,11 @@
           "pos": "noun",
           "morph": "N-mp+SFX-2ms",
           "gloss": "your heavens",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "CREATION",
+            "PLACE"
+          ]
         },
         {
           "id": "psalms.08.04.t004",
@@ -375,7 +481,10 @@
           "pos": "noun",
           "morph": "N-ms-construct",
           "gloss": "work of",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "CREATION"
+          ]
         },
         {
           "id": "psalms.08.04.t005",
@@ -385,7 +494,10 @@
           "pos": "noun",
           "morph": "N-fp+SFX-2ms",
           "gloss": "your fingers",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
         },
         {
           "id": "psalms.08.04.t006",
@@ -395,7 +507,10 @@
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "moon",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "CREATION"
+          ]
         },
         {
           "id": "psalms.08.04.t007",
@@ -406,8 +521,13 @@
           "morph": "N-mp",
           "gloss": "and stars",
           "features": {
-            "prefixes": ["conj"]
-          }
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "semantic": [
+            "CREATION"
+          ]
         },
         {
           "id": "psalms.08.04.t008",
@@ -417,7 +537,8 @@
           "pos": "rel",
           "morph": "REL",
           "gloss": "which/that",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.04.t009",
@@ -427,10 +548,16 @@
           "pos": "verb",
           "morph": "V-Piel-Perf-2ms",
           "gloss": "you established",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "CREATION"
+          ]
         }
       ],
-      "semantic_summary": ["CREATION", "AWE"]
+      "semantic_summary": [
+        "CREATION",
+        "AWE"
+      ]
     },
     {
       "ref": "8:5",
@@ -446,7 +573,8 @@
           "pos": "interrog",
           "morph": "INTERR",
           "gloss": "what?",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.05.t002",
@@ -456,7 +584,10 @@
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "mortal/human",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "HUMANITY"
+          ]
         },
         {
           "id": "psalms.08.05.t003",
@@ -466,7 +597,8 @@
           "pos": "conj",
           "morph": "CONJ",
           "gloss": "that",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.05.t004",
@@ -476,7 +608,10 @@
           "pos": "verb",
           "morph": "V-Qal-Impf-2ms+SFX-3ms",
           "gloss": "you remember him",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
         },
         {
           "id": "psalms.08.05.t005",
@@ -487,8 +622,13 @@
           "morph": "N-ms-construct",
           "gloss": "and son of",
           "features": {
-            "prefixes": ["conj"]
-          }
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "semantic": [
+            "HUMANITY"
+          ]
         },
         {
           "id": "psalms.08.05.t006",
@@ -498,7 +638,10 @@
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "human",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "HUMANITY"
+          ]
         },
         {
           "id": "psalms.08.05.t007",
@@ -508,7 +651,8 @@
           "pos": "conj",
           "morph": "CONJ",
           "gloss": "that",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.05.t008",
@@ -518,10 +662,16 @@
           "pos": "verb",
           "morph": "V-Qal-Impf-2ms+SFX-3ms",
           "gloss": "you visit/attend to him",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
         }
       ],
-      "semantic_summary": ["HUMANITY", "WONDER"]
+      "semantic_summary": [
+        "HUMANITY",
+        "WONDER"
+      ]
     },
     {
       "ref": "8:6",
@@ -537,7 +687,10 @@
           "pos": "verb",
           "morph": "V-Piel-Wayyiqtol-2ms+SFX-3ms",
           "gloss": "yet you made him lack (made lower)",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "CREATION"
+          ]
         },
         {
           "id": "psalms.08.06.t002",
@@ -547,7 +700,8 @@
           "pos": "adv",
           "morph": "ADV",
           "gloss": "a little",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.06.t003",
@@ -558,8 +712,13 @@
           "morph": "N-mp(divine)",
           "gloss": "than God/heavenly beings",
           "features": {
-            "prefixes": ["prep:min"]
-          }
+            "prefixes": [
+              "prep:min"
+            ]
+          },
+          "semantic": [
+            "ROYAL"
+          ]
         },
         {
           "id": "psalms.08.06.t004",
@@ -570,8 +729,13 @@
           "morph": "N-ms",
           "gloss": "and glory",
           "features": {
-            "prefixes": ["conj"]
-          }
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "semantic": [
+            "ROYAL"
+          ]
         },
         {
           "id": "psalms.08.06.t005",
@@ -582,8 +746,13 @@
           "morph": "N-ms",
           "gloss": "and honor/splendor",
           "features": {
-            "prefixes": ["conj"]
-          }
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "semantic": [
+            "ROYAL"
+          ]
         },
         {
           "id": "psalms.08.06.t006",
@@ -593,10 +762,16 @@
           "pos": "verb",
           "morph": "V-Piel-Impf-2ms+SFX-3ms",
           "gloss": "you crown him",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "ROYAL"
+          ]
         }
       ],
-      "semantic_summary": ["DIGNITY", "ROYAL"]
+      "semantic_summary": [
+        "DIGNITY",
+        "ROYAL"
+      ]
     },
     {
       "ref": "8:7",
@@ -612,7 +787,10 @@
           "pos": "verb",
           "morph": "V-Hiphil-Impf-2ms+SFX-3ms",
           "gloss": "you make him rule",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "ROYAL"
+          ]
         },
         {
           "id": "psalms.08.07.t002",
@@ -623,8 +801,13 @@
           "morph": "N-mp-construct",
           "gloss": "over the works of",
           "features": {
-            "prefixes": ["prep:b"]
-          }
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "semantic": [
+            "CREATION"
+          ]
         },
         {
           "id": "psalms.08.07.t003",
@@ -634,7 +817,10 @@
           "pos": "noun",
           "morph": "N-fp+SFX-2ms",
           "gloss": "your hands",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
         },
         {
           "id": "psalms.08.07.t004",
@@ -644,7 +830,8 @@
           "pos": "quant",
           "morph": "QUANT",
           "gloss": "all/everything",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.07.t005",
@@ -654,7 +841,10 @@
           "pos": "verb",
           "morph": "V-Qal-Perf-2ms",
           "gloss": "you set/placed",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "CREATION"
+          ]
         },
         {
           "id": "psalms.08.07.t006",
@@ -664,7 +854,8 @@
           "pos": "prep",
           "morph": "PREP",
           "gloss": "under",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.07.t007",
@@ -674,10 +865,16 @@
           "pos": "noun",
           "morph": "N-fp+SFX-3ms",
           "gloss": "his feet",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
         }
       ],
-      "semantic_summary": ["DOMINION", "CREATION"]
+      "semantic_summary": [
+        "DOMINION",
+        "CREATION"
+      ]
     },
     {
       "ref": "8:8",
@@ -693,7 +890,10 @@
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "sheep",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "ANIMALS"
+          ]
         },
         {
           "id": "psalms.08.08.t002",
@@ -704,8 +904,13 @@
           "morph": "N-mp",
           "gloss": "and oxen/cattle",
           "features": {
-            "prefixes": ["conj"]
-          }
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "semantic": [
+            "ANIMALS"
+          ]
         },
         {
           "id": "psalms.08.08.t003",
@@ -715,7 +920,8 @@
           "pos": "quant",
           "morph": "QUANT+SFX-3mp",
           "gloss": "all of them",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.08.t004",
@@ -726,8 +932,11 @@
           "morph": "ADV",
           "gloss": "and also",
           "features": {
-            "prefixes": ["conj"]
-          }
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "semantic": []
         },
         {
           "id": "psalms.08.08.t005",
@@ -738,8 +947,14 @@
           "morph": "N-fp",
           "gloss": "beasts/animals",
           "features": {
-            "prefixes": ["prep:b", "article_assim"]
-          }
+            "prefixes": [
+              "prep:b",
+              "article_assim"
+            ]
+          },
+          "semantic": [
+            "ANIMALS"
+          ]
         },
         {
           "id": "psalms.08.08.t006",
@@ -749,10 +964,16 @@
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "field/open country",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "PLACE"
+          ]
         }
       ],
-      "semantic_summary": ["ANIMALS", "DOMINION"]
+      "semantic_summary": [
+        "ANIMALS",
+        "DOMINION"
+      ]
     },
     {
       "ref": "8:9",
@@ -768,7 +989,10 @@
           "pos": "noun",
           "morph": "N-fs",
           "gloss": "bird",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "ANIMALS"
+          ]
         },
         {
           "id": "psalms.08.09.t002",
@@ -778,7 +1002,11 @@
           "pos": "noun",
           "morph": "N-mp",
           "gloss": "heavens",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "CREATION",
+            "PLACE"
+          ]
         },
         {
           "id": "psalms.08.09.t003",
@@ -789,8 +1017,13 @@
           "morph": "N-mp-construct",
           "gloss": "and fish of",
           "features": {
-            "prefixes": ["conj"]
-          }
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "semantic": [
+            "ANIMALS"
+          ]
         },
         {
           "id": "psalms.08.09.t004",
@@ -801,8 +1034,13 @@
           "morph": "N-ms+Art",
           "gloss": "the sea",
           "features": {
-            "prefixes": ["article"]
-          }
+            "prefixes": [
+              "article"
+            ]
+          },
+          "semantic": [
+            "PLACE"
+          ]
         },
         {
           "id": "psalms.08.09.t005",
@@ -812,7 +1050,10 @@
           "pos": "participle",
           "morph": "PTCP-Qal-ms",
           "gloss": "passing",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "MOTION"
+          ]
         },
         {
           "id": "psalms.08.09.t006",
@@ -822,7 +1063,11 @@
           "pos": "noun",
           "morph": "N-fp-construct",
           "gloss": "paths of",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "MOTION",
+            "PLACE"
+          ]
         },
         {
           "id": "psalms.08.09.t007",
@@ -832,10 +1077,16 @@
           "pos": "noun",
           "morph": "N-mp",
           "gloss": "seas",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "PLACE"
+          ]
         }
       ],
-      "semantic_summary": ["CREATURES", "SEA"]
+      "semantic_summary": [
+        "CREATURES",
+        "SEA"
+      ]
     },
     {
       "ref": "8:10",
@@ -851,7 +1102,8 @@
           "pos": "proper",
           "morph": "PN",
           "gloss": "YHWH",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.10.t002",
@@ -861,7 +1113,10 @@
           "pos": "noun",
           "morph": "N-ms+SFX-1cp",
           "gloss": "our Lord/master",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "ROYAL"
+          ]
         },
         {
           "id": "psalms.08.10.t003",
@@ -871,7 +1126,8 @@
           "pos": "interrog",
           "morph": "INTERR",
           "gloss": "how!",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.10.t004",
@@ -881,7 +1137,10 @@
           "pos": "adj",
           "morph": "ADJ-ms",
           "gloss": "majestic",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "ROYAL"
+          ]
         },
         {
           "id": "psalms.08.10.t005",
@@ -891,7 +1150,10 @@
           "pos": "noun",
           "morph": "N-ms+SFX-2ms",
           "gloss": "your name",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
         },
         {
           "id": "psalms.08.10.t006",
@@ -902,8 +1164,11 @@
           "morph": "QUANT",
           "gloss": "in all",
           "features": {
-            "prefixes": ["prep:b"]
-          }
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "semantic": []
         },
         {
           "id": "psalms.08.10.t007",
@@ -914,41 +1179,149 @@
           "morph": "N-fs+Art",
           "gloss": "the earth/land",
           "features": {
-            "prefixes": ["article"]
-          }
+            "prefixes": [
+              "article"
+            ]
+          },
+          "semantic": [
+            "PLACE"
+          ]
         }
       ],
-      "semantic_summary": ["PRAISE", "INCLUSIO"]
+      "semantic_summary": [
+        "PRAISE",
+        "INCLUSIO"
+      ]
     }
   ],
   "lexicon": [
-    {"lemma": "אַדִּיר", "root": "אדר", "pos": "adj", "gloss": "majestic, mighty"},
-    {"lemma": "הוֹד", "root": "הוד", "pos": "noun", "gloss": "splendor, majesty"},
-    {"lemma": "יָסַד", "root": "יסד", "pos": "verb", "gloss": "to found, establish"},
-    {"lemma": "עֹז", "root": "עזז", "pos": "noun", "gloss": "strength"},
-    {"lemma": "כּוּן", "root": "כון", "pos": "verb", "gloss": "to establish, prepare"},
-    {"lemma": "זָכַר", "root": "זכר", "pos": "verb", "gloss": "to remember"},
-    {"lemma": "פָּקַד", "root": "פקד", "pos": "verb", "gloss": "to attend to, visit"},
-    {"lemma": "עָטַר", "root": "עטר", "pos": "verb", "gloss": "to crown"},
-    {"lemma": "מָשַׁל", "root": "משל", "pos": "verb", "gloss": "to rule"},
-    {"lemma": "שִׁית", "root": "שית", "pos": "verb", "gloss": "to set, place"},
-    {"lemma": "צֹאן", "root": "צאן", "pos": "noun", "gloss": "small livestock, sheep"},
-    {"lemma": "בְּהֵמָה", "root": "בהם", "pos": "noun", "gloss": "beast, animal"},
-    {"lemma": "אֹרַח", "root": "ארח", "pos": "noun", "gloss": "path, track"}
+    {
+      "lemma": "אַדִּיר",
+      "root": "אדר",
+      "pos": "adj",
+      "gloss": "majestic, mighty"
+    },
+    {
+      "lemma": "הוֹד",
+      "root": "הוד",
+      "pos": "noun",
+      "gloss": "splendor, majesty"
+    },
+    {
+      "lemma": "יָסַד",
+      "root": "יסד",
+      "pos": "verb",
+      "gloss": "to found, establish"
+    },
+    {
+      "lemma": "עֹז",
+      "root": "עזז",
+      "pos": "noun",
+      "gloss": "strength"
+    },
+    {
+      "lemma": "כּוּן",
+      "root": "כון",
+      "pos": "verb",
+      "gloss": "to establish, prepare"
+    },
+    {
+      "lemma": "זָכַר",
+      "root": "זכר",
+      "pos": "verb",
+      "gloss": "to remember"
+    },
+    {
+      "lemma": "פָּקַד",
+      "root": "פקד",
+      "pos": "verb",
+      "gloss": "to attend to, visit"
+    },
+    {
+      "lemma": "עָטַר",
+      "root": "עטר",
+      "pos": "verb",
+      "gloss": "to crown"
+    },
+    {
+      "lemma": "מָשַׁל",
+      "root": "משל",
+      "pos": "verb",
+      "gloss": "to rule"
+    },
+    {
+      "lemma": "שִׁית",
+      "root": "שית",
+      "pos": "verb",
+      "gloss": "to set, place"
+    },
+    {
+      "lemma": "צֹאן",
+      "root": "צאן",
+      "pos": "noun",
+      "gloss": "small livestock, sheep"
+    },
+    {
+      "lemma": "בְּהֵמָה",
+      "root": "בהם",
+      "pos": "noun",
+      "gloss": "beast, animal"
+    },
+    {
+      "lemma": "אֹרַח",
+      "root": "ארח",
+      "pos": "noun",
+      "gloss": "path, track"
+    }
   ],
   "grammar": [
-    {"topic": "Inclusio (framing refrain)", "example": "8:2 and 8:10 repeat the same exclamation", "note": "The psalm is framed by an identical refrain, creating an inclusio that foregrounds YHWH's name."},
-    {"topic": "Poetic perfect in relative clause", "example": "אֲשֶׁר תְּנָה הוֹדְךָ", "note": "Poetic forms may use perfect-like morphology (or archaic/poetic spellings) to express a completed act."},
-    {"topic": "Paradox of strength from infants", "example": "מִפִּי עוֹלְלִים ... יִסַּדְתָּ עֹז", "note": "A rhetorical paradox: divine power is portrayed as established through the weakest speakers."},
-    {"topic": "Anthropological question formula", "example": "מָה־אֱנוֹשׁ ... וּבֶן־אָדָם", "note": "Parallelism with near-synonyms intensifies the question of human significance."},
-    {"topic": "Dominion language", "example": "תַּמְשִׁילֵהוּ ... תַּחַת־רַגְלָיו", "note": "Royal/administrative idiom for delegated rule; 'under the feet' signals subordination."}
+    {
+      "topic": "Inclusio (framing refrain)",
+      "example": "8:2 and 8:10 repeat the same exclamation",
+      "note": "The psalm is framed by an identical refrain, creating an inclusio that foregrounds YHWH's name."
+    },
+    {
+      "topic": "Poetic perfect in relative clause",
+      "example": "אֲשֶׁר תְּנָה הוֹדְךָ",
+      "note": "Poetic forms may use perfect-like morphology (or archaic/poetic spellings) to express a completed act."
+    },
+    {
+      "topic": "Paradox of strength from infants",
+      "example": "מִפִּי עוֹלְלִים ... יִסַּדְתָּ עֹז",
+      "note": "A rhetorical paradox: divine power is portrayed as established through the weakest speakers."
+    },
+    {
+      "topic": "Anthropological question formula",
+      "example": "מָה־אֱנוֹשׁ ... וּבֶן־אָדָם",
+      "note": "Parallelism with near-synonyms intensifies the question of human significance."
+    },
+    {
+      "topic": "Dominion language",
+      "example": "תַּמְשִׁילֵהוּ ... תַּחַת־רַגְלָיו",
+      "note": "Royal/administrative idiom for delegated rule; 'under the feet' signals subordination."
+    }
   ],
   "exercises": [
-    {"q": "Identify the inclusio and its function in Psalm 8.", "a": "8:2 and 8:10 repeat 'How majestic is your name…'; it frames the psalm around YHWH's name."},
-    {"q": "Parse תַּמְשִׁילֵהוּ (8:7).", "a": "Hiphil imperfect 2ms + 3ms suffix of משל ('you cause him to rule')."},
-    {"q": "Explain the paradox in 8:3.", "a": "Strength is 'founded' from infants' mouths; the weakest become instruments of divine silencing of foes."},
-    {"q": "What does 'under his feet' express (8:7)?", "a": "Idiomatic subordination/dominion over creation."},
-    {"q": "List the categories of creatures in 8:8–9.", "a": "Domestic animals (sheep/oxen), wild beasts, birds, fish/sea creatures."}
+    {
+      "q": "Identify the inclusio and its function in Psalm 8.",
+      "a": "8:2 and 8:10 repeat 'How majestic is your name…'; it frames the psalm around YHWH's name."
+    },
+    {
+      "q": "Parse תַּמְשִׁילֵהוּ (8:7).",
+      "a": "Hiphil imperfect 2ms + 3ms suffix of משל ('you cause him to rule')."
+    },
+    {
+      "q": "Explain the paradox in 8:3.",
+      "a": "Strength is 'founded' from infants' mouths; the weakest become instruments of divine silencing of foes."
+    },
+    {
+      "q": "What does 'under his feet' express (8:7)?",
+      "a": "Idiomatic subordination/dominion over creation."
+    },
+    {
+      "q": "List the categories of creatures in 8:8–9.",
+      "a": "Domestic animals (sheep/oxen), wild beasts, birds, fish/sea creatures."
+    }
   ],
   "annotations": []
 }

@@ -27,8 +27,14 @@
           "morph": "PTCP-Piel-ms",
           "gloss": "for the leader/director",
           "features": {
-            "prefixes": ["prep:l", "article_assim"]
-          }
+            "prefixes": [
+              "prep:l",
+              "article_assim"
+            ]
+          },
+          "semantic": [
+            "MUSIC"
+          ]
         },
         {
           "id": "psalms.06.01.t002",
@@ -39,8 +45,13 @@
           "morph": "N-fp",
           "gloss": "with stringed music",
           "features": {
-            "prefixes": ["prep:b"]
-          }
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "semantic": [
+            "MUSIC"
+          ]
         },
         {
           "id": "psalms.06.01.t003",
@@ -50,7 +61,8 @@
           "pos": "prep",
           "morph": "PREP",
           "gloss": "on/upon",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.01.t004",
@@ -61,8 +73,13 @@
           "morph": "N-fs+Art",
           "gloss": "the eighth (tune/term)",
           "features": {
-            "prefixes": ["article"]
-          }
+            "prefixes": [
+              "article"
+            ]
+          },
+          "semantic": [
+            "MUSIC"
+          ]
         },
         {
           "id": "psalms.06.01.t005",
@@ -72,7 +89,10 @@
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "psalm",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "MUSIC"
+          ]
         },
         {
           "id": "psalms.06.01.t006",
@@ -83,11 +103,17 @@
           "morph": "PN",
           "gloss": "of David",
           "features": {
-            "prefixes": ["prep:l"]
-          }
+            "prefixes": [
+              "prep:l"
+            ]
+          },
+          "semantic": []
         }
       ],
-      "semantic_summary": ["SUPERSCRIPTION", "MUSIC"]
+      "semantic_summary": [
+        "SUPERSCRIPTION",
+        "MUSIC"
+      ]
     },
     {
       "ref": "6:2",
@@ -103,7 +129,8 @@
           "pos": "proper",
           "morph": "PN",
           "gloss": "YHWH",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.02.t002",
@@ -113,7 +140,8 @@
           "pos": "neg",
           "morph": "NEG",
           "gloss": "do not",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.02.t003",
@@ -124,8 +152,13 @@
           "morph": "N-ms+SFX-2ms",
           "gloss": "in your anger",
           "features": {
-            "prefixes": ["prep:b"]
-          }
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "semantic": [
+            "EMOTION"
+          ]
         },
         {
           "id": "psalms.06.02.t004",
@@ -135,7 +168,10 @@
           "pos": "verb",
           "morph": "V-Hiphil-Impf-2ms+SFX-1cs(juss)",
           "gloss": "rebuke me",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
         },
         {
           "id": "psalms.06.02.t005",
@@ -146,8 +182,11 @@
           "morph": "NEG",
           "gloss": "and do not",
           "features": {
-            "prefixes": ["conj"]
-          }
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "semantic": []
         },
         {
           "id": "psalms.06.02.t006",
@@ -158,8 +197,14 @@
           "morph": "N-fs+SFX-2ms",
           "gloss": "in your wrath",
           "features": {
-            "prefixes": ["prep:b", "article_assim"]
-          }
+            "prefixes": [
+              "prep:b",
+              "article_assim"
+            ]
+          },
+          "semantic": [
+            "EMOTION"
+          ]
         },
         {
           "id": "psalms.06.02.t007",
@@ -169,10 +214,16 @@
           "pos": "verb",
           "morph": "V-Piel-Impf-2ms+SFX-1cs(juss)",
           "gloss": "discipline me",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
         }
       ],
-      "semantic_summary": ["LAMENT", "PETITION"]
+      "semantic_summary": [
+        "LAMENT",
+        "PETITION"
+      ]
     },
     {
       "ref": "6:3",
@@ -188,7 +239,10 @@
           "pos": "verb",
           "morph": "V-Piel-Imp-2ms+SFX-1cs",
           "gloss": "be gracious to me",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
         },
         {
           "id": "psalms.06.03.t002",
@@ -198,7 +252,8 @@
           "pos": "proper",
           "morph": "PN",
           "gloss": "YHWH",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.03.t003",
@@ -208,7 +263,8 @@
           "pos": "conj",
           "morph": "CONJ",
           "gloss": "for/because",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.03.t004",
@@ -218,7 +274,10 @@
           "pos": "adj",
           "morph": "ADJ-ms",
           "gloss": "feeble/languishing",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
         },
         {
           "id": "psalms.06.03.t005",
@@ -228,7 +287,8 @@
           "pos": "pron",
           "morph": "PRON-1cs",
           "gloss": "I",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.03.t006",
@@ -238,7 +298,10 @@
           "pos": "verb",
           "morph": "V-Qal-Imp-2ms+SFX-1cs",
           "gloss": "heal me",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
         },
         {
           "id": "psalms.06.03.t007",
@@ -248,7 +311,8 @@
           "pos": "proper",
           "morph": "PN",
           "gloss": "YHWH",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.03.t008",
@@ -258,7 +322,8 @@
           "pos": "conj",
           "morph": "CONJ",
           "gloss": "for/because",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.03.t009",
@@ -268,7 +333,10 @@
           "pos": "verb",
           "morph": "V-Niphal-Perf-3cp",
           "gloss": "they were terrified",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "EMOTION"
+          ]
         },
         {
           "id": "psalms.06.03.t010",
@@ -278,10 +346,16 @@
           "pos": "noun",
           "morph": "N-fp+SFX-1cs",
           "gloss": "my bones",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
         }
       ],
-      "semantic_summary": ["LAMENT", "HEALING"]
+      "semantic_summary": [
+        "LAMENT",
+        "HEALING"
+      ]
     },
     {
       "ref": "6:4",
@@ -298,8 +372,13 @@
           "morph": "N-fs+SFX-1cs",
           "gloss": "and my soul/life",
           "features": {
-            "prefixes": ["conj"]
-          }
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "semantic": [
+            "BODY"
+          ]
         },
         {
           "id": "psalms.06.04.t002",
@@ -309,7 +388,10 @@
           "pos": "verb",
           "morph": "V-Niphal-Perf-3fs",
           "gloss": "is terrified",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "EMOTION"
+          ]
         },
         {
           "id": "psalms.06.04.t003",
@@ -319,7 +401,8 @@
           "pos": "adv",
           "morph": "ADV",
           "gloss": "greatly",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.04.t004",
@@ -330,8 +413,11 @@
           "morph": "PRON-2ms",
           "gloss": "but you",
           "features": {
-            "prefixes": ["conj"]
-          }
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "semantic": []
         },
         {
           "id": "psalms.06.04.t005",
@@ -341,7 +427,8 @@
           "pos": "proper",
           "morph": "PN",
           "gloss": "YHWH",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.04.t006",
@@ -351,7 +438,10 @@
           "pos": "prep",
           "morph": "PREP",
           "gloss": "until/how long",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "TIME"
+          ]
         },
         {
           "id": "psalms.06.04.t007",
@@ -361,10 +451,16 @@
           "pos": "interrog",
           "morph": "INTERR",
           "gloss": "when? (how long?)",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "TIME"
+          ]
         }
       ],
-      "semantic_summary": ["LAMENT", "TIME"]
+      "semantic_summary": [
+        "LAMENT",
+        "TIME"
+      ]
     },
     {
       "ref": "6:5",
@@ -380,7 +476,10 @@
           "pos": "verb",
           "morph": "V-Qal-Imp-2ms+paragogic",
           "gloss": "return",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "MOTION"
+          ]
         },
         {
           "id": "psalms.06.05.t002",
@@ -390,7 +489,8 @@
           "pos": "proper",
           "morph": "PN",
           "gloss": "YHWH",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.05.t003",
@@ -400,7 +500,10 @@
           "pos": "verb",
           "morph": "V-Piel-Imp-2ms+paragogic",
           "gloss": "rescue/deliver",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "MOTION"
+          ]
         },
         {
           "id": "psalms.06.05.t004",
@@ -410,7 +513,10 @@
           "pos": "noun",
           "morph": "N-fs+SFX-1cs",
           "gloss": "my soul/life",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
         },
         {
           "id": "psalms.06.05.t005",
@@ -420,7 +526,10 @@
           "pos": "verb",
           "morph": "V-Hiphil-Imp-2ms+SFX-1cs",
           "gloss": "save me",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "SALVATION"
+          ]
         },
         {
           "id": "psalms.06.05.t006",
@@ -431,8 +540,11 @@
           "morph": "PREP",
           "gloss": "for the sake of",
           "features": {
-            "prefixes": ["prep:l"]
-          }
+            "prefixes": [
+              "prep:l"
+            ]
+          },
+          "semantic": []
         },
         {
           "id": "psalms.06.05.t007",
@@ -442,10 +554,16 @@
           "pos": "noun",
           "morph": "N-ms+SFX-2ms",
           "gloss": "your steadfast love",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "COVENANT"
+          ]
         }
       ],
-      "semantic_summary": ["PETITION", "COVENANT_LOVE"]
+      "semantic_summary": [
+        "PETITION",
+        "COVENANT_LOVE"
+      ]
     },
     {
       "ref": "6:6",
@@ -461,7 +579,8 @@
           "pos": "conj",
           "morph": "CONJ",
           "gloss": "for/because",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.06.t002",
@@ -471,7 +590,8 @@
           "pos": "particle",
           "morph": "NEG.EXIST",
           "gloss": "there is no",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.06.t003",
@@ -482,8 +602,14 @@
           "morph": "N-ms+Art",
           "gloss": "in death",
           "features": {
-            "prefixes": ["prep:b", "article_assim"]
-          }
+            "prefixes": [
+              "prep:b",
+              "article_assim"
+            ]
+          },
+          "semantic": [
+            "DEATH"
+          ]
         },
         {
           "id": "psalms.06.06.t004",
@@ -493,7 +619,10 @@
           "pos": "noun",
           "morph": "N-ms+SFX-2ms",
           "gloss": "your remembrance",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
         },
         {
           "id": "psalms.06.06.t005",
@@ -504,8 +633,14 @@
           "morph": "N-fs",
           "gloss": "in Sheol",
           "features": {
-            "prefixes": ["prep:b"]
-          }
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "semantic": [
+            "DEATH",
+            "PLACE"
+          ]
         },
         {
           "id": "psalms.06.06.t006",
@@ -515,7 +650,8 @@
           "pos": "interrog",
           "morph": "INTERR",
           "gloss": "who?",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.06.t007",
@@ -525,7 +661,10 @@
           "pos": "verb",
           "morph": "V-Hiphil-Impf-3ms",
           "gloss": "will give thanks",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "PRAISE"
+          ]
         },
         {
           "id": "psalms.06.06.t008",
@@ -535,10 +674,14 @@
           "pos": "prep",
           "morph": "PREP+SFX-2ms",
           "gloss": "to you",
-          "features": {}
+          "features": {},
+          "semantic": []
         }
       ],
-      "semantic_summary": ["MORTALITY", "ARGUMENT"]
+      "semantic_summary": [
+        "MORTALITY",
+        "ARGUMENT"
+      ]
     },
     {
       "ref": "6:7",
@@ -554,7 +697,10 @@
           "pos": "verb",
           "morph": "V-Qal-Perf-1cs",
           "gloss": "I am weary",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
         },
         {
           "id": "psalms.06.07.t002",
@@ -565,8 +711,13 @@
           "morph": "N-fs+SFX-1cs",
           "gloss": "with my groaning",
           "features": {
-            "prefixes": ["prep:b"]
-          }
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "semantic": [
+            "SPEECH"
+          ]
         },
         {
           "id": "psalms.06.07.t003",
@@ -576,7 +727,10 @@
           "pos": "verb",
           "morph": "V-Hiphil-Impf-1cs",
           "gloss": "I cause to swim (make float)",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "MOTION"
+          ]
         },
         {
           "id": "psalms.06.07.t004",
@@ -587,8 +741,11 @@
           "morph": "QUANT",
           "gloss": "every",
           "features": {
-            "prefixes": ["prep:b"]
-          }
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "semantic": []
         },
         {
           "id": "psalms.06.07.t005",
@@ -598,7 +755,10 @@
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "night",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "TIME"
+          ]
         },
         {
           "id": "psalms.06.07.t006",
@@ -608,7 +768,10 @@
           "pos": "noun",
           "morph": "N-fs+SFX-1cs",
           "gloss": "my bed",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "ARTIFACT"
+          ]
         },
         {
           "id": "psalms.06.07.t007",
@@ -619,8 +782,13 @@
           "morph": "N-fs+SFX-1cs",
           "gloss": "with my tears",
           "features": {
-            "prefixes": ["prep:b"]
-          }
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "semantic": [
+            "BODY"
+          ]
         },
         {
           "id": "psalms.06.07.t008",
@@ -630,7 +798,10 @@
           "pos": "noun",
           "morph": "N-ms+SFX-1cs",
           "gloss": "my couch",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "ARTIFACT"
+          ]
         },
         {
           "id": "psalms.06.07.t009",
@@ -640,10 +811,16 @@
           "pos": "verb",
           "morph": "V-Hiphil-Impf-1cs",
           "gloss": "I drench/soak",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "MOTION"
+          ]
         }
       ],
-      "semantic_summary": ["LAMENT", "IMAGERY"]
+      "semantic_summary": [
+        "LAMENT",
+        "IMAGERY"
+      ]
     },
     {
       "ref": "6:8",
@@ -659,7 +836,10 @@
           "pos": "verb",
           "morph": "V-Qal-Perf-3fs",
           "gloss": "has wasted away",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
         },
         {
           "id": "psalms.06.08.t002",
@@ -670,8 +850,13 @@
           "morph": "N-ms",
           "gloss": "from vexation/grief",
           "features": {
-            "prefixes": ["prep:min"]
-          }
+            "prefixes": [
+              "prep:min"
+            ]
+          },
+          "semantic": [
+            "EMOTION"
+          ]
         },
         {
           "id": "psalms.06.08.t003",
@@ -681,7 +866,10 @@
           "pos": "noun",
           "morph": "N-fs+SFX-1cs",
           "gloss": "my eye",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
         },
         {
           "id": "psalms.06.08.t004",
@@ -691,7 +879,10 @@
           "pos": "verb",
           "morph": "V-Qal-Perf-3fs",
           "gloss": "has grown old",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "TIME"
+          ]
         },
         {
           "id": "psalms.06.08.t005",
@@ -702,8 +893,11 @@
           "morph": "QUANT",
           "gloss": "because of all",
           "features": {
-            "prefixes": ["prep:b"]
-          }
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "semantic": []
         },
         {
           "id": "psalms.06.08.t006",
@@ -713,10 +907,16 @@
           "pos": "noun",
           "morph": "N-mp+SFX-1cs",
           "gloss": "my adversaries",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "DAMAGE"
+          ]
         }
       ],
-      "semantic_summary": ["LAMENT", "OPPRESSION"]
+      "semantic_summary": [
+        "LAMENT",
+        "OPPRESSION"
+      ]
     },
     {
       "ref": "6:9",
@@ -732,7 +932,10 @@
           "pos": "verb",
           "morph": "V-Qal-Imp-2mp",
           "gloss": "depart",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "MOTION"
+          ]
         },
         {
           "id": "psalms.06.09.t002",
@@ -742,7 +945,8 @@
           "pos": "prep",
           "morph": "PREP+SFX-1cs",
           "gloss": "from me",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.09.t003",
@@ -752,7 +956,8 @@
           "pos": "quant",
           "morph": "QUANT",
           "gloss": "all",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.09.t004",
@@ -762,7 +967,10 @@
           "pos": "participle",
           "morph": "PTCP-Qal-mp-construct",
           "gloss": "workers of",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "DAMAGE"
+          ]
         },
         {
           "id": "psalms.06.09.t005",
@@ -772,7 +980,10 @@
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "iniquity",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "DAMAGE"
+          ]
         },
         {
           "id": "psalms.06.09.t006",
@@ -782,7 +993,8 @@
           "pos": "conj",
           "morph": "CONJ",
           "gloss": "for/because",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.09.t007",
@@ -792,7 +1004,10 @@
           "pos": "verb",
           "morph": "V-Qal-Perf-3ms",
           "gloss": "he has heard",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
         },
         {
           "id": "psalms.06.09.t008",
@@ -802,7 +1017,8 @@
           "pos": "proper",
           "morph": "PN",
           "gloss": "YHWH",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.09.t009",
@@ -812,7 +1028,10 @@
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "voice/sound",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
         },
         {
           "id": "psalms.06.09.t010",
@@ -823,11 +1042,19 @@
           "morph": "N-ms",
           "gloss": "my weeping",
           "features": {
-            "prefixes": ["prep:b"]
-          }
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "semantic": [
+            "BODY"
+          ]
         }
       ],
-      "semantic_summary": ["CONFIDENCE", "REVERSAL"]
+      "semantic_summary": [
+        "CONFIDENCE",
+        "REVERSAL"
+      ]
     },
     {
       "ref": "6:10",
@@ -843,7 +1070,10 @@
           "pos": "verb",
           "morph": "V-Qal-Perf-3ms",
           "gloss": "has heard",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
         },
         {
           "id": "psalms.06.10.t002",
@@ -853,7 +1083,8 @@
           "pos": "proper",
           "morph": "PN",
           "gloss": "YHWH",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.10.t003",
@@ -863,7 +1094,10 @@
           "pos": "noun",
           "morph": "N-fs+SFX-1cs",
           "gloss": "my supplication",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
         },
         {
           "id": "psalms.06.10.t004",
@@ -873,7 +1107,8 @@
           "pos": "proper",
           "morph": "PN",
           "gloss": "YHWH",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.10.t005",
@@ -883,7 +1118,10 @@
           "pos": "noun",
           "morph": "N-fs+SFX-1cs",
           "gloss": "my prayer",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
         },
         {
           "id": "psalms.06.10.t006",
@@ -893,10 +1131,16 @@
           "pos": "verb",
           "morph": "V-Qal-Impf-3ms",
           "gloss": "will take/accept",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
         }
       ],
-      "semantic_summary": ["CONFIDENCE", "PRAYER"]
+      "semantic_summary": [
+        "CONFIDENCE",
+        "PRAYER"
+      ]
     },
     {
       "ref": "6:11",
@@ -912,7 +1156,10 @@
           "pos": "verb",
           "morph": "V-Qal-Impf-3mp(juss)",
           "gloss": "let them be ashamed",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "EMOTION"
+          ]
         },
         {
           "id": "psalms.06.11.t002",
@@ -923,8 +1170,13 @@
           "morph": "V-Niphal-Impf-3mp(juss)",
           "gloss": "and let them be terrified",
           "features": {
-            "prefixes": ["conj"]
-          }
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "semantic": [
+            "EMOTION"
+          ]
         },
         {
           "id": "psalms.06.11.t003",
@@ -934,7 +1186,8 @@
           "pos": "adv",
           "morph": "ADV",
           "gloss": "greatly",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.11.t004",
@@ -944,7 +1197,8 @@
           "pos": "quant",
           "morph": "QUANT",
           "gloss": "all",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.06.11.t005",
@@ -954,7 +1208,10 @@
           "pos": "noun",
           "morph": "N-mp+SFX-1cs",
           "gloss": "my enemies",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "DAMAGE"
+          ]
         },
         {
           "id": "psalms.06.11.t006",
@@ -964,7 +1221,10 @@
           "pos": "verb",
           "morph": "V-Qal-Impf-3mp(juss)",
           "gloss": "let them turn back",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "MOTION"
+          ]
         },
         {
           "id": "psalms.06.11.t007",
@@ -974,7 +1234,10 @@
           "pos": "verb",
           "morph": "V-Qal-Impf-3mp(juss)",
           "gloss": "let them be ashamed",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "EMOTION"
+          ]
         },
         {
           "id": "psalms.06.11.t008",
@@ -984,39 +1247,140 @@
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "in an instant/moment",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "TIME"
+          ]
         }
       ],
-      "semantic_summary": ["IMPRECATION", "JUSTICE"]
+      "semantic_summary": [
+        "IMPRECATION",
+        "JUSTICE"
+      ]
     }
   ],
   "lexicon": [
-    {"lemma": "יָכַח", "root": "יכח", "pos": "verb", "gloss": "to rebuke, reprove"},
-    {"lemma": "יָסַר", "root": "יסר", "pos": "verb", "gloss": "to discipline, chastise"},
-    {"lemma": "חָנַן", "root": "חנן", "pos": "verb", "gloss": "to be gracious"},
-    {"lemma": "רָפָא", "root": "רפא", "pos": "verb", "gloss": "to heal"},
-    {"lemma": "בָּהַל", "root": "בהל", "pos": "verb", "gloss": "to be terrified"},
-    {"lemma": "חָלַץ", "root": "חלץ", "pos": "verb", "gloss": "to rescue, draw out"},
-    {"lemma": "חֶסֶד", "root": "חסד", "pos": "noun", "gloss": "steadfast love, loyalty"},
-    {"lemma": "שְׁאוֹל", "root": "שאל", "pos": "noun", "gloss": "Sheol, underworld"},
-    {"lemma": "אֲנָחָה", "root": "אנח", "pos": "noun", "gloss": "groaning"},
-    {"lemma": "דִּמְעָה", "root": "דמע", "pos": "noun", "gloss": "tear"},
-    {"lemma": "אָוֶן", "root": "און", "pos": "noun", "gloss": "iniquity, trouble"},
-    {"lemma": "בּוֹשׁ", "root": "בוש", "pos": "verb", "gloss": "to be ashamed"}
+    {
+      "lemma": "יָכַח",
+      "root": "יכח",
+      "pos": "verb",
+      "gloss": "to rebuke, reprove"
+    },
+    {
+      "lemma": "יָסַר",
+      "root": "יסר",
+      "pos": "verb",
+      "gloss": "to discipline, chastise"
+    },
+    {
+      "lemma": "חָנַן",
+      "root": "חנן",
+      "pos": "verb",
+      "gloss": "to be gracious"
+    },
+    {
+      "lemma": "רָפָא",
+      "root": "רפא",
+      "pos": "verb",
+      "gloss": "to heal"
+    },
+    {
+      "lemma": "בָּהַל",
+      "root": "בהל",
+      "pos": "verb",
+      "gloss": "to be terrified"
+    },
+    {
+      "lemma": "חָלַץ",
+      "root": "חלץ",
+      "pos": "verb",
+      "gloss": "to rescue, draw out"
+    },
+    {
+      "lemma": "חֶסֶד",
+      "root": "חסד",
+      "pos": "noun",
+      "gloss": "steadfast love, loyalty"
+    },
+    {
+      "lemma": "שְׁאוֹל",
+      "root": "שאל",
+      "pos": "noun",
+      "gloss": "Sheol, underworld"
+    },
+    {
+      "lemma": "אֲנָחָה",
+      "root": "אנח",
+      "pos": "noun",
+      "gloss": "groaning"
+    },
+    {
+      "lemma": "דִּמְעָה",
+      "root": "דמע",
+      "pos": "noun",
+      "gloss": "tear"
+    },
+    {
+      "lemma": "אָוֶן",
+      "root": "און",
+      "pos": "noun",
+      "gloss": "iniquity, trouble"
+    },
+    {
+      "lemma": "בּוֹשׁ",
+      "root": "בוש",
+      "pos": "verb",
+      "gloss": "to be ashamed"
+    }
   ],
   "grammar": [
-    {"topic": "Volitives with אַל + imperfect", "example": "אַל־בְּאַפְּךָ תוֹכִיחֵנִי", "note": "Poetic negative volitive: אַל with (jussive-valued) imperfect expresses a plea ('do not …')."},
-    {"topic": "Paragogic ה in imperatives", "example": "שׁוּבָה … חַלְּצָה", "note": "Imperatives with paragogic ה are common in poetry and can add urgency/emphasis."},
-    {"topic": "Argument from mortality", "example": "כִּי אֵין בַּמָּוֶת זִכְרֶךָ", "note": "The psalmist argues for deliverance on the grounds that death ends public praise/remembering."},
-    {"topic": "Metaphor of flooding the bed", "example": "אַשְׂחֶה … מִטָּתִי … עַרְשִׂי אַמְסֶה", "note": "Hyperbolic lament imagery: tears are portrayed as enough to make the bed 'swim'."},
-    {"topic": "Shift from lament to confidence", "example": "כִּי־שָׁמַע יְהוָה … יִקָּח", "note": "A rhetorical turn: declarations of YHWH's hearing/accepting prayer ground renewed confidence."}
+    {
+      "topic": "Volitives with אַל + imperfect",
+      "example": "אַל־בְּאַפְּךָ תוֹכִיחֵנִי",
+      "note": "Poetic negative volitive: אַל with (jussive-valued) imperfect expresses a plea ('do not …')."
+    },
+    {
+      "topic": "Paragogic ה in imperatives",
+      "example": "שׁוּבָה … חַלְּצָה",
+      "note": "Imperatives with paragogic ה are common in poetry and can add urgency/emphasis."
+    },
+    {
+      "topic": "Argument from mortality",
+      "example": "כִּי אֵין בַּמָּוֶת זִכְרֶךָ",
+      "note": "The psalmist argues for deliverance on the grounds that death ends public praise/remembering."
+    },
+    {
+      "topic": "Metaphor of flooding the bed",
+      "example": "אַשְׂחֶה … מִטָּתִי … עַרְשִׂי אַמְסֶה",
+      "note": "Hyperbolic lament imagery: tears are portrayed as enough to make the bed 'swim'."
+    },
+    {
+      "topic": "Shift from lament to confidence",
+      "example": "כִּי־שָׁמַע יְהוָה … יִקָּח",
+      "note": "A rhetorical turn: declarations of YHWH's hearing/accepting prayer ground renewed confidence."
+    }
   ],
   "exercises": [
-    {"q": "Parse תוֹכִיחֵנִי (6:2).", "a": "Hiphil imperfect 2ms with 1cs suffix; volitive/jussive sense after אַל ('do not rebuke me')."},
-    {"q": "Explain the function of כִּי in 6:3 and 6:6.", "a": "Causal conjunction ('for/because'), providing grounds for the plea."},
-    {"q": "Identify two imperatives with paragogic ה (6:5) and explain the effect.", "a": "שׁוּבָה, חַלְּצָה; poetic urgency/emphasis."},
-    {"q": "What is Sheol (שְׁאוֹל) in 6:6 within Hebrew Bible poetics?", "a": "The realm of the dead/underworld; invoked to argue that death precludes praise."},
-    {"q": "Where does the psalm shift toward confidence?", "a": "6:9–10 (Depart… for YHWH has heard… YHWH will accept…)."}
+    {
+      "q": "Parse תוֹכִיחֵנִי (6:2).",
+      "a": "Hiphil imperfect 2ms with 1cs suffix; volitive/jussive sense after אַל ('do not rebuke me')."
+    },
+    {
+      "q": "Explain the function of כִּי in 6:3 and 6:6.",
+      "a": "Causal conjunction ('for/because'), providing grounds for the plea."
+    },
+    {
+      "q": "Identify two imperatives with paragogic ה (6:5) and explain the effect.",
+      "a": "שׁוּבָה, חַלְּצָה; poetic urgency/emphasis."
+    },
+    {
+      "q": "What is Sheol (שְׁאוֹל) in 6:6 within Hebrew Bible poetics?",
+      "a": "The realm of the dead/underworld; invoked to argue that death precludes praise."
+    },
+    {
+      "q": "Where does the psalm shift toward confidence?",
+      "a": "6:9–10 (Depart… for YHWH has heard… YHWH will accept…)."
+    }
   ],
   "annotations": []
 }
