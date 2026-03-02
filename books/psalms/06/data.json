@@ -1,0 +1,1022 @@
+{
+  "spec_version": "1.3",
+  "schema_locked": true,
+  "tagset": {
+    "name": "ETCBC-like",
+    "version": "1.0"
+  },
+  "ref_system": "MT",
+  "generated_at": "2026-03-02",
+  "book": "Psalms",
+  "book_slug": "psalms",
+  "chapter": 6,
+  "title": "Psalm 6",
+  "verses": [
+    {
+      "ref": "6:1",
+      "he": "לַמְנַצֵּ֣חַ בִּ֭נְגִינוֹת עַֽל־הַשְּׁמִינִ֗ית מִזְמ֥וֹר לְדָוִֽד׃",
+      "en": "For the leader, with stringed instruments, on the eighth (sheminith): a psalm of David.",
+      "tr": "Lamnatsēaḥ binnigīnōt ʿal-haššəmīnît, mizmor ləDāwīd.",
+      "tokens": [
+        {
+          "id": "psalms.06.01.t001",
+          "surface": "לַמְנַצֵּחַ",
+          "lemma": "נָצַח",
+          "root": "נצח",
+          "pos": "participle",
+          "morph": "PTCP-Piel-ms",
+          "gloss": "for the leader/director",
+          "features": {
+            "prefixes": ["prep:l", "article_assim"]
+          }
+        },
+        {
+          "id": "psalms.06.01.t002",
+          "surface": "בִּנְגִינוֹת",
+          "lemma": "נְגִינָה",
+          "root": "נגן",
+          "pos": "noun",
+          "morph": "N-fp",
+          "gloss": "with stringed music",
+          "features": {
+            "prefixes": ["prep:b"]
+          }
+        },
+        {
+          "id": "psalms.06.01.t003",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "root": "על",
+          "pos": "prep",
+          "morph": "PREP",
+          "gloss": "on/upon",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.01.t004",
+          "surface": "הַשְּׁמִינִית",
+          "lemma": "שְׁמִינִית",
+          "root": "שמן",
+          "pos": "noun",
+          "morph": "N-fs+Art",
+          "gloss": "the eighth (tune/term)",
+          "features": {
+            "prefixes": ["article"]
+          }
+        },
+        {
+          "id": "psalms.06.01.t005",
+          "surface": "מִזְמוֹר",
+          "lemma": "מִזְמוֹר",
+          "root": "זמר",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "psalm",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.01.t006",
+          "surface": "לְדָוִד",
+          "lemma": "דָּוִד",
+          "root": "דוד",
+          "pos": "proper",
+          "morph": "PN",
+          "gloss": "of David",
+          "features": {
+            "prefixes": ["prep:l"]
+          }
+        }
+      ],
+      "semantic_summary": ["SUPERSCRIPTION", "MUSIC"]
+    },
+    {
+      "ref": "6:2",
+      "he": "יְֽהוָ֗ה אַל־בְּאַפְּךָ֥ תוֹכִיחֵ֑נִי וְֽאַל־בַּחֲמָתְךָ֥ תְיַסְּרֵֽנִי׃",
+      "en": "O YHWH, do not rebuke me in your anger, and do not discipline me in your wrath.",
+      "tr": "YHWH ʾal-bǝʾappeḵā tōḵîḥēnî; wǝʾal-baḥămāteḵā təyassərēnî.",
+      "tokens": [
+        {
+          "id": "psalms.06.02.t001",
+          "surface": "יְֽהוָ֗ה",
+          "lemma": "יְהוָה",
+          "root": "יהוה",
+          "pos": "proper",
+          "morph": "PN",
+          "gloss": "YHWH",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.02.t002",
+          "surface": "אַל",
+          "lemma": "אַל",
+          "root": "אַל",
+          "pos": "neg",
+          "morph": "NEG",
+          "gloss": "do not",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.02.t003",
+          "surface": "בְּאַפְּךָ",
+          "lemma": "אַף",
+          "root": "אף",
+          "pos": "noun",
+          "morph": "N-ms+SFX-2ms",
+          "gloss": "in your anger",
+          "features": {
+            "prefixes": ["prep:b"]
+          }
+        },
+        {
+          "id": "psalms.06.02.t004",
+          "surface": "תוֹכִיחֵנִי",
+          "lemma": "יָכַח",
+          "root": "יכח",
+          "pos": "verb",
+          "morph": "V-Hiphil-Impf-2ms+SFX-1cs(juss)",
+          "gloss": "rebuke me",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.02.t005",
+          "surface": "וְאַל",
+          "lemma": "אַל",
+          "root": "אל",
+          "pos": "particle",
+          "morph": "NEG",
+          "gloss": "and do not",
+          "features": {
+            "prefixes": ["conj"]
+          }
+        },
+        {
+          "id": "psalms.06.02.t006",
+          "surface": "בַּחֲמָתְךָ",
+          "lemma": "חֵמָה",
+          "root": "חמה",
+          "pos": "noun",
+          "morph": "N-fs+SFX-2ms",
+          "gloss": "in your wrath",
+          "features": {
+            "prefixes": ["prep:b", "article_assim"]
+          }
+        },
+        {
+          "id": "psalms.06.02.t007",
+          "surface": "תְיַסְּרֵנִי",
+          "lemma": "יָסַר",
+          "root": "יסר",
+          "pos": "verb",
+          "morph": "V-Piel-Impf-2ms+SFX-1cs(juss)",
+          "gloss": "discipline me",
+          "features": {}
+        }
+      ],
+      "semantic_summary": ["LAMENT", "PETITION"]
+    },
+    {
+      "ref": "6:3",
+      "he": "חָנֵּ֥נִי יְהוָה֮ כִּ֤י אֻמְלַ֫ל אָ֥נִי רְפָאֵ֥נִי יְהוָ֑ה כִּ֖י נִבְהֲל֣וּ עֲצָמָֽי׃",
+      "en": "Be gracious to me, O YHWH, for I am languishing; heal me, O YHWH, for my bones are terrified.",
+      "tr": "Ḥannēnî YHWH, kî ʾumlal ʾānî; rǝfāʾēnî YHWH, kî nivhălû ʿaṣāmāy.",
+      "tokens": [
+        {
+          "id": "psalms.06.03.t001",
+          "surface": "חָנֵּנִי",
+          "lemma": "חָנַן",
+          "root": "חנן",
+          "pos": "verb",
+          "morph": "V-Piel-Imp-2ms+SFX-1cs",
+          "gloss": "be gracious to me",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.03.t002",
+          "surface": "יְהוָה",
+          "lemma": "יְהוָה",
+          "root": "יהוה",
+          "pos": "proper",
+          "morph": "PN",
+          "gloss": "YHWH",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.03.t003",
+          "surface": "כִּי",
+          "lemma": "כִּי",
+          "root": "כִּי",
+          "pos": "conj",
+          "morph": "CONJ",
+          "gloss": "for/because",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.03.t004",
+          "surface": "אֻמְלַ֫ל",
+          "lemma": "אֻמְלַל",
+          "root": "אמל",
+          "pos": "adj",
+          "morph": "ADJ-ms",
+          "gloss": "feeble/languishing",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.03.t005",
+          "surface": "אָ֥נִי",
+          "lemma": "אֲנִי",
+          "root": "אני",
+          "pos": "pron",
+          "morph": "PRON-1cs",
+          "gloss": "I",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.03.t006",
+          "surface": "רְפָאֵנִי",
+          "lemma": "רָפָא",
+          "root": "רפא",
+          "pos": "verb",
+          "morph": "V-Qal-Imp-2ms+SFX-1cs",
+          "gloss": "heal me",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.03.t007",
+          "surface": "יְהוָה",
+          "lemma": "יְהוָה",
+          "root": "יהוה",
+          "pos": "proper",
+          "morph": "PN",
+          "gloss": "YHWH",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.03.t008",
+          "surface": "כִּי",
+          "lemma": "כִּי",
+          "root": "כִּי",
+          "pos": "conj",
+          "morph": "CONJ",
+          "gloss": "for/because",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.03.t009",
+          "surface": "נִבְהֲלוּ",
+          "lemma": "בָּהַל",
+          "root": "בהל",
+          "pos": "verb",
+          "morph": "V-Niphal-Perf-3cp",
+          "gloss": "they were terrified",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.03.t010",
+          "surface": "עֲצָמָי",
+          "lemma": "עֶצֶם",
+          "root": "עצם",
+          "pos": "noun",
+          "morph": "N-fp+SFX-1cs",
+          "gloss": "my bones",
+          "features": {}
+        }
+      ],
+      "semantic_summary": ["LAMENT", "HEALING"]
+    },
+    {
+      "ref": "6:4",
+      "he": "וְ֭נַפְשִׁי נִבְהֲלָ֣ה מְאֹ֑ד וְאַתָּ֥ה יְ֝הוָ֗ה עַד־מָתָֽי׃",
+      "en": "And my soul is greatly terrified; but you, O YHWH—how long?",
+      "tr": "Wǝnafšî nivhălāh məʾōd; wǝʾattāh YHWH, ʿad-mātāy?",
+      "tokens": [
+        {
+          "id": "psalms.06.04.t001",
+          "surface": "וְנַפְשִׁי",
+          "lemma": "נֶפֶשׁ",
+          "root": "נפש",
+          "pos": "noun",
+          "morph": "N-fs+SFX-1cs",
+          "gloss": "and my soul/life",
+          "features": {
+            "prefixes": ["conj"]
+          }
+        },
+        {
+          "id": "psalms.06.04.t002",
+          "surface": "נִבְהֲלָה",
+          "lemma": "בָּהַל",
+          "root": "בהל",
+          "pos": "verb",
+          "morph": "V-Niphal-Perf-3fs",
+          "gloss": "is terrified",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.04.t003",
+          "surface": "מְאֹד",
+          "lemma": "מְאֹד",
+          "root": "מאד",
+          "pos": "adv",
+          "morph": "ADV",
+          "gloss": "greatly",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.04.t004",
+          "surface": "וְאַתָּה",
+          "lemma": "אַתָּה",
+          "root": "אתה",
+          "pos": "pron",
+          "morph": "PRON-2ms",
+          "gloss": "but you",
+          "features": {
+            "prefixes": ["conj"]
+          }
+        },
+        {
+          "id": "psalms.06.04.t005",
+          "surface": "יְהוָ֗ה",
+          "lemma": "יְהוָה",
+          "root": "יהוה",
+          "pos": "proper",
+          "morph": "PN",
+          "gloss": "YHWH",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.04.t006",
+          "surface": "עַד",
+          "lemma": "עַד",
+          "root": "עד",
+          "pos": "prep",
+          "morph": "PREP",
+          "gloss": "until/how long",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.04.t007",
+          "surface": "מָתָי",
+          "lemma": "מָתַי",
+          "root": "מת",
+          "pos": "interrog",
+          "morph": "INTERR",
+          "gloss": "when? (how long?)",
+          "features": {}
+        }
+      ],
+      "semantic_summary": ["LAMENT", "TIME"]
+    },
+    {
+      "ref": "6:5",
+      "he": "שׁוּבָ֣ה יְ֭הוָה חַלְּצָ֣ה נַפְשִׁ֑י ה֝וֹשִׁיעֵ֗נִי לְמַ֣עַן חַסְדֶּֽךָ׃",
+      "en": "Return, O YHWH; rescue my soul. Save me for the sake of your steadfast love.",
+      "tr": "Šūbāh YHWH; ḥallǝṣā nafšî; hōšîʿēnî lǝmaʿan ḥasdeḵā.",
+      "tokens": [
+        {
+          "id": "psalms.06.05.t001",
+          "surface": "שׁוּבָה",
+          "lemma": "שׁוּב",
+          "root": "שוב",
+          "pos": "verb",
+          "morph": "V-Qal-Imp-2ms+paragogic",
+          "gloss": "return",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.05.t002",
+          "surface": "יְהוָה",
+          "lemma": "יְהוָה",
+          "root": "יהוה",
+          "pos": "proper",
+          "morph": "PN",
+          "gloss": "YHWH",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.05.t003",
+          "surface": "חַלְּצָה",
+          "lemma": "חָלַץ",
+          "root": "חלץ",
+          "pos": "verb",
+          "morph": "V-Piel-Imp-2ms+paragogic",
+          "gloss": "rescue/deliver",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.05.t004",
+          "surface": "נַפְשִׁי",
+          "lemma": "נֶפֶשׁ",
+          "root": "נפש",
+          "pos": "noun",
+          "morph": "N-fs+SFX-1cs",
+          "gloss": "my soul/life",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.05.t005",
+          "surface": "הוֹשִׁיעֵנִי",
+          "lemma": "יָשַׁע",
+          "root": "ישע",
+          "pos": "verb",
+          "morph": "V-Hiphil-Imp-2ms+SFX-1cs",
+          "gloss": "save me",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.05.t006",
+          "surface": "לְמַעַן",
+          "lemma": "מַעַן",
+          "root": "מען",
+          "pos": "prep",
+          "morph": "PREP",
+          "gloss": "for the sake of",
+          "features": {
+            "prefixes": ["prep:l"]
+          }
+        },
+        {
+          "id": "psalms.06.05.t007",
+          "surface": "חַסְדֶּךָ",
+          "lemma": "חֶסֶד",
+          "root": "חסד",
+          "pos": "noun",
+          "morph": "N-ms+SFX-2ms",
+          "gloss": "your steadfast love",
+          "features": {}
+        }
+      ],
+      "semantic_summary": ["PETITION", "COVENANT_LOVE"]
+    },
+    {
+      "ref": "6:6",
+      "he": "כִּ֤י אֵ֣ין בַּמָּ֣וֶת זִכְרֶ֑ךָ בִּ֝שְׁא֗וֹל מִ֣י יוֹדֶה־לָּֽךְ׃",
+      "en": "For in death there is no remembrance of you; in Sheol who will give you thanks?",
+      "tr": "Kî ʾên bammāwet zikreḵā; bišʾōl mî yōdeh-lāḵ.",
+      "tokens": [
+        {
+          "id": "psalms.06.06.t001",
+          "surface": "כִּי",
+          "lemma": "כִּי",
+          "root": "כִּי",
+          "pos": "conj",
+          "morph": "CONJ",
+          "gloss": "for/because",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.06.t002",
+          "surface": "אֵין",
+          "lemma": "אֵין",
+          "root": "אֵין",
+          "pos": "particle",
+          "morph": "NEG.EXIST",
+          "gloss": "there is no",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.06.t003",
+          "surface": "בַּמָּוֶת",
+          "lemma": "מָוֶת",
+          "root": "מות",
+          "pos": "noun",
+          "morph": "N-ms+Art",
+          "gloss": "in death",
+          "features": {
+            "prefixes": ["prep:b", "article_assim"]
+          }
+        },
+        {
+          "id": "psalms.06.06.t004",
+          "surface": "זִכְרֶךָ",
+          "lemma": "זֵכֶר",
+          "root": "זכר",
+          "pos": "noun",
+          "morph": "N-ms+SFX-2ms",
+          "gloss": "your remembrance",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.06.t005",
+          "surface": "בִּשְׁאוֹל",
+          "lemma": "שְׁאוֹל",
+          "root": "שאל",
+          "pos": "noun",
+          "morph": "N-fs",
+          "gloss": "in Sheol",
+          "features": {
+            "prefixes": ["prep:b"]
+          }
+        },
+        {
+          "id": "psalms.06.06.t006",
+          "surface": "מִי",
+          "lemma": "מִי",
+          "root": "מי",
+          "pos": "interrog",
+          "morph": "INTERR",
+          "gloss": "who?",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.06.t007",
+          "surface": "יוֹדֶה",
+          "lemma": "יָדָה",
+          "root": "ידה",
+          "pos": "verb",
+          "morph": "V-Hiphil-Impf-3ms",
+          "gloss": "will give thanks",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.06.t008",
+          "surface": "לָּךְ",
+          "lemma": "לְ",
+          "root": "ל",
+          "pos": "prep",
+          "morph": "PREP+SFX-2ms",
+          "gloss": "to you",
+          "features": {}
+        }
+      ],
+      "semantic_summary": ["MORTALITY", "ARGUMENT"]
+    },
+    {
+      "ref": "6:7",
+      "he": "יָגַ֤עְתִּי ׀ בְּאַנְחָתִ֗י אַשְׂחֶ֣ה בְכָל־לַ֭יְלָה מִטָּתִ֑י בְּדִמְעָתִ֗י עַרְשִׂ֥י אַמְסֶֽה׃",
+      "en": "I am weary with my groaning; every night I make my bed swim; with my tears I drench my couch.",
+      "tr": "Yāgaʿtî bǝʾanḥātî; ʾaśḥeh ḇǝḵol-laylāh miṭṭātî; bǝdimʿātî ʿarśî ʾamsēh.",
+      "tokens": [
+        {
+          "id": "psalms.06.07.t001",
+          "surface": "יָגַעְתִּי",
+          "lemma": "יָגַע",
+          "root": "יגע",
+          "pos": "verb",
+          "morph": "V-Qal-Perf-1cs",
+          "gloss": "I am weary",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.07.t002",
+          "surface": "בְּאַנְחָתִי",
+          "lemma": "אֲנָחָה",
+          "root": "אנח",
+          "pos": "noun",
+          "morph": "N-fs+SFX-1cs",
+          "gloss": "with my groaning",
+          "features": {
+            "prefixes": ["prep:b"]
+          }
+        },
+        {
+          "id": "psalms.06.07.t003",
+          "surface": "אַשְׂחֶה",
+          "lemma": "שָׂחָה",
+          "root": "שחה",
+          "pos": "verb",
+          "morph": "V-Hiphil-Impf-1cs",
+          "gloss": "I cause to swim (make float)",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.07.t004",
+          "surface": "בְּכָל",
+          "lemma": "כֹּל",
+          "root": "כל",
+          "pos": "quant",
+          "morph": "QUANT",
+          "gloss": "every",
+          "features": {
+            "prefixes": ["prep:b"]
+          }
+        },
+        {
+          "id": "psalms.06.07.t005",
+          "surface": "לַיְלָה",
+          "lemma": "לַיְלָה",
+          "root": "ליל",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "night",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.07.t006",
+          "surface": "מִטָּתִי",
+          "lemma": "מִטָּה",
+          "root": "נטה",
+          "pos": "noun",
+          "morph": "N-fs+SFX-1cs",
+          "gloss": "my bed",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.07.t007",
+          "surface": "בְּדִמְעָתִי",
+          "lemma": "דִּמְעָה",
+          "root": "דמע",
+          "pos": "noun",
+          "morph": "N-fs+SFX-1cs",
+          "gloss": "with my tears",
+          "features": {
+            "prefixes": ["prep:b"]
+          }
+        },
+        {
+          "id": "psalms.06.07.t008",
+          "surface": "עַרְשִׂי",
+          "lemma": "עֶרֶשׂ",
+          "root": "ערשׂ",
+          "pos": "noun",
+          "morph": "N-ms+SFX-1cs",
+          "gloss": "my couch",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.07.t009",
+          "surface": "אַמְסֶה",
+          "lemma": "מָסָה",
+          "root": "מסס",
+          "pos": "verb",
+          "morph": "V-Hiphil-Impf-1cs",
+          "gloss": "I drench/soak",
+          "features": {}
+        }
+      ],
+      "semantic_summary": ["LAMENT", "IMAGERY"]
+    },
+    {
+      "ref": "6:8",
+      "he": "עָֽשְׁשָׁ֣ה מִכַּ֣עַס עֵינִ֑י עָֽתְקָ֗ה בְּכָל־צוֹרְרָֽי׃",
+      "en": "My eye wastes away because of grief; it grows old because of all my adversaries.",
+      "tr": "ʿĀššǝšāh mikkāʿas ʿênî; ʿātǝqāh bǝḵol-ṣōrǝrāy.",
+      "tokens": [
+        {
+          "id": "psalms.06.08.t001",
+          "surface": "עָשְׁשָׁה",
+          "lemma": "עָשַׁשׁ",
+          "root": "עששׁ",
+          "pos": "verb",
+          "morph": "V-Qal-Perf-3fs",
+          "gloss": "has wasted away",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.08.t002",
+          "surface": "מִכַּעַס",
+          "lemma": "כַּעַס",
+          "root": "כעס",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "from vexation/grief",
+          "features": {
+            "prefixes": ["prep:min"]
+          }
+        },
+        {
+          "id": "psalms.06.08.t003",
+          "surface": "עֵינִי",
+          "lemma": "עַיִן",
+          "root": "עין",
+          "pos": "noun",
+          "morph": "N-fs+SFX-1cs",
+          "gloss": "my eye",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.08.t004",
+          "surface": "עָתְקָה",
+          "lemma": "עָתַק",
+          "root": "עתק",
+          "pos": "verb",
+          "morph": "V-Qal-Perf-3fs",
+          "gloss": "has grown old",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.08.t005",
+          "surface": "בְּכָל",
+          "lemma": "כֹּל",
+          "root": "כל",
+          "pos": "quant",
+          "morph": "QUANT",
+          "gloss": "because of all",
+          "features": {
+            "prefixes": ["prep:b"]
+          }
+        },
+        {
+          "id": "psalms.06.08.t006",
+          "surface": "צוֹרְרָי",
+          "lemma": "צָרַר",
+          "root": "צרר",
+          "pos": "noun",
+          "morph": "N-mp+SFX-1cs",
+          "gloss": "my adversaries",
+          "features": {}
+        }
+      ],
+      "semantic_summary": ["LAMENT", "OPPRESSION"]
+    },
+    {
+      "ref": "6:9",
+      "he": "ס֣וּרוּ מִמֶּ֣נִּי כָּל־פֹּ֣עֲלֵי אָ֑וֶן כִּֽי־שָׁמַ֥ע יְ֝הוָ֗ה ק֣וֹל בִּכְיִֽי׃",
+      "en": "Depart from me, all you workers of iniquity, for YHWH has heard the sound of my weeping.",
+      "tr": "Sūrû mimmennî kol-pōʿălê ʾāwen; kî-šāmaʿ YHWH qōl bikyî.",
+      "tokens": [
+        {
+          "id": "psalms.06.09.t001",
+          "surface": "ס֣וּרוּ",
+          "lemma": "סוּר",
+          "root": "סור",
+          "pos": "verb",
+          "morph": "V-Qal-Imp-2mp",
+          "gloss": "depart",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.09.t002",
+          "surface": "מִמֶּנִּי",
+          "lemma": "מִן",
+          "root": "מן",
+          "pos": "prep",
+          "morph": "PREP+SFX-1cs",
+          "gloss": "from me",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.09.t003",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "root": "כל",
+          "pos": "quant",
+          "morph": "QUANT",
+          "gloss": "all",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.09.t004",
+          "surface": "פֹּעֲלֵי",
+          "lemma": "פָּעַל",
+          "root": "פעל",
+          "pos": "participle",
+          "morph": "PTCP-Qal-mp-construct",
+          "gloss": "workers of",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.09.t005",
+          "surface": "אָוֶן",
+          "lemma": "אָוֶן",
+          "root": "און",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "iniquity",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.09.t006",
+          "surface": "כִּי",
+          "lemma": "כִּי",
+          "root": "כִּי",
+          "pos": "conj",
+          "morph": "CONJ",
+          "gloss": "for/because",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.09.t007",
+          "surface": "שָׁמַע",
+          "lemma": "שָׁמַע",
+          "root": "שמע",
+          "pos": "verb",
+          "morph": "V-Qal-Perf-3ms",
+          "gloss": "he has heard",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.09.t008",
+          "surface": "יְהוָה",
+          "lemma": "יְהוָה",
+          "root": "יהוה",
+          "pos": "proper",
+          "morph": "PN",
+          "gloss": "YHWH",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.09.t009",
+          "surface": "קוֹל",
+          "lemma": "קוֹל",
+          "root": "קול",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "voice/sound",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.09.t010",
+          "surface": "בִּכְיִי",
+          "lemma": "בְּכִי",
+          "root": "בכה",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "my weeping",
+          "features": {
+            "prefixes": ["prep:b"]
+          }
+        }
+      ],
+      "semantic_summary": ["CONFIDENCE", "REVERSAL"]
+    },
+    {
+      "ref": "6:10",
+      "he": "שָׁמַ֣ע יְ֭הוָה תְּחִנָּתִ֑י יְ֝הוָ֗ה תְּפִלָּתִ֥י יִקָּֽח׃",
+      "en": "YHWH has heard my plea; YHWH will accept my prayer.",
+      "tr": "Šāmaʿ YHWH təḥinnātî; YHWH təpillātî yiqqāḥ.",
+      "tokens": [
+        {
+          "id": "psalms.06.10.t001",
+          "surface": "שָׁמַע",
+          "lemma": "שָׁמַע",
+          "root": "שמע",
+          "pos": "verb",
+          "morph": "V-Qal-Perf-3ms",
+          "gloss": "has heard",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.10.t002",
+          "surface": "יְהוָה",
+          "lemma": "יְהוָה",
+          "root": "יהוה",
+          "pos": "proper",
+          "morph": "PN",
+          "gloss": "YHWH",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.10.t003",
+          "surface": "תְּחִנָּתִי",
+          "lemma": "תְּחִנָּה",
+          "root": "חנן",
+          "pos": "noun",
+          "morph": "N-fs+SFX-1cs",
+          "gloss": "my supplication",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.10.t004",
+          "surface": "יְהוָה",
+          "lemma": "יְהוָה",
+          "root": "יהוה",
+          "pos": "proper",
+          "morph": "PN",
+          "gloss": "YHWH",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.10.t005",
+          "surface": "תְּפִלָּתִי",
+          "lemma": "תְּפִלָּה",
+          "root": "פלל",
+          "pos": "noun",
+          "morph": "N-fs+SFX-1cs",
+          "gloss": "my prayer",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.10.t006",
+          "surface": "יִקָּח",
+          "lemma": "לָקַח",
+          "root": "לקח",
+          "pos": "verb",
+          "morph": "V-Qal-Impf-3ms",
+          "gloss": "will take/accept",
+          "features": {}
+        }
+      ],
+      "semantic_summary": ["CONFIDENCE", "PRAYER"]
+    },
+    {
+      "ref": "6:11",
+      "he": "יֵבֹ֤שׁוּ ׀ וְיִבָּהֲל֣וּ מְאֹ֣ד כָּל־אֹיְבָ֑י יָשֻׁ֗בוּ יֵבֹ֥שׁוּ רָֽגַע׃",
+      "en": "All my enemies shall be ashamed and greatly terrified; they shall turn back and be ashamed in a moment.",
+      "tr": "Yēbōšû wǝyibbāhălû məʾōd kol-ʾōyǝḇāy; yāšūḇû yēbōšû rāgaʿ.",
+      "tokens": [
+        {
+          "id": "psalms.06.11.t001",
+          "surface": "יֵבֹשׁוּ",
+          "lemma": "בּוֹשׁ",
+          "root": "בוש",
+          "pos": "verb",
+          "morph": "V-Qal-Impf-3mp(juss)",
+          "gloss": "let them be ashamed",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.11.t002",
+          "surface": "וְיִבָּהֲלוּ",
+          "lemma": "בָּהַל",
+          "root": "בהל",
+          "pos": "verb",
+          "morph": "V-Niphal-Impf-3mp(juss)",
+          "gloss": "and let them be terrified",
+          "features": {
+            "prefixes": ["conj"]
+          }
+        },
+        {
+          "id": "psalms.06.11.t003",
+          "surface": "מְאֹד",
+          "lemma": "מְאֹד",
+          "root": "מאד",
+          "pos": "adv",
+          "morph": "ADV",
+          "gloss": "greatly",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.11.t004",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "root": "כל",
+          "pos": "quant",
+          "morph": "QUANT",
+          "gloss": "all",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.11.t005",
+          "surface": "אֹיְבָי",
+          "lemma": "אוֹיֵב",
+          "root": "איב",
+          "pos": "noun",
+          "morph": "N-mp+SFX-1cs",
+          "gloss": "my enemies",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.11.t006",
+          "surface": "יָשֻׁבוּ",
+          "lemma": "שׁוּב",
+          "root": "שוב",
+          "pos": "verb",
+          "morph": "V-Qal-Impf-3mp(juss)",
+          "gloss": "let them turn back",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.11.t007",
+          "surface": "יֵבֹשׁוּ",
+          "lemma": "בּוֹשׁ",
+          "root": "בוש",
+          "pos": "verb",
+          "morph": "V-Qal-Impf-3mp(juss)",
+          "gloss": "let them be ashamed",
+          "features": {}
+        },
+        {
+          "id": "psalms.06.11.t008",
+          "surface": "רָגַע",
+          "lemma": "רֶגַע",
+          "root": "רגע",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "in an instant/moment",
+          "features": {}
+        }
+      ],
+      "semantic_summary": ["IMPRECATION", "JUSTICE"]
+    }
+  ],
+  "lexicon": [
+    {"lemma": "יָכַח", "root": "יכח", "pos": "verb", "gloss": "to rebuke, reprove"},
+    {"lemma": "יָסַר", "root": "יסר", "pos": "verb", "gloss": "to discipline, chastise"},
+    {"lemma": "חָנַן", "root": "חנן", "pos": "verb", "gloss": "to be gracious"},
+    {"lemma": "רָפָא", "root": "רפא", "pos": "verb", "gloss": "to heal"},
+    {"lemma": "בָּהַל", "root": "בהל", "pos": "verb", "gloss": "to be terrified"},
+    {"lemma": "חָלַץ", "root": "חלץ", "pos": "verb", "gloss": "to rescue, draw out"},
+    {"lemma": "חֶסֶד", "root": "חסד", "pos": "noun", "gloss": "steadfast love, loyalty"},
+    {"lemma": "שְׁאוֹל", "root": "שאל", "pos": "noun", "gloss": "Sheol, underworld"},
+    {"lemma": "אֲנָחָה", "root": "אנח", "pos": "noun", "gloss": "groaning"},
+    {"lemma": "דִּמְעָה", "root": "דמע", "pos": "noun", "gloss": "tear"},
+    {"lemma": "אָוֶן", "root": "און", "pos": "noun", "gloss": "iniquity, trouble"},
+    {"lemma": "בּוֹשׁ", "root": "בוש", "pos": "verb", "gloss": "to be ashamed"}
+  ],
+  "grammar": [
+    {"topic": "Volitives with אַל + imperfect", "example": "אַל־בְּאַפְּךָ תוֹכִיחֵנִי", "note": "Poetic negative volitive: אַל with (jussive-valued) imperfect expresses a plea ('do not …')."},
+    {"topic": "Paragogic ה in imperatives", "example": "שׁוּבָה … חַלְּצָה", "note": "Imperatives with paragogic ה are common in poetry and can add urgency/emphasis."},
+    {"topic": "Argument from mortality", "example": "כִּי אֵין בַּמָּוֶת זִכְרֶךָ", "note": "The psalmist argues for deliverance on the grounds that death ends public praise/remembering."},
+    {"topic": "Metaphor of flooding the bed", "example": "אַשְׂחֶה … מִטָּתִי … עַרְשִׂי אַמְסֶה", "note": "Hyperbolic lament imagery: tears are portrayed as enough to make the bed 'swim'."},
+    {"topic": "Shift from lament to confidence", "example": "כִּי־שָׁמַע יְהוָה … יִקָּח", "note": "A rhetorical turn: declarations of YHWH's hearing/accepting prayer ground renewed confidence."}
+  ],
+  "exercises": [
+    {"q": "Parse תוֹכִיחֵנִי (6:2).", "a": "Hiphil imperfect 2ms with 1cs suffix; volitive/jussive sense after אַל ('do not rebuke me')."},
+    {"q": "Explain the function of כִּי in 6:3 and 6:6.", "a": "Causal conjunction ('for/because'), providing grounds for the plea."},
+    {"q": "Identify two imperatives with paragogic ה (6:5) and explain the effect.", "a": "שׁוּבָה, חַלְּצָה; poetic urgency/emphasis."},
+    {"q": "What is Sheol (שְׁאוֹל) in 6:6 within Hebrew Bible poetics?", "a": "The realm of the dead/underworld; invoked to argue that death precludes praise."},
+    {"q": "Where does the psalm shift toward confidence?", "a": "6:9–10 (Depart… for YHWH has heard… YHWH will accept…)."}
+  ],
+  "annotations": []
+}

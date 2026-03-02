@@ -1,0 +1,1888 @@
+window.__chapterData = {
+  "spec_version": "1.4",
+  "tagset": {
+    "name": "ETCBC-like",
+    "version": "1.0"
+  },
+  "ref_system": "MT",
+  "generated_at": "2026-03-01",
+  "book": "Psalms",
+  "book_slug": "psalms",
+  "chapter": 2,
+  "title": "Psalm 2",
+  "verses": [
+    {
+      "ref": "2:1",
+      "he": "לָמָּה רָגְשׁוּ גוֹיִם וּלְאֻמִּים יֶהְגּוּ־רִיק׃",
+      "en": "Why do the nations rage, and the peoples plot a vain thing?",
+      "tr": "Lammāh rageshū gōyim, ûleʾummīm yehgû-rîq.",
+      "tokens": [
+        {
+          "id": "psalms.02.01.t001",
+          "surface": "לָמָּה",
+          "lemma": "לָמָּה",
+          "root": "—",
+          "pos": "adv",
+          "features": {
+            "type": "interrogative"
+          },
+          "morph": "ADV-INT",
+          "gloss": "why",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.01.t002",
+          "surface": "רָגְשׁוּ",
+          "lemma": "רָגַשׁ",
+          "root": "רגשׁ",
+          "pos": "verb",
+          "features": {
+            "stem": "Qal",
+            "aspect": "perf",
+            "person": 3,
+            "gender": "m",
+            "number": "pl"
+          },
+          "morph": "V-Qal-Perf-3mp",
+          "gloss": "rage, be in tumult",
+          "semantic": [
+            "MOTION"
+          ]
+        },
+        {
+          "id": "psalms.02.01.t003",
+          "surface": "גוֹיִם",
+          "lemma": "גּוֹי",
+          "root": "גוי",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "pl"
+          },
+          "morph": "N-mp",
+          "gloss": "nations, peoples",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.01.t004",
+          "surface": "וּלְאֻמִּים",
+          "lemma": "לְאֹם",
+          "root": "לאם",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "pl",
+            "prefixes": [
+              "conj",
+              "prep:l"
+            ]
+          },
+          "morph": "N-mp",
+          "gloss": "and peoples",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.01.t005",
+          "surface": "יֶהְגּוּ",
+          "lemma": "הָגָה",
+          "root": "הגה",
+          "pos": "verb",
+          "features": {
+            "stem": "Qal",
+            "aspect": "impf",
+            "person": 3,
+            "gender": "m",
+            "number": "pl"
+          },
+          "morph": "V-Qal-Impf-3mp",
+          "gloss": "mutter, devise",
+          "semantic": [
+            "SPEECH"
+          ]
+        },
+        {
+          "id": "psalms.02.01.t006",
+          "surface": "רִיק",
+          "lemma": "רִיק",
+          "root": "ריק",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "sg",
+            "function": "adverbial"
+          },
+          "morph": "N-ms(adv)",
+          "gloss": "emptiness, in vain",
+          "semantic": []
+        }
+      ],
+      "semantic_summary": [
+        "MOTION",
+        "SPEECH"
+      ]
+    },
+    {
+      "ref": "2:2",
+      "he": "יִתְיַצְּבוּ מַלְכֵי־אֶרֶץ וְרוֹזְנִים נוֹסְדוּ־יָחַד עַל־יְהוָה וְעַל־מְשִׁיחוֹ׃",
+      "en": "The kings of the earth set themselves, and the rulers take counsel together, against YHWH and against his anointed.",
+      "tr": "Yityatsəvū malkê-ʾereṣ, wərōznīm nōsədū-yaḥad ʿal‑YHWH, wəʿal‑məshīḥō.",
+      "tokens": [
+        {
+          "id": "psalms.02.02.t001",
+          "surface": "יִתְיַצְּבוּ",
+          "lemma": "יַצַּב",
+          "root": "יצב",
+          "pos": "verb",
+          "features": {
+            "stem": "Hitpael",
+            "aspect": "impf",
+            "person": 3,
+            "gender": "m",
+            "number": "pl"
+          },
+          "morph": "V-Hitpael-Impf-3mp",
+          "gloss": "take their stand",
+          "semantic": [
+            "MOTION"
+          ]
+        },
+        {
+          "id": "psalms.02.02.t002",
+          "surface": "מַלְכֵי",
+          "lemma": "מֶלֶךְ",
+          "root": "מלך",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "pl",
+            "state": "construct"
+          },
+          "morph": "N-mp-construct",
+          "gloss": "kings of",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.02.t003",
+          "surface": "אֶרֶץ",
+          "lemma": "אֶרֶץ",
+          "root": "ארץ",
+          "pos": "noun",
+          "features": {
+            "gender": "f",
+            "number": "sg",
+            "state": "absolute"
+          },
+          "morph": "N-fs",
+          "gloss": "earth, land",
+          "semantic": [
+            "PLACE"
+          ]
+        },
+        {
+          "id": "psalms.02.02.t004",
+          "surface": "וְרוֹזְנִים",
+          "lemma": "רֹזֵן",
+          "root": "רזן",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "pl",
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "morph": "N-mp",
+          "gloss": "and rulers",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.02.t005",
+          "surface": "נוֹסְדוּ",
+          "lemma": "יָסַד",
+          "root": "יסד",
+          "pos": "verb",
+          "features": {
+            "stem": "Niphal",
+            "aspect": "perf",
+            "person": 3,
+            "gender": "m",
+            "number": "pl"
+          },
+          "morph": "V-Niphal-Perf-3mp",
+          "gloss": "have taken counsel / banded together",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.02.t006",
+          "surface": "יָחַד",
+          "lemma": "יַחַד",
+          "root": "יחד",
+          "pos": "adv",
+          "features": {},
+          "morph": "ADV",
+          "gloss": "together",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.02.t007",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "root": "—",
+          "pos": "prep",
+          "features": {},
+          "morph": "PREP",
+          "gloss": "against / concerning",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.02.t008",
+          "surface": "יְהוָה",
+          "lemma": "יְהוָה",
+          "root": "—",
+          "pos": "proper",
+          "features": {
+            "type": "divine_name"
+          },
+          "morph": "PN",
+          "gloss": "YHWH",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.02.t009",
+          "surface": "וְעַל",
+          "lemma": "עַל",
+          "root": "—",
+          "pos": "prep",
+          "features": {
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "morph": "PREP",
+          "gloss": "and against",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.02.t010",
+          "surface": "מְשִׁיחוֹ",
+          "lemma": "מָשִׁיחַ",
+          "root": "משׁח",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "sg",
+            "state": "absolute",
+            "suffix": "3ms"
+          },
+          "morph": "N-ms+SFX-3ms",
+          "gloss": "his anointed one",
+          "semantic": [
+            "SYMBOL"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "MOTION",
+        "PLACE",
+        "SYMBOL"
+      ]
+    },
+    {
+      "ref": "2:3",
+      "he": "נְנַתְּקָה אֶת־מוֹסְרוֹתֵימוֹ וְנַשְׁלִיכָה מִמֶּנּוּ עֲבֹתֵימוֹ׃",
+      "en": "“Let us tear off their bonds, and cast away their cords from us!”",
+      "tr": "Nənatteqā ʾet‑mōsərōtêmo, wənashlīkhā mimmennu ʿăvōtêmo.",
+      "tokens": [
+        {
+          "id": "psalms.02.03.t001",
+          "surface": "נְנַתְּקָה",
+          "lemma": "נָתַק",
+          "root": "נתק",
+          "pos": "verb",
+          "features": {
+            "stem": "Piel",
+            "aspect": "cohortative",
+            "person": 1,
+            "number": "pl"
+          },
+          "morph": "V-Piel-Coh-1cp",
+          "gloss": "let us tear off / snap",
+          "semantic": [
+            "DAMAGE"
+          ]
+        },
+        {
+          "id": "psalms.02.03.t002",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "root": "—",
+          "pos": "part",
+          "features": {
+            "function": "dobj_marker"
+          },
+          "morph": "PART-ACC",
+          "gloss": "(direct object marker)",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.03.t003",
+          "surface": "מוֹסְרוֹתֵימוֹ",
+          "lemma": "מוֹסֵר",
+          "root": "אסר",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "pl",
+            "suffix": "3mp"
+          },
+          "morph": "N-mp+SFX-3mp",
+          "gloss": "their bonds",
+          "semantic": [
+            "SYMBOL"
+          ]
+        },
+        {
+          "id": "psalms.02.03.t004",
+          "surface": "וְנַשְׁלִיכָה",
+          "lemma": "שָׁלַךְ",
+          "root": "שׁלך",
+          "pos": "verb",
+          "features": {
+            "stem": "Hiphil",
+            "aspect": "cohortative",
+            "person": 1,
+            "number": "pl",
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "morph": "V-Hiphil-Coh-1cp",
+          "gloss": "and let us cast away",
+          "semantic": [
+            "MOTION"
+          ]
+        },
+        {
+          "id": "psalms.02.03.t005",
+          "surface": "מִמֶּנּוּ",
+          "lemma": "מִן",
+          "root": "—",
+          "pos": "prep",
+          "features": {
+            "suffix": "1cp?",
+            "note": "assimilated form with 3ms pronominal object in context"
+          },
+          "morph": "PREP+SFX-3ms",
+          "gloss": "from us / from him",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.03.t006",
+          "surface": "עֲבֹתֵימוֹ",
+          "lemma": "עֲבֹת",
+          "root": "עבת",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "pl",
+            "suffix": "3mp"
+          },
+          "morph": "N-mp+SFX-3mp",
+          "gloss": "their cords",
+          "semantic": [
+            "SYMBOL"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "DAMAGE",
+        "MOTION",
+        "SYMBOL",
+        "SPEECH"
+      ]
+    },
+    {
+      "ref": "2:4",
+      "he": "יוֹשֵׁב בַּשָּׁמַיִם יִשְׂחָק אֲדֹנָי יִלְעַג־לָמוֹ׃",
+      "en": "The one enthroned in the heavens laughs; the Lord holds them in derision.",
+      "tr": "Yōshēv bashshāmayim yisḥāq; ʾAdōnāy yilʿag‑lāmō.",
+      "tokens": [
+        {
+          "id": "psalms.02.04.t001",
+          "surface": "יוֹשֵׁב",
+          "lemma": "יָשַׁב",
+          "root": "ישׁב",
+          "pos": "participle",
+          "features": {
+            "stem": "Qal",
+            "gender": "m",
+            "number": "sg",
+            "function": "verbal"
+          },
+          "morph": "PTCP-Qal-ms",
+          "gloss": "the one who sits / enthroned",
+          "semantic": [
+            "PLACE"
+          ]
+        },
+        {
+          "id": "psalms.02.04.t002",
+          "surface": "בַּשָּׁמַיִם",
+          "lemma": "שָׁמַיִם",
+          "root": "—",
+          "pos": "noun",
+          "features": {
+            "number": "pl",
+            "prefixes": [
+              "prep:b",
+              "article"
+            ]
+          },
+          "morph": "N-mp",
+          "gloss": "in the heavens",
+          "semantic": [
+            "PLACE"
+          ]
+        },
+        {
+          "id": "psalms.02.04.t003",
+          "surface": "יִשְׂחָק",
+          "lemma": "שָׂחַק",
+          "root": "שׂחק",
+          "pos": "verb",
+          "features": {
+            "stem": "Qal",
+            "aspect": "impf",
+            "person": 3,
+            "gender": "m",
+            "number": "sg"
+          },
+          "morph": "V-Qal-Impf-3ms",
+          "gloss": "laughs",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.04.t004",
+          "surface": "אֲדֹנָי",
+          "lemma": "אֲדֹנָי",
+          "root": "—",
+          "pos": "proper",
+          "features": {
+            "type": "divine_title"
+          },
+          "morph": "PN",
+          "gloss": "Lord",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.04.t005",
+          "surface": "יִלְעַג",
+          "lemma": "לָעַג",
+          "root": "לעג",
+          "pos": "verb",
+          "features": {
+            "stem": "Qal",
+            "aspect": "impf",
+            "person": 3,
+            "gender": "m",
+            "number": "sg"
+          },
+          "morph": "V-Qal-Impf-3ms",
+          "gloss": "mocks",
+          "semantic": [
+            "SPEECH"
+          ]
+        },
+        {
+          "id": "psalms.02.04.t006",
+          "surface": "לָמוֹ",
+          "lemma": "לְ",
+          "root": "—",
+          "pos": "prep",
+          "features": {
+            "suffix": "3mp"
+          },
+          "morph": "PREP+SFX-3mp",
+          "gloss": "at them",
+          "semantic": []
+        }
+      ],
+      "semantic_summary": [
+        "PLACE",
+        "SPEECH"
+      ]
+    },
+    {
+      "ref": "2:5",
+      "he": "אָז יְדַבֵּר אֵלֵימוֹ בְאַפּוֹ וּבַחֲרוֹנוֹ יְבַהֲלֵמוֹ׃",
+      "en": "Then he speaks to them in his anger, and in his wrath he terrifies them:",
+      "tr": "ʾĀz yədabbēr ʾēlêmo bəʾappō; ûvaḥărōnō yəvahălēmō.",
+      "tokens": [
+        {
+          "id": "psalms.02.05.t001",
+          "surface": "אָז",
+          "lemma": "אָז",
+          "root": "—",
+          "pos": "adv",
+          "features": {},
+          "morph": "ADV",
+          "gloss": "then",
+          "semantic": [
+            "TIME"
+          ]
+        },
+        {
+          "id": "psalms.02.05.t002",
+          "surface": "יְדַבֵּר",
+          "lemma": "דָּבַר",
+          "root": "דבר",
+          "pos": "verb",
+          "features": {
+            "stem": "Piel",
+            "aspect": "impf",
+            "person": 3,
+            "gender": "m",
+            "number": "sg"
+          },
+          "morph": "V-Piel-Impf-3ms",
+          "gloss": "he speaks",
+          "semantic": [
+            "SPEECH"
+          ]
+        },
+        {
+          "id": "psalms.02.05.t003",
+          "surface": "אֵלֵימוֹ",
+          "lemma": "אֶל",
+          "root": "—",
+          "pos": "prep",
+          "features": {
+            "suffix": "3mp"
+          },
+          "morph": "PREP+SFX-3mp",
+          "gloss": "to them",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.05.t004",
+          "surface": "בְאַפּוֹ",
+          "lemma": "אַף",
+          "root": "אנף",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "sg",
+            "prefixes": [
+              "prep:b"
+            ],
+            "suffix": "3ms"
+          },
+          "morph": "N-ms+SFX-3ms",
+          "gloss": "in his anger",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.05.t005",
+          "surface": "וּבַחֲרוֹנוֹ",
+          "lemma": "חָרוֹן",
+          "root": "חרה",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "sg",
+            "prefixes": [
+              "conj",
+              "prep:b"
+            ],
+            "suffix": "3ms"
+          },
+          "morph": "N-ms+SFX-3ms",
+          "gloss": "and in his wrath",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.05.t006",
+          "surface": "יְבַהֲלֵמוֹ",
+          "lemma": "בָּהַל",
+          "root": "בהל",
+          "pos": "verb",
+          "features": {
+            "stem": "Piel",
+            "aspect": "impf",
+            "person": 3,
+            "gender": "m",
+            "number": "sg",
+            "suffix": "3mp"
+          },
+          "morph": "V-Piel-Impf-3ms+SFX-3mp",
+          "gloss": "he terrifies them",
+          "semantic": [
+            "PERCEPTION"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "TIME",
+        "SPEECH",
+        "PERCEPTION"
+      ]
+    },
+    {
+      "ref": "2:6",
+      "he": "וַאֲנִי נָסַכְתִּי מַלְכִּי עַל־צִיּוֹן הַר־קָדְשִׁי׃",
+      "en": "“But I have installed my king on Zion, my holy mountain.”",
+      "tr": "Waʾănī nāsaḵtī malkī ʿal‑Ṣiyyōn, har‑qodshī.",
+      "tokens": [
+        {
+          "id": "psalms.02.06.t001",
+          "surface": "וַאֲנִי",
+          "lemma": "אֲנִי",
+          "root": "—",
+          "pos": "pron",
+          "features": {
+            "person": 1,
+            "number": "sg",
+            "prefixes": [
+              "conj:waw_consecutive"
+            ]
+          },
+          "morph": "PRON-1cs",
+          "gloss": "but as for me",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.06.t002",
+          "surface": "נָסַכְתִּי",
+          "lemma": "נָסַךְ",
+          "root": "נסך",
+          "pos": "verb",
+          "features": {
+            "stem": "Qal",
+            "aspect": "perf",
+            "person": 1,
+            "number": "sg"
+          },
+          "morph": "V-Qal-Perf-1cs",
+          "gloss": "I have installed / set",
+          "semantic": [
+            "SYMBOL"
+          ]
+        },
+        {
+          "id": "psalms.02.06.t003",
+          "surface": "מַלְכִּי",
+          "lemma": "מֶלֶךְ",
+          "root": "מלך",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "sg",
+            "suffix": "1cs"
+          },
+          "morph": "N-ms+SFX-1cs",
+          "gloss": "my king",
+          "semantic": [
+            "SYMBOL"
+          ]
+        },
+        {
+          "id": "psalms.02.06.t004",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "root": "—",
+          "pos": "prep",
+          "features": {},
+          "morph": "PREP",
+          "gloss": "upon",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.06.t005",
+          "surface": "צִיּוֹן",
+          "lemma": "צִיּוֹן",
+          "root": "ציון",
+          "pos": "proper",
+          "features": {
+            "type": "place"
+          },
+          "morph": "PN",
+          "gloss": "Zion",
+          "semantic": [
+            "PLACE"
+          ]
+        },
+        {
+          "id": "psalms.02.06.t006",
+          "surface": "הַר",
+          "lemma": "הַר",
+          "root": "הרר",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "sg"
+          },
+          "morph": "N-ms",
+          "gloss": "mountain",
+          "semantic": [
+            "PLACE"
+          ]
+        },
+        {
+          "id": "psalms.02.06.t007",
+          "surface": "קָדְשִׁי",
+          "lemma": "קֹדֶשׁ",
+          "root": "קדשׁ",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "sg",
+            "suffix": "1cs"
+          },
+          "morph": "N-ms+SFX-1cs",
+          "gloss": "my holy (mountain)",
+          "semantic": [
+            "PLACE"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "PLACE",
+        "SYMBOL",
+        "SPEECH"
+      ]
+    },
+    {
+      "ref": "2:7",
+      "he": "אֲסַפְּרָה אֶל־חֹק יְהוָה אָמַר אֵלַי בְּנִי אַתָּה אֲנִי הַיּוֹם יְלִדְתִּיךָ׃",
+      "en": "I will recount the decree: YHWH said to me, “You are my son; today I have begotten you.”",
+      "tr": "ʾAsappərā ʾel‑ḥōq: YHWH ʾāmar ʾēlay, benī ʾattā; ʾănī hayyōm yəlidtīkā.",
+      "tokens": [
+        {
+          "id": "psalms.02.07.t001",
+          "surface": "אֲסַפְּרָה",
+          "lemma": "סָפַר",
+          "root": "ספר",
+          "pos": "verb",
+          "features": {
+            "stem": "Piel",
+            "aspect": "cohortative",
+            "person": 1,
+            "number": "sg"
+          },
+          "morph": "V-Piel-Coh-1cs",
+          "gloss": "I will recount",
+          "semantic": [
+            "SPEECH"
+          ]
+        },
+        {
+          "id": "psalms.02.07.t002",
+          "surface": "אֶל",
+          "lemma": "אֶל",
+          "root": "—",
+          "pos": "prep",
+          "features": {},
+          "morph": "PREP",
+          "gloss": "concerning",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.07.t003",
+          "surface": "חֹק",
+          "lemma": "חֹק",
+          "root": "חקק",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "sg"
+          },
+          "morph": "N-ms",
+          "gloss": "decree",
+          "semantic": [
+            "SYMBOL"
+          ]
+        },
+        {
+          "id": "psalms.02.07.t004",
+          "surface": "יְהוָה",
+          "lemma": "יְהוָה",
+          "root": "—",
+          "pos": "proper",
+          "features": {
+            "type": "divine_name"
+          },
+          "morph": "PN",
+          "gloss": "YHWH",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.07.t005",
+          "surface": "אָמַר",
+          "lemma": "אָמַר",
+          "root": "אמר",
+          "pos": "verb",
+          "features": {
+            "stem": "Qal",
+            "aspect": "perf",
+            "person": 3,
+            "gender": "m",
+            "number": "sg"
+          },
+          "morph": "V-Qal-Perf-3ms",
+          "gloss": "he said",
+          "semantic": [
+            "SPEECH"
+          ]
+        },
+        {
+          "id": "psalms.02.07.t006",
+          "surface": "אֵלַי",
+          "lemma": "אֶל",
+          "root": "—",
+          "pos": "prep",
+          "features": {
+            "suffix": "1cs"
+          },
+          "morph": "PREP+SFX-1cs",
+          "gloss": "to me",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.07.t007",
+          "surface": "בְּנִי",
+          "lemma": "בֵּן",
+          "root": "בן",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "sg",
+            "suffix": "1cs"
+          },
+          "morph": "N-ms+SFX-1cs",
+          "gloss": "my son",
+          "semantic": [
+            "SYMBOL"
+          ]
+        },
+        {
+          "id": "psalms.02.07.t008",
+          "surface": "אַתָּה",
+          "lemma": "אַתָּה",
+          "root": "—",
+          "pos": "pron",
+          "features": {
+            "person": 2,
+            "gender": "m",
+            "number": "sg"
+          },
+          "morph": "PRON-2ms",
+          "gloss": "you are",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.07.t009",
+          "surface": "אֲנִי",
+          "lemma": "אֲנִי",
+          "root": "—",
+          "pos": "pron",
+          "features": {
+            "person": 1,
+            "number": "sg"
+          },
+          "morph": "PRON-1cs",
+          "gloss": "I",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.07.t010",
+          "surface": "הַיּוֹם",
+          "lemma": "יוֹם",
+          "root": "יום",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "sg",
+            "prefixes": [
+              "article"
+            ]
+          },
+          "morph": "N-ms",
+          "gloss": "today",
+          "semantic": [
+            "TIME"
+          ]
+        },
+        {
+          "id": "psalms.02.07.t011",
+          "surface": "יְלִדְתִּיךָ",
+          "lemma": "יָלַד",
+          "root": "ילד",
+          "pos": "verb",
+          "features": {
+            "stem": "Qal",
+            "aspect": "perf",
+            "person": 1,
+            "number": "sg",
+            "suffix": "2ms"
+          },
+          "morph": "V-Qal-Perf-1cs+SFX-2ms",
+          "gloss": "I have begotten you",
+          "semantic": [
+            "BODY"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "SPEECH",
+        "TIME",
+        "SYMBOL",
+        "BODY"
+      ]
+    },
+    {
+      "ref": "2:8",
+      "he": "שְׁאַל מִמֶּנִּי וְאֶתְּנָה גוֹיִם נַחֲלָתֶךָ וַאֲחֻזָּתְךָ אַפְסֵי־אָרֶץ׃",
+      "en": "Ask of me, and I will give the nations as your inheritance, and the ends of the earth as your possession.",
+      "tr": "Sheʾal mimmennī wəʾettənā gōyim naḥălātəḵā; waʾăḥuzzātəḵā ʾapsê‑ʾāreṣ.",
+      "tokens": [
+        {
+          "id": "psalms.02.08.t001",
+          "surface": "שְׁאַל",
+          "lemma": "שָׁאַל",
+          "root": "שׁאל",
+          "pos": "verb",
+          "features": {
+            "stem": "Qal",
+            "aspect": "imperative",
+            "person": 2,
+            "gender": "m",
+            "number": "sg"
+          },
+          "morph": "V-Qal-Imp-2ms",
+          "gloss": "ask",
+          "semantic": [
+            "SPEECH"
+          ]
+        },
+        {
+          "id": "psalms.02.08.t002",
+          "surface": "מִמֶּנִּי",
+          "lemma": "מִן",
+          "root": "—",
+          "pos": "prep",
+          "features": {
+            "suffix": "1cs"
+          },
+          "morph": "PREP+SFX-1cs",
+          "gloss": "from me",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.08.t003",
+          "surface": "וְאֶתְּנָה",
+          "lemma": "נָתַן",
+          "root": "נתן",
+          "pos": "verb",
+          "features": {
+            "stem": "Qal",
+            "aspect": "cohortative",
+            "person": 1,
+            "number": "sg",
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "morph": "V-Qal-Coh-1cs",
+          "gloss": "and I will give",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.08.t004",
+          "surface": "גוֹיִם",
+          "lemma": "גּוֹי",
+          "root": "גוי",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "pl"
+          },
+          "morph": "N-mp",
+          "gloss": "nations",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.08.t005",
+          "surface": "נַחֲלָתֶךָ",
+          "lemma": "נַחֲלָה",
+          "root": "נחל",
+          "pos": "noun",
+          "features": {
+            "gender": "f",
+            "number": "sg",
+            "suffix": "2ms"
+          },
+          "morph": "N-fs+SFX-2ms",
+          "gloss": "your inheritance",
+          "semantic": [
+            "SYMBOL"
+          ]
+        },
+        {
+          "id": "psalms.02.08.t006",
+          "surface": "וַאֲחֻזָּתְךָ",
+          "lemma": "אֲחֻזָּה",
+          "root": "אחז",
+          "pos": "noun",
+          "features": {
+            "gender": "f",
+            "number": "sg",
+            "suffix": "2ms",
+            "prefixes": [
+              "conj:waw_consecutive"
+            ]
+          },
+          "morph": "N-fs+SFX-2ms",
+          "gloss": "and your possession",
+          "semantic": [
+            "SYMBOL"
+          ]
+        },
+        {
+          "id": "psalms.02.08.t007",
+          "surface": "אַפְסֵי",
+          "lemma": "אֶפֶס",
+          "root": "אפס",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "pl",
+            "state": "construct"
+          },
+          "morph": "N-mp-construct",
+          "gloss": "ends of",
+          "semantic": [
+            "PLACE"
+          ]
+        },
+        {
+          "id": "psalms.02.08.t008",
+          "surface": "אָרֶץ",
+          "lemma": "אֶרֶץ",
+          "root": "ארץ",
+          "pos": "noun",
+          "features": {
+            "gender": "f",
+            "number": "sg"
+          },
+          "morph": "N-fs",
+          "gloss": "earth",
+          "semantic": [
+            "PLACE"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "SPEECH",
+        "PLACE",
+        "SYMBOL"
+      ]
+    },
+    {
+      "ref": "2:9",
+      "he": "תְּרֹעֵם בְּשֵׁבֶט בַּרְזֶל כִּכְלִי יוֹצֵר תְּנַפְּצֵם׃",
+      "en": "You will break them with a rod of iron; like a potter’s vessel you will shatter them.",
+      "tr": "Tərōʿēm bəshēveṭ barzel; kəkhlī yōṣēr tənappəṣēm.",
+      "tokens": [
+        {
+          "id": "psalms.02.09.t001",
+          "surface": "תְּרֹעֵם",
+          "lemma": "רָעַע",
+          "root": "רעע",
+          "pos": "verb",
+          "features": {
+            "stem": "Qal",
+            "aspect": "impf",
+            "person": 2,
+            "gender": "m",
+            "number": "sg",
+            "suffix": "3mp"
+          },
+          "morph": "V-Qal-Impf-2ms+SFX-3mp",
+          "gloss": "you will break them",
+          "semantic": [
+            "DAMAGE"
+          ]
+        },
+        {
+          "id": "psalms.02.09.t002",
+          "surface": "בְּשֵׁבֶט",
+          "lemma": "שֵׁבֶט",
+          "root": "שׁבט",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "sg",
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "morph": "N-ms",
+          "gloss": "with a rod",
+          "semantic": [
+            "SYMBOL"
+          ]
+        },
+        {
+          "id": "psalms.02.09.t003",
+          "surface": "בַּרְזֶל",
+          "lemma": "בַּרְזֶל",
+          "root": "ברזל",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "sg",
+            "prefixes": [
+              "article"
+            ]
+          },
+          "morph": "N-ms",
+          "gloss": "of iron",
+          "semantic": [
+            "SYMBOL"
+          ]
+        },
+        {
+          "id": "psalms.02.09.t004",
+          "surface": "כִּכְלִי",
+          "lemma": "כְּלִי",
+          "root": "כלי",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "sg",
+            "prefixes": [
+              "prep:k"
+            ]
+          },
+          "morph": "N-ms",
+          "gloss": "like a vessel",
+          "semantic": [
+            "SYMBOL"
+          ]
+        },
+        {
+          "id": "psalms.02.09.t005",
+          "surface": "יוֹצֵר",
+          "lemma": "יָצַר",
+          "root": "יצר",
+          "pos": "participle",
+          "features": {
+            "stem": "Qal",
+            "gender": "m",
+            "number": "sg",
+            "function": "attributive"
+          },
+          "morph": "PTCP-Qal-ms",
+          "gloss": "a potter",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.09.t006",
+          "surface": "תְּנַפְּצֵם",
+          "lemma": "נָפַץ",
+          "root": "נפץ",
+          "pos": "verb",
+          "features": {
+            "stem": "Piel",
+            "aspect": "impf",
+            "person": 2,
+            "gender": "m",
+            "number": "sg",
+            "suffix": "3mp"
+          },
+          "morph": "V-Piel-Impf-2ms+SFX-3mp",
+          "gloss": "you will shatter them",
+          "semantic": [
+            "DAMAGE"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "DAMAGE",
+        "SYMBOL"
+      ]
+    },
+    {
+      "ref": "2:10",
+      "he": "וְעַתָּה מְלָכִים הַשְׂכִּילוּ הִוָּסְרוּ שֹׁפְטֵי אָרֶץ׃",
+      "en": "So now, O kings, be wise; be warned, O judges of the earth.",
+      "tr": "Wəʿattā məlākhīm haskīlū; hivvāsərū shōfṭê ʾāreṣ.",
+      "tokens": [
+        {
+          "id": "psalms.02.10.t001",
+          "surface": "וְעַתָּה",
+          "lemma": "עַתָּה",
+          "root": "—",
+          "pos": "adv",
+          "features": {
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "morph": "ADV",
+          "gloss": "and now",
+          "semantic": [
+            "TIME"
+          ]
+        },
+        {
+          "id": "psalms.02.10.t002",
+          "surface": "מְלָכִים",
+          "lemma": "מֶלֶךְ",
+          "root": "מלך",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "pl"
+          },
+          "morph": "N-mp",
+          "gloss": "kings",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.10.t003",
+          "surface": "הַשְׂכִּילוּ",
+          "lemma": "שָׂכַל",
+          "root": "שׂכל",
+          "pos": "verb",
+          "features": {
+            "stem": "Hiphil",
+            "aspect": "imperative",
+            "person": 2,
+            "gender": "m",
+            "number": "pl"
+          },
+          "morph": "V-Hiphil-Imp-2mp",
+          "gloss": "be wise / act wisely",
+          "semantic": [
+            "PERCEPTION"
+          ]
+        },
+        {
+          "id": "psalms.02.10.t004",
+          "surface": "הִוָּסְרוּ",
+          "lemma": "יָסַר",
+          "root": "יסר",
+          "pos": "verb",
+          "features": {
+            "stem": "Niphal",
+            "aspect": "imperative",
+            "person": 2,
+            "gender": "m",
+            "number": "pl"
+          },
+          "morph": "V-Niphal-Imp-2mp",
+          "gloss": "be admonished / accept discipline",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.10.t005",
+          "surface": "שֹׁפְטֵי",
+          "lemma": "שֹׁפֵט",
+          "root": "שׁפט",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "pl",
+            "state": "construct"
+          },
+          "morph": "N-mp-construct",
+          "gloss": "judges of",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.10.t006",
+          "surface": "אָרֶץ",
+          "lemma": "אֶרֶץ",
+          "root": "ארץ",
+          "pos": "noun",
+          "features": {
+            "gender": "f",
+            "number": "sg"
+          },
+          "morph": "N-fs",
+          "gloss": "earth",
+          "semantic": [
+            "PLACE"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "TIME",
+        "PERCEPTION",
+        "PLACE",
+        "SPEECH"
+      ]
+    },
+    {
+      "ref": "2:11",
+      "he": "עִבְדוּ אֶת־יְהוָה בְּיִרְאָה וְגִילוּ בִּרְעָדָה׃",
+      "en": "Serve YHWH with fear, and rejoice with trembling.",
+      "tr": "ʿIvədū ʾet‑YHWH bəyirʾāh; wəgīlū birʿādāh.",
+      "tokens": [
+        {
+          "id": "psalms.02.11.t001",
+          "surface": "עִבְדוּ",
+          "lemma": "עָבַד",
+          "root": "עבד",
+          "pos": "verb",
+          "features": {
+            "stem": "Qal",
+            "aspect": "imperative",
+            "person": 2,
+            "gender": "m",
+            "number": "pl"
+          },
+          "morph": "V-Qal-Imp-2mp",
+          "gloss": "serve",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.11.t002",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "root": "—",
+          "pos": "part",
+          "features": {
+            "function": "dobj_marker"
+          },
+          "morph": "PART-ACC",
+          "gloss": "(direct object marker)",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.11.t003",
+          "surface": "יְהוָה",
+          "lemma": "יְהוָה",
+          "root": "—",
+          "pos": "proper",
+          "features": {
+            "type": "divine_name"
+          },
+          "morph": "PN",
+          "gloss": "YHWH",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.11.t004",
+          "surface": "בְּיִרְאָה",
+          "lemma": "יִרְאָה",
+          "root": "ירא",
+          "pos": "noun",
+          "features": {
+            "gender": "f",
+            "number": "sg",
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "morph": "N-fs",
+          "gloss": "with fear / reverence",
+          "semantic": [
+            "PERCEPTION"
+          ]
+        },
+        {
+          "id": "psalms.02.11.t005",
+          "surface": "וְגִילוּ",
+          "lemma": "גִּיל",
+          "root": "גיל",
+          "pos": "verb",
+          "features": {
+            "stem": "Qal",
+            "aspect": "imperative",
+            "person": 2,
+            "gender": "m",
+            "number": "pl",
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "morph": "V-Qal-Imp-2mp",
+          "gloss": "and rejoice",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.11.t006",
+          "surface": "בִּרְעָדָה",
+          "lemma": "רְעָדָה",
+          "root": "רעד",
+          "pos": "noun",
+          "features": {
+            "gender": "f",
+            "number": "sg",
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "morph": "N-fs",
+          "gloss": "with trembling",
+          "semantic": [
+            "BODY",
+            "PERCEPTION"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "PERCEPTION",
+        "BODY",
+        "SPEECH"
+      ]
+    },
+    {
+      "ref": "2:12",
+      "he": "נַשְּׁקוּ־בַר פֶּן־יֶאֱנַף וְתֹאבְדוּ דֶרֶךְ כִּי־יִבְעַר כִּמְעַט אַפּוֹ אַשְׁרֵי כָּל־חוֹסֵי בוֹ׃",
+      "en": "Kiss the son, lest he be angry and you perish in the way; for his wrath may blaze up quickly. Blessed are all who take refuge in him.",
+      "tr": "Nashshəqū‑bar, pen‑yeʾenaf wətōvədū derekh; kī‑yivʿar kimʿaṭ appō—ʾashrê kol‑ḥōsê vō.",
+      "tokens": [
+        {
+          "id": "psalms.02.12.t001",
+          "surface": "נַשְּׁקוּ",
+          "lemma": "נָשַׁק",
+          "root": "נשׁק",
+          "pos": "verb",
+          "features": {
+            "stem": "Qal",
+            "aspect": "imperative",
+            "person": 2,
+            "gender": "m",
+            "number": "pl"
+          },
+          "morph": "V-Qal-Imp-2mp",
+          "gloss": "kiss",
+          "semantic": [
+            "BODY",
+            "SYMBOL"
+          ]
+        },
+        {
+          "id": "psalms.02.12.t002",
+          "surface": "בַר",
+          "lemma": "בַּר",
+          "root": "בר",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "sg"
+          },
+          "morph": "N-ms",
+          "gloss": "son",
+          "semantic": [
+            "SYMBOL"
+          ]
+        },
+        {
+          "id": "psalms.02.12.t003",
+          "surface": "פֶּן",
+          "lemma": "פֶּן",
+          "root": "—",
+          "pos": "conj",
+          "features": {
+            "type": "lest"
+          },
+          "morph": "CONJ",
+          "gloss": "lest",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.12.t004",
+          "surface": "יֶאֱנַף",
+          "lemma": "אָנַף",
+          "root": "אנף",
+          "pos": "verb",
+          "features": {
+            "stem": "Qal",
+            "aspect": "impf",
+            "person": 3,
+            "gender": "m",
+            "number": "sg"
+          },
+          "morph": "V-Qal-Impf-3ms",
+          "gloss": "he be angry",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.12.t005",
+          "surface": "וְתֹאבְדוּ",
+          "lemma": "אָבַד",
+          "root": "אבד",
+          "pos": "verb",
+          "features": {
+            "stem": "Qal",
+            "aspect": "impf",
+            "person": 2,
+            "gender": "m",
+            "number": "pl",
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "morph": "V-Qal-Impf-2mp",
+          "gloss": "and you perish",
+          "semantic": [
+            "DAMAGE"
+          ]
+        },
+        {
+          "id": "psalms.02.12.t006",
+          "surface": "דֶרֶךְ",
+          "lemma": "דֶּרֶךְ",
+          "root": "דרך",
+          "pos": "noun",
+          "features": {
+            "gender": "f",
+            "number": "sg"
+          },
+          "morph": "N-fs",
+          "gloss": "way",
+          "semantic": [
+            "SYMBOL"
+          ]
+        },
+        {
+          "id": "psalms.02.12.t007",
+          "surface": "כִּי",
+          "lemma": "כִּי",
+          "root": "—",
+          "pos": "conj",
+          "features": {},
+          "morph": "CONJ",
+          "gloss": "for / because",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.12.t008",
+          "surface": "יִבְעַר",
+          "lemma": "בָּעַר",
+          "root": "בער",
+          "pos": "verb",
+          "features": {
+            "stem": "Qal",
+            "aspect": "impf",
+            "person": 3,
+            "gender": "m",
+            "number": "sg"
+          },
+          "morph": "V-Qal-Impf-3ms",
+          "gloss": "it burns / flares",
+          "semantic": [
+            "WEATHER"
+          ]
+        },
+        {
+          "id": "psalms.02.12.t009",
+          "surface": "כִּמְעַט",
+          "lemma": "כִּמְעַט",
+          "root": "מעט",
+          "pos": "adv",
+          "features": {},
+          "morph": "ADV",
+          "gloss": "soon / a little",
+          "semantic": [
+            "TIME"
+          ]
+        },
+        {
+          "id": "psalms.02.12.t010",
+          "surface": "אַפּוֹ",
+          "lemma": "אַף",
+          "root": "אנף",
+          "pos": "noun",
+          "features": {
+            "gender": "m",
+            "number": "sg",
+            "suffix": "3ms"
+          },
+          "morph": "N-ms+SFX-3ms",
+          "gloss": "his anger",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.12.t011",
+          "surface": "אַשְׁרֵי",
+          "lemma": "אַשְׁרֵי",
+          "root": "אשר",
+          "pos": "interj",
+          "features": {},
+          "morph": "INTJ",
+          "gloss": "happy / blessed are",
+          "semantic": [
+            "PRAISE"
+          ]
+        },
+        {
+          "id": "psalms.02.12.t012",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "root": "כלל",
+          "pos": "noun",
+          "features": {
+            "number": "sg",
+            "function": "quantifier"
+          },
+          "morph": "N-quant",
+          "gloss": "all",
+          "semantic": []
+        },
+        {
+          "id": "psalms.02.12.t013",
+          "surface": "חוֹסֵי",
+          "lemma": "חָסָה",
+          "root": "חסה",
+          "pos": "participle",
+          "features": {
+            "stem": "Qal",
+            "gender": "m",
+            "number": "pl",
+            "state": "construct"
+          },
+          "morph": "PTCP-Qal-mp-construct",
+          "gloss": "those who take refuge",
+          "semantic": [
+            "MOTION",
+            "PERCEPTION"
+          ]
+        },
+        {
+          "id": "psalms.02.12.t014",
+          "surface": "בוֹ",
+          "lemma": "בְּ",
+          "root": "—",
+          "pos": "prep",
+          "features": {
+            "suffix": "3ms"
+          },
+          "morph": "PREP+SFX-3ms",
+          "gloss": "in him",
+          "semantic": []
+        }
+      ],
+      "semantic_summary": [
+        "TIME",
+        "BODY",
+        "SYMBOL",
+        "DAMAGE",
+        "WEATHER",
+        "PRAISE",
+        "PERCEPTION",
+        "MOTION"
+      ]
+    }
+  ],
+  "lexicon": [
+    {
+      "lemma": "רָגַשׁ",
+      "root": "רגשׁ",
+      "pos": "verb",
+      "gloss": "to rage, be in tumult"
+    },
+    {
+      "lemma": "הָגָה",
+      "root": "הגה",
+      "pos": "verb",
+      "gloss": "to mutter, devise, plot"
+    },
+    {
+      "lemma": "יָצַב",
+      "root": "יצב",
+      "pos": "verb",
+      "gloss": "to take a stand, present oneself"
+    },
+    {
+      "lemma": "רֹזֵן",
+      "root": "רזן",
+      "pos": "noun",
+      "gloss": "ruler, dignitary"
+    },
+    {
+      "lemma": "יָסַד",
+      "root": "יסד",
+      "pos": "verb",
+      "gloss": "to found; (Niphal) to band together/counsel"
+    },
+    {
+      "lemma": "מָשִׁיחַ",
+      "root": "משׁח",
+      "pos": "noun",
+      "gloss": "anointed one"
+    },
+    {
+      "lemma": "מוֹסֵר",
+      "root": "אסר",
+      "pos": "noun",
+      "gloss": "bond, fetter"
+    },
+    {
+      "lemma": "עֲבֹת",
+      "root": "עבת",
+      "pos": "noun",
+      "gloss": "cord, thick rope"
+    },
+    {
+      "lemma": "שָׂחַק",
+      "root": "שׂחק",
+      "pos": "verb",
+      "gloss": "to laugh"
+    },
+    {
+      "lemma": "לָעַג",
+      "root": "לעג",
+      "pos": "verb",
+      "gloss": "to mock, deride"
+    },
+    {
+      "lemma": "דָּבַר",
+      "root": "דבר",
+      "pos": "verb",
+      "gloss": "to speak"
+    },
+    {
+      "lemma": "בָּהַל",
+      "root": "בהל",
+      "pos": "verb",
+      "gloss": "to terrify, dismay"
+    },
+    {
+      "lemma": "נָסַךְ",
+      "root": "נסך",
+      "pos": "verb",
+      "gloss": "to install, set (as king)"
+    },
+    {
+      "lemma": "צִיּוֹן",
+      "root": "ציון",
+      "pos": "proper",
+      "gloss": "Zion"
+    },
+    {
+      "lemma": "חֹק",
+      "root": "חקק",
+      "pos": "noun",
+      "gloss": "decree, statute"
+    },
+    {
+      "lemma": "יָלַד",
+      "root": "ילד",
+      "pos": "verb",
+      "gloss": "to bear/beget"
+    },
+    {
+      "lemma": "נַחֲלָה",
+      "root": "נחל",
+      "pos": "noun",
+      "gloss": "inheritance"
+    },
+    {
+      "lemma": "אֲחֻזָּה",
+      "root": "אחז",
+      "pos": "noun",
+      "gloss": "possession, holding"
+    },
+    {
+      "lemma": "רָעַע",
+      "root": "רעע",
+      "pos": "verb",
+      "gloss": "to break, smash"
+    },
+    {
+      "lemma": "נָפַץ",
+      "root": "נפץ",
+      "pos": "verb",
+      "gloss": "to shatter"
+    },
+    {
+      "lemma": "יָסַר",
+      "root": "יסר",
+      "pos": "verb",
+      "gloss": "to discipline; (Niphal) be warned/accept discipline"
+    },
+    {
+      "lemma": "יִרְאָה",
+      "root": "ירא",
+      "pos": "noun",
+      "gloss": "fear, reverence"
+    },
+    {
+      "lemma": "רְעָדָה",
+      "root": "רעד",
+      "pos": "noun",
+      "gloss": "trembling"
+    },
+    {
+      "lemma": "חָסָה",
+      "root": "חסה",
+      "pos": "verb",
+      "gloss": "to take refuge"
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "Rhetorical questions with לָמָּה",
+      "example": "לָמָּה רָגְשׁוּ גוֹיִם",
+      "note": "לָמָּה commonly introduces rhetorical lament/astonishment, framing the psalm's opening as a challenge to the nations' behavior."
+    },
+    {
+      "topic": "Hitpael imperfect as reflexive/medio-passive",
+      "example": "יִתְיַצְּבוּ מַלְכֵי־אֶרֶץ",
+      "note": "Hitpael often conveys self-involvement (\"set themselves, take their stand\"), fitting a deliberate political posture."
+    },
+    {
+      "topic": "Cohortative (1st person) for resolve/exhortation",
+      "example": "נְנַתְּקָה … וְנַשְׁלִיכָה",
+      "note": "The cohortative expresses collective resolve ('let us…'), here placed in the mouth of the rebels."
+    },
+    {
+      "topic": "Participles for durative/state descriptions",
+      "example": "יוֹשֵׁב בַּשָּׁמַיִם",
+      "note": "Qal participle marks a continuing state (\"enthroned/sitting\"), a common divine-king motif."
+    },
+    {
+      "topic": "Construct chains",
+      "example": "מַלְכֵי־אֶרֶץ; שֹׁפְטֵי אָרֶץ; אַפְסֵי־אָרֶץ",
+      "note": "Construct forms encode genitive relationships; note semantic range of אֶרֶץ (land/earth) depending on context."
+    },
+    {
+      "topic": "Imperatives as rhetorical pivot",
+      "example": "הַשְׂכִּילוּ … הִוָּסְרוּ; עִבְדוּ … וְגִילוּ",
+      "note": "The psalm shifts from narration to direct address using 2mp imperatives, functioning as warning and invitation."
+    },
+    {
+      "topic": "Negative purpose with פֶּן",
+      "example": "פֶּן־יֶאֱנַף",
+      "note": "פֶּן introduces a warning ('lest'), often followed by an imperfect verb expressing feared outcome."
+    }
+  ],
+  "exercises": [
+    {
+      "q": "Parse יִתְיַצְּבוּ: stem, aspect, person/number.",
+      "a": "Hitpael imperfect 3rd masc. plural."
+    },
+    {
+      "q": "Identify the two cohortatives in v.3 and explain their discourse force.",
+      "a": "נְנַתְּקָה and וְנַשְׁלִיכָה; they express collective resolve ('let us…') in direct speech."
+    },
+    {
+      "q": "Give the construct relationship in מַלְכֵי־אֶרֶץ and translate it.",
+      "a": "Construct chain 'kings of the earth/land'."
+    },
+    {
+      "q": "In v.9, which verbs carry the shattering imagery, and what stems are they?",
+      "a": "תְּרֹעֵם (Qal) and תְּנַפְּצֵם (Piel); both describe forceful breaking/shattering."
+    },
+    {
+      "q": "What function does פֶּן serve in v.12?",
+      "a": "It introduces a negative purpose/warning: 'lest'."
+    }
+  ],
+  "annotations": []
+};
