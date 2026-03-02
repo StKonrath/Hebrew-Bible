@@ -31,7 +31,10 @@ window.__chapterData = {
               "prep:l",
               "article_assim"
             ]
-          }
+          },
+          "semantic": [
+            "MUSIC"
+          ]
         },
         {
           "id": "psalms.08.01.t002",
@@ -41,7 +44,8 @@ window.__chapterData = {
           "pos": "prep",
           "morph": "PREP",
           "gloss": "on/upon",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.01.t003",
@@ -55,7 +59,10 @@ window.__chapterData = {
             "prefixes": [
               "article"
             ]
-          }
+          },
+          "semantic": [
+            "MUSIC"
+          ]
         },
         {
           "id": "psalms.08.01.t004",
@@ -65,7 +72,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "psalm",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "MUSIC"
+          ]
         },
         {
           "id": "psalms.08.01.t005",
@@ -79,7 +89,8 @@ window.__chapterData = {
             "prefixes": [
               "prep:l"
             ]
-          }
+          },
+          "semantic": []
         }
       ],
       "semantic_summary": [
@@ -101,7 +112,8 @@ window.__chapterData = {
           "pos": "proper",
           "morph": "PN",
           "gloss": "YHWH",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.02.t002",
@@ -111,7 +123,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-ms+SFX-1cp",
           "gloss": "our Lord/master",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "ROYAL"
+          ]
         },
         {
           "id": "psalms.08.02.t003",
@@ -121,7 +136,8 @@ window.__chapterData = {
           "pos": "interrog",
           "morph": "INTERR",
           "gloss": "how!",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.02.t004",
@@ -131,7 +147,10 @@ window.__chapterData = {
           "pos": "adj",
           "morph": "ADJ-ms",
           "gloss": "majestic",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "ROYAL"
+          ]
         },
         {
           "id": "psalms.08.02.t005",
@@ -141,7 +160,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-ms+SFX-2ms",
           "gloss": "your name",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
         },
         {
           "id": "psalms.08.02.t006",
@@ -155,7 +177,8 @@ window.__chapterData = {
             "prefixes": [
               "prep:b"
             ]
-          }
+          },
+          "semantic": []
         },
         {
           "id": "psalms.08.02.t007",
@@ -169,7 +192,10 @@ window.__chapterData = {
             "prefixes": [
               "article"
             ]
-          }
+          },
+          "semantic": [
+            "PLACE"
+          ]
         },
         {
           "id": "psalms.08.02.t008",
@@ -179,7 +205,8 @@ window.__chapterData = {
           "pos": "rel",
           "morph": "REL",
           "gloss": "who/which",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.02.t009",
@@ -189,7 +216,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Qal-Perf-2ms(poetic)",
           "gloss": "you have set/given",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "CREATION"
+          ]
         },
         {
           "id": "psalms.08.02.t010",
@@ -199,7 +229,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-ms+SFX-2ms",
           "gloss": "your splendor",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "ROYAL"
+          ]
         },
         {
           "id": "psalms.08.02.t011",
@@ -209,7 +242,8 @@ window.__chapterData = {
           "pos": "prep",
           "morph": "PREP",
           "gloss": "above",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.02.t012",
@@ -223,7 +257,11 @@ window.__chapterData = {
             "prefixes": [
               "article"
             ]
-          }
+          },
+          "semantic": [
+            "CREATION",
+            "PLACE"
+          ]
         }
       ],
       "semantic_summary": [
@@ -249,7 +287,10 @@ window.__chapterData = {
             "prefixes": [
               "prep:min"
             ]
-          }
+          },
+          "semantic": [
+            "BODY"
+          ]
         },
         {
           "id": "psalms.08.03.t002",
@@ -259,7 +300,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-mp",
           "gloss": "infants/children",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "HUMANITY"
+          ]
         },
         {
           "id": "psalms.08.03.t003",
@@ -273,7 +317,10 @@ window.__chapterData = {
             "prefixes": [
               "conj"
             ]
-          }
+          },
+          "semantic": [
+            "HUMANITY"
+          ]
         },
         {
           "id": "psalms.08.03.t004",
@@ -283,7 +330,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Piel-Perf-2ms",
           "gloss": "you established/founded",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "CREATION"
+          ]
         },
         {
           "id": "psalms.08.03.t005",
@@ -293,7 +343,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "strength",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "POWER"
+          ]
         },
         {
           "id": "psalms.08.03.t006",
@@ -307,7 +360,8 @@ window.__chapterData = {
             "prefixes": [
               "prep:l"
             ]
-          }
+          },
+          "semantic": []
         },
         {
           "id": "psalms.08.03.t007",
@@ -317,7 +371,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-mp+SFX-2ms",
           "gloss": "your foes",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "DAMAGE"
+          ]
         },
         {
           "id": "psalms.08.03.t008",
@@ -331,7 +388,10 @@ window.__chapterData = {
             "prefixes": [
               "prep:l"
             ]
-          }
+          },
+          "semantic": [
+            "SPEECH"
+          ]
         },
         {
           "id": "psalms.08.03.t009",
@@ -341,7 +401,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "enemy",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "DAMAGE"
+          ]
         },
         {
           "id": "psalms.08.03.t010",
@@ -355,7 +418,10 @@ window.__chapterData = {
             "prefixes": [
               "conj"
             ]
-          }
+          },
+          "semantic": [
+            "DAMAGE"
+          ]
         }
       ],
       "semantic_summary": [
@@ -377,7 +443,8 @@ window.__chapterData = {
           "pos": "conj",
           "morph": "CONJ",
           "gloss": "for/when",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.04.t002",
@@ -387,7 +454,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Qal-Impf-1cs",
           "gloss": "I see",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
         },
         {
           "id": "psalms.08.04.t003",
@@ -397,7 +467,11 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-mp+SFX-2ms",
           "gloss": "your heavens",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "CREATION",
+            "PLACE"
+          ]
         },
         {
           "id": "psalms.08.04.t004",
@@ -407,7 +481,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-ms-construct",
           "gloss": "work of",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "CREATION"
+          ]
         },
         {
           "id": "psalms.08.04.t005",
@@ -417,7 +494,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-fp+SFX-2ms",
           "gloss": "your fingers",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
         },
         {
           "id": "psalms.08.04.t006",
@@ -427,7 +507,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "moon",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "CREATION"
+          ]
         },
         {
           "id": "psalms.08.04.t007",
@@ -441,7 +524,10 @@ window.__chapterData = {
             "prefixes": [
               "conj"
             ]
-          }
+          },
+          "semantic": [
+            "CREATION"
+          ]
         },
         {
           "id": "psalms.08.04.t008",
@@ -451,7 +537,8 @@ window.__chapterData = {
           "pos": "rel",
           "morph": "REL",
           "gloss": "which/that",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.04.t009",
@@ -461,7 +548,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Piel-Perf-2ms",
           "gloss": "you established",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "CREATION"
+          ]
         }
       ],
       "semantic_summary": [
@@ -483,7 +573,8 @@ window.__chapterData = {
           "pos": "interrog",
           "morph": "INTERR",
           "gloss": "what?",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.05.t002",
@@ -493,7 +584,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "mortal/human",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "HUMANITY"
+          ]
         },
         {
           "id": "psalms.08.05.t003",
@@ -503,7 +597,8 @@ window.__chapterData = {
           "pos": "conj",
           "morph": "CONJ",
           "gloss": "that",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.05.t004",
@@ -513,7 +608,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Qal-Impf-2ms+SFX-3ms",
           "gloss": "you remember him",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
         },
         {
           "id": "psalms.08.05.t005",
@@ -527,7 +625,10 @@ window.__chapterData = {
             "prefixes": [
               "conj"
             ]
-          }
+          },
+          "semantic": [
+            "HUMANITY"
+          ]
         },
         {
           "id": "psalms.08.05.t006",
@@ -537,7 +638,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "human",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "HUMANITY"
+          ]
         },
         {
           "id": "psalms.08.05.t007",
@@ -547,7 +651,8 @@ window.__chapterData = {
           "pos": "conj",
           "morph": "CONJ",
           "gloss": "that",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.05.t008",
@@ -557,7 +662,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Qal-Impf-2ms+SFX-3ms",
           "gloss": "you visit/attend to him",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
         }
       ],
       "semantic_summary": [
@@ -579,7 +687,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Piel-Wayyiqtol-2ms+SFX-3ms",
           "gloss": "yet you made him lack (made lower)",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "CREATION"
+          ]
         },
         {
           "id": "psalms.08.06.t002",
@@ -589,7 +700,8 @@ window.__chapterData = {
           "pos": "adv",
           "morph": "ADV",
           "gloss": "a little",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.06.t003",
@@ -603,7 +715,10 @@ window.__chapterData = {
             "prefixes": [
               "prep:min"
             ]
-          }
+          },
+          "semantic": [
+            "ROYAL"
+          ]
         },
         {
           "id": "psalms.08.06.t004",
@@ -617,7 +732,10 @@ window.__chapterData = {
             "prefixes": [
               "conj"
             ]
-          }
+          },
+          "semantic": [
+            "ROYAL"
+          ]
         },
         {
           "id": "psalms.08.06.t005",
@@ -631,7 +749,10 @@ window.__chapterData = {
             "prefixes": [
               "conj"
             ]
-          }
+          },
+          "semantic": [
+            "ROYAL"
+          ]
         },
         {
           "id": "psalms.08.06.t006",
@@ -641,7 +762,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Piel-Impf-2ms+SFX-3ms",
           "gloss": "you crown him",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "ROYAL"
+          ]
         }
       ],
       "semantic_summary": [
@@ -663,7 +787,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Hiphil-Impf-2ms+SFX-3ms",
           "gloss": "you make him rule",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "ROYAL"
+          ]
         },
         {
           "id": "psalms.08.07.t002",
@@ -677,7 +804,10 @@ window.__chapterData = {
             "prefixes": [
               "prep:b"
             ]
-          }
+          },
+          "semantic": [
+            "CREATION"
+          ]
         },
         {
           "id": "psalms.08.07.t003",
@@ -687,7 +817,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-fp+SFX-2ms",
           "gloss": "your hands",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
         },
         {
           "id": "psalms.08.07.t004",
@@ -697,7 +830,8 @@ window.__chapterData = {
           "pos": "quant",
           "morph": "QUANT",
           "gloss": "all/everything",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.07.t005",
@@ -707,7 +841,10 @@ window.__chapterData = {
           "pos": "verb",
           "morph": "V-Qal-Perf-2ms",
           "gloss": "you set/placed",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "CREATION"
+          ]
         },
         {
           "id": "psalms.08.07.t006",
@@ -717,7 +854,8 @@ window.__chapterData = {
           "pos": "prep",
           "morph": "PREP",
           "gloss": "under",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.07.t007",
@@ -727,7 +865,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-fp+SFX-3ms",
           "gloss": "his feet",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
         }
       ],
       "semantic_summary": [
@@ -749,7 +890,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "sheep",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "ANIMALS"
+          ]
         },
         {
           "id": "psalms.08.08.t002",
@@ -763,7 +907,10 @@ window.__chapterData = {
             "prefixes": [
               "conj"
             ]
-          }
+          },
+          "semantic": [
+            "ANIMALS"
+          ]
         },
         {
           "id": "psalms.08.08.t003",
@@ -773,7 +920,8 @@ window.__chapterData = {
           "pos": "quant",
           "morph": "QUANT+SFX-3mp",
           "gloss": "all of them",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.08.t004",
@@ -787,7 +935,8 @@ window.__chapterData = {
             "prefixes": [
               "conj"
             ]
-          }
+          },
+          "semantic": []
         },
         {
           "id": "psalms.08.08.t005",
@@ -802,7 +951,10 @@ window.__chapterData = {
               "prep:b",
               "article_assim"
             ]
-          }
+          },
+          "semantic": [
+            "ANIMALS"
+          ]
         },
         {
           "id": "psalms.08.08.t006",
@@ -812,7 +964,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-ms",
           "gloss": "field/open country",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "PLACE"
+          ]
         }
       ],
       "semantic_summary": [
@@ -834,7 +989,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-fs",
           "gloss": "bird",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "ANIMALS"
+          ]
         },
         {
           "id": "psalms.08.09.t002",
@@ -844,7 +1002,11 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-mp",
           "gloss": "heavens",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "CREATION",
+            "PLACE"
+          ]
         },
         {
           "id": "psalms.08.09.t003",
@@ -858,7 +1020,10 @@ window.__chapterData = {
             "prefixes": [
               "conj"
             ]
-          }
+          },
+          "semantic": [
+            "ANIMALS"
+          ]
         },
         {
           "id": "psalms.08.09.t004",
@@ -872,7 +1037,10 @@ window.__chapterData = {
             "prefixes": [
               "article"
             ]
-          }
+          },
+          "semantic": [
+            "PLACE"
+          ]
         },
         {
           "id": "psalms.08.09.t005",
@@ -882,7 +1050,10 @@ window.__chapterData = {
           "pos": "participle",
           "morph": "PTCP-Qal-ms",
           "gloss": "passing",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "MOTION"
+          ]
         },
         {
           "id": "psalms.08.09.t006",
@@ -892,7 +1063,11 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-fp-construct",
           "gloss": "paths of",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "MOTION",
+            "PLACE"
+          ]
         },
         {
           "id": "psalms.08.09.t007",
@@ -902,7 +1077,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-mp",
           "gloss": "seas",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "PLACE"
+          ]
         }
       ],
       "semantic_summary": [
@@ -924,7 +1102,8 @@ window.__chapterData = {
           "pos": "proper",
           "morph": "PN",
           "gloss": "YHWH",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.10.t002",
@@ -934,7 +1113,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-ms+SFX-1cp",
           "gloss": "our Lord/master",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "ROYAL"
+          ]
         },
         {
           "id": "psalms.08.10.t003",
@@ -944,7 +1126,8 @@ window.__chapterData = {
           "pos": "interrog",
           "morph": "INTERR",
           "gloss": "how!",
-          "features": {}
+          "features": {},
+          "semantic": []
         },
         {
           "id": "psalms.08.10.t004",
@@ -954,7 +1137,10 @@ window.__chapterData = {
           "pos": "adj",
           "morph": "ADJ-ms",
           "gloss": "majestic",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "ROYAL"
+          ]
         },
         {
           "id": "psalms.08.10.t005",
@@ -964,7 +1150,10 @@ window.__chapterData = {
           "pos": "noun",
           "morph": "N-ms+SFX-2ms",
           "gloss": "your name",
-          "features": {}
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
         },
         {
           "id": "psalms.08.10.t006",
@@ -978,7 +1167,8 @@ window.__chapterData = {
             "prefixes": [
               "prep:b"
             ]
-          }
+          },
+          "semantic": []
         },
         {
           "id": "psalms.08.10.t007",
@@ -992,7 +1182,10 @@ window.__chapterData = {
             "prefixes": [
               "article"
             ]
-          }
+          },
+          "semantic": [
+            "PLACE"
+          ]
         }
       ],
       "semantic_summary": [
