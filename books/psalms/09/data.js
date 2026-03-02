@@ -1,0 +1,2664 @@
+window.__chapterData = {
+  "spec_version": "1.3",
+  "schema_locked": true,
+  "tagset": {
+    "name": "ETCBC-like",
+    "version": "1.0"
+  },
+  "ref_system": "MT",
+  "generated_at": "2026-03-02",
+  "book": "Psalms",
+  "book_slug": "psalms",
+  "chapter": 9,
+  "title": "Psalm 9",
+  "verses": [
+    {
+      "ref": "9:1",
+      "he": "לַמְנַצֵּחַ עַל־מוּת לַבֵּן מִזְמוֹר לְדָוִד׃",
+      "en": "For the leader; upon Muth-labben. A psalm of David.",
+      "tr": "Lamnatsēaḥ ʿal-mūt labbēn, mizmōr lǝDāwīd.",
+      "tokens": [
+        {
+          "id": "psalms.09.01.t001",
+          "surface": "לַמְנַצֵּחַ",
+          "lemma": "נָצַח",
+          "root": "נצח",
+          "pos": "participle",
+          "morph": "PTCP-Piel-ms",
+          "gloss": "for the leader/director",
+          "features": {
+            "prefixes": [
+              "prep:l",
+              "article_assim"
+            ]
+          },
+          "semantic": [
+            "MUSIC"
+          ]
+        },
+        {
+          "id": "psalms.09.01.t002",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "root": "על",
+          "pos": "prep",
+          "morph": "PREP",
+          "gloss": "upon",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.01.t003",
+          "surface": "מוּת",
+          "lemma": "מוּת",
+          "root": "מות",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "Muth (tune term)",
+          "features": {},
+          "semantic": [
+            "MUSIC"
+          ]
+        },
+        {
+          "id": "psalms.09.01.t004",
+          "surface": "לַבֵּן",
+          "lemma": "בֵּן",
+          "root": "בן",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "labben (tune term)",
+          "features": {
+            "prefixes": [
+              "prep:l",
+              "article_assim"
+            ]
+          },
+          "semantic": [
+            "MUSIC"
+          ]
+        },
+        {
+          "id": "psalms.09.01.t005",
+          "surface": "מִזְמוֹר",
+          "lemma": "מִזְמוֹר",
+          "root": "זמר",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "psalm",
+          "features": {},
+          "semantic": [
+            "MUSIC"
+          ]
+        },
+        {
+          "id": "psalms.09.01.t006",
+          "surface": "לְדָוִד",
+          "lemma": "דָּוִד",
+          "root": "דוד",
+          "pos": "proper",
+          "morph": "PN",
+          "gloss": "of David",
+          "features": {
+            "prefixes": [
+              "prep:l"
+            ]
+          },
+          "semantic": []
+        }
+      ],
+      "semantic_summary": [
+        "SUPERSCRIPTION",
+        "MUSIC"
+      ]
+    },
+    {
+      "ref": "9:2",
+      "he": "אוֹדֶה יְהוָה בְּכָל־לִבִּי אֲסַפְּרָה כָּל־נִפְלְאוֹתֶיךָ׃",
+      "en": "I will give thanks to YHWH with all my heart; I will recount all your wonders.",
+      "tr": "ʾŌdeh YHWH bǝḵol-libbî; ʾăsappǝrāh kol-niflǝʾōteḵā.",
+      "tokens": [
+        {
+          "id": "psalms.09.02.t001",
+          "surface": "אוֹדֶה",
+          "lemma": "יָדָה",
+          "root": "ידה",
+          "pos": "verb",
+          "morph": "V-Hiphil-Impf-1cs",
+          "gloss": "I will give thanks",
+          "features": {},
+          "semantic": [
+            "PRAISE"
+          ]
+        },
+        {
+          "id": "psalms.09.02.t002",
+          "surface": "יְהוָה",
+          "lemma": "יְהוָה",
+          "root": "יהוה",
+          "pos": "proper",
+          "morph": "PN",
+          "gloss": "YHWH",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.02.t003",
+          "surface": "בְּכָל",
+          "lemma": "כֹּל",
+          "root": "כל",
+          "pos": "quant",
+          "morph": "QUANT",
+          "gloss": "with all",
+          "features": {
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.02.t004",
+          "surface": "לִבִּי",
+          "lemma": "לֵב",
+          "root": "לבב",
+          "pos": "noun",
+          "morph": "N-ms+SFX-1cs",
+          "gloss": "my heart",
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
+        },
+        {
+          "id": "psalms.09.02.t005",
+          "surface": "אֲסַפְּרָה",
+          "lemma": "סָפַר",
+          "root": "ספר",
+          "pos": "verb",
+          "morph": "V-Piel-Impf-1cs+paragogic",
+          "gloss": "I will recount",
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
+        },
+        {
+          "id": "psalms.09.02.t006",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "root": "כל",
+          "pos": "quant",
+          "morph": "QUANT",
+          "gloss": "all",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.02.t007",
+          "surface": "נִפְלְאוֹתֶיךָ",
+          "lemma": "פֶּלֶא",
+          "root": "פלא",
+          "pos": "noun",
+          "morph": "N-fp+SFX-2ms",
+          "gloss": "your wonders",
+          "features": {},
+          "semantic": [
+            "PRAISE"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "PRAISE",
+        "THANKSGIVING"
+      ]
+    },
+    {
+      "ref": "9:3",
+      "he": "אֶשְׂמְחָה וְאֶעֶלְצָה בָךְ אֲזַמְּרָה שִׁמְךָ עֶלְיוֹן׃",
+      "en": "I will rejoice and exult in you; I will sing praise to your name, O Most High.",
+      "tr": "ʾEśmǝḥāh wǝʾeʿelṣāh bāḵ; ʾăzammǝrāh šimḵā ʿelyōn.",
+      "tokens": [
+        {
+          "id": "psalms.09.03.t001",
+          "surface": "אֶשְׂמְחָה",
+          "lemma": "שָׂמַח",
+          "root": "שמח",
+          "pos": "verb",
+          "morph": "V-Qal-Impf-1cs+paragogic",
+          "gloss": "I will rejoice",
+          "features": {},
+          "semantic": [
+            "EMOTION"
+          ]
+        },
+        {
+          "id": "psalms.09.03.t002",
+          "surface": "וְאֶעֶלְצָה",
+          "lemma": "עָלַץ",
+          "root": "עלץ",
+          "pos": "verb",
+          "morph": "V-Qal-Impf-1cs+paragogic",
+          "gloss": "and I will exult",
+          "features": {
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "semantic": [
+            "EMOTION"
+          ]
+        },
+        {
+          "id": "psalms.09.03.t003",
+          "surface": "בָךְ",
+          "lemma": "בְּ",
+          "root": "ב",
+          "pos": "prep",
+          "morph": "PREP+SFX-2ms",
+          "gloss": "in you",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.03.t004",
+          "surface": "אֲזַמְּרָה",
+          "lemma": "זָמַר",
+          "root": "זמר",
+          "pos": "verb",
+          "morph": "V-Piel-Impf-1cs+paragogic",
+          "gloss": "I will sing praise",
+          "features": {},
+          "semantic": [
+            "PRAISE",
+            "MUSIC"
+          ]
+        },
+        {
+          "id": "psalms.09.03.t005",
+          "surface": "שִׁמְךָ",
+          "lemma": "שֵׁם",
+          "root": "שם",
+          "pos": "noun",
+          "morph": "N-ms+SFX-2ms",
+          "gloss": "your name",
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
+        },
+        {
+          "id": "psalms.09.03.t006",
+          "surface": "עֶלְיוֹן",
+          "lemma": "עֶלְיוֹן",
+          "root": "עליון",
+          "pos": "adj",
+          "morph": "ADJ-ms",
+          "gloss": "Most High",
+          "features": {},
+          "semantic": [
+            "ROYAL"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "JOY",
+        "PRAISE"
+      ]
+    },
+    {
+      "ref": "9:4",
+      "he": "בְּשׁוּב־אוֹיְבַי אָחוֹר יִכָּשְׁלוּ וְיֹאבְדוּ מִפָּנֶיךָ׃",
+      "en": "When my enemies turn back, they stumble and perish before you.",
+      "tr": "Bǝšūv-ʾōyǝvay ʾāḥōr; yikkāšǝlū wǝyōʾvǝdū mippāneḵā.",
+      "tokens": [
+        {
+          "id": "psalms.09.04.t001",
+          "surface": "בְּשׁוּב",
+          "lemma": "שׁוּב",
+          "root": "שוב",
+          "pos": "verb",
+          "morph": "V-Qal-InfC",
+          "gloss": "when turn back",
+          "features": {
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "semantic": [
+            "MOTION"
+          ]
+        },
+        {
+          "id": "psalms.09.04.t002",
+          "surface": "אוֹיְבַי",
+          "lemma": "אוֹיֵב",
+          "root": "איב",
+          "pos": "noun",
+          "morph": "N-mp+SFX-1cs",
+          "gloss": "my enemies",
+          "features": {},
+          "semantic": [
+            "DAMAGE"
+          ]
+        },
+        {
+          "id": "psalms.09.04.t003",
+          "surface": "אָחוֹר",
+          "lemma": "אָחוֹר",
+          "root": "אחר",
+          "pos": "adv",
+          "morph": "ADV",
+          "gloss": "backward",
+          "features": {},
+          "semantic": [
+            "MOTION"
+          ]
+        },
+        {
+          "id": "psalms.09.04.t004",
+          "surface": "יִכָּשְׁלוּ",
+          "lemma": "כָּשַׁל",
+          "root": "כשל",
+          "pos": "verb",
+          "morph": "V-Niphal-Impf-3mp",
+          "gloss": "they stumble",
+          "features": {},
+          "semantic": [
+            "MOTION"
+          ]
+        },
+        {
+          "id": "psalms.09.04.t005",
+          "surface": "וְיֹאבְדוּ",
+          "lemma": "אָבַד",
+          "root": "אבד",
+          "pos": "verb",
+          "morph": "V-Qal-Impf-3mp",
+          "gloss": "and they perish",
+          "features": {
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "semantic": [
+            "DEATH"
+          ]
+        },
+        {
+          "id": "psalms.09.04.t006",
+          "surface": "מִפָּנֶיךָ",
+          "lemma": "פָּנִים",
+          "root": "פנה",
+          "pos": "noun",
+          "morph": "N-mp+SFX-2ms",
+          "gloss": "from before you",
+          "features": {
+            "prefixes": [
+              "prep:min"
+            ]
+          },
+          "semantic": [
+            "BODY"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "JUDGMENT",
+        "ENEMIES"
+      ]
+    },
+    {
+      "ref": "9:5",
+      "he": "כִּי־עָשִׂיתָ מִשְׁפָּטִי וְדִינִי יָשַׁבְתָּ לְכִסֵּא שֹׁפֵט צֶדֶק׃",
+      "en": "For you have maintained my justice and my cause; you sat on the throne, judging righteously.",
+      "tr": "Kî-ʿāśîtā mišpāṭî wǝdînî; yāšavtā lǝḵissēʾ šōfēṭ ṣedeq.",
+      "tokens": [
+        {
+          "id": "psalms.09.05.t001",
+          "surface": "כִּי",
+          "lemma": "כִּי",
+          "root": "כִּי",
+          "pos": "conj",
+          "morph": "CONJ",
+          "gloss": "for",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.05.t002",
+          "surface": "עָשִׂיתָ",
+          "lemma": "עָשָׂה",
+          "root": "עשה",
+          "pos": "verb",
+          "morph": "V-Qal-Perf-2ms",
+          "gloss": "you maintained/made",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.05.t003",
+          "surface": "מִשְׁפָּטִי",
+          "lemma": "מִשְׁפָּט",
+          "root": "שפט",
+          "pos": "noun",
+          "morph": "N-ms+SFX-1cs",
+          "gloss": "my justice",
+          "features": {},
+          "semantic": [
+            "JUSTICE"
+          ]
+        },
+        {
+          "id": "psalms.09.05.t004",
+          "surface": "וְדִינִי",
+          "lemma": "דִּין",
+          "root": "דין",
+          "pos": "noun",
+          "morph": "N-ms+SFX-1cs",
+          "gloss": "and my cause",
+          "features": {
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "semantic": [
+            "JUSTICE"
+          ]
+        },
+        {
+          "id": "psalms.09.05.t005",
+          "surface": "יָשַׁבְתָּ",
+          "lemma": "יָשַׁב",
+          "root": "ישב",
+          "pos": "verb",
+          "morph": "V-Qal-Perf-2ms",
+          "gloss": "you sat (enthroned)",
+          "features": {},
+          "semantic": [
+            "ROYAL"
+          ]
+        },
+        {
+          "id": "psalms.09.05.t006",
+          "surface": "לְכִסֵּא",
+          "lemma": "כִּסֵּא",
+          "root": "כסא",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "on the throne",
+          "features": {
+            "prefixes": [
+              "prep:l"
+            ]
+          },
+          "semantic": [
+            "ROYAL"
+          ]
+        },
+        {
+          "id": "psalms.09.05.t007",
+          "surface": "שֹׁפֵט",
+          "lemma": "שָׁפַט",
+          "root": "שפט",
+          "pos": "participle",
+          "morph": "PTCP-Qal-ms",
+          "gloss": "judging",
+          "features": {},
+          "semantic": [
+            "JUSTICE"
+          ]
+        },
+        {
+          "id": "psalms.09.05.t008",
+          "surface": "צֶדֶק",
+          "lemma": "צֶדֶק",
+          "root": "צדק",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "righteousness",
+          "features": {},
+          "semantic": [
+            "JUSTICE"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "JUSTICE",
+        "ENTHRONEMENT"
+      ]
+    },
+    {
+      "ref": "9:6",
+      "he": "גָּעַרְתָּ גוֹיִם אִבַּדְתָּ רָשָׁע שְׁמָם מָחִיתָ לְעוֹלָם וָעֶד׃",
+      "en": "You rebuked the nations, you destroyed the wicked; you blotted out their name forever and ever.",
+      "tr": "Gāʿartā gōyim; ʾibbadtā rāšāʿ; šǝmām māḥîtā lǝʿōlām wāʿed.",
+      "tokens": [
+        {
+          "id": "psalms.09.06.t001",
+          "surface": "גָּעַרְתָּ",
+          "lemma": "גָּעַר",
+          "root": "גער",
+          "pos": "verb",
+          "morph": "V-Qal-Perf-2ms",
+          "gloss": "you rebuked",
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
+        },
+        {
+          "id": "psalms.09.06.t002",
+          "surface": "גוֹיִם",
+          "lemma": "גּוֹי",
+          "root": "גוי",
+          "pos": "noun",
+          "morph": "N-mp",
+          "gloss": "nations",
+          "features": {},
+          "semantic": [
+            "HUMANITY"
+          ]
+        },
+        {
+          "id": "psalms.09.06.t003",
+          "surface": "אִבַּדְתָּ",
+          "lemma": "אָבַד",
+          "root": "אבד",
+          "pos": "verb",
+          "morph": "V-Piel-Perf-2ms",
+          "gloss": "you destroyed",
+          "features": {},
+          "semantic": [
+            "DAMAGE"
+          ]
+        },
+        {
+          "id": "psalms.09.06.t004",
+          "surface": "רָשָׁע",
+          "lemma": "רָשָׁע",
+          "root": "רשע",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "the wicked",
+          "features": {},
+          "semantic": [
+            "DAMAGE"
+          ]
+        },
+        {
+          "id": "psalms.09.06.t005",
+          "surface": "שְׁמָם",
+          "lemma": "שֵׁם",
+          "root": "שם",
+          "pos": "noun",
+          "morph": "N-ms+SFX-3mp",
+          "gloss": "their name",
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
+        },
+        {
+          "id": "psalms.09.06.t006",
+          "surface": "מָחִיתָ",
+          "lemma": "מָחָה",
+          "root": "מחה",
+          "pos": "verb",
+          "morph": "V-Qal-Perf-2ms",
+          "gloss": "you blotted out",
+          "features": {},
+          "semantic": [
+            "DAMAGE"
+          ]
+        },
+        {
+          "id": "psalms.09.06.t007",
+          "surface": "לְעוֹלָם",
+          "lemma": "עוֹלָם",
+          "root": "עלם",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "forever",
+          "features": {
+            "prefixes": [
+              "prep:l"
+            ]
+          },
+          "semantic": [
+            "TIME"
+          ]
+        },
+        {
+          "id": "psalms.09.06.t008",
+          "surface": "וָעֶד",
+          "lemma": "עַד",
+          "root": "עד",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "and ever",
+          "features": {
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "semantic": [
+            "TIME"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "JUDGMENT",
+        "DESTRUCTION"
+      ]
+    },
+    {
+      "ref": "9:7",
+      "he": "הָאוֹיֵב תַּמּוּ חֳרָבוֹת לָנֶצַח וְעָרִים נָתַשְׁתָּ אָבַד זִכְרָם הֵמָּה׃",
+      "en": "The enemy—wastes are finished forever; cities you uprooted—their memorial has perished.",
+      "tr": "Hāʾōyēv tammū ḥŏrāvōt lāneṣaḥ; wǝʿārîm nātaštā—ʾāvad ziḵrām hēmmāh.",
+      "tokens": [
+        {
+          "id": "psalms.09.07.t001",
+          "surface": "הָאוֹיֵב",
+          "lemma": "אוֹיֵב",
+          "root": "איב",
+          "pos": "noun",
+          "morph": "N-ms+Art",
+          "gloss": "the enemy",
+          "features": {
+            "prefixes": [
+              "article"
+            ]
+          },
+          "semantic": [
+            "DAMAGE"
+          ]
+        },
+        {
+          "id": "psalms.09.07.t002",
+          "surface": "תַּמּוּ",
+          "lemma": "תָּמַם",
+          "root": "תמם",
+          "pos": "verb",
+          "morph": "V-Qal-Perf-3cp",
+          "gloss": "are finished",
+          "features": {},
+          "semantic": [
+            "DEATH"
+          ]
+        },
+        {
+          "id": "psalms.09.07.t003",
+          "surface": "חֳרָבוֹת",
+          "lemma": "חָרְבָּה",
+          "root": "חרב",
+          "pos": "noun",
+          "morph": "N-fp",
+          "gloss": "ruins/wastes",
+          "features": {},
+          "semantic": [
+            "PLACE"
+          ]
+        },
+        {
+          "id": "psalms.09.07.t004",
+          "surface": "לָנֶצַח",
+          "lemma": "נֶצַח",
+          "root": "נצח",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "forever",
+          "features": {
+            "prefixes": [
+              "prep:l"
+            ]
+          },
+          "semantic": [
+            "TIME"
+          ]
+        },
+        {
+          "id": "psalms.09.07.t005",
+          "surface": "וְעָרִים",
+          "lemma": "עִיר",
+          "root": "עיר",
+          "pos": "noun",
+          "morph": "N-fp",
+          "gloss": "and cities",
+          "features": {
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "semantic": [
+            "PLACE"
+          ]
+        },
+        {
+          "id": "psalms.09.07.t006",
+          "surface": "נָתַשְׁתָּ",
+          "lemma": "נָתַשׁ",
+          "root": "נתש",
+          "pos": "verb",
+          "morph": "V-Qal-Perf-2ms",
+          "gloss": "you uprooted",
+          "features": {},
+          "semantic": [
+            "DAMAGE"
+          ]
+        },
+        {
+          "id": "psalms.09.07.t007",
+          "surface": "אָבַד",
+          "lemma": "אָבַד",
+          "root": "אבד",
+          "pos": "verb",
+          "morph": "V-Qal-Perf-3ms",
+          "gloss": "perished",
+          "features": {},
+          "semantic": [
+            "DEATH"
+          ]
+        },
+        {
+          "id": "psalms.09.07.t008",
+          "surface": "זִכְרָם",
+          "lemma": "זֵכֶר",
+          "root": "זכר",
+          "pos": "noun",
+          "morph": "N-ms+SFX-3mp",
+          "gloss": "their memorial",
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
+        },
+        {
+          "id": "psalms.09.07.t009",
+          "surface": "הֵמָּה",
+          "lemma": "הֵמָּה",
+          "root": "המה",
+          "pos": "pron",
+          "morph": "PRON-3mp",
+          "gloss": "they (themselves)",
+          "features": {},
+          "semantic": []
+        }
+      ],
+      "semantic_summary": [
+        "DESTRUCTION",
+        "MEMORY"
+      ]
+    },
+    {
+      "ref": "9:8",
+      "he": "וַיהוָה לְעוֹלָם יֵשֵׁב כּוֹנֵן לַמִּשְׁפָּט כִּסְאוֹ׃",
+      "en": "But YHWH sits enthroned forever; he has established his throne for judgment.",
+      "tr": "WaYHWH lǝʿōlām yēšēv; kōnēn lammišpāṭ kisʾō.",
+      "tokens": [
+        {
+          "id": "psalms.09.08.t001",
+          "surface": "וַיהוָה",
+          "lemma": "יְהוָה",
+          "root": "יהוה",
+          "pos": "proper",
+          "morph": "PN",
+          "gloss": "but YHWH",
+          "features": {
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.08.t002",
+          "surface": "לְעוֹלָם",
+          "lemma": "עוֹלָם",
+          "root": "עלם",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "forever",
+          "features": {
+            "prefixes": [
+              "prep:l"
+            ]
+          },
+          "semantic": [
+            "TIME"
+          ]
+        },
+        {
+          "id": "psalms.09.08.t003",
+          "surface": "יֵשֵׁב",
+          "lemma": "יָשַׁב",
+          "root": "ישב",
+          "pos": "verb",
+          "morph": "V-Qal-Impf-3ms",
+          "gloss": "sits (enthroned)",
+          "features": {},
+          "semantic": [
+            "ROYAL"
+          ]
+        },
+        {
+          "id": "psalms.09.08.t004",
+          "surface": "כּוֹנֵן",
+          "lemma": "כּוּן",
+          "root": "כון",
+          "pos": "verb",
+          "morph": "V-Piel-Perf-3ms",
+          "gloss": "he established",
+          "features": {},
+          "semantic": [
+            "CREATION"
+          ]
+        },
+        {
+          "id": "psalms.09.08.t005",
+          "surface": "לַמִּשְׁפָּט",
+          "lemma": "מִשְׁפָּט",
+          "root": "שפט",
+          "pos": "noun",
+          "morph": "N-ms+Art",
+          "gloss": "for judgment",
+          "features": {
+            "prefixes": [
+              "prep:l",
+              "article_assim"
+            ]
+          },
+          "semantic": [
+            "JUSTICE"
+          ]
+        },
+        {
+          "id": "psalms.09.08.t006",
+          "surface": "כִּסְאוֹ",
+          "lemma": "כִּסֵּא",
+          "root": "כסא",
+          "pos": "noun",
+          "morph": "N-ms+SFX-3ms",
+          "gloss": "his throne",
+          "features": {},
+          "semantic": [
+            "ROYAL"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "ENTHRONEMENT",
+        "JUDGMENT"
+      ]
+    },
+    {
+      "ref": "9:9",
+      "he": "וְהוּא יִשְׁפֹּט־תֵּבֵל בְּצֶדֶק יָדִין לְאֻמִּים בְּמֵישָׁרִים׃",
+      "en": "He will judge the world in righteousness; he will execute judgment for the peoples in equity.",
+      "tr": "Wǝhūʾ yišpōṭ-tēvēl bǝṣedeq; yādîn lǝʾummîm bǝmēšārîm.",
+      "tokens": [
+        {
+          "id": "psalms.09.09.t001",
+          "surface": "וְהוּא",
+          "lemma": "הוּא",
+          "root": "הוא",
+          "pos": "pron",
+          "morph": "PRON-3ms",
+          "gloss": "and he",
+          "features": {
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.09.t002",
+          "surface": "יִשְׁפֹּט",
+          "lemma": "שָׁפַט",
+          "root": "שפט",
+          "pos": "verb",
+          "morph": "V-Qal-Impf-3ms",
+          "gloss": "will judge",
+          "features": {},
+          "semantic": [
+            "JUSTICE"
+          ]
+        },
+        {
+          "id": "psalms.09.09.t003",
+          "surface": "תֵּבֵל",
+          "lemma": "תֵּבֵל",
+          "root": "תבל",
+          "pos": "noun",
+          "morph": "N-fs",
+          "gloss": "world",
+          "features": {},
+          "semantic": [
+            "PLACE"
+          ]
+        },
+        {
+          "id": "psalms.09.09.t004",
+          "surface": "בְּצֶדֶק",
+          "lemma": "צֶדֶק",
+          "root": "צדק",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "in righteousness",
+          "features": {
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "semantic": [
+            "JUSTICE"
+          ]
+        },
+        {
+          "id": "psalms.09.09.t005",
+          "surface": "יָדִין",
+          "lemma": "דִּין",
+          "root": "דין",
+          "pos": "verb",
+          "morph": "V-Qal-Impf-3ms",
+          "gloss": "he will judge",
+          "features": {},
+          "semantic": [
+            "JUSTICE"
+          ]
+        },
+        {
+          "id": "psalms.09.09.t006",
+          "surface": "לְאֻמִּים",
+          "lemma": "לְאֹם",
+          "root": "לאם",
+          "pos": "noun",
+          "morph": "N-mp",
+          "gloss": "peoples",
+          "features": {},
+          "semantic": [
+            "HUMANITY"
+          ]
+        },
+        {
+          "id": "psalms.09.09.t007",
+          "surface": "בְּמֵישָׁרִים",
+          "lemma": "מֵישָׁרִים",
+          "root": "ישר",
+          "pos": "noun",
+          "morph": "N-mp",
+          "gloss": "in equity",
+          "features": {
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "semantic": [
+            "JUSTICE"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "JUDGMENT",
+        "JUSTICE"
+      ]
+    },
+    {
+      "ref": "9:10",
+      "he": "וִיהִי יְהוָה מִשְׂגָּב לַדָּךְ מִשְׂגָּב לְעִתּוֹת בַּצָּרָה׃",
+      "en": "YHWH will be a stronghold for the oppressed, a stronghold in times of trouble.",
+      "tr": "Wîhî YHWH miśgāv laddāḵ, miśgāv lǝʿittōt baṣṣārāh.",
+      "tokens": [
+        {
+          "id": "psalms.09.10.t001",
+          "surface": "וִיהִי",
+          "lemma": "הָיָה",
+          "root": "היה",
+          "pos": "verb",
+          "morph": "V-Qal-Impf-3ms(juss)",
+          "gloss": "and may he be",
+          "features": {
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.10.t002",
+          "surface": "יְהוָה",
+          "lemma": "יְהוָה",
+          "root": "יהוה",
+          "pos": "proper",
+          "morph": "PN",
+          "gloss": "YHWH",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.10.t003",
+          "surface": "מִשְׂגָּב",
+          "lemma": "מִשְׂגָּב",
+          "root": "שגב",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "stronghold",
+          "features": {},
+          "semantic": [
+            "PLACE"
+          ]
+        },
+        {
+          "id": "psalms.09.10.t004",
+          "surface": "לַדָּךְ",
+          "lemma": "דַּךְ",
+          "root": "דכא",
+          "pos": "adj",
+          "morph": "ADJ-ms",
+          "gloss": "for the oppressed",
+          "features": {
+            "prefixes": [
+              "prep:l",
+              "article_assim"
+            ]
+          },
+          "semantic": [
+            "HUMANITY"
+          ]
+        },
+        {
+          "id": "psalms.09.10.t005",
+          "surface": "מִשְׂגָּב",
+          "lemma": "מִשְׂגָּב",
+          "root": "שגב",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "a stronghold",
+          "features": {},
+          "semantic": [
+            "PLACE"
+          ]
+        },
+        {
+          "id": "psalms.09.10.t006",
+          "surface": "לְעִתּוֹת",
+          "lemma": "עֵת",
+          "root": "עת",
+          "pos": "noun",
+          "morph": "N-fp",
+          "gloss": "in times of",
+          "features": {
+            "prefixes": [
+              "prep:l"
+            ]
+          },
+          "semantic": [
+            "TIME"
+          ]
+        },
+        {
+          "id": "psalms.09.10.t007",
+          "surface": "בַּצָּרָה",
+          "lemma": "צָרָה",
+          "root": "צרר",
+          "pos": "noun",
+          "morph": "N-fs+Art",
+          "gloss": "trouble",
+          "features": {
+            "prefixes": [
+              "prep:b",
+              "article_assim"
+            ]
+          },
+          "semantic": [
+            "DAMAGE"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "REFUGE",
+        "PROTECTION"
+      ]
+    },
+    {
+      "ref": "9:11",
+      "he": "וְיִבְטְחוּ בְךָ יוֹדְעֵי שְׁמֶךָ כִּי לֹא־עָזַבְתָּ דֹרְשֶׁיךָ יְהוָה׃",
+      "en": "Those who know your name will trust in you, for you have not forsaken those who seek you, O YHWH.",
+      "tr": "Wǝyivṭǝḥū vǝḵā yōdǝʿē šǝmeḵā; kî lōʾ-ʿāzavtā dōrǝšeḵā YHWH.",
+      "tokens": [
+        {
+          "id": "psalms.09.11.t001",
+          "surface": "וְיִבְטְחוּ",
+          "lemma": "בָּטַח",
+          "root": "בטח",
+          "pos": "verb",
+          "morph": "V-Qal-Impf-3mp",
+          "gloss": "and they trust",
+          "features": {
+            "prefixes": [
+              "conj"
+            ]
+          },
+          "semantic": [
+            "EMOTION"
+          ]
+        },
+        {
+          "id": "psalms.09.11.t002",
+          "surface": "בְךָ",
+          "lemma": "בְּ",
+          "root": "ב",
+          "pos": "prep",
+          "morph": "PREP+SFX-2ms",
+          "gloss": "in you",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.11.t003",
+          "surface": "יוֹדְעֵי",
+          "lemma": "יָדַע",
+          "root": "ידע",
+          "pos": "participle",
+          "morph": "PTCP-Qal-mp-construct",
+          "gloss": "those who know",
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
+        },
+        {
+          "id": "psalms.09.11.t004",
+          "surface": "שְׁמֶךָ",
+          "lemma": "שֵׁם",
+          "root": "שם",
+          "pos": "noun",
+          "morph": "N-ms+SFX-2ms",
+          "gloss": "your name",
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
+        },
+        {
+          "id": "psalms.09.11.t005",
+          "surface": "כִּי",
+          "lemma": "כִּי",
+          "root": "כִּי",
+          "pos": "conj",
+          "morph": "CONJ",
+          "gloss": "for",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.11.t006",
+          "surface": "לֹא",
+          "lemma": "לֹא",
+          "root": "לֹא",
+          "pos": "neg",
+          "morph": "NEG",
+          "gloss": "not",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.11.t007",
+          "surface": "עָזַבְתָּ",
+          "lemma": "עָזַב",
+          "root": "עזב",
+          "pos": "verb",
+          "morph": "V-Qal-Perf-2ms",
+          "gloss": "you have forsaken",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.11.t008",
+          "surface": "דֹרְשֶׁיךָ",
+          "lemma": "דָּרַשׁ",
+          "root": "דרש",
+          "pos": "participle",
+          "morph": "PTCP-Qal-mp+SFX-2ms",
+          "gloss": "those who seek you",
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
+        },
+        {
+          "id": "psalms.09.11.t009",
+          "surface": "יְהוָה",
+          "lemma": "יְהוָה",
+          "root": "יהוה",
+          "pos": "proper",
+          "morph": "PN",
+          "gloss": "YHWH",
+          "features": {},
+          "semantic": []
+        }
+      ],
+      "semantic_summary": [
+        "TRUST",
+        "FAITHFULNESS"
+      ]
+    },
+    {
+      "ref": "9:12",
+      "he": "זַמְּרוּ לַיהוָה יֹשֵׁב צִיּוֹן הַגִּידוּ בָעַמִּים עֲלִילוֹתָיו׃",
+      "en": "Sing praises to YHWH, who dwells in Zion; declare among the peoples his deeds.",
+      "tr": "Zammǝrū laYHWH yōšēv Ṣiyyōn; haggîdū vāʿammîm ʿălîlōtāyw.",
+      "tokens": [
+        {
+          "id": "psalms.09.12.t001",
+          "surface": "זַמְּרוּ",
+          "lemma": "זָמַר",
+          "root": "זמר",
+          "pos": "verb",
+          "morph": "V-Piel-Imp-2mp",
+          "gloss": "sing praises",
+          "features": {},
+          "semantic": [
+            "PRAISE",
+            "MUSIC"
+          ]
+        },
+        {
+          "id": "psalms.09.12.t002",
+          "surface": "לַיהוָה",
+          "lemma": "יְהוָה",
+          "root": "יהוה",
+          "pos": "proper",
+          "morph": "PN",
+          "gloss": "to YHWH",
+          "features": {
+            "prefixes": [
+              "prep:l"
+            ]
+          },
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.12.t003",
+          "surface": "יֹשֵׁב",
+          "lemma": "יָשַׁב",
+          "root": "ישב",
+          "pos": "participle",
+          "morph": "PTCP-Qal-ms",
+          "gloss": "who dwells in",
+          "features": {},
+          "semantic": [
+            "ROYAL"
+          ]
+        },
+        {
+          "id": "psalms.09.12.t004",
+          "surface": "צִיּוֹן",
+          "lemma": "צִיּוֹן",
+          "root": "ציון",
+          "pos": "proper",
+          "morph": "PN",
+          "gloss": "Zion",
+          "features": {},
+          "semantic": [
+            "PLACE"
+          ]
+        },
+        {
+          "id": "psalms.09.12.t005",
+          "surface": "הַגִּידוּ",
+          "lemma": "נָגַד",
+          "root": "נגד",
+          "pos": "verb",
+          "morph": "V-Hiphil-Imp-2mp",
+          "gloss": "declare",
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
+        },
+        {
+          "id": "psalms.09.12.t006",
+          "surface": "בָעַמִּים",
+          "lemma": "עַם",
+          "root": "עם",
+          "pos": "noun",
+          "morph": "N-mp+Art",
+          "gloss": "among the peoples",
+          "features": {
+            "prefixes": [
+              "prep:b",
+              "article_assim"
+            ]
+          },
+          "semantic": [
+            "HUMANITY"
+          ]
+        },
+        {
+          "id": "psalms.09.12.t007",
+          "surface": "עֲלִילוֹתָיו",
+          "lemma": "עֲלִילָה",
+          "root": "עלל",
+          "pos": "noun",
+          "morph": "N-fp+SFX-3ms",
+          "gloss": "his deeds",
+          "features": {},
+          "semantic": []
+        }
+      ],
+      "semantic_summary": [
+        "PRAISE",
+        "PROCLAMATION"
+      ]
+    },
+    {
+      "ref": "9:13",
+      "he": "כִּי־דֹרֵשׁ דָּמִים אוֹתָם זָכָר לֹא־שָׁכַח צַעֲקַת עֲנָוִים׃",
+      "en": "For he who avenges blood remembers them; he does not forget the cry of the humble.",
+      "tr": "Kî-dōrēš dāmîm ʾōtām zāḵār; lōʾ-šāḵaḥ ṣaʿăqat ʿănāwîm.",
+      "tokens": [
+        {
+          "id": "psalms.09.13.t001",
+          "surface": "כִּי",
+          "lemma": "כִּי",
+          "root": "כִּי",
+          "pos": "conj",
+          "morph": "CONJ",
+          "gloss": "for",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.13.t002",
+          "surface": "דֹרֵשׁ",
+          "lemma": "דָּרַשׁ",
+          "root": "דרש",
+          "pos": "participle",
+          "morph": "PTCP-Qal-ms",
+          "gloss": "he who avenges/seeks",
+          "features": {},
+          "semantic": [
+            "JUSTICE"
+          ]
+        },
+        {
+          "id": "psalms.09.13.t003",
+          "surface": "דָּמִים",
+          "lemma": "דָּם",
+          "root": "דם",
+          "pos": "noun",
+          "morph": "N-mp",
+          "gloss": "blood",
+          "features": {},
+          "semantic": [
+            "DEATH"
+          ]
+        },
+        {
+          "id": "psalms.09.13.t004",
+          "surface": "אוֹתָם",
+          "lemma": "אֵת",
+          "root": "את",
+          "pos": "particle",
+          "morph": "ACC+SFX-3mp",
+          "gloss": "them",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.13.t005",
+          "surface": "זָכָר",
+          "lemma": "זָכַר",
+          "root": "זכר",
+          "pos": "verb",
+          "morph": "V-Qal-Perf-3ms",
+          "gloss": "remembered",
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
+        },
+        {
+          "id": "psalms.09.13.t006",
+          "surface": "לֹא",
+          "lemma": "לֹא",
+          "root": "לֹא",
+          "pos": "neg",
+          "morph": "NEG",
+          "gloss": "not",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.13.t007",
+          "surface": "שָׁכַח",
+          "lemma": "שָׁכַח",
+          "root": "שכח",
+          "pos": "verb",
+          "morph": "V-Qal-Perf-3ms",
+          "gloss": "he forgot",
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
+        },
+        {
+          "id": "psalms.09.13.t008",
+          "surface": "צַעֲקַת",
+          "lemma": "צַעֲקָה",
+          "root": "צעק",
+          "pos": "noun",
+          "morph": "N-fs-construct",
+          "gloss": "the cry of",
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
+        },
+        {
+          "id": "psalms.09.13.t009",
+          "surface": "עֲנָוִים",
+          "lemma": "עָנָו",
+          "root": "ענה",
+          "pos": "adj",
+          "morph": "ADJ-mp",
+          "gloss": "the humble",
+          "features": {},
+          "semantic": [
+            "HUMANITY"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "JUSTICE",
+        "COMPASSION"
+      ]
+    },
+    {
+      "ref": "9:14",
+      "he": "חָנְנֵנִי יְהוָה רְאֵה עָנְיִי מִשֹּׂנְאָי מְרוֹמְמִי מִשַּׁעֲרֵי מָוֶת׃",
+      "en": "Be gracious to me, O YHWH; see my affliction from those who hate me—O you who lift me up from the gates of death—",
+      "tr": "Ḥonnēnî YHWH; rǝʾēh ʿonyî miśśōnǝʾāy—mǝrōmǝmî miššaʿărē māwet.",
+      "tokens": [
+        {
+          "id": "psalms.09.14.t001",
+          "surface": "חָנְנֵנִי",
+          "lemma": "חָנַן",
+          "root": "חנן",
+          "pos": "verb",
+          "morph": "V-Qal-Imp-2ms+SFX-1cs",
+          "gloss": "be gracious to me",
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
+        },
+        {
+          "id": "psalms.09.14.t002",
+          "surface": "יְהוָה",
+          "lemma": "יְהוָה",
+          "root": "יהוה",
+          "pos": "proper",
+          "morph": "PN",
+          "gloss": "YHWH",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.14.t003",
+          "surface": "רְאֵה",
+          "lemma": "רָאָה",
+          "root": "ראה",
+          "pos": "verb",
+          "morph": "V-Qal-Imp-2ms",
+          "gloss": "see",
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
+        },
+        {
+          "id": "psalms.09.14.t004",
+          "surface": "עָנְיִי",
+          "lemma": "עֹנִי",
+          "root": "ענה",
+          "pos": "noun",
+          "morph": "N-ms+SFX-1cs",
+          "gloss": "my affliction",
+          "features": {},
+          "semantic": [
+            "DAMAGE"
+          ]
+        },
+        {
+          "id": "psalms.09.14.t005",
+          "surface": "מִשֹּׂנְאָי",
+          "lemma": "שָׂנֵא",
+          "root": "שנא",
+          "pos": "participle",
+          "morph": "PTCP-Qal-mp+SFX-1cs",
+          "gloss": "from those who hate me",
+          "features": {
+            "prefixes": [
+              "prep:min"
+            ]
+          },
+          "semantic": [
+            "DAMAGE"
+          ]
+        },
+        {
+          "id": "psalms.09.14.t006",
+          "surface": "מְרוֹמְמִי",
+          "lemma": "רוּם",
+          "root": "רום",
+          "pos": "participle",
+          "morph": "PTCP-Piel-ms+SFX-1cs",
+          "gloss": "O you who lift me up",
+          "features": {},
+          "semantic": [
+            "MOTION"
+          ]
+        },
+        {
+          "id": "psalms.09.14.t007",
+          "surface": "מִשַּׁעֲרֵי",
+          "lemma": "שַׁעַר",
+          "root": "שער",
+          "pos": "noun",
+          "morph": "N-mp-construct",
+          "gloss": "from the gates of",
+          "features": {
+            "prefixes": [
+              "prep:min"
+            ]
+          },
+          "semantic": [
+            "PLACE"
+          ]
+        },
+        {
+          "id": "psalms.09.14.t008",
+          "surface": "מָוֶת",
+          "lemma": "מָוֶת",
+          "root": "מות",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "death",
+          "features": {},
+          "semantic": [
+            "DEATH"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "PETITION",
+        "SALVATION"
+      ]
+    },
+    {
+      "ref": "9:15",
+      "he": "לְמַעַן אֲסַפְּרָה כָּל־תְּהִלָּתֶיךָ בְּשַׁעֲרֵי בַת־צִיּוֹן אָגִילָה בִּישׁוּעָתֶךָ׃",
+      "en": "so that I may recount all your praises in the gates of daughter Zion; I will rejoice in your salvation.",
+      "tr": "Lǝmaʿan ʾăsappǝrāh kol-tǝhillāteḵā; bǝšaʿărē vat-Ṣiyyōn ʾāgîlāh bîšūʿāteḵā.",
+      "tokens": [
+        {
+          "id": "psalms.09.15.t001",
+          "surface": "לְמַעַן",
+          "lemma": "מַעַן",
+          "root": "מען",
+          "pos": "prep",
+          "morph": "PREP",
+          "gloss": "so that",
+          "features": {
+            "prefixes": [
+              "prep:l"
+            ]
+          },
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.15.t002",
+          "surface": "אֲסַפְּרָה",
+          "lemma": "סָפַר",
+          "root": "ספר",
+          "pos": "verb",
+          "morph": "V-Piel-Impf-1cs+paragogic",
+          "gloss": "I may recount",
+          "features": {},
+          "semantic": [
+            "SPEECH"
+          ]
+        },
+        {
+          "id": "psalms.09.15.t003",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "root": "כל",
+          "pos": "quant",
+          "morph": "QUANT",
+          "gloss": "all",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.15.t004",
+          "surface": "תְּהִלָּתֶיךָ",
+          "lemma": "תְּהִלָּה",
+          "root": "הלל",
+          "pos": "noun",
+          "morph": "N-fp+SFX-2ms",
+          "gloss": "your praises",
+          "features": {},
+          "semantic": [
+            "PRAISE"
+          ]
+        },
+        {
+          "id": "psalms.09.15.t005",
+          "surface": "בְּשַׁעֲרֵי",
+          "lemma": "שַׁעַר",
+          "root": "שער",
+          "pos": "noun",
+          "morph": "N-mp-construct",
+          "gloss": "in the gates of",
+          "features": {
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "semantic": [
+            "PLACE"
+          ]
+        },
+        {
+          "id": "psalms.09.15.t006",
+          "surface": "בַת",
+          "lemma": "בַּת",
+          "root": "בת",
+          "pos": "noun",
+          "morph": "N-fs-construct",
+          "gloss": "daughter",
+          "features": {},
+          "semantic": [
+            "HUMANITY"
+          ]
+        },
+        {
+          "id": "psalms.09.15.t007",
+          "surface": "צִיּוֹן",
+          "lemma": "צִיּוֹן",
+          "root": "ציון",
+          "pos": "proper",
+          "morph": "PN",
+          "gloss": "Zion",
+          "features": {},
+          "semantic": [
+            "PLACE"
+          ]
+        },
+        {
+          "id": "psalms.09.15.t008",
+          "surface": "אָגִילָה",
+          "lemma": "גִּיל",
+          "root": "גיל",
+          "pos": "verb",
+          "morph": "V-Qal-Impf-1cs+paragogic",
+          "gloss": "I will rejoice",
+          "features": {},
+          "semantic": [
+            "EMOTION"
+          ]
+        },
+        {
+          "id": "psalms.09.15.t009",
+          "surface": "בִּישׁוּעָתֶךָ",
+          "lemma": "יְשׁוּעָה",
+          "root": "ישע",
+          "pos": "noun",
+          "morph": "N-fs+SFX-2ms",
+          "gloss": "in your salvation",
+          "features": {
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "semantic": [
+            "SALVATION"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "PRAISE",
+        "SALVATION"
+      ]
+    },
+    {
+      "ref": "9:16",
+      "he": "טָבְעוּ גוֹיִם בְּשַׁחַת עָשׂוּ בְּרֶשֶׁת־זוּ טָמָנוּ נִלְכְּדָה רַגְלָם׃",
+      "en": "The nations sank in the pit they made; in the net they hid, their own foot was caught.",
+      "tr": "Ṭāvǝʿū gōyim bǝšaḥat ʿāśū; bǝrešet-zū ṭāmānū nilkǝdāh raglām.",
+      "tokens": [
+        {
+          "id": "psalms.09.16.t001",
+          "surface": "טָבְעוּ",
+          "lemma": "טָבַע",
+          "root": "טבע",
+          "pos": "verb",
+          "morph": "V-Qal-Perf-3cp",
+          "gloss": "sank",
+          "features": {},
+          "semantic": [
+            "MOTION"
+          ]
+        },
+        {
+          "id": "psalms.09.16.t002",
+          "surface": "גוֹיִם",
+          "lemma": "גּוֹי",
+          "root": "גוי",
+          "pos": "noun",
+          "morph": "N-mp",
+          "gloss": "nations",
+          "features": {},
+          "semantic": [
+            "HUMANITY"
+          ]
+        },
+        {
+          "id": "psalms.09.16.t003",
+          "surface": "בְּשַׁחַת",
+          "lemma": "שַׁחַת",
+          "root": "שחת",
+          "pos": "noun",
+          "morph": "N-fs",
+          "gloss": "in the pit",
+          "features": {
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "semantic": [
+            "PLACE"
+          ]
+        },
+        {
+          "id": "psalms.09.16.t004",
+          "surface": "עָשׂוּ",
+          "lemma": "עָשָׂה",
+          "root": "עשה",
+          "pos": "verb",
+          "morph": "V-Qal-Perf-3cp",
+          "gloss": "they made",
+          "features": {},
+          "semantic": [
+            "CREATION"
+          ]
+        },
+        {
+          "id": "psalms.09.16.t005",
+          "surface": "בְּרֶשֶׁת",
+          "lemma": "רֶשֶׁת",
+          "root": "רשת",
+          "pos": "noun",
+          "morph": "N-fs",
+          "gloss": "in the net",
+          "features": {
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "semantic": [
+            "WARFARE"
+          ]
+        },
+        {
+          "id": "psalms.09.16.t006",
+          "surface": "זוּ",
+          "lemma": "זוּ",
+          "root": "זה",
+          "pos": "rel",
+          "morph": "REL",
+          "gloss": "which",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.16.t007",
+          "surface": "טָמָנוּ",
+          "lemma": "טָמַן",
+          "root": "טמן",
+          "pos": "verb",
+          "morph": "V-Qal-Perf-3cp",
+          "gloss": "they hid",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.16.t008",
+          "surface": "נִלְכְּדָה",
+          "lemma": "לָכַד",
+          "root": "לכד",
+          "pos": "verb",
+          "morph": "V-Niphal-Perf-3fs",
+          "gloss": "was caught",
+          "features": {},
+          "semantic": [
+            "DAMAGE"
+          ]
+        },
+        {
+          "id": "psalms.09.16.t009",
+          "surface": "רַגְלָם",
+          "lemma": "רֶגֶל",
+          "root": "רגל",
+          "pos": "noun",
+          "morph": "N-fs+SFX-3mp",
+          "gloss": "their foot",
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "RETRIBUTION"
+      ]
+    },
+    {
+      "ref": "9:17",
+      "he": "נוֹדַע יְהוָה מִשְׁפָּט עָשָׂה בְּפֹעַל כַּפָּיו נוֹקֵשׁ רָשָׁע הִגָּיוֹן סֶלָה׃",
+      "en": "YHWH has made himself known; he executed judgment; the wicked is snared in the work of his hands. Higgaion. Selah.",
+      "tr": "Nōdaʿ YHWH mišpāṭ ʿāśāh; bǝfōʿal kappāyw nōqēš rāšāʿ. Higgāyōn selāh.",
+      "tokens": [
+        {
+          "id": "psalms.09.17.t001",
+          "surface": "נוֹדַע",
+          "lemma": "יָדַע",
+          "root": "ידע",
+          "pos": "verb",
+          "morph": "V-Niphal-Perf-3ms",
+          "gloss": "has made himself known",
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
+        },
+        {
+          "id": "psalms.09.17.t002",
+          "surface": "יְהוָה",
+          "lemma": "יְהוָה",
+          "root": "יהוה",
+          "pos": "proper",
+          "morph": "PN",
+          "gloss": "YHWH",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.17.t003",
+          "surface": "מִשְׁפָּט",
+          "lemma": "מִשְׁפָּט",
+          "root": "שפט",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "judgment",
+          "features": {},
+          "semantic": [
+            "JUSTICE"
+          ]
+        },
+        {
+          "id": "psalms.09.17.t004",
+          "surface": "עָשָׂה",
+          "lemma": "עָשָׂה",
+          "root": "עשה",
+          "pos": "verb",
+          "morph": "V-Qal-Perf-3ms",
+          "gloss": "he executed",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.17.t005",
+          "surface": "בְּפֹעַל",
+          "lemma": "פֹּעַל",
+          "root": "פעל",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "in the work of",
+          "features": {
+            "prefixes": [
+              "prep:b"
+            ]
+          },
+          "semantic": [
+            "CREATION"
+          ]
+        },
+        {
+          "id": "psalms.09.17.t006",
+          "surface": "כַּפָּיו",
+          "lemma": "כַּף",
+          "root": "כף",
+          "pos": "noun",
+          "morph": "N-fp+SFX-3ms",
+          "gloss": "his hands",
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
+        },
+        {
+          "id": "psalms.09.17.t007",
+          "surface": "נוֹקֵשׁ",
+          "lemma": "נָקַשׁ",
+          "root": "נקש",
+          "pos": "participle",
+          "morph": "PTCP-Niphal-ms",
+          "gloss": "is snared",
+          "features": {},
+          "semantic": [
+            "DAMAGE"
+          ]
+        },
+        {
+          "id": "psalms.09.17.t008",
+          "surface": "רָשָׁע",
+          "lemma": "רָשָׁע",
+          "root": "רשע",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "the wicked",
+          "features": {},
+          "semantic": [
+            "DAMAGE"
+          ]
+        },
+        {
+          "id": "psalms.09.17.t009",
+          "surface": "הִגָּיוֹן",
+          "lemma": "הִגָּיוֹן",
+          "root": "הגה",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "higgaion (meditation)",
+          "features": {},
+          "semantic": [
+            "MUSIC"
+          ]
+        },
+        {
+          "id": "psalms.09.17.t010",
+          "surface": "סֶלָה",
+          "lemma": "סֶלָה",
+          "root": "סֶלָה",
+          "pos": "particle",
+          "morph": "SEL",
+          "gloss": "selah",
+          "features": {},
+          "semantic": [
+            "MUSIC"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "JUDGMENT",
+        "RETRIBUTION"
+      ]
+    },
+    {
+      "ref": "9:18",
+      "he": "יָשׁוּבוּ רְשָׁעִים לִשְׁאוֹלָה כָּל־גּוֹיִם שְׁכֵחֵי אֱלֹהִים׃",
+      "en": "The wicked shall return to Sheol, all the nations that forget God.",
+      "tr": "Yāšūvū rǝšāʿîm lišʾōlāh; kol-gōyim šǝḵēḥē ʾĕlōhîm.",
+      "tokens": [
+        {
+          "id": "psalms.09.18.t001",
+          "surface": "יָשׁוּבוּ",
+          "lemma": "שׁוּב",
+          "root": "שוב",
+          "pos": "verb",
+          "morph": "V-Qal-Impf-3mp",
+          "gloss": "shall return",
+          "features": {},
+          "semantic": [
+            "MOTION"
+          ]
+        },
+        {
+          "id": "psalms.09.18.t002",
+          "surface": "רְשָׁעִים",
+          "lemma": "רָשָׁע",
+          "root": "רשע",
+          "pos": "noun",
+          "morph": "N-mp",
+          "gloss": "the wicked",
+          "features": {},
+          "semantic": [
+            "DAMAGE"
+          ]
+        },
+        {
+          "id": "psalms.09.18.t003",
+          "surface": "לִשְׁאוֹלָה",
+          "lemma": "שְׁאוֹל",
+          "root": "שאל",
+          "pos": "noun",
+          "morph": "N-fs+dir-he",
+          "gloss": "to Sheol",
+          "features": {
+            "prefixes": [
+              "prep:l"
+            ]
+          },
+          "semantic": [
+            "DEATH",
+            "PLACE"
+          ]
+        },
+        {
+          "id": "psalms.09.18.t004",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "root": "כל",
+          "pos": "quant",
+          "morph": "QUANT",
+          "gloss": "all",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.18.t005",
+          "surface": "גּוֹיִם",
+          "lemma": "גּוֹי",
+          "root": "גוי",
+          "pos": "noun",
+          "morph": "N-mp",
+          "gloss": "nations",
+          "features": {},
+          "semantic": [
+            "HUMANITY"
+          ]
+        },
+        {
+          "id": "psalms.09.18.t006",
+          "surface": "שְׁכֵחֵי",
+          "lemma": "שָׁכַח",
+          "root": "שכח",
+          "pos": "participle",
+          "morph": "PTCP-Qal-mp-construct",
+          "gloss": "those who forget",
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
+        },
+        {
+          "id": "psalms.09.18.t007",
+          "surface": "אֱלֹהִים",
+          "lemma": "אֱלֹהִים",
+          "root": "אלהים",
+          "pos": "noun",
+          "morph": "N-mp(divine)",
+          "gloss": "God",
+          "features": {},
+          "semantic": []
+        }
+      ],
+      "semantic_summary": [
+        "JUDGMENT",
+        "DEATH"
+      ]
+    },
+    {
+      "ref": "9:19",
+      "he": "כִּי לֹא לָנֶצַח יִשָּׁכַח אֶבְיוֹן תִּקְוַת עֲנָוִים תֹּאבַד לָעַד׃",
+      "en": "For the needy shall not be forgotten forever; the hope of the afflicted shall not perish forever.",
+      "tr": "Kî lōʾ lāneṣaḥ yiššāḵaḥ ʾevyōn; tiqwat ʿănāwîm tōʾvad lāʿad.",
+      "tokens": [
+        {
+          "id": "psalms.09.19.t001",
+          "surface": "כִּי",
+          "lemma": "כִּי",
+          "root": "כִּי",
+          "pos": "conj",
+          "morph": "CONJ",
+          "gloss": "for",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.19.t002",
+          "surface": "לֹא",
+          "lemma": "לֹא",
+          "root": "לֹא",
+          "pos": "neg",
+          "morph": "NEG",
+          "gloss": "not",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.19.t003",
+          "surface": "לָנֶצַח",
+          "lemma": "נֶצַח",
+          "root": "נצח",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "forever",
+          "features": {
+            "prefixes": [
+              "prep:l"
+            ]
+          },
+          "semantic": [
+            "TIME"
+          ]
+        },
+        {
+          "id": "psalms.09.19.t004",
+          "surface": "יִשָּׁכַח",
+          "lemma": "שָׁכַח",
+          "root": "שכח",
+          "pos": "verb",
+          "morph": "V-Niphal-Impf-3ms",
+          "gloss": "will be forgotten",
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
+        },
+        {
+          "id": "psalms.09.19.t005",
+          "surface": "אֶבְיוֹן",
+          "lemma": "אֶבְיוֹן",
+          "root": "אבן",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "the needy",
+          "features": {},
+          "semantic": [
+            "HUMANITY"
+          ]
+        },
+        {
+          "id": "psalms.09.19.t006",
+          "surface": "תִּקְוַת",
+          "lemma": "תִּקְוָה",
+          "root": "קוה",
+          "pos": "noun",
+          "morph": "N-fs-construct",
+          "gloss": "the hope of",
+          "features": {},
+          "semantic": [
+            "EMOTION"
+          ]
+        },
+        {
+          "id": "psalms.09.19.t007",
+          "surface": "עֲנָוִים",
+          "lemma": "עָנָו",
+          "root": "ענה",
+          "pos": "adj",
+          "morph": "ADJ-mp",
+          "gloss": "the afflicted",
+          "features": {},
+          "semantic": [
+            "HUMANITY"
+          ]
+        },
+        {
+          "id": "psalms.09.19.t008",
+          "surface": "תֹּאבַד",
+          "lemma": "אָבַד",
+          "root": "אבד",
+          "pos": "verb",
+          "morph": "V-Qal-Impf-3fs",
+          "gloss": "shall perish",
+          "features": {},
+          "semantic": [
+            "DEATH"
+          ]
+        },
+        {
+          "id": "psalms.09.19.t009",
+          "surface": "לָעַד",
+          "lemma": "עַד",
+          "root": "עד",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "forever",
+          "features": {
+            "prefixes": [
+              "prep:l"
+            ]
+          },
+          "semantic": [
+            "TIME"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "HOPE",
+        "JUSTICE"
+      ]
+    },
+    {
+      "ref": "9:20",
+      "he": "קוּמָה יְהוָה אַל־יָעֹז אֱנוֹשׁ יִשָּׁפְטוּ גוֹיִם עַל־פָּנֶיךָ׃",
+      "en": "Arise, O YHWH; let not mortal prevail; let the nations be judged before you.",
+      "tr": "Qūmāh YHWH; ʾal-yāʿōz ʾĕnōš; yiššāfǝṭū gōyim ʿal-pāneḵā.",
+      "tokens": [
+        {
+          "id": "psalms.09.20.t001",
+          "surface": "קוּמָה",
+          "lemma": "קוּם",
+          "root": "קום",
+          "pos": "verb",
+          "morph": "V-Qal-Imp-2ms+paragogic",
+          "gloss": "arise!",
+          "features": {},
+          "semantic": [
+            "MOTION"
+          ]
+        },
+        {
+          "id": "psalms.09.20.t002",
+          "surface": "יְהוָה",
+          "lemma": "יְהוָה",
+          "root": "יהוה",
+          "pos": "proper",
+          "morph": "PN",
+          "gloss": "YHWH",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.20.t003",
+          "surface": "אַל",
+          "lemma": "אַל",
+          "root": "אל",
+          "pos": "neg",
+          "morph": "NEG",
+          "gloss": "do not",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.20.t004",
+          "surface": "יָעֹז",
+          "lemma": "עָזַז",
+          "root": "עזז",
+          "pos": "verb",
+          "morph": "V-Qal-Impf-3ms(juss)",
+          "gloss": "let prevail",
+          "features": {},
+          "semantic": [
+            "POWER"
+          ]
+        },
+        {
+          "id": "psalms.09.20.t005",
+          "surface": "אֱנוֹשׁ",
+          "lemma": "אֱנוֹשׁ",
+          "root": "אנש",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "mortal",
+          "features": {},
+          "semantic": [
+            "HUMANITY"
+          ]
+        },
+        {
+          "id": "psalms.09.20.t006",
+          "surface": "יִשָּׁפְטוּ",
+          "lemma": "שָׁפַט",
+          "root": "שפט",
+          "pos": "verb",
+          "morph": "V-Niphal-Impf-3mp",
+          "gloss": "let be judged",
+          "features": {},
+          "semantic": [
+            "JUSTICE"
+          ]
+        },
+        {
+          "id": "psalms.09.20.t007",
+          "surface": "גוֹיִם",
+          "lemma": "גּוֹי",
+          "root": "גוי",
+          "pos": "noun",
+          "morph": "N-mp",
+          "gloss": "nations",
+          "features": {},
+          "semantic": [
+            "HUMANITY"
+          ]
+        },
+        {
+          "id": "psalms.09.20.t008",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "root": "על",
+          "pos": "prep",
+          "morph": "PREP",
+          "gloss": "before",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.20.t009",
+          "surface": "פָּנֶיךָ",
+          "lemma": "פָּנִים",
+          "root": "פנה",
+          "pos": "noun",
+          "morph": "N-mp+SFX-2ms",
+          "gloss": "your face",
+          "features": {},
+          "semantic": [
+            "BODY"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "PETITION",
+        "JUDGMENT"
+      ]
+    },
+    {
+      "ref": "9:21",
+      "he": "שִׁיתָה יְהוָה מוֹרָה לָהֶם יֵדְעוּ גוֹיִם אֱנוֹשׁ הֵמָּה סֶּלָה׃",
+      "en": "Set terror upon them, O YHWH; let the nations know they are but mortals. Selah.",
+      "tr": "Šîtāh YHWH mōrāh lāhem; yēdǝʿū gōyim ʾĕnōš hēmmāh. Selāh.",
+      "tokens": [
+        {
+          "id": "psalms.09.21.t001",
+          "surface": "שִׁיתָה",
+          "lemma": "שִׁית",
+          "root": "שית",
+          "pos": "verb",
+          "morph": "V-Qal-Imp-2ms+paragogic",
+          "gloss": "set/appoint",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.21.t002",
+          "surface": "יְהוָה",
+          "lemma": "יְהוָה",
+          "root": "יהוה",
+          "pos": "proper",
+          "morph": "PN",
+          "gloss": "YHWH",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.21.t003",
+          "surface": "מוֹרָה",
+          "lemma": "מוֹרָא",
+          "root": "ירא",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "terror/fear",
+          "features": {},
+          "semantic": [
+            "EMOTION"
+          ]
+        },
+        {
+          "id": "psalms.09.21.t004",
+          "surface": "לָהֶם",
+          "lemma": "לְ",
+          "root": "ל",
+          "pos": "prep",
+          "morph": "PREP+SFX-3mp",
+          "gloss": "upon them",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.21.t005",
+          "surface": "יֵדְעוּ",
+          "lemma": "יָדַע",
+          "root": "ידע",
+          "pos": "verb",
+          "morph": "V-Qal-Impf-3mp",
+          "gloss": "let them know",
+          "features": {},
+          "semantic": [
+            "PERCEPTION"
+          ]
+        },
+        {
+          "id": "psalms.09.21.t006",
+          "surface": "גוֹיִם",
+          "lemma": "גּוֹי",
+          "root": "גוי",
+          "pos": "noun",
+          "morph": "N-mp",
+          "gloss": "nations",
+          "features": {},
+          "semantic": [
+            "HUMANITY"
+          ]
+        },
+        {
+          "id": "psalms.09.21.t007",
+          "surface": "אֱנוֹשׁ",
+          "lemma": "אֱנוֹשׁ",
+          "root": "אנש",
+          "pos": "noun",
+          "morph": "N-ms",
+          "gloss": "mortals",
+          "features": {},
+          "semantic": [
+            "HUMANITY"
+          ]
+        },
+        {
+          "id": "psalms.09.21.t008",
+          "surface": "הֵמָּה",
+          "lemma": "הֵמָּה",
+          "root": "המה",
+          "pos": "pron",
+          "morph": "PRON-3mp",
+          "gloss": "they (are)",
+          "features": {},
+          "semantic": []
+        },
+        {
+          "id": "psalms.09.21.t009",
+          "surface": "סֶלָה",
+          "lemma": "סֶלָה",
+          "root": "סֶלָה",
+          "pos": "particle",
+          "morph": "SEL",
+          "gloss": "selah",
+          "features": {},
+          "semantic": [
+            "MUSIC"
+          ]
+        }
+      ],
+      "semantic_summary": [
+        "PETITION",
+        "HUMANITY"
+      ]
+    }
+  ],
+  "lexicon": [
+    {
+      "lemma": "יָדָה",
+      "root": "ידה",
+      "pos": "verb",
+      "gloss": "to give thanks"
+    },
+    {
+      "lemma": "סָפַר",
+      "root": "ספר",
+      "pos": "verb",
+      "gloss": "to recount, tell"
+    },
+    {
+      "lemma": "שָׂמַח",
+      "root": "שמח",
+      "pos": "verb",
+      "gloss": "to rejoice"
+    },
+    {
+      "lemma": "עָלַץ",
+      "root": "עלץ",
+      "pos": "verb",
+      "gloss": "to exult"
+    },
+    {
+      "lemma": "זָמַר",
+      "root": "זמר",
+      "pos": "verb",
+      "gloss": "to sing praise"
+    },
+    {
+      "lemma": "כָּשַׁל",
+      "root": "כשל",
+      "pos": "verb",
+      "gloss": "to stumble"
+    },
+    {
+      "lemma": "אָבַד",
+      "root": "אבד",
+      "pos": "verb",
+      "gloss": "to perish; (Pi.) to destroy"
+    },
+    {
+      "lemma": "גָּעַר",
+      "root": "גער",
+      "pos": "verb",
+      "gloss": "to rebuke"
+    },
+    {
+      "lemma": "מָחָה",
+      "root": "מחה",
+      "pos": "verb",
+      "gloss": "to blot out"
+    },
+    {
+      "lemma": "נָתַשׁ",
+      "root": "נתש",
+      "pos": "verb",
+      "gloss": "to uproot"
+    },
+    {
+      "lemma": "מִשְׂגָּב",
+      "root": "שגב",
+      "pos": "noun",
+      "gloss": "stronghold, refuge"
+    },
+    {
+      "lemma": "בָּטַח",
+      "root": "בטח",
+      "pos": "verb",
+      "gloss": "to trust"
+    },
+    {
+      "lemma": "דָּרַשׁ",
+      "root": "דרש",
+      "pos": "verb",
+      "gloss": "to seek, inquire"
+    },
+    {
+      "lemma": "חָנַן",
+      "root": "חנן",
+      "pos": "verb",
+      "gloss": "to be gracious"
+    },
+    {
+      "lemma": "תְּהִלָּה",
+      "root": "הלל",
+      "pos": "noun",
+      "gloss": "praise"
+    },
+    {
+      "lemma": "שְׁאוֹל",
+      "root": "שאל",
+      "pos": "noun",
+      "gloss": "Sheol, underworld"
+    },
+    {
+      "lemma": "אֶבְיוֹן",
+      "root": "אבן",
+      "pos": "noun",
+      "gloss": "needy, poor"
+    },
+    {
+      "lemma": "תִּקְוָה",
+      "root": "קוה",
+      "pos": "noun",
+      "gloss": "hope"
+    }
+  ],
+  "grammar": [
+    {
+      "topic": "Acrostic framework (Psalms 9–10)",
+      "example": "Psalms 9 and 10 form an alphabetic acrostic pattern in the MT.",
+      "note": "The alphabetic sequence is partially preserved; several letters are missing or disrupted, suggesting textual transmission issues."
+    },
+    {
+      "topic": "Enthronement language",
+      "example": "יָשַׁבְתָּ לְכִסֵּא ... יֵשֵׁב (9:5, 8)",
+      "note": "Sitting on the throne (ישב + כסא) is the standard idiom for divine kingship and judicial authority."
+    },
+    {
+      "topic": "Paragogic ה in cohortatives and imperatives",
+      "example": "אוֹדֶה, אֲסַפְּרָה, אֶשְׂמְחָה, קוּמָה, שִׁיתָה",
+      "note": "The paragogic ה is frequent in poetry, adding emphasis or marking cohortative/volitive forms."
+    },
+    {
+      "topic": "Retribution topos (pit/net)",
+      "example": "טָבְעוּ גוֹיִם בְּשַׁחַת עָשׂוּ (9:16)",
+      "note": "The nations fall into the very pit/net they prepared; a recurring motif of poetic justice (cf. 7:16)."
+    },
+    {
+      "topic": "Lament-to-praise movement",
+      "example": "9:14–15",
+      "note": "Petition (חָנְנֵנִי … רְאֵה) transitions immediately to vowed praise (אֲסַפְּרָה … אָגִילָה)."
+    }
+  ],
+  "exercises": [
+    {
+      "q": "List three verbs of praise in 9:2–3 and give their stems.",
+      "a": "אוֹדֶה (Hiphil of ידה), אֲסַפְּרָה (Piel of ספר), אֲזַמְּרָה (Piel of זמר)."
+    },
+    {
+      "q": "Identify terms for 'judgment' in 9:5, 8–9.",
+      "a": "מִשְׁפָּט (9:5, 8), דִּין/יָדִין (9:5, 9), שֹׁפֵט (9:5), יִשְׁפֹּט (9:9)."
+    },
+    {
+      "q": "Explain the retribution imagery in 9:16.",
+      "a": "Nations sank in the pit they dug; their foot was caught in the net they hid—poetic justice."
+    },
+    {
+      "q": "Parse קוּמָה (9:20).",
+      "a": "Qal imperative 2ms of קום with paragogic ה, adding urgency: 'Arise!'"
+    },
+    {
+      "q": "What is the function of Higgaion and Selah in 9:17?",
+      "a": "Liturgical/performative markers: higgaion likely signals contemplative meditation; selah marks a musical or reflective pause."
+    }
+  ],
+  "annotations": [
+    {
+      "type": "source",
+      "note": "Hebrew verse text based on the Masoretic Text (Leningrad Codex / BHS)."
+    },
+    {
+      "type": "method",
+      "note": "Token morphology, lemmas, roots, and glosses fully revised with scholarly parsing (ETCBC-like conventions)."
+    }
+  ]
+};
